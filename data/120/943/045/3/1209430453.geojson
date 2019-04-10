@@ -1,0 +1,61 @@
+{
+  "id": 1209430453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,19.23333,105.28333,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Lang Trang",
+    "gn:country_code":"VN",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576473,
+    "gn:latitude":19.23333,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Tr\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576473
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a4fb1fd7993d48570f9d0b5267afcad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430453
+        }
+    ],
+    "wof:id":1209430453,
+    "wof:lastmodified":1536287251,
+    "wof:name":"Lang Trang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    19.23333,
+    105.28333,
+    19.23333
+],
+  "geometry": {"coordinates":[105.28333000000001,19.23333],"type":"Point"}
+}

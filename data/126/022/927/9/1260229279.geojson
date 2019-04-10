@@ -1,0 +1,74 @@
+{
+  "id": 1260229279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.30736,15.48819,108.30736,15.48819",
+    "geom:latitude":15.48819,
+    "geom:longitude":108.30736,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tien Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1564629,
+    "gn:latitude":15.48819,
+    "gn:longitude":108.30736,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ti\u00ean Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1edbc An",
+        "Ti\u00ean Ph\u01b0\u1edbc"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u00ean K\u1ef3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564629
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36d12ca3025e17a08dfd9ed5b61cd7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781621,
+            "locality_id":1260229279,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1260229279,
+    "wof:lastmodified":1537713734,
+    "wof:name":"Tien Phuoc",
+    "wof:parent_id":1108781621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.30736,
+    15.48819,
+    108.30736,
+    15.48819
+],
+  "geometry": {"coordinates":[108.30736,15.48819],"type":"Point"}
+}

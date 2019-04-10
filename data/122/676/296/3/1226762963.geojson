@@ -1,0 +1,67 @@
+{
+  "id": 1226762963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31167,9.07278,105.31167,9.07278",
+    "geom:latitude":9.07278,
+    "geom:longitude":105.31167,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Tan Duyet",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567004,
+    "gn:latitude":9.07278,
+    "gn:longitude":105.31167,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"T\u00e2n Duy\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567004
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dd94f35bb3fc26223043e879ee53e746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782337,
+            "locality_id":1226762963,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1226762963,
+    "wof:lastmodified":1536690822,
+    "wof:name":"Tan Duyet",
+    "wof:parent_id":1108782337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31167,
+    9.07278,
+    105.31167,
+    9.07278
+],
+  "geometry": {"coordinates":[105.31167000000001,9.07278],"type":"Point"}
+}

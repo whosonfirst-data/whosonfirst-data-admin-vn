@@ -1,0 +1,74 @@
+{
+  "id": 1276355215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.27299,9.65545,106.27299,9.65545",
+    "geom:latitude":9.65545,
+    "geom:longitude":106.27299,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Vam Rai",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581647,
+    "gn:latitude":9.65545,
+    "gn:longitude":106.27299,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"V\u00e0m Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e0m Rai",
+        "Gi\u1ed3ng D\u00e0m Rai"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00e0m Rai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581647
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a4480148eebe8905d9f4eac050f9c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1276355215,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1276355215,
+    "wof:lastmodified":1537713978,
+    "wof:name":"Vam Rai",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.27299,
+    9.65545,
+    106.27299,
+    9.65545
+],
+  "geometry": {"coordinates":[106.27298999999999,9.65545],"type":"Point"}
+}

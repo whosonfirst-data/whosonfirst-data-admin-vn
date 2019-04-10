@@ -1,0 +1,73 @@
+{
+  "id": 1226461489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57283,22.27222,106.57283,22.27222",
+    "geom:latitude":22.27222,
+    "geom:longitude":106.57283,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Thon Bay",
+    "gn:country_code":"VN",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543016,
+    "gn:latitude":22.27222,
+    "gn:longitude":106.57283,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Th\u00f4n B\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n B\u1ea3y"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543016
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"860962fceb7962cfe5745e671a12725f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1226461489,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226461489,
+    "wof:lastmodified":1537714338,
+    "wof:name":"Thon Bay",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57283,
+    22.27222,
+    106.57283,
+    22.27222
+],
+  "geometry": {"coordinates":[106.57283,22.27222],"type":"Point"}
+}

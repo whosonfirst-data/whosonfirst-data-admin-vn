@@ -1,0 +1,64 @@
+{
+  "id": 1209531151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08482,20.60265,106.08482,20.60265",
+    "geom:latitude":20.60265,
+    "geom:longitude":106.08482,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Vu Dien",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564227,
+    "gn:latitude":20.60265,
+    "gn:longitude":106.08482,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"V\u0169 \u0110i\u1ec7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0169 \u0110i\u1ec7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564227
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"29d4c56e7728d781770ba77eb5f49125",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531151
+        }
+    ],
+    "wof:id":1209531151,
+    "wof:lastmodified":1537714358,
+    "wof:name":"Vu Dien",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08482,
+    20.60265,
+    106.08482,
+    20.60265
+],
+  "geometry": {"coordinates":[106.08481999999999,20.60265],"type":"Point"}
+}

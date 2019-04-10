@@ -1,0 +1,73 @@
+{
+  "id": 1260099097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54638,20.74293,105.54638,20.74293",
+    "geom:latitude":20.74293,
+    "geom:longitude":105.54638,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Roc",
+    "gn:country_code":"VN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576689,
+    "gn:latitude":20.74293,
+    "gn:longitude":105.54638,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"X\u00f3m R\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng R\u1ed9c"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m R\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576689
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b7214278a87fb89dd1aa54531f3b130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781049,
+            "locality_id":1260099097,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1260099097,
+    "wof:lastmodified":1537713911,
+    "wof:name":"Xom Roc",
+    "wof:parent_id":1108781049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54638,
+    20.74293,
+    105.54638,
+    20.74293
+],
+  "geometry": {"coordinates":[105.54638,20.74293],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890433757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,11.28333,106.13333,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":106.13333,
+    "gn:country":"VN",
+    "gn:fcode":"PPL",
+    "gn:pop":47966,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ph\u00fa Kh\u01b0\u01a1ng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570549,
+        "gp:id":91886754,
+        "qs:id":133486
+    },
+    "wof:country":"VN",
+    "wof:created":1469051993,
+    "wof:geomhash":"79fef76cd99ad07d7b29b86c4fee8be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781943,
+            "locality_id":890433757,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":890433757,
+    "wof:lastmodified":1505343537,
+    "wof:name":"Ph\u00fa Kh\u01b0\u01a1ng",
+    "wof:parent_id":1108781943,
+    "wof:placetype":"locality",
+    "wof:population":47966,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    11.28333,
+    106.13333,
+    11.28333
+],
+  "geometry": {"coordinates":[106.13333,11.28333],"type":"Point"}
+}

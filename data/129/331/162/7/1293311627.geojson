@@ -1,0 +1,70 @@
+{
+  "id": 1293311627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55709,21.64772,105.55709,21.64772",
+    "geom:latitude":21.64772,
+    "geom:longitude":105.55709,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"La Cut",
+    "gn:country_code":"VN",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608014,
+    "gn:latitude":21.64772,
+    "gn:longitude":105.55709,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"La C\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "La C\u00fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608014
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c240a7b4679cde54fbb3ea5032c06b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1293311627,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1293311627,
+    "wof:lastmodified":1537714366,
+    "wof:name":"La Cut",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55709,
+    21.64772,
+    105.55709,
+    21.64772
+],
+  "geometry": {"coordinates":[105.55709,21.64772],"type":"Point"}
+}

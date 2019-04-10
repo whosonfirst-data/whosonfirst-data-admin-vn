@@ -1,0 +1,67 @@
+{
+  "id": 1259528349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,20.0,106.0,20.0",
+    "geom:latitude":20.0,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lien Qui",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575985,
+    "gn:latitude":20.0,
+    "gn:longitude":106.0,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Lien Qui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575985
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71cf70cf4e5167e357a2d60c2b00882e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781431,
+            "locality_id":1259528349,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259528349,
+    "wof:lastmodified":1536794616,
+    "wof:name":"Lien Qui",
+    "wof:parent_id":1108781431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    20.0,
+    106.0,
+    20.0
+],
+  "geometry": {"coordinates":[106.0,20.0],"type":"Point"}
+}

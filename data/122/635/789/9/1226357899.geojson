@@ -1,0 +1,71 @@
+{
+  "id": 1226357899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48333,10.08333,105.48333,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":105.48333,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Xom Chu Sam",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561765,
+    "gn:latitude":10.08333,
+    "gn:longitude":105.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Ch\u1ee7 S\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu Sam",
+        "X\u00f3m Ch\u1ee7 S\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561765
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89d4d221963a0f9b96d1b151b1838c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782265,
+            "locality_id":1226357899,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1226357899,
+    "wof:lastmodified":1537713691,
+    "wof:name":"Xom Chu Sam",
+    "wof:parent_id":1108782265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48333,
+    10.08333,
+    105.48333,
+    10.08333
+],
+  "geometry": {"coordinates":[105.48333,10.08333],"type":"Point"}
+}

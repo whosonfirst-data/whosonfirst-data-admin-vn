@@ -1,0 +1,70 @@
+{
+  "id": 1226690673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29177,20.05908,105.29177,20.05908",
+    "geom:latitude":20.05908,
+    "geom:longitude":105.29177,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Gioi Ha",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550259,
+    "gn:latitude":20.05908,
+    "gn:longitude":105.29177,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Gi\u1edbi H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Gi\u1edbi H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550259
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e3ea02f513455a365cb560c4c2afba68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781405,
+            "locality_id":1226690673,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226690673,
+    "wof:lastmodified":1537714346,
+    "wof:name":"Gioi Ha",
+    "wof:parent_id":1108781405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29177,
+    20.05908,
+    105.29177,
+    20.05908
+],
+  "geometry": {"coordinates":[105.29177,20.05908],"type":"Point"}
+}

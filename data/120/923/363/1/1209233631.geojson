@@ -1,0 +1,64 @@
+{
+  "id": 1209233631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05442,21.44991,106.05442,21.44991",
+    "geom:latitude":21.44991,
+    "geom:longitude":106.05442,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lang The",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867574,
+    "gn:latitude":21.44991,
+    "gn:longitude":106.05442,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e0ng Th\u1ec5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Th\u1ec5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867574
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f0ec2b0d3979e90d341ee8d020a469e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233631
+        }
+    ],
+    "wof:id":1209233631,
+    "wof:lastmodified":1537714509,
+    "wof:name":"Lang The",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05442,
+    21.44991,
+    106.05442,
+    21.44991
+],
+  "geometry": {"coordinates":[106.05441999999999,21.44991],"type":"Point"}
+}

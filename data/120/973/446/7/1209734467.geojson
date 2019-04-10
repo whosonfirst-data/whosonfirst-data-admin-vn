@@ -1,0 +1,71 @@
+{
+  "id": 1209734467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,20.66667,105.65,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Lang Tien",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576515,
+    "gn:latitude":20.66667,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Tien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Tiem",
+        "L\u00e0ng Tien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4063bd8b54eafc4024494d6e66042c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1209734467,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1209734467,
+    "wof:lastmodified":1537713907,
+    "wof:name":"Lang Tien",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    20.66667,
+    105.65,
+    20.66667
+],
+  "geometry": {"coordinates":[105.65000000000001,20.66667],"type":"Point"}
+}

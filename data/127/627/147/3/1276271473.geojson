@@ -1,0 +1,70 @@
+{
+  "id": 1276271473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64472,21.21306,103.64472,21.21306",
+    "geom:latitude":21.21306,
+    "geom:longitude":103.64472,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Na Hay",
+    "gn:country_code":"VN",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545382,
+    "gn:latitude":21.21306,
+    "gn:longitude":103.64472,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"N\u00e0 Hay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Hay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545382
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e514f5a9567d3d948975f50720fb057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781015,
+            "locality_id":1276271473,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1276271473,
+    "wof:lastmodified":1537714341,
+    "wof:name":"Na Hay",
+    "wof:parent_id":1108781015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64472,
+    21.21306,
+    103.64472,
+    21.21306
+],
+  "geometry": {"coordinates":[103.64472000000001,21.21306],"type":"Point"}
+}

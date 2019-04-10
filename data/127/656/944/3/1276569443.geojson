@@ -1,0 +1,67 @@
+{
+  "id": 1276569443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26667,10.81667,105.26667,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":105.26667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Thuong Thoi",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564849,
+    "gn:latitude":10.81667,
+    "gn:longitude":105.26667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Th\u01b0\u1eddng Th\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564849
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"510bdcab9fa3a58466e9e3683c3d5639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782177,
+            "locality_id":1276569443,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1276569443,
+    "wof:lastmodified":1536959822,
+    "wof:name":"Thuong Thoi",
+    "wof:parent_id":1108782177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26667,
+    10.81667,
+    105.26667,
+    10.81667
+],
+  "geometry": {"coordinates":[105.26667,10.81667],"type":"Point"}
+}

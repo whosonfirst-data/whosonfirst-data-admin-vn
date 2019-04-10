@@ -1,0 +1,73 @@
+{
+  "id": 1309916649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.94896,16.27695,107.94896,16.27695",
+    "geom:latitude":16.27695,
+    "geom:longitude":107.94896,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Phuoc Hung",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565369,
+    "gn:latitude":16.27695,
+    "gn:longitude":107.94896,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Ph\u01b0\u1edbc H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n Ph\u01b0\u1edbc Hung"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565369
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db63aef1f1b107012265933d14ff2b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1309916649,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1309916649,
+    "wof:lastmodified":1537713751,
+    "wof:name":"Phuoc Hung",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.94896,
+    16.27695,
+    107.94896,
+    16.27695
+],
+  "geometry": {"coordinates":[107.94896,16.27695],"type":"Point"}
+}

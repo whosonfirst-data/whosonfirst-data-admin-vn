@@ -1,0 +1,70 @@
+{
+  "id": 1226058155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41221,22.14708,103.41221,22.14708",
+    "geom:latitude":22.14708,
+    "geom:longitude":103.41221,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Pin",
+    "gn:country_code":"VN",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456834,
+    "gn:latitude":22.14708,
+    "gn:longitude":103.41221,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"N\u1eadm Pin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Pin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456834
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f68fb8982adb64ede4f5febaa2f0bc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1226058155,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226058155,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Nam Pin",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41221,
+    22.14708,
+    103.41221,
+    22.14708
+],
+  "geometry": {"coordinates":[103.41221,22.14708],"type":"Point"}
+}

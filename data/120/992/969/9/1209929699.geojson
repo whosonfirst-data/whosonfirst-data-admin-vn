@@ -1,0 +1,71 @@
+{
+  "id": 1209929699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,21.75,105.66667,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Ban Kei",
+    "gn:country_code":"VN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590202,
+    "gn:latitude":21.75,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Kei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bah Kei",
+        "B\u1ea3n Kei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590202
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82a3d41089023826114c7a76b30567bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781071,
+            "locality_id":1209929699,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1209929699,
+    "wof:lastmodified":1537714111,
+    "wof:name":"Ban Kei",
+    "wof:parent_id":1108781071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    21.75,
+    105.66667,
+    21.75
+],
+  "geometry": {"coordinates":[105.66667,21.75],"type":"Point"}
+}

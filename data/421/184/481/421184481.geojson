@@ -1,0 +1,78 @@
+{
+  "id": 421184481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,20.76667,105.08333,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":105.08333,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pho Cho"
+    ],
+    "qs:gn_country":"VN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1567414,
+    "qs:gn_pop":0,
+    "qs:name":"Suvui",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Hoa Binh",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1000425,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252592,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567414,
+        "gp:id":1252592,
+        "qs:id":1000425
+    },
+    "wof:country":"VN",
+    "wof:created":1459009412,
+    "wof:geomhash":"2a3426ebaa3e212ae1fca993b8542d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":421184481,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":421184481,
+    "wof:lastmodified":1501220970,
+    "wof:name":"Suvui",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    20.76667,
+    105.08333,
+    20.76667
+],
+  "geometry": {"coordinates":[105.08333,20.76667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193204687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68333,19.85,105.68333,19.85",
+    "geom:latitude":19.85,
+    "geom:longitude":105.68333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Phu Ly",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570450,
+    "gn:latitude":19.85,
+    "gn:longitude":105.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ph\u1ee7 L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Li",
+        "Ph\u1ee7 L\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570450
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fa39246c7f389db5beea4a5ebaf69be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781441,
+            "locality_id":1193204687,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193204687,
+    "wof:lastmodified":1537713829,
+    "wof:name":"Phu Ly",
+    "wof:parent_id":1108781441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68333,
+    19.85,
+    105.68333,
+    19.85
+],
+  "geometry": {"coordinates":[105.68333,19.85],"type":"Point"}
+}

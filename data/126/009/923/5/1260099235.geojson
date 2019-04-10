@@ -1,0 +1,67 @@
+{
+  "id": 1260099235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3,21.98333,103.3,21.98333",
+    "geom:latitude":21.98333,
+    "geom:longitude":103.3,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Lao Xa Phing",
+    "gn:country_code":"VN",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576262,
+    "gn:latitude":21.98333,
+    "gn:longitude":103.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lao Xa Phing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576262
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d84deeb4b7a5844e1637242d8e51fe6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780963,
+            "locality_id":1260099235,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1260099235,
+    "wof:lastmodified":1536965205,
+    "wof:name":"Lao Xa Phing",
+    "wof:parent_id":1108780963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3,
+    21.98333,
+    103.3,
+    21.98333
+],
+  "geometry": {"coordinates":[103.3,21.98333],"type":"Point"}
+}

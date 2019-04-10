@@ -1,0 +1,73 @@
+{
+  "id": 1293311559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93222,9.82583,105.93222,9.82583",
+    "geom:latitude":9.82583,
+    "geom:longitude":105.93222,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Trinh Phu",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591874,
+    "gn:latitude":9.82583,
+    "gn:longitude":105.93222,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Tr\u1ecbnh Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Trinh",
+        "Rach Vop",
+        "Xom Ba Trinh",
+        "\u1ea4p Tr\u1ecbnh Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591874
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f63e55defbb32d83a0231962fae22cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782291,
+            "locality_id":1293311559,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1293311559,
+    "wof:lastmodified":1537714144,
+    "wof:name":"Ap Trinh Phu",
+    "wof:parent_id":1108782291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93222,
+    9.82583,
+    105.93222,
+    9.82583
+],
+  "geometry": {"coordinates":[105.93222,9.82583],"type":"Point"}
+}

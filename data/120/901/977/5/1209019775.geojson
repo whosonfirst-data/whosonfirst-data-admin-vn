@@ -1,0 +1,64 @@
+{
+  "id": 1209019775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49629,22.68643,104.49629,22.68643",
+    "geom:latitude":22.68643,
+    "geom:longitude":104.49629,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na Ri",
+    "gn:country_code":"VN",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869256,
+    "gn:latitude":22.68643,
+    "gn:longitude":104.49629,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Na Ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Na Ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869256
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f4cd70b3d115d457350ba51837b237db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019775
+        }
+    ],
+    "wof:id":1209019775,
+    "wof:lastmodified":1537714528,
+    "wof:name":"Na Ri",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49629,
+    22.68643,
+    104.49629,
+    22.68643
+],
+  "geometry": {"coordinates":[104.49629,22.68643],"type":"Point"}
+}

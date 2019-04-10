@@ -1,0 +1,70 @@
+{
+  "id": 1276351139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89042,18.37205,105.89042,18.37205",
+    "geom:latitude":18.37205,
+    "geom:longitude":105.89042,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Minh Tan",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275317,
+    "gn:latitude":18.37205,
+    "gn:longitude":105.89042,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Minh T\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Minh T\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275317
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f2585caf60b805c6b43c2f78d32e0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1276351139,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276351139,
+    "wof:lastmodified":1537714675,
+    "wof:name":"Minh Tan",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89042,
+    18.37205,
+    105.89042,
+    18.37205
+],
+  "geometry": {"coordinates":[105.89042000000001,18.37205],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276458931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,20.83333,106.1,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Do Xa",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582342,
+    "gn:latitude":20.83333,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"D\u1ed7 X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582342
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"afeb139f669bfefc28d1698be731a2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781303,
+            "locality_id":1276458931,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1276458931,
+    "wof:lastmodified":1536607532,
+    "wof:name":"Do Xa",
+    "wof:parent_id":1108781303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    20.83333,
+    106.1,
+    20.83333
+],
+  "geometry": {"coordinates":[106.09999999999999,20.83333],"type":"Point"}
+}

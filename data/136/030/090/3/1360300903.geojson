@@ -1,0 +1,70 @@
+{
+  "id": 1360300903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00258,17.15505,107.00258,17.15505",
+    "geom:latitude":17.15505,
+    "geom:longitude":107.00258,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Mach Nuoc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575089,
+    "gn:latitude":17.15505,
+    "gn:longitude":107.00258,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"M\u1ea1ch N\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ea1ch N\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575089
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c29a0532663571f897c2dcb7bac6b9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1360300903,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1360300903,
+    "wof:lastmodified":1537713890,
+    "wof:name":"Mach Nuoc",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00258,
+    17.15505,
+    107.00258,
+    17.15505
+],
+  "geometry": {"coordinates":[107.00257999999999,17.15505],"type":"Point"}
+}

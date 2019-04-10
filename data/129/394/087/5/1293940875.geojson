@@ -1,0 +1,67 @@
+{
+  "id": 1293940875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3,10.83333,106.3,10.83333",
+    "geom:latitude":10.83333,
+    "geom:longitude":106.3,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Giong Lon",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581634,
+    "gn:latitude":10.83333,
+    "gn:longitude":106.3,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Gi\u1ed3ng L\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581634
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e337bebe924ef8e72d45d6ffa5935ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782075,
+            "locality_id":1293940875,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1293940875,
+    "wof:lastmodified":1536629063,
+    "wof:name":"Giong Lon",
+    "wof:parent_id":1108782075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3,
+    10.83333,
+    106.3,
+    10.83333
+],
+  "geometry": {"coordinates":[106.3,10.83333],"type":"Point"}
+}

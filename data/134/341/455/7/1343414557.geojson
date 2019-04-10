@@ -1,0 +1,72 @@
+{
+  "id": 1343414557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,19.95,105.95,19.95",
+    "geom:latitude":19.95,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Yen Luong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560181,
+    "gn:latitude":19.95,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Y\u00ean L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen Lhong",
+        "Y\u00ean L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560181
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a2c42606fec977320c2208f2f28a508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781429,
+            "locality_id":1343414557,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1343414557,
+    "wof:lastmodified":1537713660,
+    "wof:name":"Yen Luong",
+    "wof:parent_id":1108781429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    19.95,
+    105.95,
+    19.95
+],
+  "geometry": {"coordinates":[105.95,19.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326745833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15,17.76667,106.15,17.76667",
+    "geom:latitude":17.76667,
+    "geom:longitude":106.15,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Co Lung",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584952,
+    "gn:latitude":17.76667,
+    "gn:longitude":106.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Co Lung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584952
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1255dce40fcf09effb869ed8a2079f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781527,
+            "locality_id":1326745833,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1326745833,
+    "wof:lastmodified":1536676034,
+    "wof:name":"Co Lung",
+    "wof:parent_id":1108781527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15,
+    17.76667,
+    106.15,
+    17.76667
+],
+  "geometry": {"coordinates":[106.15000000000001,17.76667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327474495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61567,20.05438,105.61567,20.05438",
+    "geom:latitude":20.05438,
+    "geom:longitude":105.61567,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Vinh Loc",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1562697,
+    "gn:latitude":20.05438,
+    "gn:longitude":105.61567,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"V\u0129nh L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhan Lo",
+        "V\u0129nh L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562697
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c3ce201c8fbfcafdf8e4bfff769f6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781413,
+            "locality_id":1327474495,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327474495,
+    "wof:lastmodified":1537713710,
+    "wof:name":"Vinh Loc",
+    "wof:parent_id":1108781413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61567,
+    20.05438,
+    105.61567,
+    20.05438
+],
+  "geometry": {"coordinates":[105.61566999999999,20.05438],"type":"Point"}
+}

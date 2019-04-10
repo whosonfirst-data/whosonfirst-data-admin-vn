@@ -1,0 +1,70 @@
+{
+  "id": 1260287821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3351,10.65655,105.3351,10.65655",
+    "geom:latitude":10.65655,
+    "geom:longitude":105.3351,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu Qui",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375960,
+    "gn:latitude":10.65655,
+    "gn:longitude":105.3351,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ph\u00fa Qu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Qu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375960
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7c51ce5e2d5bb90cdf3d9acf79a53009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782203,
+            "locality_id":1260287821,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1260287821,
+    "wof:lastmodified":1537714300,
+    "wof:name":"Phu Qui",
+    "wof:parent_id":1108782203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3351,
+    10.65655,
+    105.3351,
+    10.65655
+],
+  "geometry": {"coordinates":[105.3351,10.65655],"type":"Point"}
+}

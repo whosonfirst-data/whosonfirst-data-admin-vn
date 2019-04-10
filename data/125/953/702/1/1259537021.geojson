@@ -1,0 +1,72 @@
+{
+  "id": 1259537021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,19.55,105.76667,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tien Vuc",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564597,
+    "gn:latitude":19.55,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ti\u00ean V\u1ef1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tien Vue",
+        "Ti\u00ean V\u1ef1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564597
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c90baa03c76802f023a83936ef184a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1259537021,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259537021,
+    "wof:lastmodified":1537713734,
+    "wof:name":"Tien Vuc",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    19.55,
+    105.76667,
+    19.55
+],
+  "geometry": {"coordinates":[105.76667,19.55],"type":"Point"}
+}

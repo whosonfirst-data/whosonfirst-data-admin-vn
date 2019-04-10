@@ -1,0 +1,73 @@
+{
+  "id": 1276243905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88871,20.90987,105.88871,20.90987",
+    "geom:latitude":20.90987,
+    "geom:longitude":105.88871,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thon Ba",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616202,
+    "gn:latitude":20.90987,
+    "gn:longitude":105.88871,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Th\u00f4n Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n Ba"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616202
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0764d9c0c3418d1bf7c81deac7d6b710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780813,
+            "locality_id":1276243905,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1276243905,
+    "wof:lastmodified":1537714377,
+    "wof:name":"Thon Ba",
+    "wof:parent_id":1108780813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88871,
+    20.90987,
+    105.88871,
+    20.90987
+],
+  "geometry": {"coordinates":[105.88871,20.90987],"type":"Point"}
+}

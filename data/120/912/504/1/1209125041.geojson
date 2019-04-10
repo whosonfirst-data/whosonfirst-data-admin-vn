@@ -1,0 +1,61 @@
+{
+  "id": 1209125041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4,20.51667,105.4,20.51667",
+    "geom:latitude":20.51667,
+    "geom:longitude":105.4,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Lang Nuoi",
+    "gn:country_code":"VN",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576814,
+    "gn:latitude":20.51667,
+    "gn:longitude":105.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Nu\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576814
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8a921074ed07c84fed0392783214d2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125041
+        }
+    ],
+    "wof:id":1209125041,
+    "wof:lastmodified":1536296979,
+    "wof:name":"Lang Nuoi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4,
+    20.51667,
+    105.4,
+    20.51667
+],
+  "geometry": {"coordinates":[105.40000000000001,20.51667],"type":"Point"}
+}

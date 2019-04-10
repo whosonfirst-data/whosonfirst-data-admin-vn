@@ -1,0 +1,64 @@
+{
+  "id": 1209116935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71723,10.97465,106.71723,10.97465",
+    "geom:latitude":10.97465,
+    "geom:longitude":106.71723,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Binh Phuoc Ba Khu",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336142,
+    "gn:latitude":10.97465,
+    "gn:longitude":106.71723,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u00ecnh Ph\u01b0\u1edbc Ba Khu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Ph\u01b0\u1edbc Ba Khu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b17204c62d02ac291dd5b17ddd1f4a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116935
+        }
+    ],
+    "wof:id":1209116935,
+    "wof:lastmodified":1537714275,
+    "wof:name":"Binh Phuoc Ba Khu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71723,
+    10.97465,
+    106.71723,
+    10.97465
+],
+  "geometry": {"coordinates":[106.71723,10.97465],"type":"Point"}
+}

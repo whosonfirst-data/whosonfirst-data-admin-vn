@@ -1,0 +1,61 @@
+{
+  "id": 1344228053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86667,20.78333,106.86667,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":106.86667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hoang Chau",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580729,
+    "gn:latitude":20.78333,
+    "gn:longitude":106.86667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ho\u00e0ng Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580729
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"815500c604367663a842c4e97c3e244f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344228053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344228053,
+    "wof:lastmodified":1536632397,
+    "wof:name":"Hoang Chau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86667,
+    20.78333,
+    106.86667,
+    20.78333
+],
+  "geometry": {"coordinates":[106.86667,20.78333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209634291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96188,22.25683,105.96188,22.25683",
+    "geom:latitude":22.25683,
+    "geom:longitude":105.96188,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Keo Linh",
+    "gn:country_code":"VN",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311793,
+    "gn:latitude":22.25683,
+    "gn:longitude":105.96188,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"K\u00e9o Linh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "K\u00e9o Linh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311793
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6747d7689d2075d0d9d7afd6a97261d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634291
+        }
+    ],
+    "wof:id":1209634291,
+    "wof:lastmodified":1537714266,
+    "wof:name":"Keo Linh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96188,
+    22.25683,
+    105.96188,
+    22.25683
+],
+  "geometry": {"coordinates":[105.96187999999999,22.25683],"type":"Point"}
+}

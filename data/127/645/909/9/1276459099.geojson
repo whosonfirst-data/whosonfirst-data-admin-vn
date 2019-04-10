@@ -1,0 +1,71 @@
+{
+  "id": 1276459099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,14.76667,108.08333,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"De Kotram",
+    "gn:country_code":"VN",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583621,
+    "gn:latitude":14.76667,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"De Kotram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Kotrang",
+        "De Kotram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583621
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f1be9289f63057e778b5abd51944e3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781787,
+            "locality_id":1276459099,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1276459099,
+    "wof:lastmodified":1537714002,
+    "wof:name":"De Kotram",
+    "wof:parent_id":1108781787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    14.76667,
+    108.08333,
+    14.76667
+],
+  "geometry": {"coordinates":[108.08333,14.76667],"type":"Point"}
+}

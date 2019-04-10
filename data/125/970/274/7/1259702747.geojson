@@ -1,0 +1,74 @@
+{
+  "id": 1259702747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40159,21.74623,105.40159,21.74623",
+    "geom:latitude":21.74623,
+    "geom:longitude":105.40159,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582898,
+    "gn:latitude":21.74623,
+    "gn:longitude":105.40159,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed3ng Hoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Hoau",
+        "\u0110ong Hoan"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng Hoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582898
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7dcdf99ecff3e305ac0163b21c54e252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1259702747,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1259702747,
+    "wof:lastmodified":1537713993,
+    "wof:name":"Dong Hoa",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40158999999998,
+    21.74623,
+    105.40158999999998,
+    21.74623
+],
+  "geometry": {"coordinates":[105.40158999999998,21.74623],"type":"Point"}
+}

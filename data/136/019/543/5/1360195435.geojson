@@ -1,0 +1,67 @@
+{
+  "id": 1360195435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13333,16.08333,108.13333,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":108.13333,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ap Thanh Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592019,
+    "gn:latitude":16.08333,
+    "gn:longitude":108.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Thanh Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779,
+        1108781579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4548e79d7e98b16772aea624be400f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781579,
+            "locality_id":1360195435,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1360195435,
+    "wof:lastmodified":1536786875,
+    "wof:name":"Ap Thanh Vinh",
+    "wof:parent_id":1108781579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13333,
+    16.08333,
+    108.13333,
+    16.08333
+],
+  "geometry": {"coordinates":[108.13333,16.08333],"type":"Point"}
+}

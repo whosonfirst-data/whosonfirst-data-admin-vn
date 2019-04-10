@@ -1,0 +1,67 @@
+{
+  "id": 1226802737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,20.06667,105.66667,20.06667",
+    "geom:latitude":20.06667,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Cu Dong",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584652,
+    "gn:latitude":20.06667,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"C\u00f9 \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c0fd1ca60b4a0e7d5f3e5b97d00e9dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781413,
+            "locality_id":1226802737,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226802737,
+    "wof:lastmodified":1536632141,
+    "wof:name":"Cu Dong",
+    "wof:parent_id":1108781413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    20.06667,
+    105.66667,
+    20.06667
+],
+  "geometry": {"coordinates":[105.66667,20.06667],"type":"Point"}
+}

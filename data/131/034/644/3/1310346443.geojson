@@ -1,0 +1,72 @@
+{
+  "id": 1310346443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01667,11.3,106.01667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":106.01667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Tam Long",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592325,
+    "gn:latitude":11.3,
+    "gn:longitude":106.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p T\u00e2m Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam Long",
+        "\u1ea4p T\u00e2m Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592325
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"330a84590495c59cc65d9d734a328573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781941,
+            "locality_id":1310346443,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1310346443,
+    "wof:lastmodified":1537714156,
+    "wof:name":"Ap Tam Long",
+    "wof:parent_id":1108781941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01667,
+    11.3,
+    106.01667,
+    11.3
+],
+  "geometry": {"coordinates":[106.01667,11.3],"type":"Point"}
+}

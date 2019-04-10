@@ -1,0 +1,64 @@
+{
+  "id": 1209125221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.493,21.24466,105.493,21.24466",
+    "geom:latitude":21.24466,
+    "geom:longitude":105.493,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Tho Trung",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201673,
+    "gn:latitude":21.24466,
+    "gn:longitude":105.493,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Th\u1ed9 Tr\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ed9 Tr\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201673
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8a3a86159118d779efbf7556baa362c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125221
+        }
+    ],
+    "wof:id":1209125221,
+    "wof:lastmodified":1537714244,
+    "wof:name":"Tho Trung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.493,
+    21.24466,
+    105.493,
+    21.24466
+],
+  "geometry": {"coordinates":[105.49299999999999,21.24466],"type":"Point"}
+}

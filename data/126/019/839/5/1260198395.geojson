@@ -1,0 +1,67 @@
+{
+  "id": 1260198395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96667,22.16667,105.96667,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":105.96667,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Loung Pao",
+    "gn:country_code":"VN",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575516,
+    "gn:latitude":22.16667,
+    "gn:longitude":105.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loung Pao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575516
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3550e233efb0b77d3efc6b086d20f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1260198395,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1260198395,
+    "wof:lastmodified":1536826462,
+    "wof:name":"Loung Pao",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96667,
+    22.16667,
+    105.96667,
+    22.16667
+],
+  "geometry": {"coordinates":[105.96666999999999,22.16667],"type":"Point"}
+}

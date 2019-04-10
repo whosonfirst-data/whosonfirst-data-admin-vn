@@ -1,0 +1,71 @@
+{
+  "id": 1243465249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,21.25,105.88333,21.25",
+    "geom:latitude":21.25,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Lang Truoc",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576440,
+    "gn:latitude":21.25,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Tr\u01b0\u01a1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Truac",
+        "L\u00e0ng Tr\u01b0\u01a1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576440
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"31eefd2c6a513a543cc0b46c06aba8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780805,
+            "locality_id":1243465249,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1243465249,
+    "wof:lastmodified":1537713906,
+    "wof:name":"Lang Truoc",
+    "wof:parent_id":1108780805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    21.25,
+    105.88333,
+    21.25
+],
+  "geometry": {"coordinates":[105.88333,21.25],"type":"Point"}
+}

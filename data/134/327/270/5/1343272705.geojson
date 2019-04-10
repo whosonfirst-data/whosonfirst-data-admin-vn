@@ -1,0 +1,67 @@
+{
+  "id": 1343272705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87951,22.27105,105.87951,22.27105",
+    "geom:latitude":22.27105,
+    "geom:longitude":105.87951,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khu Nga Ba",
+    "gn:country_code":"VN",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311673,
+    "gn:latitude":22.27105,
+    "gn:longitude":105.87951,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khu Ng\u00e3 Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311673
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3338190e9ad51f84a2fed36a5d567d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1343272705,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343272705,
+    "wof:lastmodified":1537016445,
+    "wof:name":"Khu Nga Ba",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87951,
+    22.27105,
+    105.87951,
+    22.27105
+],
+  "geometry": {"coordinates":[105.87951,22.27105],"type":"Point"}
+}

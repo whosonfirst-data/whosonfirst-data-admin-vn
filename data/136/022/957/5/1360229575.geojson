@@ -1,0 +1,73 @@
+{
+  "id": 1360229575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,19.65,105.63333,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thuong Bong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564960,
+    "gn:latitude":19.65,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Th\u01b0\u1ee3ng B\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thoung Bong",
+        "Thoug Bong",
+        "Th\u01b0\u1ee3ng B\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564960
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ae904b09cd3dcc3e717e5f3c8ed989d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781439,
+            "locality_id":1360229575,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1360229575,
+    "wof:lastmodified":1537713738,
+    "wof:name":"Thuong Bong",
+    "wof:parent_id":1108781439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    19.65,
+    105.63333,
+    19.65
+],
+  "geometry": {"coordinates":[105.63333,19.65],"type":"Point"}
+}

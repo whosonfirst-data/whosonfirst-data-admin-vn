@@ -1,0 +1,61 @@
+{
+  "id": 1209259847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03333,11.38333,106.03333,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":106.03333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Lo Ho",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593125,
+    "gn:latitude":11.38333,
+    "gn:longitude":106.03333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"\u1ea4p L\u00f2 Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593125
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"12f9dc226d5a4f65e2be334eef493dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209259847
+        }
+    ],
+    "wof:id":1209259847,
+    "wof:lastmodified":1536292728,
+    "wof:name":"Ap Lo Ho",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03333,
+    11.38333,
+    106.03333,
+    11.38333
+],
+  "geometry": {"coordinates":[106.03333000000001,11.38333],"type":"Point"}
+}

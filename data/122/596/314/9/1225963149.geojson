@@ -1,0 +1,70 @@
+{
+  "id": 1225963149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04233,21.04155,106.04233,21.04155",
+    "geom:latitude":21.04155,
+    "geom:longitude":106.04233,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Thanh Tuong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871609,
+    "gn:latitude":21.04155,
+    "gn:longitude":106.04233,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Thanh T\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh T\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871609
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"390fd0a78912457ca294956e6b8489a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781227,
+            "locality_id":1225963149,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1225963149,
+    "wof:lastmodified":1537714541,
+    "wof:name":"Thanh Tuong",
+    "wof:parent_id":1108781227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04233,
+    21.04155,
+    106.04233,
+    21.04155
+],
+  "geometry": {"coordinates":[106.04233000000001,21.04155],"type":"Point"}
+}

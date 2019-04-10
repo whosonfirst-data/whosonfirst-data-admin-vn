@@ -1,0 +1,73 @@
+{
+  "id": 1242696847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32541,21.30155,105.32541,21.30155",
+    "geom:latitude":21.30155,
+    "geom:longitude":105.32541,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Duc My",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577405,
+    "gn:latitude":21.30155,
+    "gn:longitude":105.32541,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"D\u1ee5c M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng \u0110\u1ee5c M\u1ef9"
+    ],
+    "name:vie_x_preferred":[
+        "D\u1ee5c M\u1ef9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577405
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a93029dfe7c800c811ce0daa4b11e4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781187,
+            "locality_id":1242696847,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1242696847,
+    "wof:lastmodified":1537713923,
+    "wof:name":"Duc My",
+    "wof:parent_id":1108781187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32541,
+    21.30155,
+    105.32541,
+    21.30155
+],
+  "geometry": {"coordinates":[105.32541000000001,21.30155],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193104931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38005,10.49149,106.38005,10.49149",
+    "geom:latitude":10.49149,
+    "geom:longitude":106.38005,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nhon Cau",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337972,
+    "gn:latitude":10.49149,
+    "gn:longitude":106.38005,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Nh\u01a1n C\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u01a1n C\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337972
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"638524c8b23699c430dcdbd864f56e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782059,
+            "locality_id":1193104931,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1193104931,
+    "wof:lastmodified":1537714286,
+    "wof:name":"Nhon Cau",
+    "wof:parent_id":1108782059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38005,
+    10.49149,
+    106.38005,
+    10.49149
+],
+  "geometry": {"coordinates":[106.38005,10.49149],"type":"Point"}
+}

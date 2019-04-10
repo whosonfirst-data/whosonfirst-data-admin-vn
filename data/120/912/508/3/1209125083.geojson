@@ -1,0 +1,65 @@
+{
+  "id": 1209125083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53852,22.0758,106.53852,22.0758",
+    "geom:latitude":22.0758,
+    "geom:longitude":106.53852,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Dang",
+    "gn:country_code":"VN",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590753,
+    "gn:latitude":22.0758,
+    "gn:longitude":106.53852,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"B\u1ea3n \u0110ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n \u0110ang",
+        "B\u1ea3n Dang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590753
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"96a9f5e8ac39a42215c013b49be9579d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125083
+        }
+    ],
+    "wof:id":1209125083,
+    "wof:lastmodified":1537714124,
+    "wof:name":"Ban Dang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53852,
+    22.0758,
+    106.53852,
+    22.0758
+],
+  "geometry": {"coordinates":[106.53852000000001,22.0758],"type":"Point"}
+}

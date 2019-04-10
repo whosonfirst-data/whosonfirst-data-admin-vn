@@ -1,0 +1,70 @@
+{
+  "id": 1310315971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33833,10.50595,107.33833,10.50595",
+    "geom:latitude":10.50595,
+    "geom:longitude":107.33833,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Thach An",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421455,
+    "gn:latitude":10.50595,
+    "gn:longitude":107.33833,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Th\u1ea1ch An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1ch An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421455
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aa4409f497d2bba2eeebefb51e5e3c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782001,
+            "locality_id":1310315971,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1310315971,
+    "wof:lastmodified":1537714307,
+    "wof:name":"Thach An",
+    "wof:parent_id":1108782001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33833,
+    10.50595,
+    107.33833,
+    10.50595
+],
+  "geometry": {"coordinates":[107.33833,10.50595],"type":"Point"}
+}

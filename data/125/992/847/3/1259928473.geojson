@@ -1,0 +1,67 @@
+{
+  "id": 1259928473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.9,15.31667,107.9,15.31667",
+    "geom:latitude":15.31667,
+    "geom:longitude":107.9,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Loun",
+    "gn:country_code":"VN",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575563,
+    "gn:latitude":15.31667,
+    "gn:longitude":107.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575563
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82a8660c5c930c1719cc0cbe95af49c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781615,
+            "locality_id":1259928473,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1259928473,
+    "wof:lastmodified":1536714847,
+    "wof:name":"Loun",
+    "wof:parent_id":1108781615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.9,
+    15.31667,
+    107.9,
+    15.31667
+],
+  "geometry": {"coordinates":[107.90000000000001,15.31667],"type":"Point"}
+}

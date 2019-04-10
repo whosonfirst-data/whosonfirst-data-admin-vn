@@ -1,0 +1,71 @@
+{
+  "id": 1276462797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,17.65,106.26667,17.65",
+    "geom:latitude":17.65,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Troc",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563818,
+    "gn:latitude":17.65,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00f3oc",
+        "Tr\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563818
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f38ced5d6664a02d36872dc12868acf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1276462797,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1276462797,
+    "wof:lastmodified":1537713725,
+    "wof:name":"Troc",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    17.65,
+    106.26667,
+    17.65
+],
+  "geometry": {"coordinates":[106.26667,17.65],"type":"Point"}
+}

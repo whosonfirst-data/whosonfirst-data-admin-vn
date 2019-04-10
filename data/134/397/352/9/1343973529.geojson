@@ -1,0 +1,67 @@
+{
+  "id": 1343973529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80233,22.44554,105.80233,22.44554",
+    "geom:latitude":22.44554,
+    "geom:longitude":105.80233,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Tao",
+    "gn:country_code":"VN",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311465,
+    "gn:latitude":22.44554,
+    "gn:longitude":105.80233,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 T\u1ea3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311465
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c6e4727b4760771f7fdc96926d5ba37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1343973529,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343973529,
+    "wof:lastmodified":1537000343,
+    "wof:name":"Na Tao",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80233,
+    22.44554,
+    105.80233,
+    22.44554
+],
+  "geometry": {"coordinates":[105.80233,22.44554],"type":"Point"}
+}

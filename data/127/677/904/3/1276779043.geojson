@@ -1,0 +1,71 @@
+{
+  "id": 1276779043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.25,10.48333,107.25,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":107.25,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Xa An Nhut",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562356,
+    "gn:latitude":10.48333,
+    "gn:longitude":107.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 An Nh\u1ee9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nhut",
+        "X\u00e3 An Nh\u1ee9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562356
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f2cdae3b021d4a4dfbf97a78f1fe6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781999,
+            "locality_id":1276779043,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1276779043,
+    "wof:lastmodified":1537713706,
+    "wof:name":"Xa An Nhut",
+    "wof:parent_id":1108781999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.25,
+    10.48333,
+    107.25,
+    10.48333
+],
+  "geometry": {"coordinates":[107.25,10.48333],"type":"Point"}
+}

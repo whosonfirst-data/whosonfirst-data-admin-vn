@@ -1,0 +1,71 @@
+{
+  "id": 1276673513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8,19.15,104.8,19.15",
+    "geom:latitude":19.15,
+    "geom:longitude":104.8,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Cai",
+    "gn:country_code":"VN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591035,
+    "gn:latitude":19.15,
+    "gn:longitude":104.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Cai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Cat",
+        "B\u1ea3n Cai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591035
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c6cb9fe2aa1b7c07cab3e5cb6a2a289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781471,
+            "locality_id":1276673513,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276673513,
+    "wof:lastmodified":1537714130,
+    "wof:name":"Ban Cai",
+    "wof:parent_id":1108781471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8,
+    19.15,
+    104.8,
+    19.15
+],
+  "geometry": {"coordinates":[104.8,19.15],"type":"Point"}
+}

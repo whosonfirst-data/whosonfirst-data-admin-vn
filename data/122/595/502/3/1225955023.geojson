@@ -1,0 +1,72 @@
+{
+  "id": 1225955023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.21667,12.71667,108.21667,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":108.21667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Brieng",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587139,
+    "gn:latitude":12.71667,
+    "gn:longitude":108.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Bri\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Bri\u00eang Mdrang",
+        "Bu\u00f4n Bri\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587139
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"df3745df7276d1cde8a7e311ac8a4824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781857,
+            "locality_id":1225955023,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1225955023,
+    "wof:lastmodified":1537714057,
+    "wof:name":"Buon Brieng",
+    "wof:parent_id":1108781857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.21667,
+    12.71667,
+    108.21667,
+    12.71667
+],
+  "geometry": {"coordinates":[108.21666999999999,12.71667],"type":"Point"}
+}

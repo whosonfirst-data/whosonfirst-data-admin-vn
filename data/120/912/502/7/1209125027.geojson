@@ -1,0 +1,61 @@
+{
+  "id": 1209125027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.21667,13.01667,109.21667,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":109.21667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phuoc Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570131,
+    "gn:latitude":13.01667,
+    "gn:longitude":109.21667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u01b0\u1edbc Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570131
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bf700d4d1fd28c226de0eea8f7684fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125027
+        }
+    ],
+    "wof:id":1209125027,
+    "wof:lastmodified":1536296980,
+    "wof:name":"Phuoc Thanh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.21667,
+    13.01667,
+    109.21667,
+    13.01667
+],
+  "geometry": {"coordinates":[109.21666999999999,13.01667],"type":"Point"}
+}

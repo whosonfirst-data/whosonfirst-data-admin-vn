@@ -1,0 +1,73 @@
+{
+  "id": 1242872115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37417,22.96987,105.37417,22.96987",
+    "geom:latitude":22.96987,
+    "geom:longitude":105.37417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Tan Linh",
+    "gn:country_code":"VN",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309524,
+    "gn:latitude":22.96987,
+    "gn:longitude":105.37417,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Tan L\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Linh"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Tan L\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309524
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8ce2f4765b9f1fa1418cca40fb02bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1242872115,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1242872115,
+    "wof:lastmodified":1537714258,
+    "wof:name":"Ban Tan Linh",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37417,
+    22.96987,
+    105.37417,
+    22.96987
+],
+  "geometry": {"coordinates":[105.37417000000001,22.96987],"type":"Point"}
+}

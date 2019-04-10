@@ -1,0 +1,75 @@
+{
+  "id": 1243473469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6151,22.05639,106.6151,22.05639",
+    "geom:latitude":22.05639,
+    "geom:longitude":106.6151,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Thi Tran Na Sam",
+    "gn:country_code":"VN",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1572898,
+    "gn:latitude":22.05639,
+    "gn:longitude":106.6151,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u1ecb Tr\u1ea5n Na S\u1ea7m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Cham",
+        "Na Cha",
+        "Na S\u1ea7m"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n Na S\u1ea7m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572898
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"99c976a9b58e5613e31fd2ec1107594d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1243473469,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243473469,
+    "wof:lastmodified":1537713862,
+    "wof:name":"Thi Tran Na Sam",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6151,
+    22.05639,
+    106.6151,
+    22.05639
+],
+  "geometry": {"coordinates":[106.6151,22.05639],"type":"Point"}
+}

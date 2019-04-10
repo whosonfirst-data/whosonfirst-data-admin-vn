@@ -1,0 +1,70 @@
+{
+  "id": 1259451383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4,11.55,108.4,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":108.4,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mar Baye",
+    "gn:country_code":"VN",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574839,
+    "gn:latitude":11.55,
+    "gn:longitude":108.4,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Mar Baye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1b09c24af7e8285d5c5f52a48f26660e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781897,
+            "locality_id":1259451383,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1259451383,
+    "wof:lastmodified":1537713886,
+    "wof:name":"Mar Baye",
+    "wof:parent_id":1108781897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4,
+    11.55,
+    108.4,
+    11.55
+],
+  "geometry": {"coordinates":[108.40000000000001,11.55],"type":"Point"}
+}

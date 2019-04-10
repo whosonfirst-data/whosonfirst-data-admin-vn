@@ -1,0 +1,70 @@
+{
+  "id": 1225855591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92232,21.05108,105.92232,21.05108",
+    "geom:latitude":21.05108,
+    "geom:longitude":105.92232,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Hoi Xa",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616210,
+    "gn:latitude":21.05108,
+    "gn:longitude":105.92232,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"H\u1ed9i X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed9i X\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616210
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"901c10b10530935fcb8ddd69d0660737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780791,
+            "locality_id":1225855591,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1225855591,
+    "wof:lastmodified":1537714377,
+    "wof:name":"Hoi Xa",
+    "wof:parent_id":1108780791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92232,
+    21.05108,
+    105.92232,
+    21.05108
+],
+  "geometry": {"coordinates":[105.92232,21.05108],"type":"Point"}
+}

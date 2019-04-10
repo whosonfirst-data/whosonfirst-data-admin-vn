@@ -1,0 +1,73 @@
+{
+  "id": 1310699627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48358,22.95104,105.48358,22.95104",
+    "geom:latitude":22.95104,
+    "geom:longitude":105.48358,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Phieng Lung",
+    "gn:country_code":"VN",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309680,
+    "gn:latitude":22.95104,
+    "gn:longitude":105.48358,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Phi\u00eang L\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pi\u00eang L\u00f9ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Phi\u00eang L\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309680
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ebbd17522cb03ea4847597c09a39b3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1310699627,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310699627,
+    "wof:lastmodified":1537714262,
+    "wof:name":"Ban Phieng Lung",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48358,
+    22.95104,
+    105.48358,
+    22.95104
+],
+  "geometry": {"coordinates":[105.48358,22.95104],"type":"Point"}
+}

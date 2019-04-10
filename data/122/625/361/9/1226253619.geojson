@@ -1,0 +1,67 @@
+{
+  "id": 1226253619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28333,22.26667,103.28333,22.26667",
+    "geom:latitude":22.26667,
+    "geom:longitude":103.28333,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Chong Trai",
+    "gn:country_code":"VN",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585366,
+    "gn:latitude":22.26667,
+    "gn:longitude":103.28333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Chong Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34db632eb0b6ed5e5b212f6bc1c235b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1226253619,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226253619,
+    "wof:lastmodified":1536922882,
+    "wof:name":"Chong Trai",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28333,
+    22.26667,
+    103.28333,
+    22.26667
+],
+  "geometry": {"coordinates":[103.28333000000001,22.26667],"type":"Point"}
+}

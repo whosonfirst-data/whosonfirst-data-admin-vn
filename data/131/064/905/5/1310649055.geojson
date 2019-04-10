@@ -1,0 +1,71 @@
+{
+  "id": 1310649055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.8,15.46667,107.8,15.46667",
+    "geom:latitude":15.46667,
+    "geom:longitude":107.8,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dak Nhe",
+    "gn:country_code":"VN",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584147,
+    "gn:latitude":15.46667,
+    "gn:longitude":107.8,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Dak Nh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dak Khe",
+        "Dak Nh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584147
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bea9aa38f75e9605ce1f1bee869d9914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781615,
+            "locality_id":1310649055,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1310649055,
+    "wof:lastmodified":1537714010,
+    "wof:name":"Dak Nhe",
+    "wof:parent_id":1108781615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.8,
+    15.46667,
+    107.8,
+    15.46667
+],
+  "geometry": {"coordinates":[107.8,15.46667],"type":"Point"}
+}

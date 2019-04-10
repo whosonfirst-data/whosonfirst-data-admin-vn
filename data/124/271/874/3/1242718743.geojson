@@ -1,0 +1,73 @@
+{
+  "id": 1242718743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41227,20.30768,105.41227,20.30768",
+    "geom:latitude":20.30768,
+    "geom:longitude":105.41227,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xom Mac",
+    "gn:country_code":"VN",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561289,
+    "gn:latitude":20.30768,
+    "gn:longitude":105.41227,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"X\u00f3m M\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m M\u1eadc"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m M\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561289
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9004480f1be82ad9cb258eee4fcda67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781407,
+            "locality_id":1242718743,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242718743,
+    "wof:lastmodified":1537713682,
+    "wof:name":"Xom Mac",
+    "wof:parent_id":1108781407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41227,
+    20.30768,
+    105.41227,
+    20.30768
+],
+  "geometry": {"coordinates":[105.41227000000001,20.30768],"type":"Point"}
+}

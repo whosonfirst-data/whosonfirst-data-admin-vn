@@ -1,0 +1,67 @@
+{
+  "id": 1310016469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83333,18.48333,105.83333,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":105.83333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Chi Ne",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585479,
+    "gn:latitude":18.48333,
+    "gn:longitude":105.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chi N\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a325bc677f81808b15398d2b0d9ddde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1310016469,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310016469,
+    "wof:lastmodified":1536625511,
+    "wof:name":"Chi Ne",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83333,
+    18.48333,
+    105.83333,
+    18.48333
+],
+  "geometry": {"coordinates":[105.83333,18.48333],"type":"Point"}
+}

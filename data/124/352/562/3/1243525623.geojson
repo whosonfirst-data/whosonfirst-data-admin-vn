@@ -1,0 +1,73 @@
+{
+  "id": 1243525623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56893,20.64676,106.56893,20.64676",
+    "geom:latitude":20.64676,
+    "geom:longitude":106.56893,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Duong Am",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582142,
+    "gn:latitude":20.64676,
+    "gn:longitude":106.56893,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"D\u01b0\u01a1ng Am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u01b0\u01a1ng H\u00e0m"
+    ],
+    "name:vie_x_preferred":[
+        "D\u01b0\u01a1ng Am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50592988a00a2aa2f540f4edb4798c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781287,
+            "locality_id":1243525623,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1243525623,
+    "wof:lastmodified":1537713984,
+    "wof:name":"Duong Am",
+    "wof:parent_id":1108781287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56893,
+    20.64676,
+    106.56893,
+    20.64676
+],
+  "geometry": {"coordinates":[106.56892999999999,20.64676],"type":"Point"}
+}

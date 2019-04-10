@@ -1,0 +1,70 @@
+{
+  "id": 1343604155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30294,10.41164,106.30294,10.41164",
+    "geom:latitude":10.41164,
+    "geom:longitude":106.30294,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Khu Pho",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337687,
+    "gn:latitude":10.41164,
+    "gn:longitude":106.30294,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khu Ph\u1ed1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu Ph\u1ed1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337687
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5449c01a7046717ec74ad137b5d41fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1343604155,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1343604155,
+    "wof:lastmodified":1537714281,
+    "wof:name":"Khu Pho",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30294,
+    10.41164,
+    106.30294,
+    10.41164
+],
+  "geometry": {"coordinates":[106.30294000000001,10.41164],"type":"Point"}
+}

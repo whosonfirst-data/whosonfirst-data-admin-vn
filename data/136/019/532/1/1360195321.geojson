@@ -1,0 +1,70 @@
+{
+  "id": 1360195321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69481,18.40949,105.69481,18.40949",
+    "geom:latitude":18.40949,
+    "geom:longitude":105.69481,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bai Da",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354162,
+    "gn:latitude":18.40949,
+    "gn:longitude":105.69481,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"B\u00e3i \u0110\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e3i \u0110\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354162
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"42e78903ac7af4b5af7ea5a0a84b83a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1360195321,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360195321,
+    "wof:lastmodified":1537714709,
+    "wof:name":"Bai Da",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69481,
+    18.40949,
+    105.69481,
+    18.40949
+],
+  "geometry": {"coordinates":[105.69481,18.40949],"type":"Point"}
+}

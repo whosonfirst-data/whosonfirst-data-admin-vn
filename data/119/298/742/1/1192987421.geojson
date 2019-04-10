@@ -1,0 +1,67 @@
+{
+  "id": 1192987421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84359,10.37111,103.84359,10.37111",
+    "geom:latitude":10.37111,
+    "geom:longitude":103.84359,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ganh Dau",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714440,
+    "gn:latitude":10.37111,
+    "gn:longitude":103.84359,
+    "gn:modification_date":"2014-02-25",
+    "gn:name":"G\u00e0nh Dau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714440
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"943845a7124ed0d47f7ec239c6063199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782245,
+            "locality_id":1192987421,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1192987421,
+    "wof:lastmodified":1536384462,
+    "wof:name":"Ganh Dau",
+    "wof:parent_id":1108782245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84359,
+    10.37111,
+    103.84359,
+    10.37111
+],
+  "geometry": {"coordinates":[103.84359000000001,10.37111],"type":"Point"}
+}

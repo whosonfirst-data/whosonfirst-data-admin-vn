@@ -1,0 +1,73 @@
+{
+  "id": 1327045623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68935,9.35846,105.68935,9.35846",
+    "geom:latitude":9.35846,
+    "geom:longitude":105.68935,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Tra Hat",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591905,
+    "gn:latitude":9.35846,
+    "gn:longitude":105.68935,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tr\u00e0 H\u1eaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Tr\u00e0 H\u1eaft"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u00e0 H\u1eaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f3a77699bacd01a6c2d31b57fbe535dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782317,
+            "locality_id":1327045623,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1327045623,
+    "wof:lastmodified":1537714146,
+    "wof:name":"Tra Hat",
+    "wof:parent_id":1108782317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68935,
+    9.35846,
+    105.68935,
+    9.35846
+],
+  "geometry": {"coordinates":[105.68935,9.35846],"type":"Point"}
+}

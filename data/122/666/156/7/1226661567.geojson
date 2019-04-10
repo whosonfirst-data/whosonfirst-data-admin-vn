@@ -1,0 +1,70 @@
+{
+  "id": 1226661567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00023,17.11305,107.00023,17.11305",
+    "geom:latitude":17.11305,
+    "geom:longitude":107.00023,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Phuong Gio",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650831,
+    "gn:latitude":17.11305,
+    "gn:longitude":107.00023,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u01b0\u1ee3ng Gio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1ee3ng Gio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a26e6014825e052e68e1c8ac66f19dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1226661567,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1226661567,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Phuong Gio",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00023,
+    17.11305,
+    107.00023,
+    17.11305
+],
+  "geometry": {"coordinates":[107.00023,17.11305],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343576753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78333,22.16667,103.78333,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":103.78333,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Tchiang",
+    "gn:country_code":"VN",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573177,
+    "gn:latitude":22.16667,
+    "gn:longitude":103.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Tchiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573177
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8af9c2ca148ce49327f8d004d64945a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1343576753,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1343576753,
+    "wof:lastmodified":1537072800,
+    "wof:name":"Nam Tchiang",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78333,
+    22.16667,
+    103.78333,
+    22.16667
+],
+  "geometry": {"coordinates":[103.78333000000001,22.16667],"type":"Point"}
+}

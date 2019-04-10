@@ -1,0 +1,73 @@
+{
+  "id": 1360185361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30448,10.24115,106.30448,10.24115",
+    "geom:latitude":10.24115,
+    "geom:longitude":106.30448,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tan Thong Mot",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531916,
+    "gn:latitude":10.24115,
+    "gn:longitude":106.30448,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u00e2n Th\u00f4ng M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Th\u00f4ng M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "T\u00e2n Th\u00f4ng 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531916
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6ec88218d4eba2aae78c0fb46472b71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1360185361,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1360185361,
+    "wof:lastmodified":1537714474,
+    "wof:name":"Tan Thong Mot",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30448,
+    10.24115,
+    106.30448,
+    10.24115
+],
+  "geometry": {"coordinates":[106.30448,10.24115],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259799135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46667,20.43333,105.46667,20.43333",
+    "geom:latitude":20.43333,
+    "geom:longitude":105.46667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Lang Duot",
+    "gn:country_code":"VN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577395,
+    "gn:latitude":20.43333,
+    "gn:longitude":105.46667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Duot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577395
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bbad8685ffd45762e070685c98b25050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781059,
+            "locality_id":1259799135,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1259799135,
+    "wof:lastmodified":1536900644,
+    "wof:name":"Lang Duot",
+    "wof:parent_id":1108781059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46667,
+    20.43333,
+    105.46667,
+    20.43333
+],
+  "geometry": {"coordinates":[105.46666999999999,20.43333],"type":"Point"}
+}

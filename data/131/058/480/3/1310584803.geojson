@@ -1,0 +1,67 @@
+{
+  "id": 1310584803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,20.71667,106.66667,20.71667",
+    "geom:latitude":20.71667,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nhan Trai",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572173,
+    "gn:latitude":20.71667,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nh\u00e2n Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572173
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e87b60b1382d5781ed3ef155a48a835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781275,
+            "locality_id":1310584803,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1310584803,
+    "wof:lastmodified":1536802558,
+    "wof:name":"Nhan Trai",
+    "wof:parent_id":1108781275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    20.71667,
+    106.66667,
+    20.71667
+],
+  "geometry": {"coordinates":[106.66667,20.71667],"type":"Point"}
+}

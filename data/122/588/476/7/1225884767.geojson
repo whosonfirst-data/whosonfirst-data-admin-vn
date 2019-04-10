@@ -1,0 +1,67 @@
+{
+  "id": 1225884767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,20.33333,106.26667,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Thai Phu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566314,
+    "gn:latitude":20.33333,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Th\u00e1i Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566314
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"42d1c3365a760076097a1efdb9c8f5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781331,
+            "locality_id":1225884767,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1225884767,
+    "wof:lastmodified":1536957380,
+    "wof:name":"Thai Phu",
+    "wof:parent_id":1108781331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    20.33333,
+    106.26667,
+    20.33333
+],
+  "geometry": {"coordinates":[106.26667,20.33333],"type":"Point"}
+}

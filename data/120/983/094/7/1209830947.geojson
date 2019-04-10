@@ -1,0 +1,70 @@
+{
+  "id": 1209830947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95301,11.87292,108.95301,11.87292",
+    "geom:latitude":11.87292,
+    "geom:longitude":108.95301,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ha La Ha",
+    "gn:country_code":"VN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8993982,
+    "gn:latitude":11.87292,
+    "gn:longitude":108.95301,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00e0 L\u00e1 H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0 L\u00e1 H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8993982
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9011fcb29fc30c6b5a5c69d5ffe5fecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781737,
+            "locality_id":1209830947,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1209830947,
+    "wof:lastmodified":1537714426,
+    "wof:name":"Ha La Ha",
+    "wof:parent_id":1108781737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95301,
+    11.87292,
+    108.95301,
+    11.87292
+],
+  "geometry": {"coordinates":[108.95301000000001,11.87292],"type":"Point"}
+}

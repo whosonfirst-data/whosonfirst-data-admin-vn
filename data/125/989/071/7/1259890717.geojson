@@ -1,0 +1,67 @@
+{
+  "id": 1259890717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96691,22.35075,105.96691,22.35075",
+    "geom:latitude":22.35075,
+    "geom:longitude":105.96691,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Thom Ta",
+    "gn:country_code":"VN",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311823,
+    "gn:latitude":22.35075,
+    "gn:longitude":105.96691,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Th\u00f4m T\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311823
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8be50684ebd678439fb13d69bf4efad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1259890717,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1259890717,
+    "wof:lastmodified":1536769112,
+    "wof:name":"Thom Ta",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96691,
+    22.35075,
+    105.96691,
+    22.35075
+],
+  "geometry": {"coordinates":[105.96691,22.35075],"type":"Point"}
+}

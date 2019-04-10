@@ -1,0 +1,74 @@
+{
+  "id": 1242887277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21345,10.67425,105.21345,10.67425",
+    "geom:latitude":10.67425,
+    "geom:longitude":105.21345,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hoai Binh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593362,
+    "gn:latitude":10.67425,
+    "gn:longitude":105.21345,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"H\u00f2ai B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Binh",
+        "\u1ea4p H\u00f2a B\u00ecnh"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00f2ai B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593362
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36b187c91dc2fd6a42aa801e807ae57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782203,
+            "locality_id":1242887277,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1242887277,
+    "wof:lastmodified":1537714183,
+    "wof:name":"Hoai Binh",
+    "wof:parent_id":1108782203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21345,
+    10.67425,
+    105.21345,
+    10.67425
+],
+  "geometry": {"coordinates":[105.21344999999999,10.67425],"type":"Point"}
+}

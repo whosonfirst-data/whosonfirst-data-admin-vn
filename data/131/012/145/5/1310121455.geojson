@@ -1,0 +1,67 @@
+{
+  "id": 1310121455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6,22.3,105.6,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":105.6,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Dieo",
+    "gn:country_code":"VN",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590718,
+    "gn:latitude":22.3,
+    "gn:longitude":105.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Dieo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c1d0ec2fda84d490b4c02217dc83c1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780915,
+            "locality_id":1310121455,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310121455,
+    "wof:lastmodified":1536972975,
+    "wof:name":"Ban Dieo",
+    "wof:parent_id":1108780915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6,
+    22.3,
+    105.6,
+    22.3
+],
+  "geometry": {"coordinates":[105.59999999999999,22.3],"type":"Point"}
+}

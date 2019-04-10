@@ -1,0 +1,67 @@
+{
+  "id": 1327153227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98333,21.7,104.98333,21.7",
+    "geom:latitude":21.7,
+    "geom:longitude":104.98333,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Quan Hung",
+    "gn:country_code":"VN",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568702,
+    "gn:latitude":21.7,
+    "gn:longitude":104.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qu\u00e2n H\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568702
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82662fb153d3bb4ec5d2a1ef30c17d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1327153227,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1327153227,
+    "wof:lastmodified":1537080752,
+    "wof:name":"Quan Hung",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98333,
+    21.7,
+    104.98333,
+    21.7
+],
+  "geometry": {"coordinates":[104.98333,21.7],"type":"Point"}
+}

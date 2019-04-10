@@ -1,0 +1,67 @@
+{
+  "id": 1310619973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3,13.55,108.3,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":108.3,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Plo",
+    "gn:country_code":"VN",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569341,
+    "gn:latitude":13.55,
+    "gn:longitude":108.3,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Plei Plo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f9c6fb4715a95d9dbfa413e1f49ed192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781827,
+            "locality_id":1310619973,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1310619973,
+    "wof:lastmodified":1536751753,
+    "wof:name":"Plei Plo",
+    "wof:parent_id":1108781827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3,
+    13.55,
+    108.3,
+    13.55
+],
+  "geometry": {"coordinates":[108.3,13.55],"type":"Point"}
+}

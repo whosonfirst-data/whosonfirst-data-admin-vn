@@ -1,0 +1,67 @@
+{
+  "id": 1327145191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21667,10.51667,107.21667,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":107.21667,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Long Le",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575710,
+    "gn:latitude":10.51667,
+    "gn:longitude":107.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Long L\u1ec5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"03b60b6f3daf439a609bf5a80839d5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781993,
+            "locality_id":1327145191,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1327145191,
+    "wof:lastmodified":1537092200,
+    "wof:name":"Long Le",
+    "wof:parent_id":1108781993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21667,
+    10.51667,
+    107.21667,
+    10.51667
+],
+  "geometry": {"coordinates":[107.21666999999999,10.51667],"type":"Point"}
+}

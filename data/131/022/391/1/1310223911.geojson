@@ -1,0 +1,71 @@
+{
+  "id": 1310223911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,18.23333,106.2,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hao Ngam",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581111,
+    "gn:latitude":18.23333,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u00e0o Ng\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Ngam",
+        "H\u00e0o Ng\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581111
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43cb697d1234abb89d7efa00cbba60a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781517,
+            "locality_id":1310223911,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310223911,
+    "wof:lastmodified":1537713972,
+    "wof:name":"Hao Ngam",
+    "wof:parent_id":1108781517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    18.23333,
+    106.2,
+    18.23333
+],
+  "geometry": {"coordinates":[106.2,18.23333],"type":"Point"}
+}

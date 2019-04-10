@@ -1,0 +1,74 @@
+{
+  "id": 1242775833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.77522,22.78487,106.77522,22.78487",
+    "geom:latitude":22.78487,
+    "geom:longitude":106.77522,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Bang Ca",
+    "gn:country_code":"VN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590789,
+    "gn:latitude":22.78487,
+    "gn:longitude":106.77522,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"B\u1ea3n B\u1eb1ng Ca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kha",
+        "B\u1ea3n Cra"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n B\u1eb1ng Ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590789
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6028a026bf660f85c2cc3e486d3bc6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780889,
+            "locality_id":1242775833,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1242775833,
+    "wof:lastmodified":1537714125,
+    "wof:name":"Ban Bang Ca",
+    "wof:parent_id":1108780889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.77522,
+    22.78487,
+    106.77522,
+    22.78487
+],
+  "geometry": {"coordinates":[106.77522,22.78487],"type":"Point"}
+}

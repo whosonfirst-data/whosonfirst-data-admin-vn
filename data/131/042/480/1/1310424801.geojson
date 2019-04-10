@@ -1,0 +1,73 @@
+{
+  "id": 1310424801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16805,21.39267,106.16805,21.39267",
+    "geom:latitude":21.39267,
+    "geom:longitude":106.16805,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Luc Lieu",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575450,
+    "gn:latitude":21.39267,
+    "gn:longitude":106.16805,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"L\u1ee5c Li\u1ec3u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ee5c Li\u1ec5u"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ee5c Li\u1ec3u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575450
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ffb8bfaa4e1d90183b741e032d0d354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781149,
+            "locality_id":1310424801,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1310424801,
+    "wof:lastmodified":1537713894,
+    "wof:name":"Luc Lieu",
+    "wof:parent_id":1108781149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16805,
+    21.39267000000001,
+    106.16805,
+    21.39267000000001
+],
+  "geometry": {"coordinates":[106.16804999999999,21.39267000000001],"type":"Point"}
+}

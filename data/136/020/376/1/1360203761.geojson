@@ -1,0 +1,67 @@
+{
+  "id": 1360203761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.55,14.86667,108.55,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":108.55,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Plei Sa Rieng",
+    "gn:country_code":"VN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569297,
+    "gn:latitude":14.86667,
+    "gn:longitude":108.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Plei S\u00e0 Ri\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569297
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b08231890a97ba42dfc735f3ab040b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1360203761,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1360203761,
+    "wof:lastmodified":1536775129,
+    "wof:name":"Plei Sa Rieng",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.55,
+    14.86667,
+    108.55,
+    14.86667
+],
+  "geometry": {"coordinates":[108.55,14.86667],"type":"Point"}
+}

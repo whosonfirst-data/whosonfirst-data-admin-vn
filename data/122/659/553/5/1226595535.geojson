@@ -1,0 +1,72 @@
+{
+  "id": 1226595535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58056,10.34498,106.58056,10.34498",
+    "geom:latitude":10.34498,
+    "geom:longitude":106.58056,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Vinh Binh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1562782,
+    "gn:latitude":10.34498,
+    "gn:longitude":106.58056,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"V\u0129nh B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Dong",
+        "Vinh Loi",
+        "V\u0129nh B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562782
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7214379e8e4d05a66c3499e72422adf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782107,
+            "locality_id":1226595535,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1226595535,
+    "wof:lastmodified":1537713712,
+    "wof:name":"Vinh Binh",
+    "wof:parent_id":1108782107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58056,
+    10.34498,
+    106.58056,
+    10.34498
+],
+  "geometry": {"coordinates":[106.58056000000001,10.34498],"type":"Point"}
+}

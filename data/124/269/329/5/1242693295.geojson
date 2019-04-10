@@ -1,0 +1,67 @@
+{
+  "id": 1242693295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,11.01667,106.65,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ap Nhut",
+    "gn:country_code":"VN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592718,
+    "gn:latitude":11.01667,
+    "gn:longitude":106.65,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p Nh\u1ee9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f61e2f77c7390f97249e9bcf5d6b0b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781951,
+            "locality_id":1242693295,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1242693295,
+    "wof:lastmodified":1536896946,
+    "wof:name":"Ap Nhut",
+    "wof:parent_id":1108781951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    11.01667,
+    106.65,
+    11.01667
+],
+  "geometry": {"coordinates":[106.65000000000001,11.01667],"type":"Point"}
+}

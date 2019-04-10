@@ -1,0 +1,67 @@
+{
+  "id": 1193026175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,10.23333,106.1,10.23333",
+    "geom:latitude":10.23333,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ap Thanh Dien",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592082,
+    "gn:latitude":10.23333,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u1ea4p Thanh \u0110i\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592082
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b02c2e8844a75176de2b0c57313a10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782155,
+            "locality_id":1193026175,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1193026175,
+    "wof:lastmodified":1536367601,
+    "wof:name":"Ap Thanh Dien",
+    "wof:parent_id":1108782155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    10.23333,
+    106.1,
+    10.23333
+],
+  "geometry": {"coordinates":[106.09999999999999,10.23333],"type":"Point"}
+}

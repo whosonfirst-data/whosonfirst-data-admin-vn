@@ -1,0 +1,72 @@
+{
+  "id": 1210031801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78333,22.61667,103.78333,22.61667",
+    "geom:latitude":22.61667,
+    "geom:longitude":103.78333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"In Tchong",
+    "gn:country_code":"VN",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579992,
+    "gn:latitude":22.61667,
+    "gn:longitude":103.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"In Tchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Tchong",
+        "In Tchang",
+        "In Tchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579992
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"569bb8c8995c3a46b227b355a398e4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1210031801,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1210031801,
+    "wof:lastmodified":1537713959,
+    "wof:name":"In Tchong",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78333,
+    22.61667000000001,
+    103.78333,
+    22.61667000000001
+],
+  "geometry": {"coordinates":[103.78333000000001,22.61667000000001],"type":"Point"}
+}

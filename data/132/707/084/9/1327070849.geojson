@@ -1,0 +1,72 @@
+{
+  "id": 1327070849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56667,19.8,105.56667,19.8",
+    "geom:latitude":19.8,
+    "geom:longitude":105.56667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Quan Chau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568854,
+    "gn:latitude":19.8,
+    "gn:longitude":105.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Quan Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quan Ghau",
+        "Quan Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568854
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"536c432522de571381fddcb9289f4f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781423,
+            "locality_id":1327070849,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327070849,
+    "wof:lastmodified":1537713805,
+    "wof:name":"Quan Chau",
+    "wof:parent_id":1108781423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56667,
+    19.8,
+    105.56667,
+    19.8
+],
+  "geometry": {"coordinates":[105.56667,19.8],"type":"Point"}
+}

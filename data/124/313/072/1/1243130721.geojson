@@ -1,0 +1,71 @@
+{
+  "id": 1243130721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2,10.05,105.2,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":105.2,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dinh Dien Cai San",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583377,
+    "gn:latitude":10.05,
+    "gn:longitude":105.2,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dinh \u0110i\u1ec1n C\u00e1i S\u1eafn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cai Son",
+        "Dinh \u0110i\u1ec1n C\u00e1i S\u1eafn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583377
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"39a5765c690ae04b9fbe9d0f1e6b83ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782231,
+            "locality_id":1243130721,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1243130721,
+    "wof:lastmodified":1537713999,
+    "wof:name":"Dinh Dien Cai San",
+    "wof:parent_id":1108782231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2,
+    10.05,
+    105.2,
+    10.05
+],
+  "geometry": {"coordinates":[105.2,10.05],"type":"Point"}
+}

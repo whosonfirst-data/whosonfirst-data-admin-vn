@@ -1,0 +1,61 @@
+{
+  "id": 1209530941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53639,9.72472,105.53639,9.72472",
+    "geom:latitude":9.72472,
+    "geom:longitude":105.53639,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Ap Vinh Tay",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591719,
+    "gn:latitude":9.72472,
+    "gn:longitude":105.53639,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p V\u0129nh T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"77c264a1d0f0bf431ee115aeae691249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209530941
+        }
+    ],
+    "wof:id":1209530941,
+    "wof:lastmodified":1536284282,
+    "wof:name":"Ap Vinh Tay",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53639,
+    9.72472,
+    105.53639,
+    9.72472
+],
+  "geometry": {"coordinates":[105.53639,9.72472],"type":"Point"}
+}

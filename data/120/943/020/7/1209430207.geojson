@@ -1,0 +1,64 @@
+{
+  "id": 1209430207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30439,22.05831,105.30439,22.05831",
+    "geom:latitude":22.05831,
+    "geom:longitude":105.30439,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Hat",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309300,
+    "gn:latitude":22.05831,
+    "gn:longitude":105.30439,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 H\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 H\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309300
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"702375ef2a3caf060d35150f84d09613",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430207
+        }
+    ],
+    "wof:id":1209430207,
+    "wof:lastmodified":1537714252,
+    "wof:name":"Na Hat",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30438999999998,
+    22.05831,
+    105.30438999999998,
+    22.05831
+],
+  "geometry": {"coordinates":[105.30438999999998,22.05831],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327450565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26088,22.69623,104.26088,22.69623",
+    "geom:latitude":22.69623,
+    "geom:longitude":104.26088,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Ta Chai",
+    "gn:country_code":"VN",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566646,
+    "gn:latitude":22.69623,
+    "gn:longitude":104.26088,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u1ea3n T\u00e0 Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Tchai"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u00e0 Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566646
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85b52c1e774cc0e799977728ba07c5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780943,
+            "locality_id":1327450565,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327450565,
+    "wof:lastmodified":1537713779,
+    "wof:name":"Ban Ta Chai",
+    "wof:parent_id":1108780943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26088,
+    22.69623,
+    104.26088,
+    22.69623
+],
+  "geometry": {"coordinates":[104.26088,22.69623],"type":"Point"}
+}

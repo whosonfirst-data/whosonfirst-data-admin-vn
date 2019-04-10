@@ -1,0 +1,65 @@
+{
+  "id": 1209225279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11667,16.68333,107.11667,16.68333",
+    "geom:latitude":16.68333,
+    "geom:longitude":107.11667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Tan Le",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565318,
+    "gn:latitude":16.68333,
+    "gn:longitude":107.11667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n T\u00e2n L\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bao Cang",
+        "Th\u00f4n T\u00e2n L\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565318
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e73f2fe6c6f1c6681fc7a5329733b762",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225279
+        }
+    ],
+    "wof:id":1209225279,
+    "wof:lastmodified":1537713748,
+    "wof:name":"Thon Tan Le",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11667,
+    16.68333,
+    107.11667,
+    16.68333
+],
+  "geometry": {"coordinates":[107.11667,16.68333],"type":"Point"}
+}

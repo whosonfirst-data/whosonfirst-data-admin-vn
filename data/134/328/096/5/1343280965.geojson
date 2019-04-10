@@ -1,0 +1,70 @@
+{
+  "id": 1343280965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93631,21.14342,105.93631,21.14342",
+    "geom:latitude":21.14342,
+    "geom:longitude":105.93631,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Phu Khe Dong",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340820,
+    "gn:latitude":21.14342,
+    "gn:longitude":105.93631,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Ph\u00f9 Kh\u00ea \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00f9 Kh\u00ea \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340820
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"315ba25344f472434dece8d947f51eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781225,
+            "locality_id":1343280965,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1343280965,
+    "wof:lastmodified":1537714294,
+    "wof:name":"Phu Khe Dong",
+    "wof:parent_id":1108781225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93631,
+    21.14342000000001,
+    105.93631,
+    21.14342000000001
+],
+  "geometry": {"coordinates":[105.93631000000001,21.14342000000001],"type":"Point"}
+}

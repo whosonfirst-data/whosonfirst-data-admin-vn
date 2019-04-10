@@ -1,0 +1,71 @@
+{
+  "id": 1193034859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77281,21.88374,105.77281,21.88374",
+    "geom:latitude":21.88374,
+    "geom:longitude":105.77281,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Cho Moi",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1585324,
+    "gn:latitude":21.88374,
+    "gn:longitude":105.77281,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ch\u1ee3 M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u1ee3 M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585324,
+        "wk:page":"Ch%E1%BB%A3_M%E1%BB%9Bi_District%2C_B%E1%BA%AFc_K%E1%BA%A1n"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a8a5a5457414d57887cb7cf37a41aac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1193034859,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1193034859,
+    "wof:lastmodified":1537714023,
+    "wof:name":"Cho Moi",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77281,
+    21.88374,
+    105.77281,
+    21.88374
+],
+  "geometry": {"coordinates":[105.77281000000001,21.88374],"type":"Point"}
+}

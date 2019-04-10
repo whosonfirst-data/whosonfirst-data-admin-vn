@@ -1,0 +1,64 @@
+{
+  "id": 1209233737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.8518,16.76828,106.8518,16.76828",
+    "geom:latitude":16.76828,
+    "geom:longitude":106.8518,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Khe Van",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650925,
+    "gn:latitude":16.76828,
+    "gn:longitude":106.8518,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Khe Van",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khe Van"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"21899e3aa569252ec1bb881f7bb89278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233737
+        }
+    ],
+    "wof:id":1209233737,
+    "wof:lastmodified":1537714392,
+    "wof:name":"Khe Van",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8518,
+    16.76827999999999,
+    106.8518,
+    16.76827999999999
+],
+  "geometry": {"coordinates":[106.8518,16.76827999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309727395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.80831,12.96556,108.80831,12.96556",
+    "geom:latitude":12.96556,
+    "geom:longitude":108.80831,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Buon Quyen",
+    "gn:country_code":"VN",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719469,
+    "gn:latitude":12.96556,
+    "gn:longitude":108.80831,
+    "gn:modification_date":"2015-06-09",
+    "gn:name":"Bu\u00f4n Quy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Quen"
+    ],
+    "name:vie_x_variant":[
+        "Bu\u00f4n Quy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719469
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef28cdf5ad4a08c61479817753025c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781705,
+            "locality_id":1309727395,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1309727395,
+    "wof:lastmodified":1537714413,
+    "wof:name":"Buon Quyen",
+    "wof:parent_id":1108781705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.80831,
+    12.96556,
+    108.80831,
+    12.96556
+],
+  "geometry": {"coordinates":[108.80831000000001,12.96556],"type":"Point"}
+}

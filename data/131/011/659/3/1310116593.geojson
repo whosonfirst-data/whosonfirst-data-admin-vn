@@ -1,0 +1,76 @@
+{
+  "id": 1310116593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99687,22.18999,105.99687,22.18999",
+    "geom:latitude":22.18999,
+    "geom:longitude":105.99687,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Tham Khoan",
+    "gn:country_code":"VN",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567149,
+    "gn:latitude":22.18999,
+    "gn:longitude":105.99687,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Th\u00e2m Khoan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam Kouan"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4m Khoan"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00e2m Khoan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567149
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"409ee9dd08a1a919b80ae7dbbbf969e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780919,
+            "locality_id":1310116593,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310116593,
+    "wof:lastmodified":1537713785,
+    "wof:name":"Tham Khoan",
+    "wof:parent_id":1108780919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99687,
+    22.18999,
+    105.99687,
+    22.18999
+],
+  "geometry": {"coordinates":[105.99687,22.18999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243060473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6,22.66667,106.6,22.66667",
+    "geom:latitude":22.66667,
+    "geom:longitude":106.6,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Men",
+    "gn:country_code":"VN",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589751,
+    "gn:latitude":22.66667,
+    "gn:longitude":106.6,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n M\u1ec3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589751
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"965a0a476b9aa52102be50ac12f2002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780889,
+            "locality_id":1243060473,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243060473,
+    "wof:lastmodified":1536863611,
+    "wof:name":"Ban Men",
+    "wof:parent_id":1108780889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6,
+    22.66667,
+    106.6,
+    22.66667
+],
+  "geometry": {"coordinates":[106.59999999999999,22.66667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210027035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16783,21.3222,105.16783,21.3222",
+    "geom:latitude":21.3222,
+    "geom:longitude":105.16783,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Phong Vuc",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570805,
+    "gn:latitude":21.3222,
+    "gn:longitude":105.16783,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Phong V\u1ef1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuong Vuco",
+        "Ph\u01a1ng V\u1ef1c"
+    ],
+    "name:vie_x_preferred":[
+        "Phong V\u1ef1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570805
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6ded97d8c086b0c6906ea73e86aae857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781183,
+            "locality_id":1210027035,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1210027035,
+    "wof:lastmodified":1537713836,
+    "wof:name":"Phong Vuc",
+    "wof:parent_id":1108781183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16783,
+    21.3222,
+    105.16783,
+    21.3222
+],
+  "geometry": {"coordinates":[105.16783,21.3222],"type":"Point"}
+}

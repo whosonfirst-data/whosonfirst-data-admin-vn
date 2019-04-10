@@ -1,0 +1,67 @@
+{
+  "id": 1276677235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1567,20.92345,106.1567,20.92345",
+    "geom:latitude":20.92345,
+    "geom:longitude":106.1567,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Quan Goi",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10400486,
+    "gn:latitude":20.92345,
+    "gn:longitude":106.1567,
+    "gn:modification_date":"2015-07-28",
+    "gn:name":"Qu\u00e1n G\u1ecfi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10400486
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"069aaa9d5dc21c6d1d05b4c3541879a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781249,
+            "locality_id":1276677235,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1276677235,
+    "wof:lastmodified":1536814223,
+    "wof:name":"Quan Goi",
+    "wof:parent_id":1108781249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1567,
+    20.92345,
+    106.1567,
+    20.92345
+],
+  "geometry": {"coordinates":[106.1567,20.92345],"type":"Point"}
+}

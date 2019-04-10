@@ -1,0 +1,67 @@
+{
+  "id": 1226457327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48333,23.01667,105.48333,23.01667",
+    "geom:latitude":23.01667,
+    "geom:longitude":105.48333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Na Tau",
+    "gn:country_code":"VN",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572851,
+    "gn:latitude":23.01667,
+    "gn:longitude":105.48333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572851
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a0abe7263b57137a53af248989a875ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780853,
+            "locality_id":1226457327,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226457327,
+    "wof:lastmodified":1536626913,
+    "wof:name":"Na Tau",
+    "wof:parent_id":1108780853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48333,
+    23.01667,
+    105.48333,
+    23.01667
+],
+  "geometry": {"coordinates":[105.48333,23.01667],"type":"Point"}
+}

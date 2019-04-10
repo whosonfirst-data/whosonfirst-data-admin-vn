@@ -1,0 +1,74 @@
+{
+  "id": 1293608001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06126,21.16975,106.06126,21.16975",
+    "geom:latitude":21.16975,
+    "geom:longitude":106.06126,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Bo Son",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587417,
+    "gn:latitude":21.16975,
+    "gn:longitude":106.06126,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u00f2 S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Bo",
+        "B\u1ed3 S\u01a1n"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f2 S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587417
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"72ae78db4304a5c537d6a7c5824fc0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781215,
+            "locality_id":1293608001,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1293608001,
+    "wof:lastmodified":1537714063,
+    "wof:name":"Bo Son",
+    "wof:parent_id":1108781215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06126,
+    21.16975,
+    106.06126,
+    21.16975
+],
+  "geometry": {"coordinates":[106.06126,21.16975],"type":"Point"}
+}

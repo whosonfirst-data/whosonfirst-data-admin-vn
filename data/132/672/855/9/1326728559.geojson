@@ -1,0 +1,74 @@
+{
+  "id": 1326728559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16985,22.46097,106.16985,22.46097",
+    "geom:latitude":22.46097,
+    "geom:longitude":106.16985,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Po Bau",
+    "gn:country_code":"VN",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571479,
+    "gn:latitude":22.46097,
+    "gn:longitude":106.16985,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"P\u00f3 B\u1ea9u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pao Boc",
+        "Pac Boc"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00f3 B\u1ea9u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ac4d412e09ae58ee45174d413014ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780901,
+            "locality_id":1326728559,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1326728559,
+    "wof:lastmodified":1537713845,
+    "wof:name":"Po Bau",
+    "wof:parent_id":1108780901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16985,
+    22.46097,
+    106.16985,
+    22.46097
+],
+  "geometry": {"coordinates":[106.16985,22.46097],"type":"Point"}
+}

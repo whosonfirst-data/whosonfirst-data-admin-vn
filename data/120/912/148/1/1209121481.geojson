@@ -1,0 +1,64 @@
+{
+  "id": 1209121481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74771,21.85702,104.74771,21.85702",
+    "geom:latitude":21.85702,
+    "geom:longitude":104.74771,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Nhai Trong",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944309,
+    "gn:latitude":21.85702,
+    "gn:longitude":104.74771,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Nh\u00e0i Trong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u00e0i Trong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944309
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24808fc9146fd09ec4acdd3727e14873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121481
+        }
+    ],
+    "wof:id":1209121481,
+    "wof:lastmodified":1537714734,
+    "wof:name":"Nhai Trong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74771,
+    21.85702,
+    104.74771,
+    21.85702
+],
+  "geometry": {"coordinates":[104.74771,21.85702],"type":"Point"}
+}

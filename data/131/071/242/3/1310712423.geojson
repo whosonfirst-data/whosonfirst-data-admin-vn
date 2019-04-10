@@ -1,0 +1,73 @@
+{
+  "id": 1310712423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8396,22.11491,105.8396,22.11491",
+    "geom:latitude":22.11491,
+    "geom:longitude":105.8396,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuoi Cuong",
+    "gn:country_code":"VN",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578425,
+    "gn:latitude":22.11491,
+    "gn:longitude":105.8396,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Khu\u1ed5i Cu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouei Couong"
+    ],
+    "name:vie_x_preferred":[
+        "Khu\u1ed5i Cu\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578425
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"631dc4f2b011b5108c92e5d72283c9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780903,
+            "locality_id":1310712423,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310712423,
+    "wof:lastmodified":1537713938,
+    "wof:name":"Khuoi Cuong",
+    "wof:parent_id":1108780903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8396,
+    22.11491,
+    105.8396,
+    22.11491
+],
+  "geometry": {"coordinates":[105.8396,22.11491],"type":"Point"}
+}

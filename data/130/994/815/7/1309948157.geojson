@@ -1,0 +1,67 @@
+{
+  "id": 1309948157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.36667,15.33333,108.36667,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":108.36667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Cho Bu",
+    "gn:country_code":"VN",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585363,
+    "gn:latitude":15.33333,
+    "gn:longitude":108.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u1ee3 Bu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585363
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7042d2953d643bbe36fc6e674cb05951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781623,
+            "locality_id":1309948157,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1309948157,
+    "wof:lastmodified":1536726431,
+    "wof:name":"Cho Bu",
+    "wof:parent_id":1108781623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.36667,
+    15.33333,
+    108.36667,
+    15.33333
+],
+  "geometry": {"coordinates":[108.36667,15.33333],"type":"Point"}
+}

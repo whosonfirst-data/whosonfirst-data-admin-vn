@@ -1,0 +1,71 @@
+{
+  "id": 1327344209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18694,16.06333,108.18694,16.06333",
+    "geom:latitude":16.06333,
+    "geom:longitude":108.18694,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Phuong Xuan Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569994,
+    "gn:latitude":16.06333,
+    "gn:longitude":108.18694,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u01b0\u01a1ng Xu\u00e2n H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xuan Hoa",
+        "Ph\u01b0\u01a1ng Xu\u00e2n H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779,
+        1108781581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569994
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8be0227d37bc37b6f83ef284e547958c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781581,
+            "locality_id":1327344209,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1327344209,
+    "wof:lastmodified":1537713823,
+    "wof:name":"Phuong Xuan Hoa",
+    "wof:parent_id":1108781581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18694,
+    16.06333,
+    108.18694,
+    16.06333
+],
+  "geometry": {"coordinates":[108.18694000000001,16.06333],"type":"Point"}
+}

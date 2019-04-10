@@ -1,0 +1,65 @@
+{
+  "id": 1209430337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.43333,11.96667,107.43333,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":107.43333,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Bu Boun Ya",
+    "gn:country_code":"VN",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587318,
+    "gn:latitude":11.96667,
+    "gn:longitude":107.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Boun Ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Boun",
+        "Bu Boun Ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587318
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1255842257668865fe1036f9b5816713",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430337
+        }
+    ],
+    "wof:id":1209430337,
+    "wof:lastmodified":1537714062,
+    "wof:name":"Bu Boun Ya",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.43333,
+    11.96667,
+    107.43333,
+    11.96667
+],
+  "geometry": {"coordinates":[107.43333,11.96667],"type":"Point"}
+}

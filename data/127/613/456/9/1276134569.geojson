@@ -1,0 +1,70 @@
+{
+  "id": 1276134569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03188,13.49142,109.03188,13.49142",
+    "geom:latitude":13.49142,
+    "geom:longitude":109.03188,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Lanh Van",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719436,
+    "gn:latitude":13.49142,
+    "gn:longitude":109.03188,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e3nh V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e3nh V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719436
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ee1cabd839c6f8a333ab3f3b427572a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1276134569,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1276134569,
+    "wof:lastmodified":1537714412,
+    "wof:name":"Lanh Van",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03188,
+    13.49142,
+    109.03188,
+    13.49142
+],
+  "geometry": {"coordinates":[109.03188,13.49142],"type":"Point"}
+}

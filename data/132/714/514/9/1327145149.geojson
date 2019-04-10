@@ -1,0 +1,67 @@
+{
+  "id": 1327145149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13333,12.48333,108.13333,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":108.13333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Chue",
+    "gn:country_code":"VN",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587118,
+    "gn:latitude":12.48333,
+    "gn:longitude":108.13333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu\u00f4n Chu\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587118
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6831b3b6da576ce5e57ca4521ee168da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781859,
+            "locality_id":1327145149,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1327145149,
+    "wof:lastmodified":1537092258,
+    "wof:name":"Buon Chue",
+    "wof:parent_id":1108781859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13333,
+    12.48333,
+    108.13333,
+    12.48333
+],
+  "geometry": {"coordinates":[108.13333,12.48333],"type":"Point"}
+}

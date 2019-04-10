@@ -1,0 +1,71 @@
+{
+  "id": 1242693121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83333,21.73333,104.83333,21.73333",
+    "geom:latitude":21.73333,
+    "geom:longitude":104.83333,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Xom Hang",
+    "gn:country_code":"VN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561453,
+    "gn:latitude":21.73333,
+    "gn:longitude":104.83333,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"X\u00f3m H\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Som Hang",
+        "X\u00f3m H\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561453
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c730e5979afdcf644094f1d1fdb988f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1242693121,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1242693121,
+    "wof:lastmodified":1537713685,
+    "wof:name":"Xom Hang",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83333,
+    21.73333,
+    104.83333,
+    21.73333
+],
+  "geometry": {"coordinates":[104.83333,21.73333],"type":"Point"}
+}

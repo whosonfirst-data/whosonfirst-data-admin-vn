@@ -1,0 +1,67 @@
+{
+  "id": 1276346279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,17.78333,106.25,17.78333",
+    "geom:latitude":17.78333,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Kinh Chau",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578845,
+    "gn:latitude":17.78333,
+    "gn:longitude":106.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kinh Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578845
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4deca15cae5c5152bcb1aa056cffd773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781527,
+            "locality_id":1276346279,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1276346279,
+    "wof:lastmodified":1536761259,
+    "wof:name":"Kinh Chau",
+    "wof:parent_id":1108781527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    17.78333,
+    106.25,
+    17.78333
+],
+  "geometry": {"coordinates":[106.25,17.78333],"type":"Point"}
+}

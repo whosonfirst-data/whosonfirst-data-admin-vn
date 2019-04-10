@@ -1,0 +1,71 @@
+{
+  "id": 1243191415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93333,21.38333,104.93333,21.38333",
+    "geom:latitude":21.38333,
+    "geom:longitude":104.93333,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Xom Dung",
+    "gn:country_code":"VN",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561592,
+    "gn:latitude":21.38333,
+    "gn:longitude":104.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Dung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xam Dung",
+        "X\u00f3m Dung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561592
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"53d93463f16a5d48da5fe80abae588ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1243191415,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1243191415,
+    "wof:lastmodified":1537713688,
+    "wof:name":"Xom Dung",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93333,
+    21.38333,
+    104.93333,
+    21.38333
+],
+  "geometry": {"coordinates":[104.93333,21.38333],"type":"Point"}
+}

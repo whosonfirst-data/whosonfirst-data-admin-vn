@@ -1,0 +1,69 @@
+{
+  "id": 1209233531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4477,11.29319,108.4477,11.29319",
+    "geom:latitude":11.29319,
+    "geom:longitude":108.4477,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ba Ghe",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594001,
+    "gn:latitude":11.29319,
+    "gn:longitude":108.4477,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u00e1 Ghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le Nghi",
+        "Ba Ghe",
+        "\u1ea4p Ba Ghe"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e1 Ghe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594001
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"05049d5860c3dacea56de772dc7d2af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233531
+        }
+    ],
+    "wof:id":1209233531,
+    "wof:lastmodified":1537714200,
+    "wof:name":"Ba Ghe",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4477,
+    11.29319,
+    108.4477,
+    11.29319
+],
+  "geometry": {"coordinates":[108.4477,11.29319],"type":"Point"}
+}

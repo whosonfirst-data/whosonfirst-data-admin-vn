@@ -1,0 +1,72 @@
+{
+  "id": 1293058631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,10.71667,105.98333,10.71667",
+    "geom:latitude":10.71667,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Ca Quan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593678,
+    "gn:latitude":10.71667,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p C\u1ea3 Qu\u1ea3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Ba Quan",
+        "\u1ea4p C\u1ea3 Qu\u1ea3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593678
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7b2867925a769af2cc48f15bbd177f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782069,
+            "locality_id":1293058631,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1293058631,
+    "wof:lastmodified":1537714192,
+    "wof:name":"Ap Ca Quan",
+    "wof:parent_id":1108782069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    10.71667,
+    105.98333,
+    10.71667
+],
+  "geometry": {"coordinates":[105.98333,10.71667],"type":"Point"}
+}

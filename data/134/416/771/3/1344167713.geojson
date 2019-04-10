@@ -1,0 +1,67 @@
+{
+  "id": 1344167713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11667,22.4,103.11667,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":103.11667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Sung Quan",
+    "gn:country_code":"VN",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588845,
+    "gn:latitude":22.4,
+    "gn:longitude":103.11667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Sung Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588845
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e9b53406418594cd4cbeae57b02313b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780993,
+            "locality_id":1344167713,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1344167713,
+    "wof:lastmodified":1536721090,
+    "wof:name":"Ban Sung Quan",
+    "wof:parent_id":1108780993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11667,
+    22.4,
+    103.11667,
+    22.4
+],
+  "geometry": {"coordinates":[103.11667,22.4],"type":"Point"}
+}

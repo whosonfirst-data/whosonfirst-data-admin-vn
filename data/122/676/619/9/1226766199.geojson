@@ -1,0 +1,72 @@
+{
+  "id": 1226766199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6,9.6,105.6,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":105.6,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Xom Cai Trau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561904,
+    "gn:latitude":9.6,
+    "gn:longitude":105.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m C\u00e1i Tr\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cai Trau",
+        "X\u00f3m C\u00e1i Tr\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561904
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e6f0e7393e896b6efa7c0a3ffdc8ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782303,
+            "locality_id":1226766199,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1226766199,
+    "wof:lastmodified":1537713695,
+    "wof:name":"Xom Cai Trau",
+    "wof:parent_id":1108782303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6,
+    9.6,
+    105.6,
+    9.6
+],
+  "geometry": {"coordinates":[105.59999999999999,9.6],"type":"Point"}
+}

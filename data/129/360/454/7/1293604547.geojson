@@ -1,0 +1,70 @@
+{
+  "id": 1293604547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00296,22.65557,105.00296,22.65557",
+    "geom:latitude":22.65557,
+    "geom:longitude":105.00296,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bao Con",
+    "gn:country_code":"VN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309482,
+    "gn:latitude":22.65557,
+    "gn:longitude":105.00296,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u00e1o Con",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e1o Con"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309482
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61492f21c74d9c40a612edc49a04913e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1293604547,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293604547,
+    "wof:lastmodified":1537714256,
+    "wof:name":"Bao Con",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00296000000002,
+    22.65557,
+    105.00296000000002,
+    22.65557
+],
+  "geometry": {"coordinates":[105.00296000000002,22.65557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326741301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05,13.68333,109.05,13.68333",
+    "geom:latitude":13.68333,
+    "geom:longitude":109.05,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Quang Hien",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568802,
+    "gn:latitude":13.68333,
+    "gn:longitude":109.05,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Quang Hi\u1ec3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quan Hien",
+        "Quang Hi\u1ec3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568802
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cc6a8c41298d456ca9ba20ff27cf766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781689,
+            "locality_id":1326741301,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1326741301,
+    "wof:lastmodified":1537713804,
+    "wof:name":"Quang Hien",
+    "wof:parent_id":1108781689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05,
+    13.68333,
+    109.05,
+    13.68333
+],
+  "geometry": {"coordinates":[109.05,13.68333],"type":"Point"}
+}

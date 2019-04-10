@@ -1,0 +1,67 @@
+{
+  "id": 1360044529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,21.1,103.85,21.1",
+    "geom:latitude":21.1,
+    "geom:longitude":103.85,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pa Po",
+    "gn:country_code":"VN",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571230,
+    "gn:latitude":21.1,
+    "gn:longitude":103.85,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00e1 Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571230
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cf8a9c2f5e48d193cb8485bdf31c20f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1360044529,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1360044529,
+    "wof:lastmodified":1537003565,
+    "wof:name":"Pa Po",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    21.1,
+    103.85,
+    21.1
+],
+  "geometry": {"coordinates":[103.84999999999999,21.1],"type":"Point"}
+}

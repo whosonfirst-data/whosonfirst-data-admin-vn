@@ -1,0 +1,67 @@
+{
+  "id": 1310143807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.28333,15.61667,108.28333,15.61667",
+    "geom:latitude":15.61667,
+    "geom:longitude":108.28333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tay Ap",
+    "gn:country_code":"VN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566575,
+    "gn:latitude":15.61667,
+    "gn:longitude":108.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tay Ap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566575
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e55bb0e37d5b9698b2444cc95c1a1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1310143807,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1310143807,
+    "wof:lastmodified":1536941854,
+    "wof:name":"Tay Ap",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.28333,
+    15.61667,
+    108.28333,
+    15.61667
+],
+  "geometry": {"coordinates":[108.28333000000001,15.61667],"type":"Point"}
+}

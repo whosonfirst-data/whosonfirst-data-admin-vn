@@ -1,0 +1,67 @@
+{
+  "id": 1277000623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.88333,15.26667,108.88333,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":108.88333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Phu Nhieu",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570278,
+    "gn:latitude":15.26667,
+    "gn:longitude":108.88333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ph\u00fa Nhi\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570278
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"88fb51e21cd16585b4f45545ef87c04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781637,
+            "locality_id":1277000623,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1277000623,
+    "wof:lastmodified":1536878512,
+    "wof:name":"Phu Nhieu",
+    "wof:parent_id":1108781637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.88333,
+    15.26667,
+    108.88333,
+    15.26667
+],
+  "geometry": {"coordinates":[108.88333,15.26667],"type":"Point"}
+}

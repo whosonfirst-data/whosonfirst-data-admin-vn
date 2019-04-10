@@ -1,0 +1,74 @@
+{
+  "id": 1293604683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.89307,11.33573,108.89307,11.33573",
+    "geom:latitude":11.33573,
+    "geom:longitude":108.89307,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Lac Nghiep",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565502,
+    "gn:latitude":11.33573,
+    "gn:longitude":108.89307,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"L\u1ea1c Nghi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca Na",
+        "Th\u00f4n L\u1ea1c Nghi\u1ec7p"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ea1c Nghi\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3e1e730a725ea6373877bfe6d175c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1293604683,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1293604683,
+    "wof:lastmodified":1537713757,
+    "wof:name":"Lac Nghiep",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.89307,
+    11.33573,
+    108.89307,
+    11.33573
+],
+  "geometry": {"coordinates":[108.89306999999999,11.33573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242596455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15964,10.17628,106.15964,10.17628",
+    "geom:latitude":10.17628,
+    "geom:longitude":106.15964,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"My Hanh",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290541,
+    "gn:latitude":10.17628,
+    "gn:longitude":106.15964,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"M\u1ef9 H\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef9 H\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290541
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"35d15bd4df484c6536625c50944553d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782155,
+            "locality_id":1242596455,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1242596455,
+    "wof:lastmodified":1537714467,
+    "wof:name":"My Hanh",
+    "wof:parent_id":1108782155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15964,
+    10.17628,
+    106.15964,
+    10.17628
+],
+  "geometry": {"coordinates":[106.15964,10.17628],"type":"Point"}
+}

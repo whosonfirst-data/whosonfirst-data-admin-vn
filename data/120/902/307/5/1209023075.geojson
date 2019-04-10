@@ -1,0 +1,64 @@
+{
+  "id": 1209023075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88578,18.27332,105.88578,18.27332",
+    "geom:latitude":18.27332,
+    "geom:longitude":105.88578,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Long Khe",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275505,
+    "gn:latitude":18.27332,
+    "gn:longitude":105.88578,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Long Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275505
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"86a7ae7c21cf3e22727104092ee4fe5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023075
+        }
+    ],
+    "wof:id":1209023075,
+    "wof:lastmodified":1537714683,
+    "wof:name":"Long Khe",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88578,
+    18.27332,
+    105.88578,
+    18.27332
+],
+  "geometry": {"coordinates":[105.88578,18.27332],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293702143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3,13.03333,108.3,13.03333",
+    "geom:latitude":13.03333,
+    "geom:longitude":108.3,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Dang",
+    "gn:country_code":"VN",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590755,
+    "gn:latitude":13.03333,
+    "gn:longitude":108.3,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ban Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590755
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9fc610dddcad8122c6b11ca930480f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781849,
+            "locality_id":1293702143,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293702143,
+    "wof:lastmodified":1536974369,
+    "wof:name":"Ban Dang",
+    "wof:parent_id":1108781849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3,
+    13.03333,
+    108.3,
+    13.03333
+],
+  "geometry": {"coordinates":[108.3,13.03333],"type":"Point"}
+}

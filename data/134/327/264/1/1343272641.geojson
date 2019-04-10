@@ -1,0 +1,73 @@
+{
+  "id": 1343272641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.64924,14.62191,107.64924,14.62191",
+    "geom:latitude":14.62191,
+    "geom:longitude":107.64924,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Giang Lo Hai",
+    "gn:country_code":"VN",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676034,
+    "gn:latitude":14.62191,
+    "gn:longitude":107.64924,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Giang L\u00f4 Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Giang L\u00f4 Hai"
+    ],
+    "name:vie_x_variant":[
+        "Giang L\u00f4 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676034
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e364b5730ab287770662a9e7d4e8e61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781779,
+            "locality_id":1343272641,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1343272641,
+    "wof:lastmodified":1537714403,
+    "wof:name":"Giang Lo Hai",
+    "wof:parent_id":1108781779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.64924,
+    14.62191,
+    107.64924,
+    14.62191
+],
+  "geometry": {"coordinates":[107.64924000000001,14.62191],"type":"Point"}
+}

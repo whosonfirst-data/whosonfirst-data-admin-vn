@@ -1,0 +1,64 @@
+{
+  "id": 1209653905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.49192,10.3017,106.49192,10.3017",
+    "geom:latitude":10.3017,
+    "geom:longitude":106.49192,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tan Phu",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338073,
+    "gn:latitude":10.3017,
+    "gn:longitude":106.49192,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"T\u00e2n Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338073
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18b5f95cefe160402c7df2dd91d50b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209653905
+        }
+    ],
+    "wof:id":1209653905,
+    "wof:lastmodified":1537714288,
+    "wof:name":"Tan Phu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.49192,
+    10.3017,
+    106.49192,
+    10.3017
+],
+  "geometry": {"coordinates":[106.49191999999999,10.3017],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260304667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.84622,9.21312,104.84622,9.21312",
+    "geom:latitude":9.21312,
+    "geom:longitude":104.84622,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Sao Luoi",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592385,
+    "gn:latitude":9.21312,
+    "gn:longitude":104.84622,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"S\u00e0o L\u01b0\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p S\u00e0o L\u01b0\u1edbi"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e0o L\u01b0\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592385
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"507e377cf3d5566a43753dbd4e570c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782331,
+            "locality_id":1260304667,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1260304667,
+    "wof:lastmodified":1537714158,
+    "wof:name":"Sao Luoi",
+    "wof:parent_id":1108782331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.84622,
+    9.21312,
+    104.84622,
+    9.21312
+],
+  "geometry": {"coordinates":[104.84622,9.21312],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.91201,16.0164,107.91201,16.0164",
+    "geom:latitude":16.0164,
+    "geom:longitude":107.91201,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Na Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668743,
+    "gn:latitude":16.0164,
+    "gn:longitude":107.91201,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"N\u00e0 Hoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Hoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668743
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"70002b805b3542a795efb45b64ee36bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209356915
+        }
+    ],
+    "wof:id":1209356915,
+    "wof:lastmodified":1537714399,
+    "wof:name":"Na Hoa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.91201,
+    16.0164,
+    107.91201,
+    16.0164
+],
+  "geometry": {"coordinates":[107.91201,16.0164],"type":"Point"}
+}

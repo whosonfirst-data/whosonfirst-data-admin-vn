@@ -1,0 +1,73 @@
+{
+  "id": 1226058223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76407,22.23022,103.76407,22.23022",
+    "geom:latitude":22.23022,
+    "geom:longitude":103.76407,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Hua Be",
+    "gn:country_code":"VN",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580584,
+    "gn:latitude":22.23022,
+    "gn:longitude":103.76407,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Hua Be",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f4 Be M\u00e8o"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Hua Be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580584
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3ae4d0e43d8540f9ee292ebf95165bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1226058223,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226058223,
+    "wof:lastmodified":1537713965,
+    "wof:name":"Ban Hua Be",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76407,
+    22.23022000000001,
+    103.76407,
+    22.23022000000001
+],
+  "geometry": {"coordinates":[103.76407,22.23022000000001],"type":"Point"}
+}

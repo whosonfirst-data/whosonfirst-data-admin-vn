@@ -1,0 +1,67 @@
+{
+  "id": 1243191279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8295,22.45938,105.8295,22.45938",
+    "geom:latitude":22.45938,
+    "geom:longitude":105.8295,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Luoc",
+    "gn:country_code":"VN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311480,
+    "gn:latitude":22.45938,
+    "gn:longitude":105.8295,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n Lu\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311480
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73de8ef4cb1ab8159b074b08da1d7c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1243191279,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1243191279,
+    "wof:lastmodified":1536676416,
+    "wof:name":"Ban Luoc",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8295,
+    22.45938,
+    105.8295,
+    22.45938
+],
+  "geometry": {"coordinates":[105.8295,22.45938],"type":"Point"}
+}

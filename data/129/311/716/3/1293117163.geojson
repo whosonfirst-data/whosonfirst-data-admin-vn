@@ -1,0 +1,67 @@
+{
+  "id": 1293117163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,20.43333,106.2,20.43333",
+    "geom:latitude":20.43333,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Van Thep",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562954,
+    "gn:latitude":20.43333,
+    "gn:longitude":106.2,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"V\u1ea1n Th\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562954
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"687c29ce51b3deac60e4188e0e1fe8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781347,
+            "locality_id":1293117163,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1293117163,
+    "wof:lastmodified":1536823092,
+    "wof:name":"Van Thep",
+    "wof:parent_id":1108781347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    20.43333,
+    106.2,
+    20.43333
+],
+  "geometry": {"coordinates":[106.2,20.43333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310516965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51357,22.31951,104.51357,22.31951",
+    "geom:latitude":22.31951,
+    "geom:longitude":104.51357,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Goc Diep",
+    "gn:country_code":"VN",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581537,
+    "gn:latitude":22.31951,
+    "gn:longitude":104.51357,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"G\u1ed1c \u0110i\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f4c Di\u1ec7p"
+    ],
+    "name:vie_x_preferred":[
+        "G\u1ed1c \u0110i\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581537
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e05e77a459e60de16efde1b05d5f63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1310516965,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310516965,
+    "wof:lastmodified":1537713977,
+    "wof:name":"Goc Diep",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51357,
+    22.31951,
+    104.51357,
+    22.31951
+],
+  "geometry": {"coordinates":[104.51357,22.31951],"type":"Point"}
+}

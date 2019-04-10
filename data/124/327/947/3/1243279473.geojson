@@ -1,0 +1,70 @@
+{
+  "id": 1243279473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96564,13.9679,108.96564,13.9679",
+    "geom:latitude":13.9679,
+    "geom:longitude":108.96564,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"My Thach",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574047,
+    "gn:latitude":13.9679,
+    "gn:longitude":108.96564,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"M\u1ef9 Th\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef9 Th\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574047
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a0b026dc36f379e3223dcda8dbd428b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781679,
+            "locality_id":1243279473,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1243279473,
+    "wof:lastmodified":1537713877,
+    "wof:name":"My Thach",
+    "wof:parent_id":1108781679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96564,
+    13.9679,
+    108.96564,
+    13.9679
+],
+  "geometry": {"coordinates":[108.96563999999999,13.9679],"type":"Point"}
+}

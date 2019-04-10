@@ -1,0 +1,67 @@
+{
+  "id": 1360030171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23141,19.97615,105.23141,19.97615",
+    "geom:latitude":19.97615,
+    "geom:longitude":105.23141,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Dung",
+    "gn:country_code":"VN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890473,
+    "gn:latitude":19.97615,
+    "gn:longitude":105.23141,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e0ng \u0110\u1eebng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890473
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc03188fc9df4afb8c1f43ea97fe71fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1360030171,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1360030171,
+    "wof:lastmodified":1537023880,
+    "wof:name":"Lang Dung",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23141,
+    19.97615,
+    105.23141,
+    19.97615
+],
+  "geometry": {"coordinates":[105.23141,19.97615],"type":"Point"}
+}

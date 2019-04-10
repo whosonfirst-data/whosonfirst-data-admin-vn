@@ -1,0 +1,73 @@
+{
+  "id": 1343277417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09114,16.95872,107.09114,16.95872",
+    "geom:latitude":16.95872,
+    "geom:longitude":107.09114,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Cam Pho",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586354,
+    "gn:latitude":16.95872,
+    "gn:longitude":107.09114,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"C\u1ea9m Ph\u1ed5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u1ea7m Ph\u1ed9"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea9m Ph\u1ed5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586354
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"339b2c3785e5a47b87f8ae6cce85171e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781547,
+            "locality_id":1343277417,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1343277417,
+    "wof:lastmodified":1537714034,
+    "wof:name":"Cam Pho",
+    "wof:parent_id":1108781547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09114,
+    16.95872,
+    107.09114,
+    16.95872
+],
+  "geometry": {"coordinates":[107.09114,16.95872],"type":"Point"}
+}

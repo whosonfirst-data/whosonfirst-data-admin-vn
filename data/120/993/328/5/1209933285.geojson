@@ -1,0 +1,67 @@
+{
+  "id": 1209933285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48333,21.71667,104.48333,21.71667",
+    "geom:latitude":21.71667,
+    "geom:longitude":104.48333,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Co Bac",
+    "gn:country_code":"VN",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591558,
+    "gn:latitude":21.71667,
+    "gn:longitude":104.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u01a1 B\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591558
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b33b3a14c53ee97843d09d1657ca32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1209933285,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1209933285,
+    "wof:lastmodified":1536391773,
+    "wof:name":"Co Bac",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48333,
+    21.71667,
+    104.48333,
+    21.71667
+],
+  "geometry": {"coordinates":[104.48333,21.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310611753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,13.2,109.28333,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Long",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570478,
+    "gn:latitude":13.2,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u00fa Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570478
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61ed984a4c6781dc38fee5eff9704274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781699,
+            "locality_id":1310611753,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1310611753,
+    "wof:lastmodified":1536763919,
+    "wof:name":"Phu Long",
+    "wof:parent_id":1108781699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    13.2,
+    109.28333,
+    13.2
+],
+  "geometry": {"coordinates":[109.28333000000001,13.2],"type":"Point"}
+}

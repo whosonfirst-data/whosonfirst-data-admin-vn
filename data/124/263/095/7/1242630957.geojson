@@ -1,0 +1,67 @@
+{
+  "id": 1242630957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,19.76667,105.91667,19.76667",
+    "geom:latitude":19.76667,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Loc Hai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575880,
+    "gn:latitude":19.76667,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00f4c H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575880
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6713c35f9d9cbdcae5ffe236e5bc168f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781391,
+            "locality_id":1242630957,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242630957,
+    "wof:lastmodified":1536986281,
+    "wof:name":"Loc Hai",
+    "wof:parent_id":1108781391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    19.76667,
+    105.91667,
+    19.76667
+],
+  "geometry": {"coordinates":[105.91667,19.76667],"type":"Point"}
+}

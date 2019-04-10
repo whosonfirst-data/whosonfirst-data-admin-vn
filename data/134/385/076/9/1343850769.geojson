@@ -1,0 +1,67 @@
+{
+  "id": 1343850769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,22.56667,105.93333,22.56667",
+    "geom:latitude":22.56667,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Na Cap",
+    "gn:country_code":"VN",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573925,
+    "gn:latitude":22.56667,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Cap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e64df019bc845a870cb1203dcfeb6e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780899,
+            "locality_id":1343850769,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343850769,
+    "wof:lastmodified":1536680588,
+    "wof:name":"Na Cap",
+    "wof:parent_id":1108780899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    22.56667,
+    105.93333,
+    22.56667
+],
+  "geometry": {"coordinates":[105.93333,22.56667],"type":"Point"}
+}

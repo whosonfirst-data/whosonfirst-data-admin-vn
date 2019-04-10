@@ -1,0 +1,70 @@
+{
+  "id": 1293109435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0,21.4,105.0,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":105.0,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Do Thay",
+    "gn:country_code":"VN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582356,
+    "gn:latitude":21.4,
+    "gn:longitude":105.0,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Do Thay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ed3 Th\u1ee7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582356
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65d02da1c05759c700116366bb179774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1293109435,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1293109435,
+    "wof:lastmodified":1537713986,
+    "wof:name":"Do Thay",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0,
+    21.4,
+    105.0,
+    21.4
+],
+  "geometry": {"coordinates":[105.0,21.4],"type":"Point"}
+}

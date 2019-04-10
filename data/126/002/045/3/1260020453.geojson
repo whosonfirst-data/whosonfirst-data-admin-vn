@@ -1,0 +1,67 @@
+{
+  "id": 1260020453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,19.73333,105.88333,19.73333",
+    "geom:latitude":19.73333,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Truong Le",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563567,
+    "gn:latitude":19.73333,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u01b0\u1eddng L\u1ec7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563567
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0def77734b6f5309250a799fa3e84339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781391,
+            "locality_id":1260020453,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1260020453,
+    "wof:lastmodified":1537075648,
+    "wof:name":"Truong Le",
+    "wof:parent_id":1108781391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    19.73333,
+    105.88333,
+    19.73333
+],
+  "geometry": {"coordinates":[105.88333,19.73333],"type":"Point"}
+}

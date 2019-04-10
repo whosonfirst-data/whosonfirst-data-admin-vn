@@ -1,0 +1,74 @@
+{
+  "id": 1326845661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.6107,16.3573,107.6107,16.3573",
+    "geom:latitude":16.3573,
+    "geom:longitude":107.6107,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Vi Da",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565213,
+    "gn:latitude":16.3573,
+    "gn:longitude":107.6107,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"V\u0129 D\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi Gia Thuong",
+        "Th\u00f4n Vi D\u1ea1 Th\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0129 D\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565213
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48ce3f0da7851fe9fca3152ac7f3cb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781569,
+            "locality_id":1326845661,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1326845661,
+    "wof:lastmodified":1537713743,
+    "wof:name":"Vi Da",
+    "wof:parent_id":1108781569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.6107,
+    16.3573,
+    107.6107,
+    16.3573
+],
+  "geometry": {"coordinates":[107.61069999999999,16.3573],"type":"Point"}
+}

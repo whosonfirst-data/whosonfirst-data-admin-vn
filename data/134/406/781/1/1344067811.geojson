@@ -1,0 +1,70 @@
+{
+  "id": 1344067811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48926,16.35211,107.48926,16.35211",
+    "geom:latitude":16.35211,
+    "geom:longitude":107.48926,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Binh Dien",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656266,
+    "gn:latitude":16.35211,
+    "gn:longitude":107.48926,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh \u0110i\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh \u0110i\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656266
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a7a017c003eea37f78426f39fb12b428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781569,
+            "locality_id":1344067811,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1344067811,
+    "wof:lastmodified":1537714395,
+    "wof:name":"Binh Dien",
+    "wof:parent_id":1108781569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48926000000002,
+    16.35211,
+    107.48926000000002,
+    16.35211
+],
+  "geometry": {"coordinates":[107.48926000000002,16.35211],"type":"Point"}
+}

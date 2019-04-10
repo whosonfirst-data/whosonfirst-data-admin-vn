@@ -1,0 +1,73 @@
+{
+  "id": 1360199909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3558,21.34706,105.3558,21.34706",
+    "geom:latitude":21.34706,
+    "geom:longitude":105.3558,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Phu Nang",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570333,
+    "gn:latitude":21.34706,
+    "gn:longitude":105.3558,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00fa N\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa N\u1eb7ng"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa N\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570333
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c4534b3aef59465a504366d1690cbeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781165,
+            "locality_id":1360199909,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1360199909,
+    "wof:lastmodified":1537713828,
+    "wof:name":"Phu Nang",
+    "wof:parent_id":1108781165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3558,
+    21.34706,
+    105.3558,
+    21.34706
+],
+  "geometry": {"coordinates":[105.3558,21.34706],"type":"Point"}
+}

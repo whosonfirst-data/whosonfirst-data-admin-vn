@@ -1,0 +1,73 @@
+{
+  "id": 1343877379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96037,22.24538,105.96037,22.24538",
+    "geom:latitude":22.24538,
+    "geom:longitude":105.96037,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Choc Ven",
+    "gn:country_code":"VN",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564515,
+    "gn:latitude":22.24538,
+    "gn:longitude":105.96037,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ch\u00f3c V\u1ebbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tioc V\u00e8n"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00f3c V\u1ebbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f0b8aa0f4b2837e498a184b61048fdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1343877379,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343877379,
+    "wof:lastmodified":1537713733,
+    "wof:name":"Choc Ven",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96037,
+    22.24538,
+    105.96037,
+    22.24538
+],
+  "geometry": {"coordinates":[105.96037,22.24538],"type":"Point"}
+}

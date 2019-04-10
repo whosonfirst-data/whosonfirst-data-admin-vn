@@ -1,0 +1,70 @@
+{
+  "id": 1293405499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.38307,15.07772,108.38307,15.07772",
+    "geom:latitude":15.07772,
+    "geom:longitude":108.38307,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Va Noang",
+    "gn:country_code":"VN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673046,
+    "gn:latitude":15.07772,
+    "gn:longitude":108.38307,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"V\u00e0 Noang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e0 Noang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61fb1c9cdb089e1ec6777906356d7343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1293405499,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1293405499,
+    "wof:lastmodified":1537714400,
+    "wof:name":"Va Noang",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.38307,
+    15.07772,
+    108.38307,
+    15.07772
+],
+  "geometry": {"coordinates":[108.38307,15.07772],"type":"Point"}
+}

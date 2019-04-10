@@ -1,0 +1,70 @@
+{
+  "id": 1293114167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56067,18.35461,105.56067,18.35461",
+    "geom:latitude":18.35461,
+    "geom:longitude":105.56067,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hop Ly",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354197,
+    "gn:latitude":18.35461,
+    "gn:longitude":105.56067,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u1ee3p L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ee3p L\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354197
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bac61e0f026e1a658b079aeb467b7e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1293114167,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1293114167,
+    "wof:lastmodified":1537714710,
+    "wof:name":"Hop Ly",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56067,
+    18.35461,
+    105.56067,
+    18.35461
+],
+  "geometry": {"coordinates":[105.56067,18.35461],"type":"Point"}
+}

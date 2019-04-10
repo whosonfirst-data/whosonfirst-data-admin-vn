@@ -1,0 +1,67 @@
+{
+  "id": 1226661519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91114,21.68868,104.91114,21.68868",
+    "geom:latitude":21.68868,
+    "geom:longitude":104.91114,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Tien Phu",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740756,
+    "gn:latitude":21.68868,
+    "gn:longitude":104.91114,
+    "gn:modification_date":"2014-03-31",
+    "gn:name":"Tien Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740756
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dfb2d58b7f8dea1955abe46c6434dbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781021,
+            "locality_id":1226661519,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1226661519,
+    "wof:lastmodified":1536835626,
+    "wof:name":"Tien Phu",
+    "wof:parent_id":1108781021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91114,
+    21.68868,
+    104.91114,
+    21.68868
+],
+  "geometry": {"coordinates":[104.91114,21.68868],"type":"Point"}
+}

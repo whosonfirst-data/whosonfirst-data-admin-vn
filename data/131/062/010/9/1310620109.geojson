@@ -1,0 +1,70 @@
+{
+  "id": 1310620109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94658,18.3568,105.94658,18.3568",
+    "geom:latitude":18.3568,
+    "geom:longitude":105.94658,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hoa Lac",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275359,
+    "gn:latitude":18.3568,
+    "gn:longitude":105.94658,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Hoa L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hoa L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275359
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e567b0039daa58aa0f22fac9cc7d702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1310620109,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310620109,
+    "wof:lastmodified":1537714677,
+    "wof:name":"Hoa Lac",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94658,
+    18.3568,
+    105.94658,
+    18.3568
+],
+  "geometry": {"coordinates":[105.94658,18.3568],"type":"Point"}
+}

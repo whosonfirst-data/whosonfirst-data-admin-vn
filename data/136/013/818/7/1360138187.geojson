@@ -1,0 +1,72 @@
+{
+  "id": 1360138187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,20.05,105.95,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Gia Kieu",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581888,
+    "gn:latitude":20.05,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gia Ki\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia Ki\u1ec1n",
+        "Gia Ki\u1ec1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581888
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7589cbb4b9a23876a4134df19e79f1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781411,
+            "locality_id":1360138187,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1360138187,
+    "wof:lastmodified":1537713982,
+    "wof:name":"Gia Kieu",
+    "wof:parent_id":1108781411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    20.05,
+    105.95,
+    20.05
+],
+  "geometry": {"coordinates":[105.95,20.05],"type":"Point"}
+}

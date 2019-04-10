@@ -1,0 +1,73 @@
+{
+  "id": 1243379045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45833,9.23444,105.45833,9.23444",
+    "geom:latitude":9.23444,
+    "geom:longitude":105.45833,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Gia Rai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581755,
+    "gn:latitude":9.23444,
+    "gn:longitude":105.45833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gi\u00e1 Rai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Gia Rai",
+        "Gi\u00e1 Rai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581755,
+        "wk:page":"Gi%C3%A1_Rai"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a2f2ae41e2a0e984d399f5b88079f292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782319,
+            "locality_id":1243379045,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1243379045,
+    "wof:lastmodified":1537713980,
+    "wof:name":"Gia Rai",
+    "wof:parent_id":1108782319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45833,
+    9.23444,
+    105.45833,
+    9.23444
+],
+  "geometry": {"coordinates":[105.45833,9.23444],"type":"Point"}
+}

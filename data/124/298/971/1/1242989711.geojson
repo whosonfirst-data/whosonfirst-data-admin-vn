@@ -1,0 +1,70 @@
+{
+  "id": 1242989711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32329,22.47138,105.32329,22.47138",
+    "geom:latitude":22.47138,
+    "geom:longitude":105.32329,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Lau",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309187,
+    "gn:latitude":22.47138,
+    "gn:longitude":105.32329,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 L\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 L\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309187
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"77d395990ede6158b9cc47a8d9fd8eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1242989711,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1242989711,
+    "wof:lastmodified":1537714250,
+    "wof:name":"Na Lau",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32329,
+    22.47138,
+    105.32329,
+    22.47138
+],
+  "geometry": {"coordinates":[105.32329,22.47138],"type":"Point"}
+}

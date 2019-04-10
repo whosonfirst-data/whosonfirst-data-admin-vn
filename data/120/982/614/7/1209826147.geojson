@@ -1,0 +1,73 @@
+{
+  "id": 1209826147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20578,20.89527,106.20578,20.89527",
+    "geom:latitude":20.89527,
+    "geom:longitude":106.20578,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Ly Do",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575145,
+    "gn:latitude":20.89527,
+    "gn:longitude":106.20578,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"L\u00fd \u0110\u1ecf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00fd \u0110\u1ed5"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00fd \u0110\u1ecf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"08116a2bfa30a84f948651606dd421a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781249,
+            "locality_id":1209826147,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1209826147,
+    "wof:lastmodified":1537713891,
+    "wof:name":"Ly Do",
+    "wof:parent_id":1108781249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20578,
+    20.89527,
+    106.20578,
+    20.89527
+],
+  "geometry": {"coordinates":[106.20578,20.89527],"type":"Point"}
+}

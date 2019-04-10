@@ -1,0 +1,71 @@
+{
+  "id": 1310024729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.81667,11.46667,108.81667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":108.81667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon No Gia",
+    "gn:country_code":"VN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565407,
+    "gn:latitude":11.46667,
+    "gn:longitude":108.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n N\u00f4 Gi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00f4 Gi\u00e1",
+        "Th\u00f4n N\u00f4 Gi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565407
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"797ad1bfefbb27cdb1058d78f0a984e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1310024729,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310024729,
+    "wof:lastmodified":1537713753,
+    "wof:name":"Thon No Gia",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.81667,
+    11.46667,
+    108.81667,
+    11.46667
+],
+  "geometry": {"coordinates":[108.81667,11.46667],"type":"Point"}
+}

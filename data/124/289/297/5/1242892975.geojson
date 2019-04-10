@@ -1,0 +1,70 @@
+{
+  "id": 1242892975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62291,21.78328,104.62291,21.78328",
+    "geom:latitude":21.78328,
+    "geom:longitude":104.62291,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dan Bau",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526481,
+    "gn:latitude":21.78328,
+    "gn:longitude":104.62291,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"\u0110\u00e0n B\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00e0n B\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526481
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b47baf46976725dc668221ae44be34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1242892975,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1242892975,
+    "wof:lastmodified":1537714333,
+    "wof:name":"Dan Bau",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62291,
+    21.78328,
+    104.62291,
+    21.78328
+],
+  "geometry": {"coordinates":[104.62291,21.78328],"type":"Point"}
+}

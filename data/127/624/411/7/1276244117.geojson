@@ -1,0 +1,74 @@
+{
+  "id": 1276244117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.38738,13.46569,108.38738,13.46569",
+    "geom:latitude":13.46569,
+    "geom:longitude":108.38738,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"So Ma Hang",
+    "gn:country_code":"VN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588878,
+    "gn:latitude":13.46569,
+    "gn:longitude":108.38738,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"S\u00f4 Ma Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon So Mahang",
+        "Ban S\u00f4 Mahang"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4 Ma Hang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588878
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"06c5b29b8c86634cc493fa9518ef327d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781827,
+            "locality_id":1276244117,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1276244117,
+    "wof:lastmodified":1537714087,
+    "wof:name":"So Ma Hang",
+    "wof:parent_id":1108781827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.38738,
+    13.46569,
+    108.38738,
+    13.46569
+],
+  "geometry": {"coordinates":[108.38737999999999,13.46569],"type":"Point"}
+}

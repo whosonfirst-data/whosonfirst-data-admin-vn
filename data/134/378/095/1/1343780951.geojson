@@ -1,0 +1,73 @@
+{
+  "id": 1343780951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33204,22.66413,105.33204,22.66413",
+    "geom:latitude":22.66413,
+    "geom:longitude":105.33204,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Cup Nhung",
+    "gn:country_code":"VN",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309582,
+    "gn:latitude":22.66413,
+    "gn:longitude":105.33204,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n C\u00fap Nh\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e1p Nh\u00f9ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n C\u00fap Nh\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309582
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a1091a94fe5303a86318719f242aec62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1343780951,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343780951,
+    "wof:lastmodified":1537714260,
+    "wof:name":"Ban Cup Nhung",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33204,
+    22.66413,
+    105.33204,
+    22.66413
+],
+  "geometry": {"coordinates":[105.33204000000001,22.66413],"type":"Point"}
+}

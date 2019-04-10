@@ -1,0 +1,112 @@
+{
+  "id": 1108780787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000645,
+    "geom:area_square_m":7440841.991251,
+    "geom:bbox":"105.83661121,21.0173076781,105.870814896,21.0447870471",
+    "geom:latitude":21.030268,
+    "geom:longitude":105.854266,
+    "iso:country":"VN",
+    "lbl:latitude":21.029667,
+    "lbl:longitude":105.854591,
+    "meso:admin_1":"Ha Noi",
+    "meso:gadm_admin":"Ho\u00e0n Ki\u1ebfm",
+    "meso:gadm_hasc2":"VN.HN.HK",
+    "meso:gaul_adm2":"Hoan Kiem",
+    "meso:local_id":"1002",
+    "meso:mps_x":105.854591,
+    "meso:mps_y":21.029667,
+    "meso:name_en":"Hoan Kiem",
+    "meso:source":"AOTM",
+    "mps:latitude":21.029667,
+    "mps:longitude":105.854591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9084\u528d\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Hoan Kiem"
+    ],
+    "name:fre_x_preferred":[
+        "District de Hoan Kiem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30a2\u30f3\u30ad\u30a8\u30e0\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uc548\ub07c\uc5e0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0430\u043d\u043a\u044c\u0435\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Ho\u00e0n Ki\u1ebfm"
+    ],
+    "name:swe_x_preferred":[
+        "Hoan Kiem"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0622\u0646 \u06a9\u06cc\u0626\u0645 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u00e0n Ki\u1ebfm"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"5",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ha Noi",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HI",
+    "statoids:name":"Hoan Kiem",
+    "statoids:population":"178073",
+    "statoids:statoid":"VN.HI.HK",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1134529"
+    },
+    "wof:country":"VN",
+    "wof:created":1481740883,
+    "wof:geomhash":"5a07121f22cd8c70f94c9abfab448fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780787,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1108780787,
+    "wof:lastmodified":1514502621,
+    "wof:name":"Hoan Kiem",
+    "wof:parent_id":85680653,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":178073,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83661121015693,
+    21.01730767813213,
+    105.87081489624055,
+    21.04478704711024
+],
+  "geometry": {"coordinates":[[[105.86698375337686,21.04478704711024],[105.8688292111285,21.03470574003684],[105.87081489624055,21.03181169469994],[105.86715031057831,21.02241106940495],[105.85586503875604,21.01800366416727],[105.85508358642269,21.01813393608862],[105.85314783890541,21.01730767813213],[105.84697998302718,21.01994743130965],[105.83840699043886,21.01957382393839],[105.83781769836304,21.03136228018852],[105.83661121015693,21.03387793293507],[105.84886956286654,21.04006010850775],[105.84915065128908,21.03992858368956],[105.86698375337686,21.04478704711024]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192986789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11667,11.61667,108.11667,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":108.11667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dong Lac",
+    "gn:country_code":"VN",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582843,
+    "gn:latitude":11.61667,
+    "gn:longitude":108.11667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582843
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4c1b1a5ea12261c4ee859c48eea99479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1192986789,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1192986789,
+    "wof:lastmodified":1536363750,
+    "wof:name":"Dong Lac",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11667,
+    11.61667,
+    108.11667,
+    11.61667
+],
+  "geometry": {"coordinates":[108.11667,11.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326640557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56247,22.06611,106.56247,22.06611",
+    "geom:latitude":22.06611,
+    "geom:longitude":106.56247,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Pac Sao",
+    "gn:country_code":"VN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310994,
+    "gn:latitude":22.06611,
+    "gn:longitude":106.56247,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"P\u00e1c Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310994
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e1f3b5e962a09f55aed2af6293589c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1326640557,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1326640557,
+    "wof:lastmodified":1536826785,
+    "wof:name":"Pac Sao",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56247,
+    22.06611,
+    106.56247,
+    22.06611
+],
+  "geometry": {"coordinates":[106.56247,22.06611],"type":"Point"}
+}

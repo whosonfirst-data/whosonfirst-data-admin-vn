@@ -1,0 +1,70 @@
+{
+  "id": 1226661427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4577,20.85153,105.4577,20.85153",
+    "geom:latitude":20.85153,
+    "geom:longitude":105.4577,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bang Gia",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551590,
+    "gn:latitude":20.85153,
+    "gn:longitude":105.4577,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"B\u00e0ng Gi\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e0ng Gi\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551590
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3d23685e3f10ea62ead4f7406b38d3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1226661427,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226661427,
+    "wof:lastmodified":1537714349,
+    "wof:name":"Bang Gia",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4577,
+    20.85153,
+    105.4577,
+    20.85153
+],
+  "geometry": {"coordinates":[105.4577,20.85153],"type":"Point"}
+}

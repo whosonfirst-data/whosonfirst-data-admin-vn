@@ -1,0 +1,64 @@
+{
+  "id": 1209568827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19484,20.02941,105.19484,20.02941",
+    "geom:latitude":20.02941,
+    "geom:longitude":105.19484,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Hung",
+    "gn:country_code":"VN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549727,
+    "gn:latitude":20.02941,
+    "gn:longitude":105.19484,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"L\u00e0ng H\u00fang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng H\u00fang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549727
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"56d9190df3c5fc6ae5ff4ab82e0b494c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209568827
+        }
+    ],
+    "wof:id":1209568827,
+    "wof:lastmodified":1537714344,
+    "wof:name":"Lang Hung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19484,
+    20.02941,
+    105.19484,
+    20.02941
+],
+  "geometry": {"coordinates":[105.19484,20.02941],"type":"Point"}
+}

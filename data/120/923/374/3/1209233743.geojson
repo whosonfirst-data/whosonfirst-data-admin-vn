@@ -1,0 +1,64 @@
+{
+  "id": 1209233743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7259,22.00266,105.7259,22.00266",
+    "geom:latitude":22.00266,
+    "geom:longitude":105.7259,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Na Tiem",
+    "gn:country_code":"VN",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608002,
+    "gn:latitude":22.00266,
+    "gn:longitude":105.7259,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"N\u00e0 Ti\u1ebfm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Ti\u1ebfm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608002
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f17441e01e1113bb8a899eb9b10081b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233743
+        }
+    ],
+    "wof:id":1209233743,
+    "wof:lastmodified":1537714366,
+    "wof:name":"Na Tiem",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7259,
+    22.00266,
+    105.7259,
+    22.00266
+],
+  "geometry": {"coordinates":[105.7259,22.00266],"type":"Point"}
+}

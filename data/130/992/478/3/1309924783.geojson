@@ -1,0 +1,72 @@
+{
+  "id": 1309924783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53333,12.7,108.53333,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":108.53333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban M'bun",
+    "gn:country_code":"VN",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1589773,
+    "gn:latitude":12.7,
+    "gn:longitude":108.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban M\u2019bun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Chu Enam",
+        "Buon M\u2019Bun",
+        "Ban M\u2019bun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589773
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"08f4ecacb9a24766cca05b0a60239376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1309924783,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1309924783,
+    "wof:lastmodified":1537714102,
+    "wof:name":"Ban M'bun",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53333,
+    12.7,
+    108.53333,
+    12.7
+],
+  "geometry": {"coordinates":[108.53333000000001,12.7],"type":"Point"}
+}

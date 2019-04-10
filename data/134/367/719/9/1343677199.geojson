@@ -1,0 +1,70 @@
+{
+  "id": 1343677199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.17438,21.99781,103.17438,21.99781",
+    "geom:latitude":21.99781,
+    "geom:longitude":103.17438,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Phi Hai",
+    "gn:country_code":"VN",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965547,
+    "gn:latitude":21.99781,
+    "gn:longitude":103.17438,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Phi Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phi Hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965547
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea16165bbff21dc7ff40a0d0f40045e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1343677199,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343677199,
+    "wof:lastmodified":1537714739,
+    "wof:name":"Phi Hai",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.17438,
+    21.99781,
+    103.17438,
+    21.99781
+],
+  "geometry": {"coordinates":[103.17438,21.99781],"type":"Point"}
+}

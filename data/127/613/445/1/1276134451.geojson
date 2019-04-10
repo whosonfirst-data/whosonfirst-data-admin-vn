@@ -1,0 +1,73 @@
+{
+  "id": 1276134451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.42172,16.64653,107.42172,16.64653",
+    "geom:latitude":16.64653,
+    "geom:longitude":107.42172,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Lai Ha",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593176,
+    "gn:latitude":16.64653,
+    "gn:longitude":107.42172,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"L\u1ea1i H\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p L\u1ea1i H\u00e0"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ea1i H\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593176
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e76407ac50cff8996ec881a8e072a4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1276134451,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1276134451,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Lai Ha",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.42172,
+    16.64653,
+    107.42172,
+    16.64653
+],
+  "geometry": {"coordinates":[107.42171999999999,16.64653],"type":"Point"}
+}

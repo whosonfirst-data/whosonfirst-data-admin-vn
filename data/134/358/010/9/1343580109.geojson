@@ -1,0 +1,67 @@
+{
+  "id": 1343580109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,18.31667,105.85,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Vinh Luu",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562683,
+    "gn:latitude":18.31667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0129nh L\u01b0u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562683
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5238eb0cd57d9486e1265f16c54e683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1343580109,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343580109,
+    "wof:lastmodified":1537068115,
+    "wof:name":"Vinh Luu",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    18.31667,
+    105.85,
+    18.31667
+],
+  "geometry": {"coordinates":[105.84999999999999,18.31667],"type":"Point"}
+}

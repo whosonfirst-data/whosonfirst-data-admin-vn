@@ -1,0 +1,70 @@
+{
+  "id": 1209933389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55647,18.42543,105.55647,18.42543",
+    "geom:latitude":18.42543,
+    "geom:longitude":105.55647,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bong Yen",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354108,
+    "gn:latitude":18.42543,
+    "gn:longitude":105.55647,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"B\u1ed3ng Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ed3ng Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354108
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9870f34fc00c3cf5c605ae84dfbaeab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1209933389,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1209933389,
+    "wof:lastmodified":1537714708,
+    "wof:name":"Bong Yen",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55647,
+    18.42543,
+    105.55647,
+    18.42543
+],
+  "geometry": {"coordinates":[105.55647,18.42543],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209425559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57945,22.61247,104.57945,22.61247",
+    "geom:latitude":22.61247,
+    "geom:longitude":104.57945,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Nam Li",
+    "gn:country_code":"VN",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573379,
+    "gn:latitude":22.61247,
+    "gn:longitude":104.57945,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Nam L\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam L\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573379
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68bc383a676bd0b9528556ee97ab918d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425559
+        }
+    ],
+    "wof:id":1209425559,
+    "wof:lastmodified":1537713868,
+    "wof:name":"Nam Li",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57945,
+    22.61247,
+    104.57945,
+    22.61247
+],
+  "geometry": {"coordinates":[104.57944999999999,22.61247],"type":"Point"}
+}

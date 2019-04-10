@@ -1,0 +1,72 @@
+{
+  "id": 1259802577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06611,9.35639,106.06611,9.35639",
+    "geom:latitude":9.35639,
+    "geom:longitude":106.06611,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Giong Vam Sat",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581593,
+    "gn:latitude":9.35639,
+    "gn:longitude":106.06611,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gi\u1ed3ng V\u00e0m S\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e0m S\u00e1t",
+        "Gi\u1ed3ng V\u00e0m S\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581593
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43bc4a95449f6c3aba994f21ef7c3836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782307,
+            "locality_id":1259802577,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1259802577,
+    "wof:lastmodified":1537713977,
+    "wof:name":"Giong Vam Sat",
+    "wof:parent_id":1108782307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06611,
+    9.35639,
+    106.06611,
+    9.35639
+],
+  "geometry": {"coordinates":[106.06610999999999,9.35639],"type":"Point"}
+}

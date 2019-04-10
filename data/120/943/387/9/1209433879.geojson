@@ -1,0 +1,61 @@
+{
+  "id": 1209433879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.08333,13.5,109.08333,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":109.08333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ba Dong",
+    "gn:country_code":"VN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591400,
+    "gn:latitude":13.5,
+    "gn:longitude":109.08333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"B\u00e2 \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591400
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9ef29a43f4562d1d12b5d44e2aaea19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433879
+        }
+    ],
+    "wof:id":1209433879,
+    "wof:lastmodified":1536287159,
+    "wof:name":"Ba Dong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.08333,
+    13.5,
+    109.08333,
+    13.5
+],
+  "geometry": {"coordinates":[109.08333,13.5],"type":"Point"}
+}

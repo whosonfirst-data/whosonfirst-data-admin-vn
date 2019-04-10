@@ -1,0 +1,70 @@
+{
+  "id": 1360095887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88817,22.1987,105.88817,22.1987",
+    "geom:latitude":22.1987,
+    "geom:longitude":105.88817,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Quan",
+    "gn:country_code":"VN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869892,
+    "gn:latitude":22.1987,
+    "gn:longitude":105.88817,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n Qu\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Qu\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869892
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a116dc396ddb926198be1ac3b6bba9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1360095887,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1360095887,
+    "wof:lastmodified":1537714532,
+    "wof:name":"Ban Quan",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88817,
+    22.1987,
+    105.88817,
+    22.1987
+],
+  "geometry": {"coordinates":[105.88817,22.1987],"type":"Point"}
+}

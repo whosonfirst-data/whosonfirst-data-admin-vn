@@ -1,0 +1,67 @@
+{
+  "id": 1326449533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58333,22.23333,106.58333,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":106.58333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Ly",
+    "gn:country_code":"VN",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573621,
+    "gn:latitude":22.23333,
+    "gn:longitude":106.58333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Ly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573621
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"764ac11f1d29bb5946520c915569af24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1326449533,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1326449533,
+    "wof:lastmodified":1536603160,
+    "wof:name":"Na Ly",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58333,
+    22.23333,
+    106.58333,
+    22.23333
+],
+  "geometry": {"coordinates":[106.58333,22.23333],"type":"Point"}
+}

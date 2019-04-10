@@ -1,0 +1,67 @@
+{
+  "id": 1192958925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,19.96667,105.91667,19.96667",
+    "geom:latitude":19.96667,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hien Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580918,
+    "gn:latitude":19.96667,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Hi\u00ean Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580918
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0cc500b53423a71b85479a37ca7eb287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781429,
+            "locality_id":1192958925,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1192958925,
+    "wof:lastmodified":1536367319,
+    "wof:name":"Hien Vinh",
+    "wof:parent_id":1108781429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    19.96667,
+    105.91667,
+    19.96667
+],
+  "geometry": {"coordinates":[105.91667,19.96667],"type":"Point"}
+}

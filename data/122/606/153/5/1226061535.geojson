@@ -1,0 +1,71 @@
+{
+  "id": 1226061535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.18333,13.98333,109.18333,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":109.18333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Hoi Loc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580513,
+    "gn:latitude":13.98333,
+    "gn:longitude":109.18333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"H\u1ed9i L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huong Loc",
+        "H\u1ed9i L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580513
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9075cd2f66e8ff7f57bc1dc1c55cf324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781681,
+            "locality_id":1226061535,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1226061535,
+    "wof:lastmodified":1537713965,
+    "wof:name":"Hoi Loc",
+    "wof:parent_id":1108781681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.18333,
+    13.98333,
+    109.18333,
+    13.98333
+],
+  "geometry": {"coordinates":[109.18333,13.98333],"type":"Point"}
+}

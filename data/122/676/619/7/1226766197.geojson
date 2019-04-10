@@ -1,0 +1,76 @@
+{
+  "id": 1226766197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.61667,14.05,107.61667,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":107.61667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Polei Iom",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569057,
+    "gn:latitude":14.05,
+    "gn:longitude":107.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"P\u01a1lei I\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polei Tom",
+        "Pele Iom",
+        "Polei Yom",
+        "Polei Lome",
+        "Pole Iom",
+        "P\u01a1lei I\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569057
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3273f1c2a6f286ce6fc8c57d47df5658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781805,
+            "locality_id":1226766197,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1226766197,
+    "wof:lastmodified":1537713809,
+    "wof:name":"Polei Iom",
+    "wof:parent_id":1108781805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.61667,
+    14.05,
+    107.61667,
+    14.05
+],
+  "geometry": {"coordinates":[107.61667,14.05],"type":"Point"}
+}

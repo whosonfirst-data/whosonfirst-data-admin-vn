@@ -1,0 +1,71 @@
+{
+  "id": 1193179353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.06667,15.75,108.06667,15.75",
+    "geom:latitude":15.75,
+    "geom:longitude":108.06667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Phuong Ranh",
+    "gn:country_code":"VN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570030,
+    "gn:latitude":15.75,
+    "gn:longitude":108.06667,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Ph\u01b0\u1eddng R\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1eddng R\u1ea1nh",
+        "Trung An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc47f005150edcd3a7be04a8d34ea716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781633,
+            "locality_id":1193179353,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1193179353,
+    "wof:lastmodified":1537713823,
+    "wof:name":"Phuong Ranh",
+    "wof:parent_id":1108781633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.06667,
+    15.75,
+    108.06667,
+    15.75
+],
+  "geometry": {"coordinates":[108.06667,15.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343477381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.7,14.11667,108.7,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":108.7,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"De Pouang",
+    "gn:country_code":"VN",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1583553,
+    "gn:latitude":14.11667,
+    "gn:longitude":108.7,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"De Pouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583553
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fb3d00ee3e4ac6b2c963a98c9a7183f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781677,
+            "locality_id":1343477381,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1343477381,
+    "wof:lastmodified":1536722052,
+    "wof:name":"De Pouang",
+    "wof:parent_id":1108781677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.7,
+    14.11667,
+    108.7,
+    14.11667
+],
+  "geometry": {"coordinates":[108.7,14.11667],"type":"Point"}
+}

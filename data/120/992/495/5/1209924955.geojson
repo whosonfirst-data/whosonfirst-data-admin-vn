@@ -1,0 +1,73 @@
+{
+  "id": 1209924955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18333,13.36667,108.18333,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":108.18333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Duon Dang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590659,
+    "gn:latitude":13.36667,
+    "gn:longitude":108.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Du\u00f4n Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Duon Dang",
+        "Ban Duong Dang",
+        "Ban Du\u00f4n Dang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590659
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"410b6d06b7204ee4d358867fc3da34d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781837,
+            "locality_id":1209924955,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1209924955,
+    "wof:lastmodified":1537714122,
+    "wof:name":"Ban Duon Dang",
+    "wof:parent_id":1108781837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18333,
+    13.36667,
+    108.18333,
+    13.36667
+],
+  "geometry": {"coordinates":[108.18333,13.36667],"type":"Point"}
+}

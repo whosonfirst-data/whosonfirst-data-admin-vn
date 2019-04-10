@@ -1,0 +1,73 @@
+{
+  "id": 1293213687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21032,10.77205,105.21032,10.77205",
+    "geom:latitude":10.77205,
+    "geom:longitude":105.21032,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Long Quoi",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593056,
+    "gn:latitude":10.77205,
+    "gn:longitude":105.21032,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Long Q\u01b0\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Long Q\u1ee9i"
+    ],
+    "name:vie_x_preferred":[
+        "Long Q\u01b0\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593056
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"57529481b7f66d441aa35f47359a4192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782201,
+            "locality_id":1293213687,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1293213687,
+    "wof:lastmodified":1537714176,
+    "wof:name":"Long Quoi",
+    "wof:parent_id":1108782201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21032,
+    10.77205,
+    105.21032,
+    10.77205
+],
+  "geometry": {"coordinates":[105.21032,10.77205],"type":"Point"}
+}

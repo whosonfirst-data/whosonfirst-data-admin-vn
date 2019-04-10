@@ -1,0 +1,73 @@
+{
+  "id": 1243282961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09734,11.1799,107.09734,11.1799",
+    "geom:latitude":11.1799,
+    "geom:longitude":107.09734,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Phan Tuong Hai",
+    "gn:country_code":"VN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075856,
+    "gn:latitude":11.1799,
+    "gn:longitude":107.09734,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00e2n T\u01b0\u1eddng Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00e2n T\u01b0\u1eddng Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00e2n T\u01b0\u1eddng 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075856
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1dcf86f24813632b2f896dc15a8eab9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1243282961,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1243282961,
+    "wof:lastmodified":1537714435,
+    "wof:name":"Phan Tuong Hai",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09734,
+    11.1799,
+    107.09734,
+    11.1799
+],
+  "geometry": {"coordinates":[107.09734,11.1799],"type":"Point"}
+}

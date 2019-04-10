@@ -1,0 +1,70 @@
+{
+  "id": 1310215903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38747,22.45562,105.38747,22.45562",
+    "geom:latitude":22.45562,
+    "geom:longitude":105.38747,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Bac Vang",
+    "gn:country_code":"VN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309197,
+    "gn:latitude":22.45562,
+    "gn:longitude":105.38747,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"B\u1eafc V\u00e3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1eafc V\u00e3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309197
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a929dd178cec88b778425f6dfe9e6fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1310215903,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310215903,
+    "wof:lastmodified":1537714250,
+    "wof:name":"Bac Vang",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38747,
+    22.45562,
+    105.38747,
+    22.45562
+],
+  "geometry": {"coordinates":[105.38746999999999,22.45562],"type":"Point"}
+}

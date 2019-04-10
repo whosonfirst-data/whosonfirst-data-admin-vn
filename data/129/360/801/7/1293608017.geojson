@@ -1,0 +1,70 @@
+{
+  "id": 1293608017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95829,10.02496,105.95829,10.02496",
+    "geom:latitude":10.02496,
+    "geom:longitude":105.95829,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Thong Nguyen",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312753,
+    "gn:latitude":10.02496,
+    "gn:longitude":105.95829,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Th\u00f4ng Nguy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4ng Nguy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312753
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13caf59749e9784bb38fe7c8c4330460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782159,
+            "locality_id":1293608017,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1293608017,
+    "wof:lastmodified":1537714270,
+    "wof:name":"Thong Nguyen",
+    "wof:parent_id":1108782159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95829,
+    10.02496,
+    105.95829,
+    10.02496
+],
+  "geometry": {"coordinates":[105.95829000000001,10.02496],"type":"Point"}
+}

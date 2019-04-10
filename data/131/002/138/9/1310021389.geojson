@@ -1,0 +1,70 @@
+{
+  "id": 1310021389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98999,20.63343,105.98999,20.63343",
+    "geom:latitude":20.63343,
+    "geom:longitude":105.98999,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Quan Nha",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564251,
+    "gn:latitude":20.63343,
+    "gn:longitude":105.98999,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Quan Nha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Quan Nha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564251
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2ed3b4d38a52f1bc506d601545837bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781335,
+            "locality_id":1310021389,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1310021389,
+    "wof:lastmodified":1537714359,
+    "wof:name":"Quan Nha",
+    "wof:parent_id":1108781335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98999,
+    20.63343,
+    105.98999,
+    20.63343
+],
+  "geometry": {"coordinates":[105.98999000000001,20.63343],"type":"Point"}
+}

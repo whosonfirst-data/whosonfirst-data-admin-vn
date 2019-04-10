@@ -1,0 +1,70 @@
+{
+  "id": 1343672535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34795,22.54231,104.34795,22.54231",
+    "geom:latitude":22.54231,
+    "geom:longitude":104.34795,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Di Thang",
+    "gn:country_code":"VN",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869347,
+    "gn:latitude":22.54231,
+    "gn:longitude":104.34795,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"D\u00ec Th\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u00ec Th\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869347
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6466cbf3728683ea96e8a54d79a2d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1343672535,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343672535,
+    "wof:lastmodified":1537714530,
+    "wof:name":"Di Thang",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34795,
+    22.54231,
+    104.34795,
+    22.54231
+],
+  "geometry": {"coordinates":[104.34795,22.54231],"type":"Point"}
+}

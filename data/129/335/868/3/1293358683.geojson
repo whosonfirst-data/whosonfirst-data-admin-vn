@@ -1,0 +1,67 @@
+{
+  "id": 1293358683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,11.26667,108.1,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ba Chin",
+    "gn:country_code":"VN",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1591502,
+    "gn:latitude":11.26667,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"B\u00e0 Chin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d367940632c00a61609a0f797c9c7dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1293358683,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1293358683,
+    "wof:lastmodified":1536972438,
+    "wof:name":"Ba Chin",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    11.26667,
+    108.1,
+    11.26667
+],
+  "geometry": {"coordinates":[108.09999999999999,11.26667],"type":"Point"}
+}

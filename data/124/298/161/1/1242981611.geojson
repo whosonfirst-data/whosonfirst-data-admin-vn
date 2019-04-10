@@ -1,0 +1,70 @@
+{
+  "id": 1242981611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34169,22.37631,105.34169,22.37631",
+    "geom:latitude":22.37631,
+    "geom:longitude":105.34169,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Trang",
+    "gn:country_code":"VN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523089,
+    "gn:latitude":22.37631,
+    "gn:longitude":105.34169,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00e0 Trang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Trang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523089
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1312731253e2b4129101ef5ec4725586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1242981611,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1242981611,
+    "wof:lastmodified":1537714329,
+    "wof:name":"Na Trang",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34169,
+    22.37631,
+    105.34169,
+    22.37631
+],
+  "geometry": {"coordinates":[105.34169,22.37631],"type":"Point"}
+}

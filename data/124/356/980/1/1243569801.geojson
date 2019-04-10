@@ -1,0 +1,70 @@
+{
+  "id": 1243569801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81034,10.09062,105.81034,10.09062",
+    "geom:latitude":10.09062,
+    "geom:longitude":105.81034,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Tam Giuoc",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312281,
+    "gn:latitude":10.09062,
+    "gn:longitude":105.81034,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"T\u1ea7m Giu\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ea7m Giu\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312281
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f1b21d222010506529127ca24c7f31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782161,
+            "locality_id":1243569801,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1243569801,
+    "wof:lastmodified":1537714267,
+    "wof:name":"Tam Giuoc",
+    "wof:parent_id":1108782161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81034,
+    10.09062,
+    105.81034,
+    10.09062
+],
+  "geometry": {"coordinates":[105.81034,10.09062],"type":"Point"}
+}

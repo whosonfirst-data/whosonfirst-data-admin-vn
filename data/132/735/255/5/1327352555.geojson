@@ -1,0 +1,66 @@
+{
+  "id": 1327352555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.72541,16.66657,112.72541,16.66657",
+    "geom:latitude":16.66657,
+    "geom:longitude":112.72541,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"498.0",
+    "gn:asciiname":"Hoang Sa",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11496092,
+    "gn:latitude":16.66657,
+    "gn:longitude":112.72541,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"Ho\u00e0ng Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85681327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496092
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62db037d36e13409b305c91c3b74d112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "locality_id":1327352555,
+            "region_id":85681327
+        }
+    ],
+    "wof:id":1327352555,
+    "wof:lastmodified":1536796377,
+    "wof:name":"Hoang Sa",
+    "wof:parent_id":85681327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.72541,
+    16.66657,
+    112.72541,
+    16.66657
+],
+  "geometry": {"coordinates":[112.72541,16.66657],"type":"Point"}
+}

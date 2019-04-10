@@ -1,0 +1,73 @@
+{
+  "id": 1293404869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.09893,20.50735,106.09893,20.50735",
+    "geom:latitude":20.50735,
+    "geom:longitude":106.09893,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Binh Trung",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587741,
+    "gn:latitude":20.50735,
+    "gn:longitude":106.09893,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"B\u00ecnh Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ec9nh Trung"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587741
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2cdb67efddaf0410b73c9e130c85603d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1293404869,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1293404869,
+    "wof:lastmodified":1537714069,
+    "wof:name":"Binh Trung",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.09893,
+    20.50735,
+    106.09893,
+    20.50735
+],
+  "geometry": {"coordinates":[106.09893,20.50735],"type":"Point"}
+}

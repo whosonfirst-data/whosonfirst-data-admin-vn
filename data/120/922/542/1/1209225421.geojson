@@ -1,0 +1,64 @@
+{
+  "id": 1209225421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.14011,11.71299,107.14011,11.71299",
+    "geom:latitude":11.71299,
+    "geom:longitude":107.14011,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Thon Song",
+    "gn:country_code":"VN",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9078341,
+    "gn:latitude":11.71299,
+    "gn:longitude":107.14011,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u00f4n S\u1ed9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n S\u1ed9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9078341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8fecd0b79be018017b02390ee3f3c536",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225421
+        }
+    ],
+    "wof:id":1209225421,
+    "wof:lastmodified":1537714444,
+    "wof:name":"Thon Song",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.14011,
+    11.71299,
+    107.14011,
+    11.71299
+],
+  "geometry": {"coordinates":[107.14011000000001,11.71299],"type":"Point"}
+}

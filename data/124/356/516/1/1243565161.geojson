@@ -1,0 +1,71 @@
+{
+  "id": 1243565161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55641,22.207,106.55641,22.207",
+    "geom:latitude":22.207,
+    "geom:longitude":106.55641,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Top",
+    "gn:country_code":"VN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588501,
+    "gn:latitude":22.207,
+    "gn:longitude":106.55641,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n T\u1ed1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n T\u1ed1p",
+        "B\u1ea3n Top"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588501
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3de11e8218a63097694ece5b49b0346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1243565161,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243565161,
+    "wof:lastmodified":1537714079,
+    "wof:name":"Ban Top",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55641,
+    22.207,
+    106.55641,
+    22.207
+],
+  "geometry": {"coordinates":[106.55641,22.207],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309822759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35717,21.41094,105.35717,21.41094",
+    "geom:latitude":21.41094,
+    "geom:longitude":105.35717,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Ha Nha",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200886,
+    "gn:latitude":21.41094,
+    "gn:longitude":105.35717,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"H\u1ea1 Nha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea1 Nha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200886
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e9779bd8ff0b79e1e02f33733a9dd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781177,
+            "locality_id":1309822759,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1309822759,
+    "wof:lastmodified":1537714241,
+    "wof:name":"Ha Nha",
+    "wof:parent_id":1108781177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35717,
+    21.41094,
+    105.35717,
+    21.41094
+],
+  "geometry": {"coordinates":[105.35717,21.41094],"type":"Point"}
+}

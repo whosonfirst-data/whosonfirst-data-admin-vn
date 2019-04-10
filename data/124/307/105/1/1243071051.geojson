@@ -1,0 +1,70 @@
+{
+  "id": 1243071051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41808,10.38366,105.41808,10.38366",
+    "geom:latitude":10.38366,
+    "geom:longitude":105.41808,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tay Khanh A",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336932,
+    "gn:latitude":10.38366,
+    "gn:longitude":105.41808,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"T\u00e2y Kh\u00e1nh A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2y Kh\u00e1nh A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336932
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea2c8b91ea632e42124eb6b9a603b7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1243071051,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1243071051,
+    "wof:lastmodified":1537714278,
+    "wof:name":"Tay Khanh A",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41808,
+    10.38366,
+    105.41808,
+    10.38366
+],
+  "geometry": {"coordinates":[105.41808,10.38366],"type":"Point"}
+}

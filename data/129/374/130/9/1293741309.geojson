@@ -1,0 +1,73 @@
+{
+  "id": 1293741309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00081,10.61733,106.00081,10.61733",
+    "geom:latitude":10.61733,
+    "geom:longitude":106.00081,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Tam",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101513,
+    "gn:latitude":10.61733,
+    "gn:longitude":106.00081,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101513
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"69095f5dd300583f15070e2e5a3f4750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782071,
+            "locality_id":1293741309,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1293741309,
+    "wof:lastmodified":1537714458,
+    "wof:name":"Ap Tam",
+    "wof:parent_id":1108782071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00081000000002,
+    10.61733,
+    106.00081000000002,
+    10.61733
+],
+  "geometry": {"coordinates":[106.00081000000002,10.61733],"type":"Point"}
+}

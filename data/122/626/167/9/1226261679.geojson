@@ -1,0 +1,71 @@
+{
+  "id": 1226261679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23601,9.65095,106.23601,9.65095",
+    "geom:latitude":9.65095,
+    "geom:longitude":106.23601,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ca Hom",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581656,
+    "gn:latitude":9.65095,
+    "gn:longitude":106.23601,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"C\u00e0 Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e0 Hom",
+        "Gi\u1ed3ng C\u00e0 Hom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581656
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a615435da90575887049be1e41dbea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1226261679,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1226261679,
+    "wof:lastmodified":1537713979,
+    "wof:name":"Ca Hom",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23601,
+    9.65095,
+    106.23601,
+    9.65095
+],
+  "geometry": {"coordinates":[106.23600999999999,9.65095],"type":"Point"}
+}

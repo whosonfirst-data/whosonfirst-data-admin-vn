@@ -1,0 +1,73 @@
+{
+  "id": 1225954925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02778,9.32833,106.02778,9.32833",
+    "geom:latitude":9.32833,
+    "geom:longitude":106.02778,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Calang",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586468,
+    "gn:latitude":9.32833,
+    "gn:longitude":106.02778,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Calang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calang A"
+    ],
+    "name:vie_x_preferred":[
+        "Calang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586468
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb6712ba7abe5d8f1ba61d29d957917c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782307,
+            "locality_id":1225954925,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1225954925,
+    "wof:lastmodified":1537714036,
+    "wof:name":"Calang",
+    "wof:parent_id":1108782307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02778,
+    9.32833,
+    106.02778,
+    9.32833
+],
+  "geometry": {"coordinates":[106.02778000000001,9.32833],"type":"Point"}
+}

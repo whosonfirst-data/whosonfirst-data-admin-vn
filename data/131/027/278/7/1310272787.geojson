@@ -1,0 +1,73 @@
+{
+  "id": 1310272787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76967,10.80045,105.76967,10.80045",
+    "geom:latitude":10.80045,
+    "geom:longitude":105.76967,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Cai Sach",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593704,
+    "gn:latitude":10.80045,
+    "gn:longitude":105.76967,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"C\u00e1i S\u00e1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p C\u00e1i S\u00e1ch"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e1i S\u00e1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593704
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9ae7238cfa636984141c32600109e20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782065,
+            "locality_id":1310272787,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1310272787,
+    "wof:lastmodified":1537714193,
+    "wof:name":"Cai Sach",
+    "wof:parent_id":1108782065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76967,
+    10.80045,
+    105.76967,
+    10.80045
+],
+  "geometry": {"coordinates":[105.76967,10.80045],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343377973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97814,21.46014,105.97814,21.46014",
+    "geom:latitude":21.46014,
+    "geom:longitude":105.97814,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Huong Son",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8607905,
+    "gn:latitude":21.46014,
+    "gn:longitude":105.97814,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"H\u01b0\u01a1ng S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u01b0\u01a1ng S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"480ee1235e84dc2f6591e2befd4410d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781083,
+            "locality_id":1343377973,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1343377973,
+    "wof:lastmodified":1537714365,
+    "wof:name":"Huong Son",
+    "wof:parent_id":1108781083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97814,
+    21.46014,
+    105.97814,
+    21.46014
+],
+  "geometry": {"coordinates":[105.97814,21.46014],"type":"Point"}
+}

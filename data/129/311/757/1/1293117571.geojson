@@ -1,0 +1,70 @@
+{
+  "id": 1293117571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21573,21.04433,106.21573,21.04433",
+    "geom:latitude":21.04433,
+    "geom:longitude":106.21573,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Van Trong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871676,
+    "gn:latitude":21.04433,
+    "gn:longitude":106.21573,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"V\u0103n Trong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0103n Trong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871676
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9c8452add43d3c1999a8bbb60380d2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1293117571,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1293117571,
+    "wof:lastmodified":1537714543,
+    "wof:name":"Van Trong",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21573,
+    21.04433,
+    106.21573,
+    21.04433
+],
+  "geometry": {"coordinates":[106.21572999999999,21.04433],"type":"Point"}
+}

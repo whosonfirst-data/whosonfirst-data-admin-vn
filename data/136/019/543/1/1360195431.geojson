@@ -1,0 +1,73 @@
+{
+  "id": 1360195431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.461,22.57152,105.461,22.57152",
+    "geom:latitude":22.57152,
+    "geom:longitude":105.461,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Na Noi",
+    "gn:country_code":"VN",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309723,
+    "gn:latitude":22.57152,
+    "gn:longitude":105.461,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n N\u00e0 N\u1ecdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 N\u1ecdi"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u00e0 N\u1ecdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309723
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f59429a863d0646a705d1112722640e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1360195431,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1360195431,
+    "wof:lastmodified":1537714264,
+    "wof:name":"Ban Na Noi",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.461,
+    22.57152,
+    105.461,
+    22.57152
+],
+  "geometry": {"coordinates":[105.461,22.57152],"type":"Point"}
+}

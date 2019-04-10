@@ -1,0 +1,71 @@
+{
+  "id": 1259994979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82678,22.38344,105.82678,22.38344",
+    "geom:latitude":22.38344,
+    "geom:longitude":105.82678,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Nao",
+    "gn:country_code":"VN",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573081,
+    "gn:latitude":22.38344,
+    "gn:longitude":105.82678,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e0 Nao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e0 Nao",
+        "Na Nao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573081
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6099559332957496da08c7f03b70c0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1259994979,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1259994979,
+    "wof:lastmodified":1537713865,
+    "wof:name":"Na Nao",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82678,
+    22.38344,
+    105.82678,
+    22.38344
+],
+  "geometry": {"coordinates":[105.82678,22.38344],"type":"Point"}
+}

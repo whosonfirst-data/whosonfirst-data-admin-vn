@@ -1,0 +1,71 @@
+{
+  "id": 1243182961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.09441,9.56004,106.09441,9.56004",
+    "geom:latitude":9.56004,
+    "geom:longitude":106.09441,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Phu Duc",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592641,
+    "gn:latitude":9.56004,
+    "gn:longitude":106.09441,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Ph\u00fa \u0110\u1ee9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa \u0110\u1ee9c",
+        "\u1ea4p Ph\u00fa \u0110\u1ee9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592641
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"83f0df011abe7fa0fdb3446972fd5c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782299,
+            "locality_id":1243182961,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1243182961,
+    "wof:lastmodified":1537714165,
+    "wof:name":"Phu Duc",
+    "wof:parent_id":1108782299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.09441,
+    9.56004,
+    106.09441,
+    9.56004
+],
+  "geometry": {"coordinates":[106.09441,9.56004],"type":"Point"}
+}

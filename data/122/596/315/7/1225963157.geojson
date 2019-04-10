@@ -1,0 +1,73 @@
+{
+  "id": 1225963157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25241,22.92709,105.25241,22.92709",
+    "geom:latitude":22.92709,
+    "geom:longitude":105.25241,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Pin Ty",
+    "gn:country_code":"VN",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309561,
+    "gn:latitude":22.92709,
+    "gn:longitude":105.25241,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n P\u1ec9n T\u1ef7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00ecn T\u1ef7"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n P\u1ec9n T\u1ef7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae7aef9685520930ae69c3a1d4a4562c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1225963157,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1225963157,
+    "wof:lastmodified":1537714259,
+    "wof:name":"Ban Pin Ty",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25241,
+    22.92709,
+    105.25241,
+    22.92709
+],
+  "geometry": {"coordinates":[105.25241,22.92709],"type":"Point"}
+}

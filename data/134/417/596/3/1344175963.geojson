@@ -1,0 +1,67 @@
+{
+  "id": 1344175963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.0,12.41667,108.0,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":108.0,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Kedou",
+    "gn:country_code":"VN",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586964,
+    "gn:latitude":12.41667,
+    "gn:longitude":108.0,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu\u00f4n Kedou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586964
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0831e24955905d14b9777a9e6fc0b212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781859,
+            "locality_id":1344175963,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1344175963,
+    "wof:lastmodified":1536709219,
+    "wof:name":"Buon Kedou",
+    "wof:parent_id":1108781859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.0,
+    12.41667,
+    108.0,
+    12.41667
+],
+  "geometry": {"coordinates":[108.0,12.41667],"type":"Point"}
+}

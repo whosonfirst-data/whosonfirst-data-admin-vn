@@ -1,0 +1,70 @@
+{
+  "id": 1226258213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3567,22.08013,105.3567,22.08013",
+    "geom:latitude":22.08013,
+    "geom:longitude":105.3567,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kim Quang",
+    "gn:country_code":"VN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309256,
+    "gn:latitude":22.08013,
+    "gn:longitude":105.3567,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kim Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kim Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309256
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f501905b470a9bd90f2c724a2fd81434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1226258213,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226258213,
+    "wof:lastmodified":1537714251,
+    "wof:name":"Kim Quang",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3567,
+    22.08013,
+    105.3567,
+    22.08013
+],
+  "geometry": {"coordinates":[105.3567,22.08013],"type":"Point"}
+}

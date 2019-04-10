@@ -1,0 +1,67 @@
+{
+  "id": 1242796741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15,13.93333,109.15,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":109.15,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Liem Loi",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576021,
+    "gn:latitude":13.93333,
+    "gn:longitude":109.15,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Li\u00eam L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576021
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f928125ab9b788ebfa60604bc40d6b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781683,
+            "locality_id":1242796741,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1242796741,
+    "wof:lastmodified":1536747818,
+    "wof:name":"Liem Loi",
+    "wof:parent_id":1108781683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15,
+    13.93333,
+    109.15,
+    13.93333
+],
+  "geometry": {"coordinates":[109.15000000000001,13.93333],"type":"Point"}
+}

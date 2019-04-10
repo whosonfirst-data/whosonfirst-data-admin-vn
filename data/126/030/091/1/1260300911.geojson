@@ -1,0 +1,70 @@
+{
+  "id": 1260300911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.20486,10.70645,107.20486,10.70645",
+    "geom:latitude":10.70645,
+    "geom:longitude":107.20486,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Lien Duc",
+    "gn:country_code":"VN",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421530,
+    "gn:latitude":10.70645,
+    "gn:longitude":107.20486,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Li\u00ean \u0110\u1ee9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean \u0110\u1ee9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421530
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e8f3279c2fbdaab90a22eb7b8ce89f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781995,
+            "locality_id":1260300911,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1260300911,
+    "wof:lastmodified":1537714308,
+    "wof:name":"Lien Duc",
+    "wof:parent_id":1108781995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.20486,
+    10.70645,
+    107.20486,
+    10.70645
+],
+  "geometry": {"coordinates":[107.20486,10.70645],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242696729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.06923,16.21542,108.06923,16.21542",
+    "geom:latitude":16.21542,
+    "geom:longitude":108.06923,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Hoi Dua",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656248,
+    "gn:latitude":16.21542,
+    "gn:longitude":108.06923,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00f3i D\u1eeba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f3i D\u1eeba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656248
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f5ac09306171d35c8c492a28512f5be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1242696729,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1242696729,
+    "wof:lastmodified":1537714394,
+    "wof:name":"Hoi Dua",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.06923,
+    16.21542,
+    108.06923,
+    16.21542
+],
+  "geometry": {"coordinates":[108.06923,16.21542],"type":"Point"}
+}

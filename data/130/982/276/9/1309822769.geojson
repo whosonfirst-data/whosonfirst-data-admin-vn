@@ -1,0 +1,70 @@
+{
+  "id": 1309822769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.18493,11.08657,107.18493,11.08657",
+    "geom:latitude":11.08657,
+    "geom:longitude":107.18493,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Phu Tho",
+    "gn:country_code":"VN",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075836,
+    "gn:latitude":11.08657,
+    "gn:longitude":107.18493,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa Th\u1ecd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Th\u1ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075836
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0cee6ef9bacdb927e46298d6437c372f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781977,
+            "locality_id":1309822769,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1309822769,
+    "wof:lastmodified":1537714434,
+    "wof:name":"Phu Tho",
+    "wof:parent_id":1108781977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.18493,
+    11.08657,
+    107.18493,
+    11.08657
+],
+  "geometry": {"coordinates":[107.18492999999999,11.08657],"type":"Point"}
+}

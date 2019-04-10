@@ -1,0 +1,70 @@
+{
+  "id": 1276458973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77969,18.45119,105.77969,18.45119",
+    "geom:latitude":18.45119,
+    "geom:longitude":105.77969,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nghen",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8637813,
+    "gn:latitude":18.45119,
+    "gn:longitude":105.77969,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Ngh\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ngh\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637813
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a4194907569d35274efe9ab1d536b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1276458973,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276458973,
+    "wof:lastmodified":1537714388,
+    "wof:name":"Nghen",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77969,
+    18.45119,
+    105.77969,
+    18.45119
+],
+  "geometry": {"coordinates":[105.77969,18.45119],"type":"Point"}
+}

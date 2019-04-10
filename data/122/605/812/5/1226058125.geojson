@@ -1,0 +1,67 @@
+{
+  "id": 1226058125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,20.48333,105.58333,20.48333",
+    "geom:latitude":20.48333,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Chong Khan",
+    "gn:country_code":"VN",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585368,
+    "gn:latitude":20.48333,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chong Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585368
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b443e1cf9ea96384f5c6540d9dc887a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781061,
+            "locality_id":1226058125,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226058125,
+    "wof:lastmodified":1536707532,
+    "wof:name":"Chong Khan",
+    "wof:parent_id":1108781061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    20.48333,
+    105.58333,
+    20.48333
+],
+  "geometry": {"coordinates":[105.58333,20.48333],"type":"Point"}
+}

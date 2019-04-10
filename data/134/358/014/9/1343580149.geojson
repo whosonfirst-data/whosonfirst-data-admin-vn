@@ -1,0 +1,70 @@
+{
+  "id": 1343580149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71825,11.01488,106.71825,11.01488",
+    "geom:latitude":11.01488,
+    "geom:longitude":106.71825,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Vinh Truong",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562576,
+    "gn:latitude":11.01488,
+    "gn:longitude":106.71825,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"V\u0129nh Tr\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh Tr\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562576
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"92ab5561d723d6f23a081a0f8d1035ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781961,
+            "locality_id":1343580149,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1343580149,
+    "wof:lastmodified":1537713709,
+    "wof:name":"Vinh Truong",
+    "wof:parent_id":1108781961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71825,
+    11.01488,
+    106.71825,
+    11.01488
+],
+  "geometry": {"coordinates":[106.71825,11.01488],"type":"Point"}
+}

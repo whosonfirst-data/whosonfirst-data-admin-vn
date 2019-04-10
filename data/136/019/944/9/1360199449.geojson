@@ -1,0 +1,71 @@
+{
+  "id": 1360199449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25,22.06667,105.25,22.06667",
+    "geom:latitude":22.06667,
+    "geom:longitude":105.25,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nhan Ly",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572193,
+    "gn:latitude":22.06667,
+    "gn:longitude":105.25,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nh\u00e2n L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khon Nhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572193
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"421bb0a2458f75e1f957f1f7230d2635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1360199449,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1360199449,
+    "wof:lastmodified":1537713852,
+    "wof:name":"Nhan Ly",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25,
+    22.06667,
+    105.25,
+    22.06667
+],
+  "geometry": {"coordinates":[105.25,22.06667],"type":"Point"}
+}

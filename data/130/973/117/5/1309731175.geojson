@@ -1,0 +1,71 @@
+{
+  "id": 1309731175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23333,22.05,104.23333,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":104.23333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Nan",
+    "gn:country_code":"VN",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576892,
+    "gn:latitude":22.05,
+    "gn:longitude":104.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Nan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Nan",
+        "L\u00e0ng Nan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576892
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"81fb6c2cc8aa4f4706ad8dad428e79e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1309731175,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1309731175,
+    "wof:lastmodified":1537713915,
+    "wof:name":"Lang Nan",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23333,
+    22.05,
+    104.23333,
+    22.05
+],
+  "geometry": {"coordinates":[104.23333,22.05],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293705825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08527,21.01189,105.08527,21.01189",
+    "geom:latitude":21.01189,
+    "geom:longitude":105.08527,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Xom Vien",
+    "gn:country_code":"VN",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1560722,
+    "gn:latitude":21.01189,
+    "gn:longitude":105.08527,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Vi\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m Vun"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m Vi\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f36334fe393d5738b8bb37f30f8d8a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781189,
+            "locality_id":1293705825,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1293705825,
+    "wof:lastmodified":1537713668,
+    "wof:name":"Xom Vien",
+    "wof:parent_id":1108781189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08527,
+    21.01189,
+    105.08527,
+    21.01189
+],
+  "geometry": {"coordinates":[105.08526999999999,21.01189],"type":"Point"}
+}

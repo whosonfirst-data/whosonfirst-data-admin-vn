@@ -1,0 +1,67 @@
+{
+  "id": 1276138537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.91667,16.51667,106.91667,16.51667",
+    "geom:latitude":16.51667,
+    "geom:longitude":106.91667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ta Riep",
+    "gn:country_code":"VN",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566659,
+    "gn:latitude":16.51667,
+    "gn:longitude":106.91667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ta Riep",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566659
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b41acb15fcb2a9c7cb4b767b74e3763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781549,
+            "locality_id":1276138537,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1276138537,
+    "wof:lastmodified":1537038039,
+    "wof:name":"Ta Riep",
+    "wof:parent_id":1108781549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.91667,
+    16.51667,
+    106.91667,
+    16.51667
+],
+  "geometry": {"coordinates":[106.91667,16.51667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209225449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11721,21.37103,105.11721,21.37103",
+    "geom:latitude":21.37103,
+    "geom:longitude":105.11721,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Tu Do",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200226,
+    "gn:latitude":21.37103,
+    "gn:longitude":105.11721,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"T\u1ef1 Do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ef1 Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200226
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"28eb24c6a8a7f7cc222726e749599281",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225449
+        }
+    ],
+    "wof:id":1209225449,
+    "wof:lastmodified":1537714232,
+    "wof:name":"Tu Do",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11721,
+    21.37103,
+    105.11721,
+    21.37103
+],
+  "geometry": {"coordinates":[105.11721,21.37103],"type":"Point"}
+}

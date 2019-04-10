@@ -1,0 +1,118 @@
+{
+  "id": 1108782019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002042,
+    "geom:area_square_m":24798130.598085,
+    "geom:bbox":"106.678345619,10.7860645745,106.750540548,10.8368387155",
+    "geom:latitude":10.812955,
+    "geom:longitude":106.711627,
+    "iso:country":"VN",
+    "lbl:latitude":10.808551,
+    "lbl:longitude":106.70315,
+    "meso:admin_1":"TP. Ho Chi Minh",
+    "meso:gadm_admin":"B\u00ecnh Th\u1ea1nh",
+    "meso:gadm_hasc2":"VN.HC.BH",
+    "meso:gaul_adm2":"Binh Thanh",
+    "meso:local_id":"79765",
+    "meso:mps_x":106.70315,
+    "meso:mps_y":10.808551,
+    "meso:name_en":"Binh Thanh",
+    "meso:source":"AOTM",
+    "mps:latitude":10.808551,
+    "mps:longitude":106.70315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e73\u76db\u90e1"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00ecnh Th\u1ea1nh"
+    ],
+    "name:eng_x_preferred":[
+        "Binh Thanh"
+    ],
+    "name:epo_x_preferred":[
+        "Binh Thanh"
+    ],
+    "name:fre_x_preferred":[
+        "B\u00ecnh Th\u1ea1nh"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik B\u00ecnh Th\u1ea1nh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30bf\u30a4\u30f3\u533a"
+    ],
+    "name:nob_x_preferred":[
+        "Binh Thanh"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Binh Thanh"
+    ],
+    "name:rum_x_preferred":[
+        "Binh Thanh"
+    ],
+    "name:tur_x_preferred":[
+        "Binh Thanh"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh Th\u1ea1nh"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"21",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ho Chi Minh City",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HC",
+    "statoids:name":"Binh Thanh",
+    "statoids:population":"423020",
+    "statoids:statoid":"VN.HC.BH",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2552692"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741681,
+    "wof:geomhash":"a6349562bb2623fea04141154f7faeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782019,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1108782019,
+    "wof:lastmodified":1514502533,
+    "wof:name":"Binh Thanh",
+    "wof:parent_id":85680809,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":423020,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.67834561929898,
+    10.78606457451997,
+    106.75054054836873,
+    10.83683871546805
+],
+  "geometry": {"coordinates":[[[106.68814627676257,10.83041245502676],[106.69288989943811,10.83110529488287],[106.69759540136079,10.83613166892827],[106.70080201095909,10.83608032097236],[106.70704733275601,10.83175868985177],[106.70841973529909,10.82524332609903],[106.71351352908454,10.82202609363708],[106.71764779426417,10.82291989763049],[106.72510425533208,10.82128517622157],[106.72833760579509,10.83057186062505],[106.73039179733085,10.83117316184546],[106.73569830245589,10.83681257681482],[106.7421959513772,10.8368380771518],[106.74219790275319,10.83683871546805],[106.74795505757815,10.83372752522791],[106.75054054836873,10.82320363193197],[106.7498346196256,10.82265653317972],[106.7486166129335,10.81300000482914],[106.74608793869876,10.8096114047702],[106.73998086747912,10.8088257445896],[106.73597297042213,10.81291817979922],[106.73571876020407,10.81411188186926],[106.73371993402766,10.81710653191699],[106.72526829299737,10.820919307809],[106.72001836833098,10.80645225859192],[106.72403881467376,10.80415462873591],[106.72785345923573,10.7988362931323],[106.72179905175904,10.78809974440369],[106.71953621047156,10.78799440750179],[106.7158400388178,10.78612364953143],[106.71012042100473,10.78606457451997],[106.70472163063347,10.79274719641628],[106.70207772336873,10.79231462850119],[106.69681330629574,10.79373922620622],[106.6879061299922,10.79134234479738],[106.68520835010652,10.79332238021797],[106.68320571577878,10.79577905080106],[106.6852008875632,10.8019592354829],[106.68265955773373,10.80793587112819],[106.68230490466858,10.81001285824028],[106.67834561929898,10.81526755238152],[106.68326542609546,10.820283000843],[106.68390742389519,10.82441083339978],[106.68814627676257,10.83041245502676]]],"type":"Polygon"}
+}

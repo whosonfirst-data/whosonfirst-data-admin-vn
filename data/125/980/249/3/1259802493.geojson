@@ -1,0 +1,67 @@
+{
+  "id": 1259802493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28333,21.41667,106.28333,21.41667",
+    "geom:latitude":21.41667,
+    "geom:longitude":106.28333,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Thinh Liet",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565833,
+    "gn:latitude":21.41667,
+    "gn:longitude":106.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u1ecbnh Li\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e4578810a69d27aa14d9174d4589f071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781149,
+            "locality_id":1259802493,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1259802493,
+    "wof:lastmodified":1536895638,
+    "wof:name":"Thinh Liet",
+    "wof:parent_id":1108781149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28333,
+    21.41667,
+    106.28333,
+    21.41667
+],
+  "geometry": {"coordinates":[106.28333000000001,21.41667],"type":"Point"}
+}

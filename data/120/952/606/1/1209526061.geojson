@@ -1,0 +1,61 @@
+{
+  "id": 1209526061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,20.91667,105.88333,20.91667",
+    "geom:latitude":20.91667,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Dong Trach",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582517,
+    "gn:latitude":20.91667,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4ng Tr\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582517
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f023f80ad9e2cbed31ac99bb08892320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526061
+        }
+    ],
+    "wof:id":1209526061,
+    "wof:lastmodified":1536284427,
+    "wof:name":"Dong Trach",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    20.91667,
+    105.88333,
+    20.91667
+],
+  "geometry": {"coordinates":[105.88333,20.91667],"type":"Point"}
+}

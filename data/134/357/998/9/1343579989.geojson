@@ -1,0 +1,67 @@
+{
+  "id": 1343579989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0,22.26667,104.0,22.26667",
+    "geom:latitude":22.26667,
+    "geom:longitude":104.0,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Hoang La",
+    "gn:country_code":"VN",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580707,
+    "gn:latitude":22.26667,
+    "gn:longitude":104.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hoang La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580707
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a425eec79f47b19f87c9924831dd8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1343579989,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343579989,
+    "wof:lastmodified":1537068284,
+    "wof:name":"Hoang La",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0,
+    22.26667,
+    104.0,
+    22.26667
+],
+  "geometry": {"coordinates":[104.0,22.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243573257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03333,19.05,105.03333,19.05",
+    "geom:latitude":19.05,
+    "geom:longitude":105.03333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Len Fou",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576114,
+    "gn:latitude":19.05,
+    "gn:longitude":105.03333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Len Fou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Fou",
+        "Len Fou Ke Loa",
+        "Len Fou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576114
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc18ef49c2dc55bedaa3bcf60ff03aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781475,
+            "locality_id":1243573257,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243573257,
+    "wof:lastmodified":1537713902,
+    "wof:name":"Len Fou",
+    "wof:parent_id":1108781475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03333,
+    19.05,
+    105.03333,
+    19.05
+],
+  "geometry": {"coordinates":[105.03333000000001,19.05],"type":"Point"}
+}

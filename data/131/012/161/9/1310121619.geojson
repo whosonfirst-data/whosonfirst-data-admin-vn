@@ -1,0 +1,73 @@
+{
+  "id": 1310121619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23983,22.98479,105.23983,22.98479",
+    "geom:latitude":22.98479,
+    "geom:longitude":105.23983,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lung Ho",
+    "gn:country_code":"VN",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1577285,
+    "gn:latitude":22.98479,
+    "gn:longitude":105.23983,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u0169ng H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Ho"
+    ],
+    "name:vie_x_preferred":[
+        "L\u0169ng H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577285
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"35ef01c5b27b76dfe94580e286886865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1310121619,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1310121619,
+    "wof:lastmodified":1537713921,
+    "wof:name":"Lung Ho",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23983,
+    22.98479,
+    105.23983,
+    22.98479
+],
+  "geometry": {"coordinates":[105.23983,22.98479],"type":"Point"}
+}

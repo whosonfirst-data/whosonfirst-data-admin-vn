@@ -1,0 +1,67 @@
+{
+  "id": 1293600037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19056,9.32528,105.19056,9.32528",
+    "geom:latitude":9.32528,
+    "geom:longitude":105.19056,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ap Bao Cha",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593985,
+    "gn:latitude":9.32528,
+    "gn:longitude":105.19056,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p B\u00e0o Ch\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593985
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2d68fb472e4e233490ba73401babe452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782329,
+            "locality_id":1293600037,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1293600037,
+    "wof:lastmodified":1536622783,
+    "wof:name":"Ap Bao Cha",
+    "wof:parent_id":1108782329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19056,
+    9.32528,
+    105.19056,
+    9.32528
+],
+  "geometry": {"coordinates":[105.19056,9.32528],"type":"Point"}
+}

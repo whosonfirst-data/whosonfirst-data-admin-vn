@@ -1,0 +1,76 @@
+{
+  "id": 1226158529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25665,21.63866,106.25665,21.63866",
+    "geom:latitude":21.63866,
+    "geom:longitude":106.25665,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Dong La Hai",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582844,
+    "gn:latitude":21.63866,
+    "gn:longitude":106.25665,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed3ng La Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00f4ng La"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng La Hai"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ed3ng La 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582844
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1bf547cbc8f4a928fb391ed10ea6fc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781101,
+            "locality_id":1226158529,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226158529,
+    "wof:lastmodified":1537713993,
+    "wof:name":"Dong La Hai",
+    "wof:parent_id":1108781101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25665,
+    21.63866,
+    106.25665,
+    21.63866
+],
+  "geometry": {"coordinates":[106.25664999999999,21.63866],"type":"Point"}
+}

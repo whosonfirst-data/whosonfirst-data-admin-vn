@@ -1,0 +1,70 @@
+{
+  "id": 1259995061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.038,21.01733,106.038,21.01733",
+    "geom:latitude":21.01733,
+    "geom:longitude":106.038,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Tu Ky",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871732,
+    "gn:latitude":21.01733,
+    "gn:longitude":106.038,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u1ee9 K\u1ef3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ee9 K\u1ef3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871732
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a017cd9def8e13ce2f28d16d4c7002bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781227,
+            "locality_id":1259995061,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259995061,
+    "wof:lastmodified":1537714544,
+    "wof:name":"Tu Ky",
+    "wof:parent_id":1108781227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.038,
+    21.01733,
+    106.038,
+    21.01733
+],
+  "geometry": {"coordinates":[106.038,21.01733],"type":"Point"}
+}

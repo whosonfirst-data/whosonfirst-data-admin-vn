@@ -1,0 +1,73 @@
+{
+  "id": 1293799357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.18003,9.84678,106.18003,9.84678",
+    "geom:latitude":9.84678,
+    "geom:longitude":106.18003,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Phu Tho Hai",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9292270,
+    "gn:latitude":9.84678,
+    "gn:longitude":106.18003,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa Th\u1ecd Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Th\u1ecd Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00fa Th\u1ecd 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9292270
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b4d4d60657d811d5f9285e8f984e93f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782139,
+            "locality_id":1293799357,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1293799357,
+    "wof:lastmodified":1537714469,
+    "wof:name":"Phu Tho Hai",
+    "wof:parent_id":1108782139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.18003,
+    9.84678,
+    106.18003,
+    9.84678
+],
+  "geometry": {"coordinates":[106.18003,9.84678],"type":"Point"}
+}

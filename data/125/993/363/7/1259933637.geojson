@@ -1,0 +1,73 @@
+{
+  "id": 1259933637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71285,19.38161,105.71285,19.38161",
+    "geom:latitude":19.38161,
+    "geom:longitude":105.71285,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Truong Son Mot",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372366,
+    "gn:latitude":19.38161,
+    "gn:longitude":105.71285,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Tr\u01b0\u1eddng S\u01a1n M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u01b0\u1eddng S\u01a1n M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Tr\u01b0\u1eddng S\u01a1n 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"90595a021a328227adc952a0335c7a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1259933637,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259933637,
+    "wof:lastmodified":1537714718,
+    "wof:name":"Truong Son Mot",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71285,
+    19.38161,
+    105.71285,
+    19.38161
+],
+  "geometry": {"coordinates":[105.71285,19.38161],"type":"Point"}
+}

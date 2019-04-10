@@ -1,0 +1,70 @@
+{
+  "id": 1293702151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14834,21.20198,106.14834,21.20198",
+    "geom:latitude":21.20198,
+    "geom:longitude":106.14834,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Viet Van",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871501,
+    "gn:latitude":21.20198,
+    "gn:longitude":106.14834,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Vi\u1ec7t V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vi\u1ec7t V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871501
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"035d407b07c0ebb5ce899781294f10a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1293702151,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1293702151,
+    "wof:lastmodified":1537714538,
+    "wof:name":"Viet Van",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14834,
+    21.20198,
+    106.14834,
+    21.20198
+],
+  "geometry": {"coordinates":[106.14834,21.20198],"type":"Point"}
+}

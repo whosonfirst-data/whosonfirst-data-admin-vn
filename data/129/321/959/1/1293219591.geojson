@@ -1,0 +1,73 @@
+{
+  "id": 1293219591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69097,20.4069,105.69097,20.4069",
+    "geom:latitude":20.4069,
+    "geom:longitude":105.69097,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Dam Rung",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584024,
+    "gn:latitude":20.4069,
+    "gn:longitude":105.69097,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"\u0110\u1ea7m R\u1eebng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00e0m Dun"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea7m R\u1eebng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584024
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0041e1ba9f6f9496b3e064e96301a1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781373,
+            "locality_id":1293219591,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1293219591,
+    "wof:lastmodified":1537714008,
+    "wof:name":"Dam Rung",
+    "wof:parent_id":1108781373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69097,
+    20.4069,
+    105.69097,
+    20.4069
+],
+  "geometry": {"coordinates":[105.69096999999999,20.4069],"type":"Point"}
+}

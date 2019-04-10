@@ -1,0 +1,67 @@
+{
+  "id": 1310424647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90887,22.31774,105.90887,22.31774",
+    "geom:latitude":22.31774,
+    "geom:longitude":105.90887,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Sam Pac",
+    "gn:country_code":"VN",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311700,
+    "gn:latitude":22.31774,
+    "gn:longitude":105.90887,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sam P\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ecf78355734165a77ea6118dd12ca1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1310424647,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310424647,
+    "wof:lastmodified":1537032211,
+    "wof:name":"Sam Pac",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90887,
+    22.31774,
+    105.90887,
+    22.31774
+],
+  "geometry": {"coordinates":[105.90886999999999,22.31774],"type":"Point"}
+}

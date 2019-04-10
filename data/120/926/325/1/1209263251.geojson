@@ -1,0 +1,68 @@
+{
+  "id": 1209263251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7675,21.49929,103.7675,21.49929",
+    "geom:latitude":21.49929,
+    "geom:longitude":103.7675,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tam",
+    "gn:country_code":"VN",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588722,
+    "gn:latitude":21.49929,
+    "gn:longitude":103.7675,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"B\u1ea3n T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Tom",
+        "B\u1ea3n Tam"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u00e1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cdd1f02a1e3250d60c3c208e3a7dca4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209263251
+        }
+    ],
+    "wof:id":1209263251,
+    "wof:lastmodified":1537714084,
+    "wof:name":"Ban Tam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7675,
+    21.49929,
+    103.7675,
+    21.49929
+],
+  "geometry": {"coordinates":[103.7675,21.49929],"type":"Point"}
+}

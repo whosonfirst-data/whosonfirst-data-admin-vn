@@ -1,0 +1,77 @@
+{
+  "id": 1210031701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.26577,13.48005,109.26577,13.48005",
+    "geom:latitude":13.48005,
+    "geom:longitude":109.26577,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu My Ba",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570337,
+    "gn:latitude":13.48005,
+    "gn:longitude":109.26577,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ph\u00fa M\u1ef9 Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binh Tay",
+        "Ph\u00fa M\u1ef9"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa M\u1ef9 Ba"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00fa M\u1ef9 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570337
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad3a812bf06e398b85c4500fe3c51108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1210031701,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1210031701,
+    "wof:lastmodified":1537713828,
+    "wof:name":"Phu My Ba",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.26577,
+    13.48005,
+    109.26577,
+    13.48005
+],
+  "geometry": {"coordinates":[109.26577,13.48005],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276672939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,18.7,105.75,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hoi Con",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580535,
+    "gn:latitude":18.7,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u1ecfi C\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai Con",
+        "H\u1ecfi C\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580535
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9976611fc7dca53dcd26543a4f249bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781447,
+            "locality_id":1276672939,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276672939,
+    "wof:lastmodified":1537713965,
+    "wof:name":"Hoi Con",
+    "wof:parent_id":1108781447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    18.7,
+    105.75,
+    18.7
+],
+  "geometry": {"coordinates":[105.75,18.7],"type":"Point"}
+}

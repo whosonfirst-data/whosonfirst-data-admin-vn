@@ -1,0 +1,71 @@
+{
+  "id": 1327153373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97441,18.92031,104.97441,18.92031",
+    "geom:latitude":18.92031,
+    "geom:longitude":104.97441,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Thai Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628059,
+    "gn:latitude":18.92031,
+    "gn:longitude":104.97441,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Th\u00e1i H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e1i H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628059,
+        "wk:page":"Th%C3%A1i_H%C3%B2a"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85015d432b02b1ab37f29b40f1c0142d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781471,
+            "locality_id":1327153373,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1327153373,
+    "wof:lastmodified":1537714381,
+    "wof:name":"Thai Hoa",
+    "wof:parent_id":1108781471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97441,
+    18.92031,
+    104.97441,
+    18.92031
+],
+  "geometry": {"coordinates":[104.97441000000001,18.92031],"type":"Point"}
+}

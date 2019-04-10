@@ -1,0 +1,73 @@
+{
+  "id": 1327045593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46246,22.53898,105.46246,22.53898",
+    "geom:latitude":22.53898,
+    "geom:longitude":105.46246,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Ngoang",
+    "gn:country_code":"VN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338174,
+    "gn:latitude":22.53898,
+    "gn:longitude":105.46246,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00e0 Ngo\u1eb5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u00e0 Ngo\u00e1ng"
+    ],
+    "name:vie_x_variant":[
+        "N\u00e0 Ngo\u1eb5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338174
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7f1c7b9ecaf039317c7f5e5c4d87cfb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1327045593,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1327045593,
+    "wof:lastmodified":1537714290,
+    "wof:name":"Na Ngoang",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46246,
+    22.53898,
+    105.46246,
+    22.53898
+],
+  "geometry": {"coordinates":[105.46245999999999,22.53898],"type":"Point"}
+}

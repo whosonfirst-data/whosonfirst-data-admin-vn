@@ -1,0 +1,73 @@
+{
+  "id": 1259502593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95268,20.47398,105.95268,20.47398",
+    "geom:latitude":20.47398,
+    "geom:longitude":105.95268,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Thanh Luu",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8564088,
+    "gn:latitude":20.47398,
+    "gn:longitude":105.95268,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Thanh L\u01b0u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh L\u01b0u"
+    ],
+    "name:vie_x_variant":[
+        "Thanh Li\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564088
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"165d1206d08f8ab115e481bb062869c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781339,
+            "locality_id":1259502593,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1259502593,
+    "wof:lastmodified":1537714354,
+    "wof:name":"Thanh Luu",
+    "wof:parent_id":1108781339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95268,
+    20.47398,
+    105.95268,
+    20.47398
+],
+  "geometry": {"coordinates":[105.95268,20.47398],"type":"Point"}
+}

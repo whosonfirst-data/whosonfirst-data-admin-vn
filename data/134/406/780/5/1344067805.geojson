@@ -1,0 +1,67 @@
+{
+  "id": 1344067805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68333,22.5,105.68333,22.5",
+    "geom:latitude":22.5,
+    "geom:longitude":105.68333,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Nam Touc",
+    "gn:country_code":"VN",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573138,
+    "gn:latitude":22.5,
+    "gn:longitude":105.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Touc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573138
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e276fa3648636b12f7a5328c7848546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780905,
+            "locality_id":1344067805,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1344067805,
+    "wof:lastmodified":1536863537,
+    "wof:name":"Nam Touc",
+    "wof:parent_id":1108780905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68333,
+    22.5,
+    105.68333,
+    22.5
+],
+  "geometry": {"coordinates":[105.68333,22.5],"type":"Point"}
+}

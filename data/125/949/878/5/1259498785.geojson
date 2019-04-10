@@ -1,0 +1,73 @@
+{
+  "id": 1259498785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.73298,12.75863,108.73298,12.75863",
+    "geom:latitude":12.75863,
+    "geom:longitude":108.73298,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Khoi Tam",
+    "gn:country_code":"VN",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10265769,
+    "gn:latitude":12.75863,
+    "gn:longitude":108.73298,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Kh\u1ed1i T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10265769
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"29eb4dc23f2818378bb711d18e63f350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781853,
+            "locality_id":1259498785,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259498785,
+    "wof:lastmodified":1537714662,
+    "wof:name":"Khoi Tam",
+    "wof:parent_id":1108781853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.73298,
+    12.75863,
+    108.73298,
+    12.75863
+],
+  "geometry": {"coordinates":[108.73298,12.75863],"type":"Point"}
+}

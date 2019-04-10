@@ -1,0 +1,70 @@
+{
+  "id": 1343572067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28716,10.84681,107.28716,10.84681",
+    "geom:latitude":10.84681,
+    "geom:longitude":107.28716,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Tan Hanh",
+    "gn:country_code":"VN",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075911,
+    "gn:latitude":10.84681,
+    "gn:longitude":107.28716,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u00e2n H\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n H\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        890423389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075911
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d9e9435f5ecd4c37963f384d41eb5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":890423389,
+            "locality_id":1343572067,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1343572067,
+    "wof:lastmodified":1537714437,
+    "wof:name":"Tan Hanh",
+    "wof:parent_id":890423389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28716,
+    10.84681,
+    107.28716,
+    10.84681
+],
+  "geometry": {"coordinates":[107.28716,10.84681],"type":"Point"}
+}

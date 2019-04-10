@@ -1,0 +1,70 @@
+{
+  "id": 1343477725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05475,10.58981,107.05475,10.58981",
+    "geom:latitude":10.58981,
+    "geom:longitude":107.05475,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Van Hanh",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421495,
+    "gn:latitude":10.58981,
+    "gn:longitude":107.05475,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"V\u1ea1n H\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u1ea1n H\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421495
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5d0b62e37f0dee316b0fd7a3bfe7bde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782003,
+            "locality_id":1343477725,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1343477725,
+    "wof:lastmodified":1537714308,
+    "wof:name":"Van Hanh",
+    "wof:parent_id":1108782003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05475,
+    10.58981,
+    107.05475,
+    10.58981
+],
+  "geometry": {"coordinates":[107.05475,10.58981],"type":"Point"}
+}

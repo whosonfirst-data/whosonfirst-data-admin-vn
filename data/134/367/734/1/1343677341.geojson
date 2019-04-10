@@ -1,0 +1,67 @@
+{
+  "id": 1343677341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,20.95,105.75,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Yen Lo",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560191,
+    "gn:latitude":20.95,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00ean L\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560191
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51db9557a7b8bcd92695ae996f46f553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780817,
+            "locality_id":1343677341,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1343677341,
+    "wof:lastmodified":1536931381,
+    "wof:name":"Yen Lo",
+    "wof:parent_id":1108780817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    20.95,
+    105.75,
+    20.95
+],
+  "geometry": {"coordinates":[105.75,20.95],"type":"Point"}
+}

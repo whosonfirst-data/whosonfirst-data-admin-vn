@@ -1,0 +1,73 @@
+{
+  "id": 1343672465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74441,22.03831,103.74441,22.03831",
+    "geom:latitude":22.03831,
+    "geom:longitude":103.74441,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Pac Pu",
+    "gn:country_code":"VN",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456836,
+    "gn:latitude":22.03831,
+    "gn:longitude":103.74441,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n P\u1eafc Pu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u1eafc Pu"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n P\u1eafc Pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456836
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9a241751c5bd9d78cc5719882aede81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1343672465,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1343672465,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Ban Pac Pu",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74441,
+    22.03831,
+    103.74441,
+    22.03831
+],
+  "geometry": {"coordinates":[103.74441,22.03831],"type":"Point"}
+}

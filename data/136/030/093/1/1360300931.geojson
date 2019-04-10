@@ -1,0 +1,71 @@
+{
+  "id": 1360300931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05,12.45,109.05,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":109.05,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ninh Hung",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571945,
+    "gn:latitude":12.45,
+    "gn:longitude":109.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ninh H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Nhon",
+        "Ninh H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571945
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b1dfcb5bd004da2dfa1e8d34cee8b3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781727,
+            "locality_id":1360300931,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1360300931,
+    "wof:lastmodified":1537713849,
+    "wof:name":"Ninh Hung",
+    "wof:parent_id":1108781727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05,
+    12.45,
+    109.05,
+    12.45
+],
+  "geometry": {"coordinates":[109.05,12.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242722791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38333,20.35,105.38333,20.35",
+    "geom:latitude":20.35,
+    "geom:longitude":105.38333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xom Chan",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561832,
+    "gn:latitude":20.35,
+    "gn:longitude":105.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m Ch\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561832
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"881abe4ee58fdb75a05f69f089e02283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1242722791,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242722791,
+    "wof:lastmodified":1536853586,
+    "wof:name":"Xom Chan",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38333,
+    20.35,
+    105.38333,
+    20.35
+],
+  "geometry": {"coordinates":[105.38333,20.35],"type":"Point"}
+}

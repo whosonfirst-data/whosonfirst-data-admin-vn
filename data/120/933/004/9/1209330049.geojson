@@ -1,0 +1,64 @@
+{
+  "id": 1209330049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45942,21.30567,105.45942,21.30567",
+    "geom:latitude":21.30567,
+    "geom:longitude":105.45942,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Yen Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201791,
+    "gn:latitude":21.30567,
+    "gn:longitude":105.45942,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Y\u00ean H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201791
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eddfdba7c6cd08b030d2862b394b500b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209330049
+        }
+    ],
+    "wof:id":1209330049,
+    "wof:lastmodified":1537714244,
+    "wof:name":"Yen Hoa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45942,
+    21.30567000000001,
+    105.45942,
+    21.30567000000001
+],
+  "geometry": {"coordinates":[105.45941999999999,21.30567000000001],"type":"Point"}
+}

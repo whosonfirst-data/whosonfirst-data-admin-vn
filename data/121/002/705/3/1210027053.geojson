@@ -1,0 +1,73 @@
+{
+  "id": 1210027053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.356,22.60815,104.356,22.60815",
+    "geom:latitude":22.60815,
+    "geom:longitude":104.356,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Pa Chu Ti",
+    "gn:country_code":"VN",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464892,
+    "gn:latitude":22.60815,
+    "gn:longitude":104.356,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n P\u1ea3 Ch\u01b0 T\u1ec9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u1ea3 Ch\u01b0 T\u1ef7"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n P\u1ea3 Ch\u01b0 T\u1ec9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464892
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f3441f15e9da7d9922b32a236f4093b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1210027053,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1210027053,
+    "wof:lastmodified":1537714319,
+    "wof:name":"Ban Pa Chu Ti",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.356,
+    22.60815,
+    104.356,
+    22.60815
+],
+  "geometry": {"coordinates":[104.35599999999999,22.60815],"type":"Point"}
+}

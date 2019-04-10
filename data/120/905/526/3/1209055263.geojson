@@ -1,0 +1,64 @@
+{
+  "id": 1209055263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1179,21.18005,104.1179,21.18005",
+    "geom:latitude":21.18005,
+    "geom:longitude":104.1179,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Dom",
+    "gn:country_code":"VN",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314627,
+    "gn:latitude":21.18005,
+    "gn:longitude":104.1179,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"B\u1ea3n D\u1ed3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n D\u1ed3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314627
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ff12104525a50fdef230222f35ab0f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209055263
+        }
+    ],
+    "wof:id":1209055263,
+    "wof:lastmodified":1537714691,
+    "wof:name":"Ban Dom",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1179,
+    21.18005,
+    104.1179,
+    21.18005
+],
+  "geometry": {"coordinates":[104.11790000000001,21.18005],"type":"Point"}
+}

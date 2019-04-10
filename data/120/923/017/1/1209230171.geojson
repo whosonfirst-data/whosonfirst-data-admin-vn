@@ -1,0 +1,64 @@
+{
+  "id": 1209230171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02011,21.09881,105.02011,21.09881",
+    "geom:latitude":21.09881,
+    "geom:longitude":105.02011,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Xom Quyen",
+    "gn:country_code":"VN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200173,
+    "gn:latitude":21.09881,
+    "gn:longitude":105.02011,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"X\u00f3m Quy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m Quy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200173
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ee3e1469393d9a94f5e93544e7294c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209230171
+        }
+    ],
+    "wof:id":1209230171,
+    "wof:lastmodified":1537714231,
+    "wof:name":"Xom Quyen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02011,
+    21.09881,
+    105.02011,
+    21.09881
+],
+  "geometry": {"coordinates":[105.02011,21.09881],"type":"Point"}
+}

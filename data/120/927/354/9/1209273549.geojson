@@ -1,0 +1,64 @@
+{
+  "id": 1209273549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08535,21.00496,104.08535,21.00496",
+    "geom:latitude":21.00496,
+    "geom:longitude":104.08535,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Bit",
+    "gn:country_code":"VN",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314792,
+    "gn:latitude":21.00496,
+    "gn:longitude":104.08535,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"B\u1ea3n B\u00edt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n B\u00edt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314792
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5ce23c30be3629fe1da80cd6de6d4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209273549
+        }
+    ],
+    "wof:id":1209273549,
+    "wof:lastmodified":1537714694,
+    "wof:name":"Ban Bit",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08535,
+    21.00496,
+    104.08535,
+    21.00496
+],
+  "geometry": {"coordinates":[104.08535000000001,21.00496],"type":"Point"}
+}

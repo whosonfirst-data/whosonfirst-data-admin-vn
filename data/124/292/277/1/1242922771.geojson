@@ -1,0 +1,70 @@
+{
+  "id": 1242922771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.22039,21.06195,107.22039,21.06195",
+    "geom:latitude":21.06195,
+    "geom:longitude":107.22039,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dong Gai",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432439,
+    "gn:latitude":21.06195,
+    "gn:longitude":107.22039,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"\u0110\u1ed3ng Gai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng Gai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432439
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bbe5624e791722e92edb7c853fd2a711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781115,
+            "locality_id":1242922771,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1242922771,
+    "wof:lastmodified":1537714311,
+    "wof:name":"Dong Gai",
+    "wof:parent_id":1108781115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.22039,
+    21.06195,
+    107.22039,
+    21.06195
+],
+  "geometry": {"coordinates":[107.22038999999999,21.06195],"type":"Point"}
+}

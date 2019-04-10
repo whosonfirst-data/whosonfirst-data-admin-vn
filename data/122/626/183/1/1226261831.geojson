@@ -1,0 +1,73 @@
+{
+  "id": 1226261831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50194,20.77218,105.50194,20.77218",
+    "geom:latitude":20.77218,
+    "geom:longitude":105.50194,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Kha",
+    "gn:country_code":"VN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577239,
+    "gn:latitude":20.77218,
+    "gn:longitude":105.50194,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"X\u00f3m Kh\u1ea3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Kam"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m Kh\u1ea3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577239
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ea71ece30dc58b6a30a0bd8d3f80c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781049,
+            "locality_id":1226261831,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226261831,
+    "wof:lastmodified":1537713920,
+    "wof:name":"Xom Kha",
+    "wof:parent_id":1108781049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50194,
+    20.77218,
+    105.50194,
+    20.77218
+],
+  "geometry": {"coordinates":[105.50194,20.77218],"type":"Point"}
+}

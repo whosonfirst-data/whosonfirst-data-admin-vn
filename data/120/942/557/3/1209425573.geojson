@@ -1,0 +1,64 @@
+{
+  "id": 1209425573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35372,21.02736,105.35372,21.02736",
+    "geom:latitude":21.02736,
+    "geom:longitude":105.35372,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Xom Quan",
+    "gn:country_code":"VN",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201491,
+    "gn:latitude":21.02736,
+    "gn:longitude":105.35372,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"X\u00f3m Qu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m Qu\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201491
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bcfd818923f50b589354426bcd7b3679",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425573
+        }
+    ],
+    "wof:id":1209425573,
+    "wof:lastmodified":1537714242,
+    "wof:name":"Xom Quan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35372,
+    21.02736,
+    105.35372,
+    21.02736
+],
+  "geometry": {"coordinates":[105.35372,21.02736],"type":"Point"}
+}

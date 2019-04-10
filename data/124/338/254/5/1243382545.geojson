@@ -1,0 +1,73 @@
+{
+  "id": 1243382545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.23121,14.49285,108.23121,14.49285",
+    "geom:latitude":14.49285,
+    "geom:longitude":108.23121,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Thon Hai",
+    "gn:country_code":"VN",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676056,
+    "gn:latitude":14.49285,
+    "gn:longitude":108.23121,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Th\u00f4n Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n Hai"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676056
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13dceb860f2fd3f19683eb0c593ab746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781785,
+            "locality_id":1243382545,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1243382545,
+    "wof:lastmodified":1537714404,
+    "wof:name":"Thon Hai",
+    "wof:parent_id":1108781785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.23121,
+    14.49285,
+    108.23121,
+    14.49285
+],
+  "geometry": {"coordinates":[108.23121,14.49285],"type":"Point"}
+}

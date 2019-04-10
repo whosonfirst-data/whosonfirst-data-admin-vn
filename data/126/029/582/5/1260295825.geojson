@@ -1,0 +1,74 @@
+{
+  "id": 1260295825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.80046,14.05626,108.80046,14.05626",
+    "geom:latitude":14.05626,
+    "geom:longitude":108.80046,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Dinh Quang",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583323,
+    "gn:latitude":14.05626,
+    "gn:longitude":108.80046,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"\u0110\u1ecbnh Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Hao",
+        "\u0110\u1ecbnh Quang",
+        "Dinh Xuan",
+        "Dinh Thai",
+        "Dinh Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583323
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"842f74e3a71824e5893be4d4ab3894b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781677,
+            "locality_id":1260295825,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1260295825,
+    "wof:lastmodified":1537713998,
+    "wof:name":"Dinh Quang",
+    "wof:parent_id":1108781677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.80046000000002,
+    14.05626,
+    108.80046000000002,
+    14.05626
+],
+  "geometry": {"coordinates":[108.80046000000002,14.05626],"type":"Point"}
+}

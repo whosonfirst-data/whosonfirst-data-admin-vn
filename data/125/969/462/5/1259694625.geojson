@@ -1,0 +1,71 @@
+{
+  "id": 1259694625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.85,11.93333,108.85,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":108.85,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Lang Bio",
+    "gn:country_code":"VN",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577745,
+    "gn:latitude":11.93333,
+    "gn:longitude":108.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lang Bio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bio",
+        "Lang Bio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577745
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fb6207e2b8ee5885025199b111969e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781737,
+            "locality_id":1259694625,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1259694625,
+    "wof:lastmodified":1537713929,
+    "wof:name":"Lang Bio",
+    "wof:parent_id":1108781737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.85,
+    11.93333,
+    108.85,
+    11.93333
+],
+  "geometry": {"coordinates":[108.84999999999999,11.93333],"type":"Point"}
+}

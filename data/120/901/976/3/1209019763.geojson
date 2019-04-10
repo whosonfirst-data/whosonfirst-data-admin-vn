@@ -1,0 +1,64 @@
+{
+  "id": 1209019763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45132,21.85128,106.45132,21.85128",
+    "geom:latitude":21.85128,
+    "geom:longitude":106.45132,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Teng",
+    "gn:country_code":"VN",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889869,
+    "gn:latitude":21.85128,
+    "gn:longitude":106.45132,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"B\u1ea3n T\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889869
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c19ea15a058f3c58fea54303df037eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019763
+        }
+    ],
+    "wof:id":1209019763,
+    "wof:lastmodified":1537714550,
+    "wof:name":"Ban Teng",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45132,
+    21.85128,
+    106.45132,
+    21.85128
+],
+  "geometry": {"coordinates":[106.45132,21.85128],"type":"Point"}
+}

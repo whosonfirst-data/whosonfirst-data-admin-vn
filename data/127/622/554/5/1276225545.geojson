@@ -1,0 +1,72 @@
+{
+  "id": 1276225545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,22.86667,106.7,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Giuc",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590547,
+    "gn:latitude":22.86667,
+    "gn:longitude":106.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Gi\u1ee7c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Gioc",
+        "B\u1ea3n Gi\u1ee7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590547
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"899b2728c935a6c735bcf22c7f926df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780887,
+            "locality_id":1276225545,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1276225545,
+    "wof:lastmodified":1537714120,
+    "wof:name":"Ban Giuc",
+    "wof:parent_id":1108780887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    22.86667000000001,
+    106.7,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[106.7,22.86667000000001],"type":"Point"}
+}

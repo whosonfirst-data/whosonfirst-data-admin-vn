@@ -1,0 +1,67 @@
+{
+  "id": 1242793065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.23333,12.7,109.23333,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":109.23333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Tan My",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566867,
+    "gn:latitude":12.7,
+    "gn:longitude":109.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"T\u00e2n M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566867
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8dec971b6cb6da0f3328b09377162bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781725,
+            "locality_id":1242793065,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1242793065,
+    "wof:lastmodified":1536753197,
+    "wof:name":"Tan My",
+    "wof:parent_id":1108781725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.23333,
+    12.7,
+    109.23333,
+    12.7
+],
+  "geometry": {"coordinates":[109.23333,12.7],"type":"Point"}
+}

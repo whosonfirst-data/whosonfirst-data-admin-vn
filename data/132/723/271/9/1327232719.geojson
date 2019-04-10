@@ -1,0 +1,67 @@
+{
+  "id": 1327232719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55,10.01667,106.55,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":106.55,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap An Thoi",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594044,
+    "gn:latitude":10.01667,
+    "gn:longitude":106.55,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p An Th\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594044
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e9f1bec9111d02d01cefb7fffd756873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782125,
+            "locality_id":1327232719,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1327232719,
+    "wof:lastmodified":1536968840,
+    "wof:name":"Ap An Thoi",
+    "wof:parent_id":1108782125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55,
+    10.01667,
+    106.55,
+    10.01667
+],
+  "geometry": {"coordinates":[106.55,10.01667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1243279313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.3,13.16667,109.3,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":109.3,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Long Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575644,
+    "gn:latitude":13.16667,
+    "gn:longitude":109.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Long Th\u1ee7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575644
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6eba4edfd79c1d4abd4f61760166b6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243279313,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243279313,
+    "wof:lastmodified":1537044528,
+    "wof:name":"Long Thuy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.3,
+    13.16667,
+    109.3,
+    13.16667
+],
+  "geometry": {"coordinates":[109.3,13.16667],"type":"Point"}
+}

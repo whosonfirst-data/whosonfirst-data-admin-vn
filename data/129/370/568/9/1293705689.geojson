@@ -1,0 +1,70 @@
+{
+  "id": 1293705689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16841,10.49629,107.16841,10.49629",
+    "geom:latitude":10.49629,
+    "geom:longitude":107.16841,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Thanh Pho Ba Ria",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":8594709,
+    "gn:latitude":10.49629,
+    "gn:longitude":107.16841,
+    "gn:modification_date":"2013-08-17",
+    "gn:name":"Th\u00e0nh Ph\u1ed1 B\u00e0 R\u1ecba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e0nh Ph\u1ed1 B\u00e0 R\u1ecba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594709
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fda616a844e998c04c11ede677578620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781993,
+            "locality_id":1293705689,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1293705689,
+    "wof:lastmodified":1537714360,
+    "wof:name":"Thanh Pho Ba Ria",
+    "wof:parent_id":1108781993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16841,
+    10.49629,
+    107.16841,
+    10.49629
+],
+  "geometry": {"coordinates":[107.16840999999999,10.49629],"type":"Point"}
+}

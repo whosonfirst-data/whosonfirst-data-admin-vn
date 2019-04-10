@@ -1,0 +1,69 @@
+{
+  "id": 1276569439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59417,10.26182,105.59417,10.26182",
+    "geom:latitude":10.26182,
+    "geom:longitude":105.59417,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"876.0",
+    "gn:admin3_code":"11496019.0",
+    "gn:asciiname":"Ca Ngang",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496100,
+    "gn:latitude":10.26182,
+    "gn:longitude":105.59417,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"C\u1ea3 Ngang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496100
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68868bc0b8b11f797e559a0ee119f838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782191,
+            "locality_id":1276569439,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1276569439,
+    "wof:lastmodified":1536959825,
+    "wof:name":"Ca Ngang",
+    "wof:parent_id":1108782191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59417,
+    10.26182,
+    105.59417,
+    10.26182
+],
+  "geometry": {"coordinates":[105.59417000000001,10.26182],"type":"Point"}
+}

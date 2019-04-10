@@ -1,0 +1,74 @@
+{
+  "id": 1259990197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.54305,12.48678,108.54305,12.48678",
+    "geom:latitude":12.48678,
+    "geom:longitude":108.54305,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"M'Chan",
+    "gn:country_code":"VN",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586895,
+    "gn:latitude":12.48678,
+    "gn:longitude":108.54305,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"M\u2019Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boun M\u2019Chan",
+        "Bu\u00f4n M\u2019ghan"
+    ],
+    "name:vie_x_preferred":[
+        "M\u2019Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586895
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c835d37f7329ac99129ef5c92626c343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781855,
+            "locality_id":1259990197,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259990197,
+    "wof:lastmodified":1537714046,
+    "wof:name":"M'Chan",
+    "wof:parent_id":1108781855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.54305,
+    12.48678,
+    108.54305,
+    12.48678
+],
+  "geometry": {"coordinates":[108.54304999999999,12.48678],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242829803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75903,10.88367,105.75903,10.88367",
+    "geom:latitude":10.88367,
+    "geom:longitude":105.75903,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xom Moi",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591676,
+    "gn:latitude":10.88367,
+    "gn:longitude":105.75903,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"X\u00f3m M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p X\u00f3m M\u1edbi"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591676
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"37452c720ea773643c0b719bc3ce3291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782067,
+            "locality_id":1242829803,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1242829803,
+    "wof:lastmodified":1537714140,
+    "wof:name":"Xom Moi",
+    "wof:parent_id":1108782067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75903,
+    10.88367,
+    105.75903,
+    10.88367
+],
+  "geometry": {"coordinates":[105.75903,10.88367],"type":"Point"}
+}

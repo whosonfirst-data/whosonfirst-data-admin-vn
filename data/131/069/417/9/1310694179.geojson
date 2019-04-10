@@ -1,0 +1,72 @@
+{
+  "id": 1310694179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05,22.71667,106.05,22.71667",
+    "geom:latitude":22.71667,
+    "geom:longitude":106.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Trung Thon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563635,
+    "gn:latitude":22.71667,
+    "gn:longitude":106.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tr\u00f9ng Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trung Khon",
+        "Tr\u00f9ng Th\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563635
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"559af525544cc3bfc5c4a891bc38190e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780897,
+            "locality_id":1310694179,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310694179,
+    "wof:lastmodified":1537713723,
+    "wof:name":"Trung Thon",
+    "wof:parent_id":1108780897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05,
+    22.71667,
+    106.05,
+    22.71667
+],
+  "geometry": {"coordinates":[106.05,22.71667],"type":"Point"}
+}

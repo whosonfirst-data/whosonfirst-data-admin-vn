@@ -1,0 +1,73 @@
+{
+  "id": 1259990405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02156,22.91173,105.02156,22.91173",
+    "geom:latitude":22.91173,
+    "geom:longitude":105.02156,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Mich B",
+    "gn:country_code":"VN",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589733,
+    "gn:latitude":22.91173,
+    "gn:longitude":105.02156,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n M\u1ecbch B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Mich"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n M\u1ecbch B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589733
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3bb9c01b3977e274e1786758d8cd0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1259990405,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1259990405,
+    "wof:lastmodified":1537714101,
+    "wof:name":"Ban Mich B",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02156,
+    22.91173,
+    105.02156,
+    22.91173
+],
+  "geometry": {"coordinates":[105.02155999999999,22.91173],"type":"Point"}
+}

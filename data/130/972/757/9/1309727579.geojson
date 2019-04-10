@@ -1,0 +1,73 @@
+{
+  "id": 1309727579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09159,11.60478,107.09159,11.60478",
+    "geom:latitude":11.60478,
+    "geom:longitude":107.09159,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Thon Nam",
+    "gn:country_code":"VN",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9078350,
+    "gn:latitude":11.60478,
+    "gn:longitude":107.09159,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Th\u00f4n N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9078350
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"226b9150bccb4ddd1c2fd2125a00015d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1309727579,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1309727579,
+    "wof:lastmodified":1537714444,
+    "wof:name":"Thon Nam",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09159,
+    11.60478,
+    107.09159,
+    11.60478
+],
+  "geometry": {"coordinates":[107.09159,11.60478],"type":"Point"}
+}

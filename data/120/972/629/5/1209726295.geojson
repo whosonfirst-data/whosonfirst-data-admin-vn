@@ -1,0 +1,71 @@
+{
+  "id": 1209726295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.23333,12.98333,109.23333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":109.23333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Van Loc",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563037,
+    "gn:latitude":12.98333,
+    "gn:longitude":109.23333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"V\u1ea1n L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinh Ba",
+        "V\u1ea1n L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563037
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ff2e6fdc2a73ea0511428aaed71904ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781707,
+            "locality_id":1209726295,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209726295,
+    "wof:lastmodified":1537713715,
+    "wof:name":"Van Loc",
+    "wof:parent_id":1108781707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.23333,
+    12.98333,
+    109.23333,
+    12.98333
+],
+  "geometry": {"coordinates":[109.23333,12.98333],"type":"Point"}
+}

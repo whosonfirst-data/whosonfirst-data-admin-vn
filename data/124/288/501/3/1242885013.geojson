@@ -1,0 +1,67 @@
+{
+  "id": 1242885013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80583,9.66861,105.80583,9.66861",
+    "geom:latitude":9.66861,
+    "geom:longitude":105.80583,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Mung Khai",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592976,
+    "gn:latitude":9.66861,
+    "gn:longitude":105.80583,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p M\u01b0ng Khai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592976
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"393187c06fc8efc0572a1f807b138422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782293,
+            "locality_id":1242885013,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1242885013,
+    "wof:lastmodified":1536618656,
+    "wof:name":"Ap Mung Khai",
+    "wof:parent_id":1108782293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80583,
+    9.66861,
+    105.80583,
+    9.66861
+],
+  "geometry": {"coordinates":[105.80583,9.66861],"type":"Point"}
+}

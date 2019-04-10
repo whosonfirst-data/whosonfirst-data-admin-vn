@@ -1,0 +1,72 @@
+{
+  "id": 1343602461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,11.36667,105.91667,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Xom Ba Huong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562070,
+    "gn:latitude":11.36667,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m B\u00e0 H\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Huong",
+        "X\u00f3m B\u00e0 H\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562070
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7138681a1f1148acc7997d848419413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781941,
+            "locality_id":1343602461,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1343602461,
+    "wof:lastmodified":1537713698,
+    "wof:name":"Xom Ba Huong",
+    "wof:parent_id":1108781941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    11.36667,
+    105.91667,
+    11.36667
+],
+  "geometry": {"coordinates":[105.91667,11.36667],"type":"Point"}
+}

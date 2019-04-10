@@ -1,0 +1,67 @@
+{
+  "id": 1226287333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,20.18333,105.65,20.18333",
+    "geom:latitude":20.18333,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Vong Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562482,
+    "gn:latitude":20.18333,
+    "gn:longitude":105.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"V\u00f5ng Th\u00fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562482
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0953d0df4c0a1f8a80b4df78595972f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781409,
+            "locality_id":1226287333,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226287333,
+    "wof:lastmodified":1536872763,
+    "wof:name":"Vong Thuy",
+    "wof:parent_id":1108781409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    20.18333,
+    105.65,
+    20.18333
+],
+  "geometry": {"coordinates":[105.65000000000001,20.18333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259998399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8462,9.24786,104.8462,9.24786",
+    "geom:latitude":9.24786,
+    "geom:longitude":104.8462,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Mui Tram",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574350,
+    "gn:latitude":9.24786,
+    "gn:longitude":104.8462,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"M\u0169i Tr\u00e0m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p M\u0169i Tr\u1ea7m",
+        "M\u0169i Tr\u1ea7m"
+    ],
+    "name:vie_x_preferred":[
+        "M\u0169i Tr\u00e0m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574350
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7f94aade831f9f852630274fc50a425b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782331,
+            "locality_id":1259998399,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1259998399,
+    "wof:lastmodified":1537713883,
+    "wof:name":"Mui Tram",
+    "wof:parent_id":1108782331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8462,
+    9.24786,
+    104.8462,
+    9.24786
+],
+  "geometry": {"coordinates":[104.8462,9.24786],"type":"Point"}
+}

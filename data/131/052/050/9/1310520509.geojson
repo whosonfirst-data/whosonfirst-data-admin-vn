@@ -1,0 +1,74 @@
+{
+  "id": 1310520509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46824,16.67877,107.46824,16.67877",
+    "geom:latitude":16.67877,
+    "geom:longitude":107.46824,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"The My B",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565286,
+    "gn:latitude":16.67877,
+    "gn:longitude":107.46824,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Th\u1ebf M\u1ef9 B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u1ebf M\u1ef9",
+        "Th\u00f4n Th\u1ebf M\u1ef9 B"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ebf M\u1ef9 B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565286
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"28572d7940d318107585772e542324de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1310520509,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1310520509,
+    "wof:lastmodified":1537713746,
+    "wof:name":"The My B",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46824,
+    16.67877,
+    107.46824,
+    16.67877
+],
+  "geometry": {"coordinates":[107.46823999999999,16.67877],"type":"Point"}
+}

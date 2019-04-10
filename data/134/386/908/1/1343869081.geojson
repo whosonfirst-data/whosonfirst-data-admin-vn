@@ -1,0 +1,70 @@
+{
+  "id": 1343869081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.108,21.31724,105.108,21.31724",
+    "geom:latitude":21.31724,
+    "geom:longitude":105.108,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Tan Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200108,
+    "gn:latitude":21.31724,
+    "gn:longitude":105.108,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"T\u00e2n H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200108
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f6a769969fb194fff57ffc42d1e5b86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1343869081,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343869081,
+    "wof:lastmodified":1537714229,
+    "wof:name":"Tan Hoa",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.108,
+    21.31724,
+    105.108,
+    21.31724
+],
+  "geometry": {"coordinates":[105.108,21.31724],"type":"Point"}
+}

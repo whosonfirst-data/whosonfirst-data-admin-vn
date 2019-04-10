@@ -1,0 +1,67 @@
+{
+  "id": 1243469703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51048,22.22629,106.51048,22.22629",
+    "geom:latitude":22.22629,
+    "geom:longitude":106.51048,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Trai",
+    "gn:country_code":"VN",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310849,
+    "gn:latitude":22.22629,
+    "gn:longitude":106.51048,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310849
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6095042239c26dd6bce608a1224ac96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1243469703,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243469703,
+    "wof:lastmodified":1536772538,
+    "wof:name":"Ban Trai",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51048,
+    22.22629,
+    106.51048,
+    22.22629
+],
+  "geometry": {"coordinates":[106.51048,22.22629],"type":"Point"}
+}

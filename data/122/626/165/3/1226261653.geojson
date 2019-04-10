@@ -1,0 +1,67 @@
+{
+  "id": 1226261653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26667,21.75,105.26667,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":105.26667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Tchong",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582584,
+    "gn:latitude":21.75,
+    "gn:longitude":105.26667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110ong Tchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582584
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e9571339e35c7f698406b9fd91a75bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780921,
+            "locality_id":1226261653,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226261653,
+    "wof:lastmodified":1536911052,
+    "wof:name":"Dong Tchong",
+    "wof:parent_id":1108780921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26667,
+    21.75,
+    105.26667,
+    21.75
+],
+  "geometry": {"coordinates":[105.26667,21.75],"type":"Point"}
+}

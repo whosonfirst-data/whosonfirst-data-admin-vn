@@ -1,0 +1,67 @@
+{
+  "id": 1310699631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,22.9,105.55,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dung Chuong",
+    "gn:country_code":"VN",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582245,
+    "gn:latitude":22.9,
+    "gn:longitude":105.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dung Ch\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582245
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad86d37d2c8fe0737bc0fc1d0feca207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1310699631,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310699631,
+    "wof:lastmodified":1536635590,
+    "wof:name":"Dung Chuong",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    22.9,
+    105.55,
+    22.9
+],
+  "geometry": {"coordinates":[105.55,22.9],"type":"Point"}
+}

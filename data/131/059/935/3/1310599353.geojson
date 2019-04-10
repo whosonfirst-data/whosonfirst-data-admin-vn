@@ -1,0 +1,73 @@
+{
+  "id": 1310599353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.76703,22.76079,106.76703,22.76079",
+    "geom:latitude":22.76079,
+    "geom:longitude":106.76703,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Lung Phua",
+    "gn:country_code":"VN",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575326,
+    "gn:latitude":22.76079,
+    "gn:longitude":106.76703,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"B\u1ea3n L\u0169ng Phua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0169ng Phua"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u0169ng Phua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575326
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"64f94367712a81f61be3520772f93f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780889,
+            "locality_id":1310599353,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310599353,
+    "wof:lastmodified":1537713892,
+    "wof:name":"Ban Lung Phua",
+    "wof:parent_id":1108780889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76703,
+    22.76079,
+    106.76703,
+    22.76079
+],
+  "geometry": {"coordinates":[106.76703000000001,22.76079],"type":"Point"}
+}

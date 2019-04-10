@@ -1,0 +1,67 @@
+{
+  "id": 1242622209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,19.9,105.7,19.9",
+    "geom:latitude":19.9,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dong My",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582729,
+    "gn:latitude":19.9,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u1ed3ng M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582729
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2667d229eef2f6454fa1144f9569a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781425,
+            "locality_id":1242622209,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242622209,
+    "wof:lastmodified":1536998794,
+    "wof:name":"Dong My",
+    "wof:parent_id":1108781425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    19.9,
+    105.7,
+    19.9
+],
+  "geometry": {"coordinates":[105.7,19.9],"type":"Point"}
+}

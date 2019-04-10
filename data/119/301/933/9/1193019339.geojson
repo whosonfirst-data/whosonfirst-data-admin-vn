@@ -1,0 +1,70 @@
+{
+  "id": 1193019339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94601,10.55542,104.94601,10.55542",
+    "geom:latitude":10.55542,
+    "geom:longitude":104.94601,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu Cuong",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375988,
+    "gn:latitude":10.55542,
+    "gn:longitude":104.94601,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ph\u00fa C\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa C\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375988
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2d574d9d70d32ca3e213de8371aadde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782209,
+            "locality_id":1193019339,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1193019339,
+    "wof:lastmodified":1537714300,
+    "wof:name":"Phu Cuong",
+    "wof:parent_id":1108782209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94601000000002,
+    10.55542,
+    104.94601000000002,
+    10.55542
+],
+  "geometry": {"coordinates":[104.94601000000002,10.55542],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259890661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54288,18.39941,105.54288,18.39941",
+    "geom:latitude":18.39941,
+    "geom:longitude":105.54288,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ru Cong",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568246,
+    "gn:latitude":18.39941,
+    "gn:longitude":105.54288,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"R\u00fa C\u1ed9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00fa C\u1ed3ng"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00fa C\u1ed9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568246
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9025405823166927dec800653070f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1259890661,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1259890661,
+    "wof:lastmodified":1537713796,
+    "wof:name":"Ru Cong",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54288,
+    18.39941,
+    105.54288,
+    18.39941
+],
+  "geometry": {"coordinates":[105.54288,18.39941],"type":"Point"}
+}

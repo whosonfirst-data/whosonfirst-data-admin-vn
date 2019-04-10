@@ -1,0 +1,73 @@
+{
+  "id": 1209726433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02054,9.03105,105.02054,9.03105",
+    "geom:latitude":9.03105,
+    "geom:longitude":105.02054,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Vinh Goc",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591766,
+    "gn:latitude":9.03105,
+    "gn:longitude":105.02054,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Vinh G\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p V\u00ecnh G\u1ed1c"
+    ],
+    "name:vie_x_preferred":[
+        "Vinh G\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591766
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7b496f79471095966c39c1e3453571b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782335,
+            "locality_id":1209726433,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1209726433,
+    "wof:lastmodified":1537714142,
+    "wof:name":"Vinh Goc",
+    "wof:parent_id":1108782335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02054,
+    9.03105,
+    105.02054,
+    9.03105
+],
+  "geometry": {"coordinates":[105.02054,9.03105],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310324011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83527,22.16839,105.83527,22.16839",
+    "geom:latitude":22.16839,
+    "geom:longitude":105.83527,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Pam",
+    "gn:country_code":"VN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869912,
+    "gn:latitude":22.16839,
+    "gn:longitude":105.83527,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"N\u00e0 Pam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Pam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869912
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5012298786412e50f4e2e88623c6b94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780903,
+            "locality_id":1310324011,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310324011,
+    "wof:lastmodified":1537714532,
+    "wof:name":"Na Pam",
+    "wof:parent_id":1108780903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83527,
+    22.16839,
+    105.83527,
+    22.16839
+],
+  "geometry": {"coordinates":[105.83526999999999,22.16839],"type":"Point"}
+}

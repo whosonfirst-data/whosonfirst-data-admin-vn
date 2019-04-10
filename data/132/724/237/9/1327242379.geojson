@@ -1,0 +1,71 @@
+{
+  "id": 1327242379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95,13.05,108.95,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":108.95,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"An Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594427,
+    "gn:latitude":13.05,
+    "gn:longitude":108.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"An H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tri Bon",
+        "An H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594427
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"90c6d5b553e6922c0909c9a8d2901f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1327242379,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1327242379,
+    "wof:lastmodified":1537714207,
+    "wof:name":"An Hoa",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95,
+    13.05,
+    108.95,
+    13.05
+],
+  "geometry": {"coordinates":[108.95,13.05],"type":"Point"}
+}

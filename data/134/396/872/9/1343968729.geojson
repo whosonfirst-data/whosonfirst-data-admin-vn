@@ -1,0 +1,67 @@
+{
+  "id": 1343968729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.26667,12.78333,108.26667,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":108.26667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Dut",
+    "gn:country_code":"VN",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587051,
+    "gn:latitude":12.78333,
+    "gn:longitude":108.26667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu\u00f4n Dut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587051
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bc13d4c0c4e06b3ca8759d3c412586d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781835,
+            "locality_id":1343968729,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1343968729,
+    "wof:lastmodified":1537007226,
+    "wof:name":"Buon Dut",
+    "wof:parent_id":1108781835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.26667,
+    12.78333,
+    108.26667,
+    12.78333
+],
+  "geometry": {"coordinates":[108.26667,12.78333],"type":"Point"}
+}

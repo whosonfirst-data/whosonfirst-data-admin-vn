@@ -1,0 +1,64 @@
+{
+  "id": 1209233467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45869,17.2083,106.45869,17.2083",
+    "geom:latitude":17.2083,
+    "geom:longitude":106.45869,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Long Son",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646702,
+    "gn:latitude":17.2083,
+    "gn:longitude":106.45869,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"Long S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646702
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"815a024d678124a97586c59da98c83e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233467
+        }
+    ],
+    "wof:id":1209233467,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Long Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45869,
+    17.2083,
+    106.45869,
+    17.2083
+],
+  "geometry": {"coordinates":[106.45869,17.2083],"type":"Point"}
+}

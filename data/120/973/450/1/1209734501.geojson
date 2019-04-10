@@ -1,0 +1,67 @@
+{
+  "id": 1209734501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84522,22.28814,105.84522,22.28814",
+    "geom:latitude":22.28814,
+    "geom:longitude":105.84522,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Bo Lin",
+    "gn:country_code":"VN",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311552,
+    "gn:latitude":22.28814,
+    "gn:longitude":105.84522,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u00f3 L\u1ecbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311552
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b64101b2fee8e6b2c7cd67406d8f474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1209734501,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1209734501,
+    "wof:lastmodified":1536375152,
+    "wof:name":"Bo Lin",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84522,
+    22.28814,
+    105.84522,
+    22.28814
+],
+  "geometry": {"coordinates":[105.84522,22.28814],"type":"Point"}
+}

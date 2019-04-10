@@ -1,0 +1,72 @@
+{
+  "id": 1293894289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36056,9.6675,106.36056,9.6675",
+    "geom:latitude":9.6675,
+    "geom:longitude":106.36056,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Thuong Tu",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591932,
+    "gn:latitude":9.6675,
+    "gn:longitude":106.36056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Th\u01b0\u1eddng Tu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u01b0\u1eddng Tu",
+        "\u1ea4p Th\u01b0\u1eddng Tu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591932
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2c93a78debec8a89959ec2dae75b7db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1293894289,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1293894289,
+    "wof:lastmodified":1537714147,
+    "wof:name":"Ap Thuong Tu",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36056,
+    9.6675,
+    106.36056,
+    9.6675
+],
+  "geometry": {"coordinates":[106.36056000000001,9.6675],"type":"Point"}
+}

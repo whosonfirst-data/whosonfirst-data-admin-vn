@@ -1,0 +1,71 @@
+{
+  "id": 1259802579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.36667,16.63333,107.36667,16.63333",
+    "geom:latitude":16.63333,
+    "geom:longitude":107.36667,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Trach Pho",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591910,
+    "gn:latitude":16.63333,
+    "gn:longitude":107.36667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p Tr\u1ea1ch Ph\u1ed5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uu Diem",
+        "\u1ea4p Tr\u1ea1ch Ph\u1ed5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591910
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9e878240e851fafcb3df446efbed8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1259802579,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1259802579,
+    "wof:lastmodified":1537714146,
+    "wof:name":"Ap Trach Pho",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.36667,
+    16.63332999999999,
+    107.36667,
+    16.63332999999999
+],
+  "geometry": {"coordinates":[107.36667,16.63332999999999],"type":"Point"}
+}

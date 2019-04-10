@@ -1,0 +1,72 @@
+{
+  "id": 1326874953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31667,19.83333,105.31667,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":105.31667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Ca",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577702,
+    "gn:latitude":19.83333,
+    "gn:longitude":105.31667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng Ca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Ga",
+        "L\u00e0ng Ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577702
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"622cd89d9c2ec795fc1e1056c11e198a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1326874953,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1326874953,
+    "wof:lastmodified":1537713929,
+    "wof:name":"Lang Ca",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31667,
+    19.83333,
+    105.31667,
+    19.83333
+],
+  "geometry": {"coordinates":[105.31667,19.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293924229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4,19.8,105.4,19.8",
+    "geom:latitude":19.8,
+    "geom:longitude":105.4,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dong Trac",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582519,
+    "gn:latitude":19.8,
+    "gn:longitude":105.4,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng Tr\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582519
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"01c2762320b732694996e3a507af96de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1293924229,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293924229,
+    "wof:lastmodified":1536654584,
+    "wof:name":"Dong Trac",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4,
+    19.8,
+    105.4,
+    19.8
+],
+  "geometry": {"coordinates":[105.40000000000001,19.8],"type":"Point"}
+}

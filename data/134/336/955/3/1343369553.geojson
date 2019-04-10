@@ -1,0 +1,75 @@
+{
+  "id": 1343369553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31289,9.60737,106.31289,9.60737",
+    "geom:latitude":9.60737,
+    "geom:longitude":106.31289,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Cai Coi",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593728,
+    "gn:latitude":9.60737,
+    "gn:longitude":106.31289,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"C\u00e1i C\u1ed1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p C\u1ea3 C\u1ed1i",
+        "Ap Ca Co",
+        "C\u1ea3 G\u1ed1i"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e1i C\u1ed1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593728
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f478ce25253f7b562b4f4ecbb6e56c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782147,
+            "locality_id":1343369553,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1343369553,
+    "wof:lastmodified":1537714193,
+    "wof:name":"Cai Coi",
+    "wof:parent_id":1108782147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31289,
+    9.60737,
+    106.31289,
+    9.60737
+],
+  "geometry": {"coordinates":[106.31289,9.60737],"type":"Point"}
+}

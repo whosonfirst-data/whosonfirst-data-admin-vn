@@ -1,0 +1,70 @@
+{
+  "id": 1343869051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06565,22.48857,106.06565,22.48857",
+    "geom:latitude":22.48857,
+    "geom:longitude":106.06565,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khao Sao",
+    "gn:country_code":"VN",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381918,
+    "gn:latitude":22.48857,
+    "gn:longitude":106.06565,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Khao Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khao Sao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381918
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e43c68dc4fa8ac3672402b571ec41dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1343869051,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343869051,
+    "wof:lastmodified":1537714303,
+    "wof:name":"Khao Sao",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06565,
+    22.48857000000001,
+    106.06565,
+    22.48857000000001
+],
+  "geometry": {"coordinates":[106.06565000000001,22.48857000000001],"type":"Point"}
+}

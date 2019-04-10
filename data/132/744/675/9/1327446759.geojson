@@ -1,0 +1,72 @@
+{
+  "id": 1327446759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,22.05,106.2,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ba Bien",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591564,
+    "gn:latitude":22.05,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba Bi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pia Bien",
+        "Ba Bi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591564
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52ef10f155fc333d5d32deff8236083e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1327446759,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1327446759,
+    "wof:lastmodified":1537714138,
+    "wof:name":"Ba Bien",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    22.05,
+    106.2,
+    22.05
+],
+  "geometry": {"coordinates":[106.2,22.05],"type":"Point"}
+}

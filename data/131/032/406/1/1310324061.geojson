@@ -1,0 +1,73 @@
+{
+  "id": 1310324061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.29268,21.84017,104.29268,21.84017",
+    "geom:latitude":21.84017,
+    "geom:longitude":104.29268,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Thao Xa Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565988,
+    "gn:latitude":21.84017,
+    "gn:longitude":104.29268,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Th\u00e0o X\u00e1 Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00e0o Ch\u00e0 Ch\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0o X\u00e1 Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565988
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8bc07bea7c95058c9ae92e3c984624dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1310324061,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1310324061,
+    "wof:lastmodified":1537713770,
+    "wof:name":"Thao Xa Chai",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.29268,
+    21.84017,
+    104.29268,
+    21.84017
+],
+  "geometry": {"coordinates":[104.29268,21.84017],"type":"Point"}
+}

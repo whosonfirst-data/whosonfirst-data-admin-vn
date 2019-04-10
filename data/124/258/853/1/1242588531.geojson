@@ -1,0 +1,67 @@
+{
+  "id": 1242588531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93045,22.43372,105.93045,22.43372",
+    "geom:latitude":22.43372,
+    "geom:longitude":105.93045,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Bo Mon",
+    "gn:country_code":"VN",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311754,
+    "gn:latitude":22.43372,
+    "gn:longitude":105.93045,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u00f3 M\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311754
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e679bd0afde45348c21beb4c72830213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1242588531,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242588531,
+    "wof:lastmodified":1537045895,
+    "wof:name":"Bo Mon",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93045,
+    22.43372,
+    105.93045,
+    22.43372
+],
+  "geometry": {"coordinates":[105.93044999999999,22.43372],"type":"Point"}
+}

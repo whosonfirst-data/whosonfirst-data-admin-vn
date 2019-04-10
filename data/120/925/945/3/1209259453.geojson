@@ -1,0 +1,61 @@
+{
+  "id": 1209259453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46667,20.06667,105.46667,20.06667",
+    "geom:latitude":20.06667,
+    "geom:longitude":105.46667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Giot",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577349,
+    "gn:latitude":20.06667,
+    "gn:longitude":105.46667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Gi\u00f3t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577349
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"81b3934f6c0c448625254532ff6176d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209259453
+        }
+    ],
+    "wof:id":1209259453,
+    "wof:lastmodified":1536292742,
+    "wof:name":"Lang Giot",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46667,
+    20.06667,
+    105.46667,
+    20.06667
+],
+  "geometry": {"coordinates":[105.46666999999999,20.06667],"type":"Point"}
+}

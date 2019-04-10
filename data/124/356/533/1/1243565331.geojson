@@ -1,0 +1,70 @@
+{
+  "id": 1243565331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61411,21.89864,104.61411,21.89864",
+    "geom:latitude":21.89864,
+    "geom:longitude":104.61411,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Da Moc",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944275,
+    "gn:latitude":21.89864,
+    "gn:longitude":104.61411,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"\u0110\u00e1 M\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00e1 M\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944275
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cbc8bf378c33536ab4e66fd00b96ec20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1243565331,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1243565331,
+    "wof:lastmodified":1537714733,
+    "wof:name":"Da Moc",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61411,
+    21.89864,
+    104.61411,
+    21.89864
+],
+  "geometry": {"coordinates":[104.61411,21.89864],"type":"Point"}
+}

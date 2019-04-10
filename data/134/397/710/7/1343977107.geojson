@@ -1,0 +1,70 @@
+{
+  "id": 1343977107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56667,18.38333,105.56667,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":105.56667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Lam Thao",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577858,
+    "gn:latitude":18.38333,
+    "gn:longitude":105.56667,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"L\u00e2m Thao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e2m Thao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577858
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b1065ed6a2a8ea2a9e400f6c69894635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1343977107,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343977107,
+    "wof:lastmodified":1537713931,
+    "wof:name":"Lam Thao",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56667,
+    18.38333,
+    105.56667,
+    18.38333
+],
+  "geometry": {"coordinates":[105.56667,18.38333],"type":"Point"}
+}

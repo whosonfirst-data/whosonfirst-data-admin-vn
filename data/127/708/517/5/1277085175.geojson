@@ -1,0 +1,70 @@
+{
+  "id": 1277085175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89851,21.13914,105.89851,21.13914",
+    "geom:latitude":21.13914,
+    "geom:longitude":105.89851,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Chau Phong",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616169,
+    "gn:latitude":21.13914,
+    "gn:longitude":105.89851,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ch\u00e2u Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u00e2u Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616169
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24509972c33fda93fc6d59eb8fb05406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780807,
+            "locality_id":1277085175,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1277085175,
+    "wof:lastmodified":1537714376,
+    "wof:name":"Chau Phong",
+    "wof:parent_id":1108780807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89851000000002,
+    21.13914,
+    105.89851000000002,
+    21.13914
+],
+  "geometry": {"coordinates":[105.89851000000002,21.13914],"type":"Point"}
+}

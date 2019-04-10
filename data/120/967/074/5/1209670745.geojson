@@ -1,0 +1,61 @@
+{
+  "id": 1209670745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,10.6,106.1,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xom Bac Dong",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562082,
+    "gn:latitude":10.6,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"X\u00f3m B\u1eafc \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562082
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b8d59806cf0bb48ab0f5510bd9e32df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209670745
+        }
+    ],
+    "wof:id":1209670745,
+    "wof:lastmodified":1536279931,
+    "wof:name":"Xom Bac Dong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    10.6,
+    106.1,
+    10.6
+],
+  "geometry": {"coordinates":[106.09999999999999,10.6],"type":"Point"}
+}

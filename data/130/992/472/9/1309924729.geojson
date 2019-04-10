@@ -1,0 +1,70 @@
+{
+  "id": 1309924729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.72344,10.98066,106.72344,10.98066",
+    "geom:latitude":10.98066,
+    "geom:longitude":106.72344,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Binh Phu",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8360949,
+    "gn:latitude":10.98066,
+    "gn:longitude":106.72344,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"B\u00ecnh Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8360949
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d0a3434d5a9542d90f0471c1336ffda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781965,
+            "locality_id":1309924729,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1309924729,
+    "wof:lastmodified":1537714298,
+    "wof:name":"Binh Phu",
+    "wof:parent_id":1108781965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.72344,
+    10.98066,
+    106.72344,
+    10.98066
+],
+  "geometry": {"coordinates":[106.72344,10.98066],"type":"Point"}
+}

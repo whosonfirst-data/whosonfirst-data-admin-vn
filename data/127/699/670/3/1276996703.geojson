@@ -1,0 +1,74 @@
+{
+  "id": 1276996703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.14563,12.34033,108.14563,12.34033",
+    "geom:latitude":12.34033,
+    "geom:longitude":108.14563,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Don",
+    "gn:country_code":"VN",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587086,
+    "gn:latitude":12.34033,
+    "gn:longitude":108.14563,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n D\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon G\u2019D\u00e9",
+        "Bu\u00f4n Dham"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n D\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587086
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"56a402cd93cacdb181ca13536fde4a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1276996703,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1276996703,
+    "wof:lastmodified":1537714055,
+    "wof:name":"Buon Don",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.14563,
+    12.34033,
+    108.14563,
+    12.34033
+],
+  "geometry": {"coordinates":[108.14563,12.34033],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209834475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.15,21.95,104.15,21.95",
+    "geom:latitude":21.95,
+    "geom:longitude":104.15,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Phu Ly Chay",
+    "gn:country_code":"VN",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576762,
+    "gn:latitude":21.95,
+    "gn:longitude":104.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Ph\u00fa L\u00fd Ch\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Ph\u00fa L\u00fd Ch\u00e2y",
+        "L\u00e0ng Ph\u00fa L\u00fd Ch\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576762
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"424c2a0140fec68444a884d9e8a585c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1209834475,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1209834475,
+    "wof:lastmodified":1537713912,
+    "wof:name":"Lang Phu Ly Chay",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.15,
+    21.95,
+    104.15,
+    21.95
+],
+  "geometry": {"coordinates":[104.15000000000001,21.95],"type":"Point"}
+}

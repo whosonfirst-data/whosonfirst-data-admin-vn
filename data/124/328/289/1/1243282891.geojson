@@ -1,0 +1,71 @@
+{
+  "id": 1243282891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.88333,13.1,108.88333,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":108.88333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Ma Dai",
+    "gn:country_code":"VN",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589831,
+    "gn:latitude":13.1,
+    "gn:longitude":108.88333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ban Ma \u0110ai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Ma Dai",
+        "Ban Ma \u0110ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bfa0c34f8bebc56c24fad51a88a330fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1243282891,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1243282891,
+    "wof:lastmodified":1537714104,
+    "wof:name":"Ban Ma Dai",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.88333,
+    13.1,
+    108.88333,
+    13.1
+],
+  "geometry": {"coordinates":[108.88333,13.1],"type":"Point"}
+}

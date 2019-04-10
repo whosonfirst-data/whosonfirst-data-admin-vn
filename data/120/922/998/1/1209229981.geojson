@@ -1,0 +1,66 @@
+{
+  "id": 1209229981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,21.28333,105.95,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Huong Cau",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580134,
+    "gn:latitude":21.28333,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u01b0\u01a1ng C\u00e1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u1ebb C\u00e2u",
+        "Huogn Cau",
+        "H\u01b0\u01a1ng C\u00e1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580134
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50818877253eecbe264000da0ea97fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209229981
+        }
+    ],
+    "wof:id":1209229981,
+    "wof:lastmodified":1537713962,
+    "wof:name":"Huong Cau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    21.28333,
+    105.95,
+    21.28333
+],
+  "geometry": {"coordinates":[105.95,21.28333],"type":"Point"}
+}

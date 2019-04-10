@@ -1,0 +1,67 @@
+{
+  "id": 1327344441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9,22.26667,103.9,22.26667",
+    "geom:latitude":22.26667,
+    "geom:longitude":103.9,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Chai Man",
+    "gn:country_code":"VN",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585814,
+    "gn:latitude":22.26667,
+    "gn:longitude":103.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u1ea3i M\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585814
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68a4cf91389c5567733f3623622ff199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1327344441,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327344441,
+    "wof:lastmodified":1536807458,
+    "wof:name":"Chai Man",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9,
+    22.26667,
+    103.9,
+    22.26667
+],
+  "geometry": {"coordinates":[103.90000000000001,22.26667],"type":"Point"}
+}

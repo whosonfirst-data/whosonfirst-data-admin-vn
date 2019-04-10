@@ -1,0 +1,71 @@
+{
+  "id": 1209929737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05,22.70556,104.05,22.70556",
+    "geom:latitude":22.70556,
+    "geom:longitude":104.05,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nam Tsai",
+    "gn:country_code":"VN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573130,
+    "gn:latitude":22.70556,
+    "gn:longitude":104.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Tsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Tsa",
+        "Nam Tsai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7845eb3c7b815a3df7b9244d26971c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1209929737,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1209929737,
+    "wof:lastmodified":1537713865,
+    "wof:name":"Nam Tsai",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05,
+    22.70556,
+    104.05,
+    22.70556
+],
+  "geometry": {"coordinates":[104.05,22.70556],"type":"Point"}
+}

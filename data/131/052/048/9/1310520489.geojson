@@ -1,0 +1,70 @@
+{
+  "id": 1310520489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.93653,15.07784,107.93653,15.07784",
+    "geom:latitude":15.07784,
+    "geom:longitude":107.93653,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Le Van",
+    "gn:country_code":"VN",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676013,
+    "gn:latitude":15.07784,
+    "gn:longitude":107.93653,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"L\u00ea V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00ea V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676013
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"271f2e0e107f0f4308a7362018cb9aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1310520489,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1310520489,
+    "wof:lastmodified":1537714402,
+    "wof:name":"Le Van",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.93653,
+    15.07784,
+    107.93653,
+    15.07784
+],
+  "geometry": {"coordinates":[107.93653,15.07784],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276287797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77807,10.28169,104.77807,10.28169",
+    "geom:latitude":10.28169,
+    "geom:longitude":104.77807,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kenh Bon",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9280705,
+    "gn:latitude":10.28169,
+    "gn:longitude":104.77807,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"K\u00eanh B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "K\u00eanh B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "K\u00eanh 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9280705
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f8b8db5123d08e23f98fdf3245a0d676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782227,
+            "locality_id":1276287797,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1276287797,
+    "wof:lastmodified":1537714463,
+    "wof:name":"Kenh Bon",
+    "wof:parent_id":1108782227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77807,
+    10.28169,
+    104.77807,
+    10.28169
+],
+  "geometry": {"coordinates":[104.77807,10.28169],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209933239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.27667,9.61833,106.27667,9.61833",
+    "geom:latitude":9.61833,
+    "geom:longitude":106.27667,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Ca Loc",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593696,
+    "gn:latitude":9.61833,
+    "gn:longitude":106.27667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p C\u00e1 L\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e1 L\u00f3c",
+        "\u1ea4p C\u00e1 L\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"597a2fbbeff8d188d960fe1309fb033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1209933239,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1209933239,
+    "wof:lastmodified":1537714192,
+    "wof:name":"Ap Ca Loc",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.27667,
+    9.61833,
+    106.27667,
+    9.61833
+],
+  "geometry": {"coordinates":[106.27667,9.61833],"type":"Point"}
+}

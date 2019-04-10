@@ -1,0 +1,71 @@
+{
+  "id": 1344176063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.15,10.5,107.15,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":107.15,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Lang Long Huong",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577076,
+    "gn:latitude":10.5,
+    "gn:longitude":107.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Long H\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long Huong",
+        "L\u00e0ng Long H\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577076
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2b75315193553bc762f16fa3e5cf854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781993,
+            "locality_id":1344176063,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1344176063,
+    "wof:lastmodified":1537713917,
+    "wof:name":"Lang Long Huong",
+    "wof:parent_id":1108781993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.15,
+    10.5,
+    107.15,
+    10.5
+],
+  "geometry": {"coordinates":[107.15000000000001,10.5],"type":"Point"}
+}

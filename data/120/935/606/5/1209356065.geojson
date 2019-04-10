@@ -1,0 +1,64 @@
+{
+  "id": 1209356065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71729,20.81489,103.71729,20.81489",
+    "geom:latitude":20.81489,
+    "geom:longitude":103.71729,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Phieng Pen",
+    "gn:country_code":"VN",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545406,
+    "gn:latitude":20.81489,
+    "gn:longitude":103.71729,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Phi\u1ec1ng Pen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phi\u1ec1ng Pen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545406
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"54ae5b255c2b312c5d3324dea0697358",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209356065
+        }
+    ],
+    "wof:id":1209356065,
+    "wof:lastmodified":1537714342,
+    "wof:name":"Phieng Pen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71729,
+    20.81489,
+    103.71729,
+    20.81489
+],
+  "geometry": {"coordinates":[103.71729000000001,20.81489],"type":"Point"}
+}

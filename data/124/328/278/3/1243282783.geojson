@@ -1,0 +1,67 @@
+{
+  "id": 1243282783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.81667,16.53333,106.81667,16.53333",
+    "geom:latitude":16.53333,
+    "geom:longitude":106.81667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Sa Mei",
+    "gn:country_code":"VN",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568157,
+    "gn:latitude":16.53333,
+    "gn:longitude":106.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sa Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568157
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"96812e40317d447427a51180a187cb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1243282783,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1243282783,
+    "wof:lastmodified":1537039782,
+    "wof:name":"Sa Mei",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81667,
+    16.53333,
+    106.81667,
+    16.53333
+],
+  "geometry": {"coordinates":[106.81667,16.53333],"type":"Point"}
+}

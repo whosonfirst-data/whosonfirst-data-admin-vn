@@ -1,0 +1,64 @@
+{
+  "id": 1209433831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2407,21.64143,105.2407,21.64143",
+    "geom:latitude":21.64143,
+    "geom:longitude":105.2407,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Thuong Ban",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138364,
+    "gn:latitude":21.64143,
+    "gn:longitude":105.2407,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Th\u01b0\u1ee3ng B\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u01b0\u1ee3ng B\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca9d5df77037fc82b2f6a91017ebf966",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433831
+        }
+    ],
+    "wof:id":1209433831,
+    "wof:lastmodified":1537714222,
+    "wof:name":"Thuong Ban",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2407,
+    21.64143,
+    105.2407,
+    21.64143
+],
+  "geometry": {"coordinates":[105.2407,21.64143],"type":"Point"}
+}

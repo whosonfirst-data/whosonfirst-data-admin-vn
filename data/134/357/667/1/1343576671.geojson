@@ -1,0 +1,70 @@
+{
+  "id": 1343576671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34203,23.11592,105.34203,23.11592",
+    "geom:latitude":23.11592,
+    "geom:longitude":105.34203,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Sung Mung",
+    "gn:country_code":"VN",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474119,
+    "gn:latitude":23.11592,
+    "gn:longitude":105.34203,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"S\u00fang M\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u00fang M\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474119
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"facc695fdd596be94927a00edd612f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780853,
+            "locality_id":1343576671,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343576671,
+    "wof:lastmodified":1537714322,
+    "wof:name":"Sung Mung",
+    "wof:parent_id":1108780853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34203,
+    23.11592000000001,
+    105.34203,
+    23.11592000000001
+],
+  "geometry": {"coordinates":[105.34202999999999,23.11592000000001],"type":"Point"}
+}

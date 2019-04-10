@@ -1,0 +1,82 @@
+{
+  "id": 1259440901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.80772,11.54798,107.80772,11.54798",
+    "geom:latitude":11.54798,
+    "geom:longitude":107.80772,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"673.0",
+    "gn:asciiname":"Bao Loc",
+    "gn:country_code":"VN",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1588275,
+    "gn:latitude":11.54798,
+    "gn:longitude":107.80772,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"B\u1ea3o L\u1ed9c",
+    "gn:population":151915,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043e\u043b\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u1ea4p Th\u00e1nh T\u00e2m",
+        "Cong Hinh",
+        "Blao",
+        "Ban Lao",
+        "B\u1ea3o L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588275,
+        "wk:page":"B%E1%BA%A3o_L%E1%BB%99c"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c989b51c7ade76fc4f1250c8015476d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781887,
+            "locality_id":1259440901,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1259440901,
+    "wof:lastmodified":1537714075,
+    "wof:name":"Bao Loc",
+    "wof:parent_id":1108781887,
+    "wof:placetype":"locality",
+    "wof:population":151915,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.80772,
+    11.54798,
+    107.80772,
+    11.54798
+],
+  "geometry": {"coordinates":[107.80772,11.54798],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226000661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.91447,11.61739,107.91447,11.61739",
+    "geom:latitude":11.61739,
+    "geom:longitude":107.91447,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dong La",
+    "gn:country_code":"VN",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991604,
+    "gn:latitude":11.61739,
+    "gn:longitude":107.91447,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u1ed3ng La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng La"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991604
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c175d22632a5d91b0cbe73470ff9af5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781903,
+            "locality_id":1226000661,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1226000661,
+    "wof:lastmodified":1537714423,
+    "wof:name":"Dong La",
+    "wof:parent_id":1108781903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.91447,
+    11.61739,
+    107.91447,
+    11.61739
+],
+  "geometry": {"coordinates":[107.91446999999999,11.61739],"type":"Point"}
+}

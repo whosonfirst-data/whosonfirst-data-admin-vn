@@ -1,0 +1,61 @@
+{
+  "id": 1209230047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.21667,13.9,109.21667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":109.21667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Go Boi",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581543,
+    "gn:latitude":13.9,
+    "gn:longitude":109.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"G\u00f2 B\u1ed3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581543
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c7c0a54a3caeecb45d8da8cfba064786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209230047
+        }
+    ],
+    "wof:id":1209230047,
+    "wof:lastmodified":1536293665,
+    "wof:name":"Go Boi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.21667,
+    13.9,
+    109.21667,
+    13.9
+],
+  "geometry": {"coordinates":[109.21666999999999,13.9],"type":"Point"}
+}

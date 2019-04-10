@@ -1,0 +1,70 @@
+{
+  "id": 1226443245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17014,10.20044,106.17014,10.20044",
+    "geom:latitude":10.20044,
+    "geom:longitude":106.17014,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thien Luong",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531901,
+    "gn:latitude":10.20044,
+    "gn:longitude":106.17014,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Thi\u00ean L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thi\u00ean L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531901
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"000eb2863249481618df11307b5a3da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782115,
+            "locality_id":1226443245,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1226443245,
+    "wof:lastmodified":1537714473,
+    "wof:name":"Thien Luong",
+    "wof:parent_id":1108782115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17014,
+    10.20044,
+    106.17014,
+    10.20044
+],
+  "geometry": {"coordinates":[106.17014,10.20044],"type":"Point"}
+}

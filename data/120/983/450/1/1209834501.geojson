@@ -1,0 +1,71 @@
+{
+  "id": 1209834501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01667,17.68333,106.01667,17.68333",
+    "geom:latitude":17.68333,
+    "geom:longitude":106.01667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Lang Gieo",
+    "gn:country_code":"VN",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577357,
+    "gn:latitude":17.68333,
+    "gn:longitude":106.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lang Gieo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Giec",
+        "Lang Gieo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577357
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"111a968fbd96b1aec04b868ee27d08a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1209834501,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1209834501,
+    "wof:lastmodified":1537713922,
+    "wof:name":"Lang Gieo",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01667,
+    17.68332999999999,
+    106.01667,
+    17.68332999999999
+],
+  "geometry": {"coordinates":[106.01667,17.68332999999999],"type":"Point"}
+}

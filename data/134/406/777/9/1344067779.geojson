@@ -1,0 +1,70 @@
+{
+  "id": 1344067779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.99805,13.61945,108.99805,13.61945",
+    "geom:latitude":13.61945,
+    "geom:longitude":108.99805,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Van Canh",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1563169,
+    "gn:latitude":13.61945,
+    "gn:longitude":108.99805,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"V\u00e2n Canh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e2n Canh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563169
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f64f73dee224dc77df6a5a770b57b628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781689,
+            "locality_id":1344067779,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1344067779,
+    "wof:lastmodified":1537713717,
+    "wof:name":"Van Canh",
+    "wof:parent_id":1108781689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.99805,
+    13.61945,
+    108.99805,
+    13.61945
+],
+  "geometry": {"coordinates":[108.99805000000001,13.61945],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343280943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06132,22.17789,105.06132,22.17789",
+    "geom:latitude":22.17789,
+    "geom:longitude":105.06132,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Xom Khieng",
+    "gn:country_code":"VN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577193,
+    "gn:latitude":22.17789,
+    "gn:longitude":105.06132,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"X\u00f3m Khi\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Khi\u00eang"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m Khi\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577193
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e05e633b1f534f336d56f59fc26c5282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780931,
+            "locality_id":1343280943,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343280943,
+    "wof:lastmodified":1537713919,
+    "wof:name":"Xom Khieng",
+    "wof:parent_id":1108780931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06132,
+    22.17789,
+    105.06132,
+    22.17789
+],
+  "geometry": {"coordinates":[105.06131999999999,22.17789],"type":"Point"}
+}

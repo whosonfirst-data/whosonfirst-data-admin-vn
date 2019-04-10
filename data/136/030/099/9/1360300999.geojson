@@ -1,0 +1,72 @@
+{
+  "id": 1360300999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.34556,9.84778,106.34556,9.84778",
+    "geom:latitude":9.84778,
+    "geom:longitude":106.34556,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Thanh Nguyen",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942025,
+    "gn:latitude":9.84778,
+    "gn:longitude":106.34556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Thanh Nguy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguy\u00ean",
+        "Thanh Nguy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942025
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d7c8029b34815b3ccd7ee5d220775928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782141,
+            "locality_id":1360300999,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1360300999,
+    "wof:lastmodified":1537714213,
+    "wof:name":"Thanh Nguyen",
+    "wof:parent_id":1108782141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.34556,
+    9.84778,
+    106.34556,
+    9.84778
+],
+  "geometry": {"coordinates":[106.34556000000001,9.84778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293408921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33333,22.08333,106.33333,22.08333",
+    "geom:latitude":22.08333,
+    "geom:longitude":106.33333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mo Me",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574525,
+    "gn:latitude":22.08333,
+    "gn:longitude":106.33333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Mo M\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574525
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ced576f2aefd0491c5a6c23037ae4dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1293408921,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1293408921,
+    "wof:lastmodified":1536900349,
+    "wof:name":"Mo Me",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33333,
+    22.08333,
+    106.33333,
+    22.08333
+],
+  "geometry": {"coordinates":[106.33333,22.08333],"type":"Point"}
+}

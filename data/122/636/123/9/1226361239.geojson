@@ -1,0 +1,67 @@
+{
+  "id": 1226361239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43333,22.4,103.43333,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":103.43333,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Long",
+    "gn:country_code":"VN",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573373,
+    "gn:latitude":22.4,
+    "gn:longitude":103.43333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nam Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573373
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d579f0aa83be9d91c3242db67a3cf758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780977,
+            "locality_id":1226361239,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226361239,
+    "wof:lastmodified":1536767649,
+    "wof:name":"Nam Long",
+    "wof:parent_id":1108780977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43333,
+    22.4,
+    103.43333,
+    22.4
+],
+  "geometry": {"coordinates":[103.43333,22.4],"type":"Point"}
+}

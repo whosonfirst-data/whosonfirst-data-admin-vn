@@ -1,0 +1,67 @@
+{
+  "id": 1226187079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8,19.58333,105.8,19.58333",
+    "geom:latitude":19.58333,
+    "geom:longitude":105.8,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hoang Xa",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580667,
+    "gn:latitude":19.58333,
+    "gn:longitude":105.8,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Hoang Xa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580667
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a22ab74c2c17a4eb43838e012bb94890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1226187079,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226187079,
+    "wof:lastmodified":1537017420,
+    "wof:name":"Hoang Xa",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8,
+    19.58333,
+    105.8,
+    19.58333
+],
+  "geometry": {"coordinates":[105.8,19.58333],"type":"Point"}
+}

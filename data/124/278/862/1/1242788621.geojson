@@ -1,0 +1,76 @@
+{
+  "id": 1242788621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.23552,12.72656,108.23552,12.72656",
+    "geom:latitude":12.72656,
+    "geom:longitude":108.23552,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Pok",
+    "gn:country_code":"VN",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586849,
+    "gn:latitude":12.72656,
+    "gn:longitude":108.23552,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Bu\u00f4n P\u00f3k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pok Kenh",
+        "Buon Pok Kenh",
+        "Buon Pok Penh",
+        "Bu\u00f4n Pok"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n P\u00f3k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586849
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50f8741eaec841e1285638e28ae3bf7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781857,
+            "locality_id":1242788621,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1242788621,
+    "wof:lastmodified":1537714044,
+    "wof:name":"Buon Pok",
+    "wof:parent_id":1108781857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.23552,
+    12.72656,
+    108.23552,
+    12.72656
+],
+  "geometry": {"coordinates":[108.23551999999999,12.72656],"type":"Point"}
+}

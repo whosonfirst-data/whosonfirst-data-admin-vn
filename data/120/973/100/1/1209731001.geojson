@@ -1,0 +1,70 @@
+{
+  "id": 1209731001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13774,21.27566,105.13774,21.27566",
+    "geom:latitude":21.27566,
+    "geom:longitude":105.13774,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Cay Tho",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8200262,
+    "gn:latitude":21.27566,
+    "gn:longitude":105.13774,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u00e2y Tho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y Tho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200262
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"27493fc588a0dce5b386bb5f9b53a475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1209731001,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1209731001,
+    "wof:lastmodified":1537714233,
+    "wof:name":"Cay Tho",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13774,
+    21.27566,
+    105.13774,
+    21.27566
+],
+  "geometry": {"coordinates":[105.13773999999999,21.27566],"type":"Point"}
+}

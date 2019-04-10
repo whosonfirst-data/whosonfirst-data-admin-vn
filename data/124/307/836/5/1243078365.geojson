@@ -1,0 +1,72 @@
+{
+  "id": 1243078365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.54083,9.84583,106.54083,9.84583",
+    "geom:latitude":9.84583,
+    "geom:longitude":106.54083,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Thu Sau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591931,
+    "gn:latitude":9.84583,
+    "gn:longitude":106.54083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Th\u1ee7 Sau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u1ee7 Sau",
+        "\u1ea4p Th\u1ee7 Sau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591931
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52e2443a0e2e534bfebbd1f4f90fb8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782141,
+            "locality_id":1243078365,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1243078365,
+    "wof:lastmodified":1537714147,
+    "wof:name":"Ap Thu Sau",
+    "wof:parent_id":1108782141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.54083,
+    9.84583,
+    106.54083,
+    9.84583
+],
+  "geometry": {"coordinates":[106.54083,9.84583],"type":"Point"}
+}

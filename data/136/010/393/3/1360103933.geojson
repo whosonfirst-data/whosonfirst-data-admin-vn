@@ -1,0 +1,76 @@
+{
+  "id": 1360103933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.14399,12.54418,108.14399,12.54418",
+    "geom:latitude":12.54418,
+    "geom:longitude":108.14399,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ea H'Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587043,
+    "gn:latitude":12.54418,
+    "gn:longitude":108.14399,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ea H\u2019Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hra Ea Hning",
+        "Buon Hra Ea Hning",
+        "Buon Hra Ea Hing",
+        "Bu\u00f4n Ea Hning"
+    ],
+    "name:vie_x_preferred":[
+        "Ea H\u2019Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587043
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca728d0e33b00c5bb8a58d631815f39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781863,
+            "locality_id":1360103933,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1360103933,
+    "wof:lastmodified":1537714053,
+    "wof:name":"Ea H'Ninh",
+    "wof:parent_id":1108781863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.14399,
+    12.54418,
+    108.14399,
+    12.54418
+],
+  "geometry": {"coordinates":[108.14399,12.54418],"type":"Point"}
+}

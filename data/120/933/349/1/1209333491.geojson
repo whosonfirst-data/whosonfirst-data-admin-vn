@@ -1,0 +1,67 @@
+{
+  "id": 1209333491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37424,22.7346,105.37424,22.7346",
+    "geom:latitude":22.7346,
+    "geom:longitude":105.37424,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bac Me",
+    "gn:country_code":"VN",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1591464,
+    "gn:latitude":22.7346,
+    "gn:longitude":105.37424,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u1eafc M\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "B\u1eafc M\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc M\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591464
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a1c879c25ebe1bfd0b0c12c673d1cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209333491
+        }
+    ],
+    "wof:id":1209333491,
+    "wof:lastmodified":1537714137,
+    "wof:name":"Bac Me",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37424,
+    22.7346,
+    105.37424,
+    22.7346
+],
+  "geometry": {"coordinates":[105.37424,22.7346],"type":"Point"}
+}

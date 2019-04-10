@@ -1,0 +1,73 @@
+{
+  "id": 1293506429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.12358,12.6968,108.12358,12.6968",
+    "geom:latitude":12.6968,
+    "geom:longitude":108.12358,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Doi Nam",
+    "gn:country_code":"VN",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177832,
+    "gn:latitude":12.6968,
+    "gn:longitude":108.12358,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u0110\u1ed9i N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed9i N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ed9i 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177832
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"26624002251e49c4f15f5eadf3f0adf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781833,
+            "locality_id":1293506429,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293506429,
+    "wof:lastmodified":1537714584,
+    "wof:name":"Doi Nam",
+    "wof:parent_id":1108781833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.12358,
+    12.6968,
+    108.12358,
+    12.6968
+],
+  "geometry": {"coordinates":[108.12358,12.6968],"type":"Point"}
+}

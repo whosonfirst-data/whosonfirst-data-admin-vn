@@ -1,0 +1,70 @@
+{
+  "id": 1293016181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22711,21.50464,103.22711,21.50464",
+    "geom:latitude":21.50464,
+    "geom:longitude":103.22711,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Coi",
+    "gn:country_code":"VN",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944537,
+    "gn:latitude":21.50464,
+    "gn:longitude":103.22711,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"B\u1ea3n C\u00f3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n C\u00f3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944537
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d559c3802431837c2b92f7e62f80d651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780973,
+            "locality_id":1293016181,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1293016181,
+    "wof:lastmodified":1537714738,
+    "wof:name":"Ban Coi",
+    "wof:parent_id":1108780973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22711,
+    21.50464,
+    103.22711,
+    21.50464
+],
+  "geometry": {"coordinates":[103.22711,21.50464],"type":"Point"}
+}

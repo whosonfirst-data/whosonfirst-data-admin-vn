@@ -1,0 +1,61 @@
+{
+  "id": 1209534625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06667,20.88333,106.06667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":106.06667,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Nhan Hoa Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572208,
+    "gn:latitude":20.88333,
+    "gn:longitude":106.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nh\u00e2n H\u00f2a Th\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572208
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cfdef92fb9d11ddee6d51157154d0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534625
+        }
+    ],
+    "wof:id":1209534625,
+    "wof:lastmodified":1536284177,
+    "wof:name":"Nhan Hoa Thuong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06667,
+    20.88333,
+    106.06667,
+    20.88333
+],
+  "geometry": {"coordinates":[106.06667,20.88333],"type":"Point"}
+}

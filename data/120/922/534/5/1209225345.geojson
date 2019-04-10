@@ -1,0 +1,64 @@
+{
+  "id": 1209225345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36144,21.25526,105.36144,21.25526",
+    "geom:latitude":21.25526,
+    "geom:longitude":105.36144,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Tan Phong",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566839,
+    "gn:latitude":21.25526,
+    "gn:longitude":105.36144,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"T\u00e2n Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1676529c98910966e172d03efd987855",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225345
+        }
+    ],
+    "wof:id":1209225345,
+    "wof:lastmodified":1537713781,
+    "wof:name":"Tan Phong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36144,
+    21.25526,
+    105.36144,
+    21.25526
+],
+  "geometry": {"coordinates":[105.36144,21.25526],"type":"Point"}
+}

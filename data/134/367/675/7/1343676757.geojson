@@ -1,0 +1,67 @@
+{
+  "id": 1343676757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15,20.08333,106.15,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":106.15,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dai Mon",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584286,
+    "gn:latitude":20.08333,
+    "gn:longitude":106.15,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00e0i M\u1ed9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584286
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"880170b17eb6c661fc8dae9548182652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781355,
+            "locality_id":1343676757,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1343676757,
+    "wof:lastmodified":1536932221,
+    "wof:name":"Dai Mon",
+    "wof:parent_id":1108781355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15,
+    20.08333,
+    106.15,
+    20.08333
+],
+  "geometry": {"coordinates":[106.15000000000001,20.08333],"type":"Point"}
+}

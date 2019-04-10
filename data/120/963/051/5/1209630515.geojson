@@ -1,0 +1,64 @@
+{
+  "id": 1209630515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00311,21.4324,106.00311,21.4324",
+    "geom:latitude":21.4324,
+    "geom:longitude":106.00311,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Luong Thai",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867602,
+    "gn:latitude":21.4324,
+    "gn:longitude":106.00311,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u01b0\u01a1ng Th\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u01b0\u01a1ng Th\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867602
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"732cfd4c2d60bee0244c3ee95b47af0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630515
+        }
+    ],
+    "wof:id":1209630515,
+    "wof:lastmodified":1537714509,
+    "wof:name":"Luong Thai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00311,
+    21.4324,
+    106.00311,
+    21.4324
+],
+  "geometry": {"coordinates":[106.00311000000001,21.4324],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243274755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53451,19.02578,105.53451,19.02578",
+    "geom:latitude":19.02578,
+    "geom:longitude":105.53451,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Con Vong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178549,
+    "gn:latitude":19.02578,
+    "gn:longitude":105.53451,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"C\u1ed3n V\u00f2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed3n V\u00f2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178549
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b50a100b83fba781082aaee61662c693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1243274755,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243274755,
+    "wof:lastmodified":1537714605,
+    "wof:name":"Con Vong",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53451,
+    19.02578,
+    105.53451,
+    19.02578
+],
+  "geometry": {"coordinates":[105.53451,19.02578],"type":"Point"}
+}

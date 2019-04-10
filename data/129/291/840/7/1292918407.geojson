@@ -1,0 +1,72 @@
+{
+  "id": 1292918407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.91667,11.05,106.91667,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":106.91667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Xa Thai Hung",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562191,
+    "gn:latitude":11.05,
+    "gn:longitude":106.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 Th\u00e1i H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hi\u1ebfu Li\u00eam",
+        "X\u00e3 Th\u00e1i H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562191
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f889c4bbbc808e14460b98c2b737ce39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781961,
+            "locality_id":1292918407,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1292918407,
+    "wof:lastmodified":1537713701,
+    "wof:name":"Xa Thai Hung",
+    "wof:parent_id":1108781961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.91667,
+    11.05,
+    106.91667,
+    11.05
+],
+  "geometry": {"coordinates":[106.91667,11.05],"type":"Point"}
+}

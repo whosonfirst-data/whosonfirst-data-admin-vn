@@ -1,0 +1,64 @@
+{
+  "id": 1209564001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52838,21.05667,103.52838,21.05667",
+    "geom:latitude":21.05667,
+    "geom:longitude":103.52838,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Chu Bai",
+    "gn:country_code":"VN",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545392,
+    "gn:latitude":21.05667,
+    "gn:longitude":103.52838,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Chu Bai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Chu Bai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545392
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d84bc991dea327b7a7ad91e16b7c1c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209564001
+        }
+    ],
+    "wof:id":1209564001,
+    "wof:lastmodified":1537714342,
+    "wof:name":"Chu Bai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52838,
+    21.05667,
+    103.52838,
+    21.05667
+],
+  "geometry": {"coordinates":[103.52838,21.05667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343369771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.26667,13.11667,108.26667,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":108.26667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Kniet",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590069,
+    "gn:latitude":13.11667,
+    "gn:longitude":108.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Kniet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Kniet",
+        "Ban Kniet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590069
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c46a728432f16b0f7e0cb3257b305932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781845,
+            "locality_id":1343369771,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1343369771,
+    "wof:lastmodified":1537714108,
+    "wof:name":"Ban Kniet",
+    "wof:parent_id":1108781845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.26667,
+    13.11667,
+    108.26667,
+    13.11667
+],
+  "geometry": {"coordinates":[108.26667,13.11667],"type":"Point"}
+}

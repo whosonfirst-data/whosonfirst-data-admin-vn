@@ -1,0 +1,67 @@
+{
+  "id": 1209756421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,19.71667,105.85,19.71667",
+    "geom:latitude":19.71667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Truong Tan",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563556,
+    "gn:latitude":19.71667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u01b0\u01a1ng T\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563556
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02786cf54713d45f551673ab51a78417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781443,
+            "locality_id":1209756421,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1209756421,
+    "wof:lastmodified":1536390458,
+    "wof:name":"Truong Tan",
+    "wof:parent_id":1108781443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    19.71667,
+    105.85,
+    19.71667
+],
+  "geometry": {"coordinates":[105.84999999999999,19.71667],"type":"Point"}
+}

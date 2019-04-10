@@ -1,0 +1,70 @@
+{
+  "id": 1343474243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6197,19.0814,105.6197,19.0814",
+    "geom:latitude":19.0814,
+    "geom:longitude":105.6197,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Minh Chau",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178437,
+    "gn:latitude":19.0814,
+    "gn:longitude":105.6197,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Minh Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Minh Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178437
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c7d9e5572efa95ff5881b8d74a2b589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1343474243,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343474243,
+    "wof:lastmodified":1537714602,
+    "wof:name":"Minh Chau",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6197,
+    19.0814,
+    105.6197,
+    19.0814
+],
+  "geometry": {"coordinates":[105.61969999999999,19.0814],"type":"Point"}
+}

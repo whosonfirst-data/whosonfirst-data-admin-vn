@@ -1,0 +1,67 @@
+{
+  "id": 1260078383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4,22.55,106.4,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":106.4,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pac Sam",
+    "gn:country_code":"VN",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571403,
+    "gn:latitude":22.55,
+    "gn:longitude":106.4,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00e1c S\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571403
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"627ddceaf47663cd75608b60c890ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780895,
+            "locality_id":1260078383,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1260078383,
+    "wof:lastmodified":1536994605,
+    "wof:name":"Pac Sam",
+    "wof:parent_id":1108780895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4,
+    22.55,
+    106.4,
+    22.55
+],
+  "geometry": {"coordinates":[106.40000000000001,22.55],"type":"Point"}
+}

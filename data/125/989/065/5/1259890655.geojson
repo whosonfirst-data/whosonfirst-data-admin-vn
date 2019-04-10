@@ -1,0 +1,70 @@
+{
+  "id": 1259890655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27754,21.73379,105.27754,21.73379",
+    "geom:latitude":21.73379,
+    "geom:longitude":105.27754,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Khan Gioi",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138348,
+    "gn:latitude":21.73379,
+    "gn:longitude":105.27754,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kh\u00e1n Gi\u00f3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u00e1n Gi\u00f3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138348
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c047b90849c99984cd4474ba770c5057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1259890655,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1259890655,
+    "wof:lastmodified":1537714222,
+    "wof:name":"Khan Gioi",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27754,
+    21.73379,
+    105.27754,
+    21.73379
+],
+  "geometry": {"coordinates":[105.27754,21.73379],"type":"Point"}
+}

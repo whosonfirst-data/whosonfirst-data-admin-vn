@@ -1,0 +1,70 @@
+{
+  "id": 1226061573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03072,22.72204,105.03072,22.72204",
+    "geom:latitude":22.72204,
+    "geom:longitude":105.03072,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Nan Pong",
+    "gn:country_code":"VN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309464,
+    "gn:latitude":22.72204,
+    "gn:longitude":105.03072,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0n P\u1ed1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0n P\u1ed1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309464
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"264367f27ec0ea78e8369f71da969c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1226061573,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226061573,
+    "wof:lastmodified":1537714256,
+    "wof:name":"Nan Pong",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03072,
+    22.72204,
+    105.03072,
+    22.72204
+],
+  "geometry": {"coordinates":[105.03072,22.72204],"type":"Point"}
+}

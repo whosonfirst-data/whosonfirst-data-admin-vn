@@ -1,0 +1,61 @@
+{
+  "id": 1209531147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.76667,13.8,107.76667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":107.76667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei N'gol Le",
+    "gn:country_code":"VN",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569367,
+    "gn:latitude":13.8,
+    "gn:longitude":107.76667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Plei N\u2019gol L\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569367
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3de137663d97e5fc61aff0bc95f025cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531147
+        }
+    ],
+    "wof:id":1209531147,
+    "wof:lastmodified":1536284276,
+    "wof:name":"Plei N'gol Le",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.76667,
+    13.8,
+    107.76667,
+    13.8
+],
+  "geometry": {"coordinates":[107.76667,13.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310416589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95814,21.00845,104.95814,21.00845",
+    "geom:latitude":21.00845,
+    "geom:longitude":104.95814,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Na Muoi",
+    "gn:country_code":"VN",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250744,
+    "gn:latitude":21.00845,
+    "gn:longitude":104.95814,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"N\u00e0 M\u01b0\u1eddi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 M\u01b0\u1eddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250744
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f1b1016062f823d5867eba0870517d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1310416589,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1310416589,
+    "wof:lastmodified":1537714650,
+    "wof:name":"Na Muoi",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95814,
+    21.00845,
+    104.95814,
+    21.00845
+],
+  "geometry": {"coordinates":[104.95814,21.00845],"type":"Point"}
+}

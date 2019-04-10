@@ -1,0 +1,67 @@
+{
+  "id": 1293627125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.63478,15.43195,108.63478,15.43195",
+    "geom:latitude":15.43195,
+    "geom:longitude":108.63478,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Khuong Quang",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442076,
+    "gn:latitude":15.43195,
+    "gn:longitude":108.63478,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Khuong Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442076
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"84060801221fc557d87bc386ec63c25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781627,
+            "locality_id":1293627125,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293627125,
+    "wof:lastmodified":1537079742,
+    "wof:name":"Khuong Quang",
+    "wof:parent_id":1108781627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.63478,
+    15.43195,
+    108.63478,
+    15.43195
+],
+  "geometry": {"coordinates":[108.63478000000001,15.43195],"type":"Point"}
+}

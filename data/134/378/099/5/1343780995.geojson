@@ -1,0 +1,70 @@
+{
+  "id": 1343780995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.34165,22.52031,103.34165,22.52031",
+    "geom:latitude":22.52031,
+    "geom:longitude":103.34165,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Phieng Danh",
+    "gn:country_code":"VN",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356544,
+    "gn:latitude":22.52031,
+    "gn:longitude":103.34165,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Phi\u00eang \u0110anh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phi\u00eang \u0110anh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356544
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"702ea5ed394c28afdd8451c5579fb070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1343780995,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1343780995,
+    "wof:lastmodified":1537714714,
+    "wof:name":"Phieng Danh",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.34165,
+    22.52031,
+    103.34165,
+    22.52031
+],
+  "geometry": {"coordinates":[103.34165,22.52031],"type":"Point"}
+}

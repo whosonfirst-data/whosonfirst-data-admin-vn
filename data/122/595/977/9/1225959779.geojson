@@ -1,0 +1,75 @@
+{
+  "id": 1225959779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65592,16.76401,106.65592,16.76401",
+    "geom:latitude":16.76401,
+    "geom:longitude":106.65592,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Nguon Rao",
+    "gn:country_code":"VN",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572289,
+    "gn:latitude":16.76401,
+    "gn:longitude":106.65592,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ngu\u1ed3n R\u00e0o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hon Rao",
+        "Nac Rao",
+        "Ngu\u1ed1n R\u00e0o"
+    ],
+    "name:vie_x_preferred":[
+        "Ngu\u1ed3n R\u00e0o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572289
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b2a07d47fd63e5c18605bd606b7033b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1225959779,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1225959779,
+    "wof:lastmodified":1537713854,
+    "wof:name":"Nguon Rao",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65592,
+    16.76401,
+    106.65592,
+    16.76401
+],
+  "geometry": {"coordinates":[106.65591999999999,16.76401],"type":"Point"}
+}

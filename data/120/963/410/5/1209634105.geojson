@@ -1,0 +1,64 @@
+{
+  "id": 1209634105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14286,21.36899,106.14286,21.36899",
+    "geom:latitude":21.36899,
+    "geom:longitude":106.14286,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Thon Noi",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867747,
+    "gn:latitude":21.36899,
+    "gn:longitude":106.14286,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u00f4n N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867747
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bdaa03363ddbfdedff58d14976c4064c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634105
+        }
+    ],
+    "wof:id":1209634105,
+    "wof:lastmodified":1537714514,
+    "wof:name":"Thon Noi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14286,
+    21.36899,
+    106.14286,
+    21.36899
+],
+  "geometry": {"coordinates":[106.14286,21.36899],"type":"Point"}
+}

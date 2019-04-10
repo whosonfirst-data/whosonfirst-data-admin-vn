@@ -1,0 +1,67 @@
+{
+  "id": 1343954165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,10.33333,105.71667,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ap Tan Thuan",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592147,
+    "gn:latitude":10.33333,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e2n Thu\u1eadn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592147
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"37782a11cea057ba5a028784d6388337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782169,
+            "locality_id":1343954165,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1343954165,
+    "wof:lastmodified":1537027953,
+    "wof:name":"Ap Tan Thuan",
+    "wof:parent_id":1108782169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    10.33333,
+    105.71667,
+    10.33333
+],
+  "geometry": {"coordinates":[105.71666999999999,10.33333],"type":"Point"}
+}

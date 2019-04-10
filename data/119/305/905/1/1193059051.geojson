@@ -1,0 +1,70 @@
+{
+  "id": 1193059051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48667,19.82501,105.48667,19.82501",
+    "geom:latitude":19.82501,
+    "geom:longitude":105.48667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"An Hoai",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440833,
+    "gn:latitude":19.82501,
+    "gn:longitude":105.48667,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"An Ho\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An Ho\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b40fbaf6b7aafe580ad54a24b0f88f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781423,
+            "locality_id":1193059051,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193059051,
+    "wof:lastmodified":1537714313,
+    "wof:name":"An Hoai",
+    "wof:parent_id":1108781423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48667,
+    19.82501,
+    105.48667,
+    19.82501
+],
+  "geometry": {"coordinates":[105.48667,19.82501],"type":"Point"}
+}

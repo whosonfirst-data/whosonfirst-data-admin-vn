@@ -1,0 +1,67 @@
+{
+  "id": 1310059195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,19.88333,105.91667,19.88333",
+    "geom:latitude":19.88333,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Quan Phu",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568674,
+    "gn:latitude":19.88333,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Qu\u00e2n Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568674
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cba176dd1cfcd3cd59a008e48bf9ac8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781429,
+            "locality_id":1310059195,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1310059195,
+    "wof:lastmodified":1537060718,
+    "wof:name":"Quan Phu",
+    "wof:parent_id":1108781429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    19.88333,
+    105.91667,
+    19.88333
+],
+  "geometry": {"coordinates":[105.91667,19.88333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293001265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65833,9.89083,106.65833,9.89083",
+    "geom:latitude":9.89083,
+    "geom:longitude":106.65833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Giao Thoi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581762,
+    "gn:latitude":9.89083,
+    "gn:longitude":106.65833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Giao Th\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giao Thanh",
+        "Gi\u00e1p Th\u1edbi",
+        "\u1ea4p Giao Th\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581762
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"19350273fd704ce6ce4d4a7950366e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1293001265,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293001265,
+    "wof:lastmodified":1537713980,
+    "wof:name":"Ap Giao Thoi",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65833,
+    9.89083,
+    106.65833,
+    9.89083
+],
+  "geometry": {"coordinates":[106.65833000000001,9.89083],"type":"Point"}
+}

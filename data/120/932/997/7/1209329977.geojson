@@ -1,0 +1,64 @@
+{
+  "id": 1209329977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.81164,12.96722,108.81164,12.96722",
+    "geom:latitude":12.96722,
+    "geom:longitude":108.81164,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Buon Trinh",
+    "gn:country_code":"VN",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311037,
+    "gn:latitude":12.96722,
+    "gn:longitude":108.81164,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bu\u00f4n Trinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Trinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311037
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"63b45ea8bb0fe8f8b1805fdaa55a054d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329977
+        }
+    ],
+    "wof:id":1209329977,
+    "wof:lastmodified":1537714684,
+    "wof:name":"Buon Trinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.81164,
+    12.96722,
+    108.81164,
+    12.96722
+],
+  "geometry": {"coordinates":[108.81164,12.96722],"type":"Point"}
+}

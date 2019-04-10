@@ -1,0 +1,70 @@
+{
+  "id": 1242788567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9895,20.57561,105.9895,20.57561",
+    "geom:latitude":20.57561,
+    "geom:longitude":105.9895,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Hoa Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564233,
+    "gn:latitude":20.57561,
+    "gn:longitude":105.9895,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"H\u00f2a Th\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a Th\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564233
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd73dadf9abdbb38479edeba6d635ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781335,
+            "locality_id":1242788567,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1242788567,
+    "wof:lastmodified":1537714358,
+    "wof:name":"Hoa Thinh",
+    "wof:parent_id":1108781335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9895,
+    20.57561,
+    105.9895,
+    20.57561
+],
+  "geometry": {"coordinates":[105.98950000000001,20.57561],"type":"Point"}
+}

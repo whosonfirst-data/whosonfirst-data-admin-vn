@@ -1,0 +1,71 @@
+{
+  "id": 1276134307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,22.8,104.2,22.8",
+    "geom:latitude":22.8,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Se Ma Tong",
+    "gn:country_code":"VN",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567974,
+    "gn:latitude":22.8,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Se Ma Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa Ma Tong",
+        "Se Ma Tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567974
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13b74e544a4f6ac1af14c848cf8ed904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1276134307,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1276134307,
+    "wof:lastmodified":1537713794,
+    "wof:name":"Se Ma Tong",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    22.8,
+    104.2,
+    22.8
+],
+  "geometry": {"coordinates":[104.2,22.8],"type":"Point"}
+}

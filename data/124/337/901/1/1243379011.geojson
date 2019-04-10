@@ -1,0 +1,73 @@
+{
+  "id": 1243379011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23468,21.09875,106.23468,21.09875",
+    "geom:latitude":21.09875,
+    "geom:longitude":106.23468,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Van Ty",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563022,
+    "gn:latitude":21.09875,
+    "gn:longitude":106.23468,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"V\u1ea1n Ty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Ly"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ea1n Ty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563022
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66bee6c4a9923d722366ee7eb0621dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781229,
+            "locality_id":1243379011,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1243379011,
+    "wof:lastmodified":1537713715,
+    "wof:name":"Van Ty",
+    "wof:parent_id":1108781229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23468,
+    21.09875,
+    106.23468,
+    21.09875
+],
+  "geometry": {"coordinates":[106.23468,21.09875],"type":"Point"}
+}

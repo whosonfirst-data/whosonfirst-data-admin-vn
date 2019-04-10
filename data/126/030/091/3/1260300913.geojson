@@ -1,0 +1,67 @@
+{
+  "id": 1260300913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25,20.76667,105.25,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":105.25,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Luong Than",
+    "gn:country_code":"VN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575200,
+    "gn:latitude":20.76667,
+    "gn:longitude":105.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u01b0\u01a1ng Th\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575200
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c4af2ed57678abb83ada8ca133d43fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781051,
+            "locality_id":1260300913,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1260300913,
+    "wof:lastmodified":1536688510,
+    "wof:name":"Luong Than",
+    "wof:parent_id":1108781051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25,
+    20.76667,
+    105.25,
+    20.76667
+],
+  "geometry": {"coordinates":[105.25,20.76667],"type":"Point"}
+}

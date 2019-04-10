@@ -1,0 +1,71 @@
+{
+  "id": 1310416673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,9.61667,105.95,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Phu Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592559,
+    "gn:latitude":9.61667,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u00fa Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Ninh",
+        "\u1ea4p Ph\u00fa Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592559
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"881dcb2c179888f1647e56f025fc0371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782287,
+            "locality_id":1310416673,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1310416673,
+    "wof:lastmodified":1537714163,
+    "wof:name":"Ap Phu Ninh",
+    "wof:parent_id":1108782287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    9.61667,
+    105.95,
+    9.61667
+],
+  "geometry": {"coordinates":[105.95,9.61667],"type":"Point"}
+}

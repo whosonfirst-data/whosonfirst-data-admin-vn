@@ -1,0 +1,67 @@
+{
+  "id": 1310353697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3,15.73333,108.3,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":108.3,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Xuan Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560533,
+    "gn:latitude":15.73333,
+    "gn:longitude":108.3,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Xu\u00e2n Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560533
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"160ba276248a74a0ad43248880265579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781609,
+            "locality_id":1310353697,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1310353697,
+    "wof:lastmodified":1536637483,
+    "wof:name":"Xuan Phuoc",
+    "wof:parent_id":1108781609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3,
+    15.73333,
+    108.3,
+    15.73333
+],
+  "geometry": {"coordinates":[108.3,15.73333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343377945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.67596,22.03736,102.67596,22.03736",
+    "geom:latitude":22.03736,
+    "geom:longitude":102.67596,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Quang Lam",
+    "gn:country_code":"VN",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568784,
+    "gn:latitude":22.03736,
+    "gn:longitude":102.67596,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Qu\u1ea3ng L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quang Lom",
+        "Quang Lam"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea3ng L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568784
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8b91c00af414c48c2074bcb5563451e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780959,
+            "locality_id":1343377945,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343377945,
+    "wof:lastmodified":1537713803,
+    "wof:name":"Quang Lam",
+    "wof:parent_id":1108780959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.67596,
+    22.03736,
+    102.67596,
+    22.03736
+],
+  "geometry": {"coordinates":[102.67596,22.03736],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259694665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.71667,11.16667,107.71667,11.16667",
+    "geom:latitude":11.16667,
+    "geom:longitude":107.71667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Xa Huy Khiem",
+    "gn:country_code":"VN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1562293,
+    "gn:latitude":11.16667,
+    "gn:longitude":107.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 Huy Khi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lang Bac",
+        "Huy Khi\u00eam",
+        "Lang Rac",
+        "X\u00e3 Huy Khi\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b9bf7b48a21dbdb59bd478a9dd008d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781765,
+            "locality_id":1259694665,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1259694665,
+    "wof:lastmodified":1537713704,
+    "wof:name":"Xa Huy Khiem",
+    "wof:parent_id":1108781765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.71667,
+    11.16667,
+    107.71667,
+    11.16667
+],
+  "geometry": {"coordinates":[107.71666999999999,11.16667],"type":"Point"}
+}

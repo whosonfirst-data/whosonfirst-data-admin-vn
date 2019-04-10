@@ -1,0 +1,70 @@
+{
+  "id": 1344067771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79417,18.46783,105.79417,18.46783",
+    "geom:latitude":18.46783,
+    "geom:longitude":105.79417,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Lien Phuc",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275083,
+    "gn:latitude":18.46783,
+    "gn:longitude":105.79417,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Li\u00ean Ph\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean Ph\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275083
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"25d4079bb425f942d3a16935e2f7b642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1344067771,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1344067771,
+    "wof:lastmodified":1537714666,
+    "wof:name":"Lien Phuc",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79417,
+    18.46783,
+    105.79417,
+    18.46783
+],
+  "geometry": {"coordinates":[105.79416999999999,18.46783],"type":"Point"}
+}

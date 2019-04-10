@@ -1,0 +1,65 @@
+{
+  "id": 1209019705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53333,15.0,108.53333,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":108.53333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Wi Go",
+    "gn:country_code":"VN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562380,
+    "gn:latitude":15.0,
+    "gn:longitude":108.53333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Wi Go",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W. Go",
+        "Wi Go"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562380
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"caa73d9b46144390c2af75a07c49fe65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019705
+        }
+    ],
+    "wof:id":1209019705,
+    "wof:lastmodified":1537713706,
+    "wof:name":"Wi Go",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53333,
+    15.0,
+    108.53333,
+    15.0
+],
+  "geometry": {"coordinates":[108.53333000000001,15.0],"type":"Point"}
+}

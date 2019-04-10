@@ -1,0 +1,77 @@
+{
+  "id": 1226110569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.24282,11.78624,108.24282,11.78624",
+    "geom:latitude":11.78624,
+    "geom:longitude":108.24282,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"676.0",
+    "gn:asciiname":"GJinh Van",
+    "gn:country_code":"VN",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991407,
+    "gn:latitude":11.78624,
+    "gn:longitude":108.24282,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"\u0110inh V\u0103n",
+    "gn:population":16036,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u044c \u0412\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110inh V\u0103n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991407
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"308826fc4f2326a34c46b3b845c1a031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781893,
+            "locality_id":1226110569,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1226110569,
+    "wof:lastmodified":1537714419,
+    "wof:name":"GJinh Van",
+    "wof:parent_id":1108781893,
+    "wof:placetype":"locality",
+    "wof:population":16036,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.24282,
+    11.78624,
+    108.24282,
+    11.78624
+],
+  "geometry": {"coordinates":[108.24281999999999,11.78624],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243382645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69468,9.76504,105.69468,9.76504",
+    "geom:latitude":9.76504,
+    "geom:longitude":105.69468,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"My Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592959,
+    "gn:latitude":9.76504,
+    "gn:longitude":105.69468,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"M\u1ef9 Ch\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p M\u1ef9 Ch\u00e1nh"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ef9 Ch\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680827,
+        1108782281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592959
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f711a1fc8a3c9211321300b60d1b0d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782281,
+            "locality_id":1243382645,
+            "region_id":85680827
+        }
+    ],
+    "wof:id":1243382645,
+    "wof:lastmodified":1537714173,
+    "wof:name":"My Chanh",
+    "wof:parent_id":1108782281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69468,
+    9.76504,
+    105.69468,
+    9.76504
+],
+  "geometry": {"coordinates":[105.69468000000001,9.76504],"type":"Point"}
+}

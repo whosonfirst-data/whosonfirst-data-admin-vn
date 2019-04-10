@@ -1,0 +1,64 @@
+{
+  "id": 1209225311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8267,21.31985,105.8267,21.31985",
+    "geom:latitude":21.31985,
+    "geom:longitude":105.8267,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Bai Cam",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616148,
+    "gn:latitude":21.31985,
+    "gn:longitude":105.8267,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"B\u00e3i C\u1eadm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e3i C\u1eadm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616148
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2673242c6c358b1c7ad7629fc29e6ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225311
+        }
+    ],
+    "wof:id":1209225311,
+    "wof:lastmodified":1537714375,
+    "wof:name":"Bai Cam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8267,
+    21.31985,
+    105.8267,
+    21.31985
+],
+  "geometry": {"coordinates":[105.8267,21.31985],"type":"Point"}
+}

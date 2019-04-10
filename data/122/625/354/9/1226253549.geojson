@@ -1,0 +1,73 @@
+{
+  "id": 1226253549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50937,22.34441,104.50937,22.34441",
+    "geom:latitude":22.34441,
+    "geom:longitude":104.50937,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nam Hoac",
+    "gn:country_code":"VN",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573455,
+    "gn:latitude":22.34441,
+    "gn:longitude":104.50937,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"N\u1eadm Ho\u1eb7c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u1eadm Ho\u1eafc"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm Ho\u1eb7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573455
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"03f88c0bd88fbe3a28da96276d5d6e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1226253549,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226253549,
+    "wof:lastmodified":1537713869,
+    "wof:name":"Nam Hoac",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50937,
+    22.34441,
+    104.50937,
+    22.34441
+],
+  "geometry": {"coordinates":[104.50937,22.34441],"type":"Point"}
+}

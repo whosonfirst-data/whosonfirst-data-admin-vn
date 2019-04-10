@@ -1,0 +1,70 @@
+{
+  "id": 1210035243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45508,15.14144,108.45508,15.14144",
+    "geom:latitude":15.14144,
+    "geom:longitude":108.45508,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Thon Trung",
+    "gn:country_code":"VN",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8672930,
+    "gn:latitude":15.14144,
+    "gn:longitude":108.45508,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Th\u00f4n Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8672930
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d55961cf83ec24e157b03f9d275b2290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781641,
+            "locality_id":1210035243,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1210035243,
+    "wof:lastmodified":1537714399,
+    "wof:name":"Thon Trung",
+    "wof:parent_id":1108781641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45508,
+    15.14144,
+    108.45508,
+    15.14144
+],
+  "geometry": {"coordinates":[108.45508,15.14144],"type":"Point"}
+}

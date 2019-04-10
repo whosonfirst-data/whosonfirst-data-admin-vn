@@ -1,0 +1,73 @@
+{
+  "id": 1327334127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35801,10.01548,106.35801,10.01548",
+    "geom:latitude":10.01548,
+    "geom:longitude":106.35801,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nhuan Tranh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592728,
+    "gn:latitude":10.01548,
+    "gn:longitude":106.35801,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nhu\u1eadn Tr\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Nhu\u1eadn Tr\u1ea1ch"
+    ],
+    "name:vie_x_preferred":[
+        "Nhu\u1eadn Tr\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592728
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ff251e99f2c6afb479db37ed1a588b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782119,
+            "locality_id":1327334127,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1327334127,
+    "wof:lastmodified":1537714167,
+    "wof:name":"Nhuan Tranh",
+    "wof:parent_id":1108782119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35801,
+    10.01548,
+    106.35801,
+    10.01548
+],
+  "geometry": {"coordinates":[106.35800999999999,10.01548],"type":"Point"}
+}

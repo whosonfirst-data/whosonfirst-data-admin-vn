@@ -1,0 +1,67 @@
+{
+  "id": 1276884295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92183,22.30512,105.92183,22.30512",
+    "geom:latitude":22.30512,
+    "geom:longitude":105.92183,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Toong",
+    "gn:country_code":"VN",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311697,
+    "gn:latitude":22.30512,
+    "gn:longitude":105.92183,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 To\u00f2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311697
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f80185a95fd7bdd3a5854ff810e4537d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1276884295,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1276884295,
+    "wof:lastmodified":1537033674,
+    "wof:name":"Na Toong",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92183,
+    22.30512,
+    105.92183,
+    22.30512
+],
+  "geometry": {"coordinates":[105.92183,22.30512],"type":"Point"}
+}

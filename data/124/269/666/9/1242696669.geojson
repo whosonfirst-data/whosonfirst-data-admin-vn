@@ -1,0 +1,70 @@
+{
+  "id": 1242696669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46267,21.44815,105.46267,21.44815",
+    "geom:latitude":21.44815,
+    "geom:longitude":105.46267,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Doc Chua",
+    "gn:country_code":"VN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201846,
+    "gn:latitude":21.44815,
+    "gn:longitude":105.46267,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"D\u00f4c Ch\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u00f4c Ch\u00f9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201846
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0c29b8482536fdc6d7f35afc6c573036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781201,
+            "locality_id":1242696669,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1242696669,
+    "wof:lastmodified":1537714245,
+    "wof:name":"Doc Chua",
+    "wof:parent_id":1108781201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46267,
+    21.44815,
+    105.46267,
+    21.44815
+],
+  "geometry": {"coordinates":[105.46267,21.44815],"type":"Point"}
+}

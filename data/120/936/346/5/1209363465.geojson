@@ -1,0 +1,64 @@
+{
+  "id": 1209363465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52184,20.89759,104.52184,20.89759",
+    "geom:latitude":20.89759,
+    "geom:longitude":104.52184,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ta Niet",
+    "gn:country_code":"VN",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545350,
+    "gn:latitude":20.89759,
+    "gn:longitude":104.52184,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"T\u00e0 Ni\u1ebft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e0 Ni\u1ebft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545350
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db74fa374a77417f2ccfebe466b9b90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209363465
+        }
+    ],
+    "wof:id":1209363465,
+    "wof:lastmodified":1537714341,
+    "wof:name":"Ta Niet",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52184,
+    20.89759,
+    104.52184,
+    20.89759
+],
+  "geometry": {"coordinates":[104.52184,20.89759],"type":"Point"}
+}

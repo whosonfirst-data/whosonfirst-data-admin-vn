@@ -1,0 +1,67 @@
+{
+  "id": 1259898911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95,16.46667,106.95,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":106.95,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Pa Larr",
+    "gn:country_code":"VN",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571332,
+    "gn:latitude":16.46667,
+    "gn:longitude":106.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pa Larr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fa8725187a62687e2e0f3048d5bd4629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781549,
+            "locality_id":1259898911,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1259898911,
+    "wof:lastmodified":1536757010,
+    "wof:name":"Pa Larr",
+    "wof:parent_id":1108781549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95,
+    16.46667,
+    106.95,
+    16.46667
+],
+  "geometry": {"coordinates":[106.95,16.46667],"type":"Point"}
+}

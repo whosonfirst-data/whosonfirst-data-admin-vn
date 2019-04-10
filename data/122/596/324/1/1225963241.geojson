@@ -1,0 +1,70 @@
+{
+  "id": 1225963241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.33288,12.5045,108.33288,12.5045",
+    "geom:latitude":12.5045,
+    "geom:longitude":108.33288,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Krong Kmar",
+    "gn:country_code":"VN",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8725113,
+    "gn:latitude":12.5045,
+    "gn:longitude":108.33288,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Kr\u00f4ng Kmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kr\u00f4ng Kmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8725113
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bcc6a70ac922f5f18630928da8c97302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781855,
+            "locality_id":1225963241,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1225963241,
+    "wof:lastmodified":1537714414,
+    "wof:name":"Krong Kmar",
+    "wof:parent_id":1108781855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.33288,
+    12.5045,
+    108.33288,
+    12.5045
+],
+  "geometry": {"coordinates":[108.33288,12.5045],"type":"Point"}
+}

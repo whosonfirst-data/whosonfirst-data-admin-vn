@@ -1,0 +1,67 @@
+{
+  "id": 1243378979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9,22.11667,103.9,22.11667",
+    "geom:latitude":22.11667,
+    "geom:longitude":103.9,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sinh Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567879,
+    "gn:latitude":22.11667,
+    "gn:longitude":103.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sinh Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567879
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"006f7120320cc99365ff0130bee5b3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1243378979,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1243378979,
+    "wof:lastmodified":1536902938,
+    "wof:name":"Sinh Ho",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9,
+    22.11667000000001,
+    103.9,
+    22.11667000000001
+],
+  "geometry": {"coordinates":[103.90000000000001,22.11667000000001],"type":"Point"}
+}

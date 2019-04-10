@@ -1,0 +1,70 @@
+{
+  "id": 1293604643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87243,21.8257,104.87243,21.8257",
+    "geom:latitude":21.8257,
+    "geom:longitude":104.87243,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kinh La",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562119,
+    "gn:latitude":21.8257,
+    "gn:longitude":104.87243,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kinh La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xinh La"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562119
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"402d6991e52c63a7043990b9f742263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1293604643,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1293604643,
+    "wof:lastmodified":1537713699,
+    "wof:name":"Kinh La",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87243,
+    21.8257,
+    104.87243,
+    21.8257
+],
+  "geometry": {"coordinates":[104.87242999999999,21.8257],"type":"Point"}
+}

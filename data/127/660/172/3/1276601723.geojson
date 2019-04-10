@@ -1,0 +1,73 @@
+{
+  "id": 1276601723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82152,21.46326,103.82152,21.46326",
+    "geom:latitude":21.46326,
+    "geom:longitude":103.82152,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Bo",
+    "gn:country_code":"VN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591122,
+    "gn:latitude":21.46326,
+    "gn:longitude":103.82152,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"B\u1ea3n B\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n B\u1ed1"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n B\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591122
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b788655896287917faa990502c58770f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1276601723,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1276601723,
+    "wof:lastmodified":1537714132,
+    "wof:name":"Ban Bo",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82152,
+    21.46326,
+    103.82152,
+    21.46326
+],
+  "geometry": {"coordinates":[103.82152000000001,21.46326],"type":"Point"}
+}

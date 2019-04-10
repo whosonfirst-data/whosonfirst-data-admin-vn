@@ -1,0 +1,70 @@
+{
+  "id": 1209728675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44085,10.49648,105.44085,10.49648",
+    "geom:latitude":10.49648,
+    "geom:longitude":105.44085,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Long Hung",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337004,
+    "gn:latitude":10.49648,
+    "gn:longitude":105.44085,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Long H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337004
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"979c32e41846189af92c4c52c069449e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782215,
+            "locality_id":1209728675,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1209728675,
+    "wof:lastmodified":1537714279,
+    "wof:name":"Long Hung",
+    "wof:parent_id":1108782215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44085,
+    10.49648,
+    105.44085,
+    10.49648
+],
+  "geometry": {"coordinates":[105.44085,10.49648],"type":"Point"}
+}

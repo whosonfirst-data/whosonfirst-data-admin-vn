@@ -1,0 +1,71 @@
+{
+  "id": 1277093051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.0,11.66667,109.0,11.66667",
+    "geom:latitude":11.66667,
+    "geom:longitude":109.0,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Phuoc Nhon",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565365,
+    "gn:latitude":11.66667,
+    "gn:longitude":109.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ph\u01b0\u1edbc Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuoc Nhon",
+        "Th\u00f4n Ph\u01b0\u1edbc Nh\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de089c1f1de07ec3a999f421f3a4bd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1277093051,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1277093051,
+    "wof:lastmodified":1537713750,
+    "wof:name":"Thon Phuoc Nhon",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.0,
+    11.66667,
+    109.0,
+    11.66667
+],
+  "geometry": {"coordinates":[109.0,11.66667],"type":"Point"}
+}

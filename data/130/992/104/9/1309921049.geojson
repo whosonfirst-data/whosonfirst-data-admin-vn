@@ -1,0 +1,73 @@
+{
+  "id": 1309921049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57757,19.26193,105.57757,19.26193",
+    "geom:latitude":19.26193,
+    "geom:longitude":105.57757,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Xom Sau",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372481,
+    "gn:latitude":19.26193,
+    "gn:longitude":105.57757,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"X\u00f3m S\u00e1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m S\u00e1u"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f3m 6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372481
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3be8d91a5be059d2fce407047bd6789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1309921049,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1309921049,
+    "wof:lastmodified":1537714722,
+    "wof:name":"Xom Sau",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57757,
+    19.26193,
+    105.57757,
+    19.26193
+],
+  "geometry": {"coordinates":[105.57756999999999,19.26193],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243573109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69949,10.90512,106.69949,10.90512",
+    "geom:latitude":10.90512,
+    "geom:longitude":106.69949,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Lai Thieu",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1577929,
+    "gn:latitude":10.90512,
+    "gn:longitude":106.69949,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"L\u00e1i Thi\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e1i Thi\u00eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577929
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2ed163ea13fd3473e586641efcb36e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781965,
+            "locality_id":1243573109,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1243573109,
+    "wof:lastmodified":1537713932,
+    "wof:name":"Lai Thieu",
+    "wof:parent_id":1108781965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69949,
+    10.90512,
+    106.69949,
+    10.90512
+],
+  "geometry": {"coordinates":[106.69949,10.90512],"type":"Point"}
+}

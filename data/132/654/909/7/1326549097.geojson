@@ -1,0 +1,67 @@
+{
+  "id": 1326549097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,21.0,105.66667,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Tien Le Trai",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564646,
+    "gn:latitude":21.0,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ti\u1ec1n L\u00ea Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564646
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f8e66041d4d4ff9c811695d26f5ffe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780829,
+            "locality_id":1326549097,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1326549097,
+    "wof:lastmodified":1536959667,
+    "wof:name":"Tien Le Trai",
+    "wof:parent_id":1108780829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    21.0,
+    105.66667,
+    21.0
+],
+  "geometry": {"coordinates":[105.66667,21.0],"type":"Point"}
+}

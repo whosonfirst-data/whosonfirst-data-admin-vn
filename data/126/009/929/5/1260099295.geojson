@@ -1,0 +1,72 @@
+{
+  "id": 1260099295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.50361,9.71139,106.50361,9.71139",
+    "geom:latitude":9.71139,
+    "geom:longitude":106.50361,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Bau Beo",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593966,
+    "gn:latitude":9.71139,
+    "gn:longitude":106.50361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p B\u00e0u B\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e0u B\u00e8o",
+        "\u1ea4p B\u00e0u B\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593966
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"764f7339676a3767ba76c82f10d125c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782147,
+            "locality_id":1260099295,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1260099295,
+    "wof:lastmodified":1537714199,
+    "wof:name":"Ap Bau Beo",
+    "wof:parent_id":1108782147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.50361,
+    9.71139,
+    106.50361,
+    9.71139
+],
+  "geometry": {"coordinates":[106.50360999999999,9.71139],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293293699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.46211,10.30094,106.46211,10.30094",
+    "geom:latitude":10.30094,
+    "geom:longitude":106.46211,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Mot",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338002,
+    "gn:latitude":10.30094,
+    "gn:longitude":106.46211,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"\u1ea4p M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338002
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52fa9f9b3a5272253499a90ae92dafb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782123,
+            "locality_id":1293293699,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293293699,
+    "wof:lastmodified":1537714287,
+    "wof:name":"Ap Mot",
+    "wof:parent_id":1108782123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.46211,
+    10.30094,
+    106.46211,
+    10.30094
+],
+  "geometry": {"coordinates":[106.46211,10.30094],"type":"Point"}
+}

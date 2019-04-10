@@ -1,0 +1,73 @@
+{
+  "id": 1293019897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45573,21.7539,105.45573,21.7539",
+    "geom:latitude":21.7539,
+    "geom:longitude":105.45573,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Quang Dam",
+    "gn:country_code":"VN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568821,
+    "gn:latitude":21.7539,
+    "gn:longitude":105.45573,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Qu\u1ea3ng \u0110\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Qu\u1ea3ng \u0110\u00e0m"
+    ],
+    "name:vie_x_variant":[
+        "Qu\u1ea3ng \u0110\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568821
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79b0bf02ec518b79ac2a7ae8468cdbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1293019897,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293019897,
+    "wof:lastmodified":1537713804,
+    "wof:name":"Quang Dam",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45573,
+    21.7539,
+    105.45573,
+    21.7539
+],
+  "geometry": {"coordinates":[105.45573,21.7539],"type":"Point"}
+}

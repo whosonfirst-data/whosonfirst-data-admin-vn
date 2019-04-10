@@ -1,0 +1,67 @@
+{
+  "id": 1310220543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6,21.08333,105.6,21.08333",
+    "geom:latitude":21.08333,
+    "geom:longitude":105.6,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ngoc Tao",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572392,
+    "gn:latitude":21.08333,
+    "gn:longitude":105.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ng\u1ecdc T\u1ea3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572392
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"94cdc177e3e79a1c92b1cc7209e89ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780825,
+            "locality_id":1310220543,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1310220543,
+    "wof:lastmodified":1536829497,
+    "wof:name":"Ngoc Tao",
+    "wof:parent_id":1108780825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6,
+    21.08333,
+    105.6,
+    21.08333
+],
+  "geometry": {"coordinates":[105.59999999999999,21.08333],"type":"Point"}
+}

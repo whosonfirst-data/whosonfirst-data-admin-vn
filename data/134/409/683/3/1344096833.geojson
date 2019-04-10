@@ -1,0 +1,72 @@
+{
+  "id": 1344096833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,20.31667,106.56667,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Thien Tuong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565876,
+    "gn:latitude":20.31667,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Thi\u1ec7n T\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thien Thuong",
+        "Thi\u1ec7n T\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565876
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8bd3c99cbc7a6e24ad778bac0fb2ac2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781327,
+            "locality_id":1344096833,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1344096833,
+    "wof:lastmodified":1537713769,
+    "wof:name":"Thien Tuong",
+    "wof:parent_id":1108781327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    20.31667,
+    106.56667,
+    20.31667
+],
+  "geometry": {"coordinates":[106.56667,20.31667],"type":"Point"}
+}

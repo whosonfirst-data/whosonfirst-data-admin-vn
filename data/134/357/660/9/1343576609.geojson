@@ -1,0 +1,72 @@
+{
+  "id": 1343576609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.92335,21.75873,106.92335,21.75873",
+    "geom:latitude":21.75873,
+    "geom:longitude":106.92335,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Loc Binh",
+    "gn:country_code":"VN",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1575896,
+    "gn:latitude":21.75873,
+    "gn:longitude":106.92335,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"L\u1ed9c B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loc Rinh",
+        "Lok-binh",
+        "L\u1ed9c B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575896
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d3824ec389a6aaa81705a701337e662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1343576609,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343576609,
+    "wof:lastmodified":1537713899,
+    "wof:name":"Loc Binh",
+    "wof:parent_id":1108781105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.92335,
+    21.75873,
+    106.92335,
+    21.75873
+],
+  "geometry": {"coordinates":[106.92335,21.75873],"type":"Point"}
+}

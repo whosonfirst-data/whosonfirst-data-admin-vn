@@ -1,0 +1,74 @@
+{
+  "id": 1310516931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.91306,11.83653,108.91306,11.83653",
+    "geom:latitude":11.83653,
+    "geom:longitude":108.91306,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ta Lu",
+    "gn:country_code":"VN",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565330,
+    "gn:latitude":11.83653,
+    "gn:longitude":108.91306,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"T\u00e0 L\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talou",
+        "Th\u00f4n T\u00e0 Lu H\u1ea1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e0 L\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565330
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73da1e8927b757b01378190a7a90983b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781737,
+            "locality_id":1310516931,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310516931,
+    "wof:lastmodified":1537713749,
+    "wof:name":"Ta Lu",
+    "wof:parent_id":1108781737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.91306000000002,
+    11.83653,
+    108.91306000000002,
+    11.83653
+],
+  "geometry": {"coordinates":[108.91306000000002,11.83653],"type":"Point"}
+}

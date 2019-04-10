@@ -1,0 +1,73 @@
+{
+  "id": 1344054949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33653,22.85673,105.33653,22.85673",
+    "geom:latitude":22.85673,
+    "geom:longitude":105.33653,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nam Pieng",
+    "gn:country_code":"VN",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573250,
+    "gn:latitude":22.85673,
+    "gn:longitude":105.33653,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u1eb7m Pi\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Pi\u00e9ng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eb7m Pi\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573250
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b02781d0725c7819cf256b2cc95b590c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1344054949,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1344054949,
+    "wof:lastmodified":1537713867,
+    "wof:name":"Nam Pieng",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33653,
+    22.85673,
+    105.33653,
+    22.85673
+],
+  "geometry": {"coordinates":[105.33653,22.85673],"type":"Point"}
+}

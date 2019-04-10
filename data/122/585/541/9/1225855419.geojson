@@ -1,0 +1,70 @@
+{
+  "id": 1225855419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3017,23.30828,105.3017,23.30828",
+    "geom:latitude":23.30828,
+    "geom:longitude":105.3017,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Hung Ngai",
+    "gn:country_code":"VN",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474078,
+    "gn:latitude":23.30828,
+    "gn:longitude":105.3017,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"H\u00f9ng Ng\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f9ng Ng\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474078
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e94efbfcbe0f9b745dd3cacfced493b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780851,
+            "locality_id":1225855419,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1225855419,
+    "wof:lastmodified":1537714321,
+    "wof:name":"Hung Ngai",
+    "wof:parent_id":1108780851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3017,
+    23.30828,
+    105.3017,
+    23.30828
+],
+  "geometry": {"coordinates":[105.3017,23.30828],"type":"Point"}
+}

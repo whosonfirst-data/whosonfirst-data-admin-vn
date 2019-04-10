@@ -1,0 +1,74 @@
+{
+  "id": 1310512153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66535,21.88507,104.66535,21.88507",
+    "geom:latitude":21.88507,
+    "geom:longitude":104.66535,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Cheo",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567763,
+    "gn:latitude":21.88507,
+    "gn:longitude":104.66535,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"L\u00e0ng Cheo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Som Chen",
+        "S\u00f3m Cheo"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Cheo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567763
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"af315720a9633d3def49b69fb38e31f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1310512153,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1310512153,
+    "wof:lastmodified":1537713792,
+    "wof:name":"Lang Cheo",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66535,
+    21.88507,
+    104.66535,
+    21.88507
+],
+  "geometry": {"coordinates":[104.66535,21.88507],"type":"Point"}
+}

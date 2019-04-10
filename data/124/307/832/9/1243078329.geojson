@@ -1,0 +1,70 @@
+{
+  "id": 1243078329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4005,22.61484,103.4005,22.61484",
+    "geom:latitude":22.61484,
+    "geom:longitude":103.4005,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Lung",
+    "gn:country_code":"VN",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356502,
+    "gn:latitude":22.61484,
+    "gn:longitude":103.4005,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"N\u1eadm L\u1eebng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm L\u1eebng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"38d6cbd83eca129b6a29ebf28b812797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1243078329,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1243078329,
+    "wof:lastmodified":1537714713,
+    "wof:name":"Nam Lung",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4005,
+    22.61484,
+    103.4005,
+    22.61484
+],
+  "geometry": {"coordinates":[103.40049999999999,22.61484],"type":"Point"}
+}

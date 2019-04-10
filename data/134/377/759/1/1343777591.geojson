@@ -1,0 +1,73 @@
+{
+  "id": 1343777591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28197,22.93435,105.28197,22.93435",
+    "geom:latitude":22.93435,
+    "geom:longitude":105.28197,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Thien Phao",
+    "gn:country_code":"VN",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309555,
+    "gn:latitude":22.93435,
+    "gn:longitude":105.28197,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Thi\u1ec1n Ph\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thi\u1ec1n P\u00e1o"
+    ],
+    "name:vie_x_variant":[
+        "Thi\u1ec1n Ph\u00e1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309555
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4075441b47d1e682c4cc4a0905cf580f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1343777591,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343777591,
+    "wof:lastmodified":1537714258,
+    "wof:name":"Thien Phao",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28197,
+    22.93435,
+    105.28197,
+    22.93435
+],
+  "geometry": {"coordinates":[105.28197,22.93435],"type":"Point"}
+}

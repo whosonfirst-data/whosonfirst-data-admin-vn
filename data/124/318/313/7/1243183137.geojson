@@ -1,0 +1,71 @@
+{
+  "id": 1243183137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85,21.7,104.85,21.7",
+    "geom:latitude":21.7,
+    "geom:longitude":104.85,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Cau Phao",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585950,
+    "gn:latitude":21.7,
+    "gn:longitude":104.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ea7u Phao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cao Phao",
+        "C\u1ea7u Phao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585950
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ece1d11460af45343568dcd7b42a192c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781021,
+            "locality_id":1243183137,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1243183137,
+    "wof:lastmodified":1537714029,
+    "wof:name":"Cau Phao",
+    "wof:parent_id":1108781021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85,
+    21.7,
+    104.85,
+    21.7
+],
+  "geometry": {"coordinates":[104.84999999999999,21.7],"type":"Point"}
+}

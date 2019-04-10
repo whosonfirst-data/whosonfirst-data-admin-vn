@@ -1,0 +1,74 @@
+{
+  "id": 1293109365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44713,21.90154,104.44713,21.90154",
+    "geom:latitude":21.90154,
+    "geom:longitude":104.44713,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Canh",
+    "gn:country_code":"VN",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577676,
+    "gn:latitude":21.90154,
+    "gn:longitude":104.44713,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"L\u00e0ng Canh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Cung Meo",
+        "L\u00e0ng Cang"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Canh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577676
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5392a7434917bdef51d21738f97b570f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1293109365,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1293109365,
+    "wof:lastmodified":1537713928,
+    "wof:name":"Lang Canh",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44713,
+    21.90154,
+    104.44713,
+    21.90154
+],
+  "geometry": {"coordinates":[104.44713,21.90154],"type":"Point"}
+}

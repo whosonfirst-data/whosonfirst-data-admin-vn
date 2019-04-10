@@ -1,0 +1,67 @@
+{
+  "id": 1293303579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75992,22.40996,105.75992,22.40996",
+    "geom:latitude":22.40996,
+    "geom:longitude":105.75992,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Tien Phong",
+    "gn:country_code":"VN",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311414,
+    "gn:latitude":22.40996,
+    "gn:longitude":105.75992,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ti\u1ec1n Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311414
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"22e7e08d257b2fd4950ab23037d41f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1293303579,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293303579,
+    "wof:lastmodified":1537049974,
+    "wof:name":"Tien Phong",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75992,
+    22.40996,
+    105.75992,
+    22.40996
+],
+  "geometry": {"coordinates":[105.75991999999999,22.40996],"type":"Point"}
+}

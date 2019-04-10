@@ -1,0 +1,70 @@
+{
+  "id": 1343620805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23641,21.64714,104.23641,21.64714",
+    "geom:latitude":21.64714,
+    "geom:longitude":104.23641,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Luot",
+    "gn:country_code":"VN",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545303,
+    "gn:latitude":21.64714,
+    "gn:longitude":104.23641,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n L\u01b0\u1edbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u01b0\u1edbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545303
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"459a20d36dbc17058522e5eaed97f6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1343620805,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1343620805,
+    "wof:lastmodified":1537714341,
+    "wof:name":"Ban Luot",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23641,
+    21.64714,
+    104.23641,
+    21.64714
+],
+  "geometry": {"coordinates":[104.23641000000001,21.64714],"type":"Point"}
+}

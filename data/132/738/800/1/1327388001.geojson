@@ -1,0 +1,74 @@
+{
+  "id": 1327388001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,11.08333,106.26667,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Go Dau Ha",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581523,
+    "gn:latitude":11.08333,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u00f2 D\u1ea7u H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Go Da Hou",
+        "Hi\u1ebfu Th\u1ecb\u00ean",
+        "Godsuha",
+        "G\u00f2 D\u1ea7u H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581523
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f422765f26546be4447a64a423c14ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781945,
+            "locality_id":1327388001,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1327388001,
+    "wof:lastmodified":1537713976,
+    "wof:name":"Go Dau Ha",
+    "wof:parent_id":1108781945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    11.08333,
+    106.26667,
+    11.08333
+],
+  "geometry": {"coordinates":[106.26667,11.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309727033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96667,10.16667,105.96667,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":105.96667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ap Phu Hiep",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592636,
+    "gn:latitude":10.16667,
+    "gn:longitude":105.96667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"\u1ea4p Ph\u00fa Hi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592636
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8730d183b47a7053798ea76c8b6b1335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782151,
+            "locality_id":1309727033,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1309727033,
+    "wof:lastmodified":1537042803,
+    "wof:name":"Ap Phu Hiep",
+    "wof:parent_id":1108782151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96667,
+    10.16667,
+    105.96667,
+    10.16667
+],
+  "geometry": {"coordinates":[105.96666999999999,10.16667],"type":"Point"}
+}

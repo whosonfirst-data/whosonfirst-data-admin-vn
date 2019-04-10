@@ -1,0 +1,73 @@
+{
+  "id": 1259924737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,19.96667,105.63333,19.96667",
+    "geom:latitude":19.96667,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thanh Phu",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566076,
+    "gn:latitude":19.96667,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Thanh Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen Thon Moi",
+        "Phu Tho",
+        "Thanh Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566076
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab825f424eef77595e40b24ae47538fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781417,
+            "locality_id":1259924737,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259924737,
+    "wof:lastmodified":1537713772,
+    "wof:name":"Thanh Phu",
+    "wof:parent_id":1108781417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    19.96667,
+    105.63333,
+    19.96667
+],
+  "geometry": {"coordinates":[105.63333,19.96667],"type":"Point"}
+}

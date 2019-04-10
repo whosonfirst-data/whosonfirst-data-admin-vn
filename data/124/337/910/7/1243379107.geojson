@@ -1,0 +1,70 @@
+{
+  "id": 1243379107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02114,21.03594,106.02114,21.03594",
+    "geom:latitude":21.03594,
+    "geom:longitude":106.02114,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Duc Hiep",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871612,
+    "gn:latitude":21.03594,
+    "gn:longitude":106.02114,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u1ee9c Hi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ee9c Hi\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871612
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3d7f45114264406905cbf8a7565d4c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781227,
+            "locality_id":1243379107,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1243379107,
+    "wof:lastmodified":1537714541,
+    "wof:name":"Duc Hiep",
+    "wof:parent_id":1108781227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02114,
+    21.03594,
+    106.02114,
+    21.03594
+],
+  "geometry": {"coordinates":[106.02114,21.03594],"type":"Point"}
+}

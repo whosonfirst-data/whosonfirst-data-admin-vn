@@ -1,0 +1,73 @@
+{
+  "id": 1242686827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41798,10.3933,105.41798,10.3933",
+    "geom:latitude":10.3933,
+    "geom:longitude":105.41798,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Binh Khanh",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593851,
+    "gn:latitude":10.3933,
+    "gn:longitude":105.41798,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u00ecnh Kh\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00ecnh Kh\u00e1nh"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh Kh\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593851
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"250d6123f8d50c5e10be17ea7e3b05c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1242686827,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1242686827,
+    "wof:lastmodified":1537714196,
+    "wof:name":"Binh Khanh",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41798,
+    10.3933,
+    105.41798,
+    10.3933
+],
+  "geometry": {"coordinates":[105.41798,10.3933],"type":"Point"}
+}

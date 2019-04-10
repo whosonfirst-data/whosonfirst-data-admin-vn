@@ -1,0 +1,71 @@
+{
+  "id": 1276244027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,9.6,105.9,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Xom Kinh Mai",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561382,
+    "gn:latitude":9.6,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Kinh Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinh Moi",
+        "X\u00f3m Kinh Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561382
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e7b8794c98f737a31b9d59913a4d2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782289,
+            "locality_id":1276244027,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1276244027,
+    "wof:lastmodified":1537713684,
+    "wof:name":"Xom Kinh Mai",
+    "wof:parent_id":1108782289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    9.6,
+    105.9,
+    9.6
+],
+  "geometry": {"coordinates":[105.90000000000001,9.6],"type":"Point"}
+}

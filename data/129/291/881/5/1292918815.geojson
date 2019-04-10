@@ -1,0 +1,67 @@
+{
+  "id": 1292918815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.21667,12.68333,109.21667,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":109.21667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Hien Luong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580928,
+    "gn:latitude":12.68333,
+    "gn:longitude":109.21667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Hi\u1ec1n L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580928
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2d20dbfed5981d98d02b23cdaadc96cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781725,
+            "locality_id":1292918815,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1292918815,
+    "wof:lastmodified":1536610048,
+    "wof:name":"Hien Luong",
+    "wof:parent_id":1108781725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.21667,
+    12.68333,
+    109.21667,
+    12.68333
+],
+  "geometry": {"coordinates":[109.21666999999999,12.68333],"type":"Point"}
+}

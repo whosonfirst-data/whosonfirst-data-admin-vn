@@ -1,0 +1,64 @@
+{
+  "id": 1209526081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06678,21.29263,106.06678,21.29263",
+    "geom:latitude":21.29263,
+    "geom:longitude":106.06678,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Quan Ranh",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868043,
+    "gn:latitude":21.29263,
+    "gn:longitude":106.06678,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Quan R\u00e3nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Quan R\u00e3nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868043
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9c7a9700a304aeeddac9026758f100fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526081
+        }
+    ],
+    "wof:id":1209526081,
+    "wof:lastmodified":1537714522,
+    "wof:name":"Quan Ranh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06678,
+    21.29263,
+    106.06678,
+    21.29263
+],
+  "geometry": {"coordinates":[106.06677999999999,21.29263],"type":"Point"}
+}

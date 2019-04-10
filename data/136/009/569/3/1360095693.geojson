@@ -1,0 +1,70 @@
+{
+  "id": 1360095693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10377,23.1963,105.10377,23.1963",
+    "geom:latitude":23.1963,
+    "geom:longitude":105.10377,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na Khoang",
+    "gn:country_code":"VN",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474124,
+    "gn:latitude":23.1963,
+    "gn:longitude":105.10377,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"N\u00e0 Khoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Khoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474124
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66af59bd99b2660e9041d1f18602a0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1360095693,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1360095693,
+    "wof:lastmodified":1537714322,
+    "wof:name":"Na Khoang",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10377,
+    23.1963,
+    105.10377,
+    23.1963
+],
+  "geometry": {"coordinates":[105.10377,23.1963],"type":"Point"}
+}

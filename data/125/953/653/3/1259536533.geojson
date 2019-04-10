@@ -1,0 +1,67 @@
+{
+  "id": 1259536533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,20.55,106.38333,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ky Trong",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578113,
+    "gn:latitude":20.55,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"K\u1ef3 Tr\u1ecdng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578113
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"29b55a3019afea52b354244080de8ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781321,
+            "locality_id":1259536533,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1259536533,
+    "wof:lastmodified":1536783092,
+    "wof:name":"Ky Trong",
+    "wof:parent_id":1108781321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    20.55,
+    106.38333,
+    20.55
+],
+  "geometry": {"coordinates":[106.38333,20.55],"type":"Point"}
+}

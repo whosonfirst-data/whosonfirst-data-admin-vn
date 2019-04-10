@@ -1,0 +1,67 @@
+{
+  "id": 1242884813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36667,21.15,106.36667,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":106.36667,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Dong Rim",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582639,
+    "gn:latitude":21.15,
+    "gn:longitude":106.36667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4ng Rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582639
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"427d703c0ab03451e3dcb4551a166376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781237,
+            "locality_id":1242884813,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1242884813,
+    "wof:lastmodified":1536618941,
+    "wof:name":"Dong Rim",
+    "wof:parent_id":1108781237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36667,
+    21.15,
+    106.36667,
+    21.15
+],
+  "geometry": {"coordinates":[106.36667,21.15],"type":"Point"}
+}

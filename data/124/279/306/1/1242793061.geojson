@@ -1,0 +1,74 @@
+{
+  "id": 1242793061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88378,21.24215,106.88378,21.24215",
+    "geom:latitude":21.24215,
+    "geom:longitude":106.88378,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Thon Dang",
+    "gn:country_code":"VN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583937,
+    "gn:latitude":21.24215,
+    "gn:longitude":106.88378,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Th\u00f4n \u0110\u1ea3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang \u0110\u0103ng",
+        "\u0110\u1ea3ng Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n \u0110\u1ea3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583937
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10f50f8ec86561a4493430385d303bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781155,
+            "locality_id":1242793061,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1242793061,
+    "wof:lastmodified":1537714007,
+    "wof:name":"Thon Dang",
+    "wof:parent_id":1108781155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88378,
+    21.24215,
+    106.88378,
+    21.24215
+],
+  "geometry": {"coordinates":[106.88378,21.24215],"type":"Point"}
+}

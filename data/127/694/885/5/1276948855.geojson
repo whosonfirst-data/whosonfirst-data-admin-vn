@@ -1,0 +1,67 @@
+{
+  "id": 1276948855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.62556,20.80528,106.62556,20.80528",
+    "geom:latitude":20.80528,
+    "geom:longitude":106.62556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kien An",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579018,
+    "gn:latitude":20.80528,
+    "gn:longitude":106.62556,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ki\u1ebfn An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579018
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e4309f3d00013135464a2309dc9b5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781283,
+            "locality_id":1276948855,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1276948855,
+    "wof:lastmodified":1536949262,
+    "wof:name":"Kien An",
+    "wof:parent_id":1108781283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.62556,
+    20.80528,
+    106.62556,
+    20.80528
+],
+  "geometry": {"coordinates":[106.62555999999999,20.80528],"type":"Point"}
+}

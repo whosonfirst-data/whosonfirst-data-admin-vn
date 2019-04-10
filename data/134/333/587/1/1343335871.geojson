@@ -1,0 +1,70 @@
+{
+  "id": 1343335871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41048,10.9908,106.41048,10.9908",
+    "geom:latitude":10.9908,
+    "geom:longitude":106.41048,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"My Khanh A",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645013,
+    "gn:latitude":10.9908,
+    "gn:longitude":106.41048,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"M\u1ef9 Kh\u00e1nh A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef9 Kh\u00e1nh A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645013
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c38454f0b4633f7ca2bbd2442ce303a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782049,
+            "locality_id":1343335871,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1343335871,
+    "wof:lastmodified":1537714494,
+    "wof:name":"My Khanh A",
+    "wof:parent_id":1108782049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41048,
+    10.9908,
+    106.41048,
+    10.9908
+],
+  "geometry": {"coordinates":[106.41048000000001,10.9908],"type":"Point"}
+}

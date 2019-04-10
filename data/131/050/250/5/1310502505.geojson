@@ -1,0 +1,74 @@
+{
+  "id": 1310502505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11892,10.26032,106.11892,10.26032",
+    "geom:latitude":10.26032,
+    "geom:longitude":106.11892,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cho Lach",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1585332,
+    "gn:latitude":10.26032,
+    "gn:longitude":106.11892,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ch\u1ee3 L\u00e1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cholac",
+        "Ch\u01a1 L\u00e1ch"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u1ee3 L\u00e1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"450d4f37c9ad6ad782ff4bfb72ed7154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782115,
+            "locality_id":1310502505,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1310502505,
+    "wof:lastmodified":1537714023,
+    "wof:name":"Cho Lach",
+    "wof:parent_id":1108782115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11892,
+    10.26032,
+    106.11892,
+    10.26032
+],
+  "geometry": {"coordinates":[106.11892,10.26032],"type":"Point"}
+}

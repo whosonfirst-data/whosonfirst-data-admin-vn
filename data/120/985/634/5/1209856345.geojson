@@ -1,0 +1,70 @@
+{
+  "id": 1209856345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55753,20.43781,104.55753,20.43781",
+    "geom:latitude":20.43781,
+    "geom:longitude":104.55753,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Co Noi",
+    "gn:country_code":"VN",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550409,
+    "gn:latitude":20.43781,
+    "gn:longitude":104.55753,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"C\u00f3 Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00f3 Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550409
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"924a24ad43a0d52e6f42cf3af5100fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781393,
+            "locality_id":1209856345,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1209856345,
+    "wof:lastmodified":1537714347,
+    "wof:name":"Co Noi",
+    "wof:parent_id":1108781393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55753,
+    20.43781,
+    104.55753,
+    20.43781
+],
+  "geometry": {"coordinates":[104.55753,20.43781],"type":"Point"}
+}

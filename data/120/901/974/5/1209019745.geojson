@@ -1,0 +1,64 @@
+{
+  "id": 1209019745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48088,21.45962,104.48088,21.45962",
+    "geom:latitude":21.45962,
+    "geom:longitude":104.48088,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Hang Day",
+    "gn:country_code":"VN",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526493,
+    "gn:latitude":21.45962,
+    "gn:longitude":104.48088,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"H\u00e1ng \u0110ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e1ng \u0110ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526493
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"07413e6716e7123a9d251bab636b7b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019745
+        }
+    ],
+    "wof:id":1209019745,
+    "wof:lastmodified":1537714333,
+    "wof:name":"Hang Day",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48088,
+    21.45962,
+    104.48088,
+    21.45962
+],
+  "geometry": {"coordinates":[104.48088,21.45962],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243573099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98085,22.46098,103.98085,22.46098",
+    "geom:latitude":22.46098,
+    "geom:longitude":103.98085,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Vi Kim",
+    "gn:country_code":"VN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562810,
+    "gn:latitude":22.46098,
+    "gn:longitude":103.98085,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"V\u0129 Kim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129 Kim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562810
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d9d5975c190ba3b44a6ffd882d347f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780937,
+            "locality_id":1243573099,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243573099,
+    "wof:lastmodified":1537713712,
+    "wof:name":"Vi Kim",
+    "wof:parent_id":1108780937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98085,
+    22.46098,
+    103.98085,
+    22.46098
+],
+  "geometry": {"coordinates":[103.98085,22.46098],"type":"Point"}
+}

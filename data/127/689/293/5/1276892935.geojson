@@ -1,0 +1,73 @@
+{
+  "id": 1276892935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54612,22.05581,103.54612,22.05581",
+    "geom:latitude":22.05581,
+    "geom:longitude":103.54612,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Khau Hom Hai",
+    "gn:country_code":"VN",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9984956,
+    "gn:latitude":22.05581,
+    "gn:longitude":103.54612,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"B\u1ea3n Khau H\u1ecfm Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Khau H\u1ecfm Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Khau 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9984956
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba74825430ddab7d7a78aa1af2436adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1276892935,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1276892935,
+    "wof:lastmodified":1537714573,
+    "wof:name":"Ban Khau Hom Hai",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54612,
+    22.05581,
+    103.54612,
+    22.05581
+],
+  "geometry": {"coordinates":[103.54612,22.05581],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292901685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54724,22.93693,105.54724,22.93693",
+    "geom:latitude":22.93693,
+    "geom:longitude":105.54724,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Na Phong",
+    "gn:country_code":"VN",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573856,
+    "gn:latitude":22.93693,
+    "gn:longitude":105.54724,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"N\u00e0 Ph\u00f2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Pong",
+        "Na \u0110\u1ed9ng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 Ph\u00f2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573856
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"01dba2cefdf8bf2425f4de013b7311b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1292901685,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1292901685,
+    "wof:lastmodified":1537713875,
+    "wof:name":"Na Phong",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54724,
+    22.93693,
+    105.54724,
+    22.93693
+],
+  "geometry": {"coordinates":[105.54724,22.93693],"type":"Point"}
+}

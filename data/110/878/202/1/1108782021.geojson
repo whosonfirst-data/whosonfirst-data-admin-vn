@@ -1,0 +1,109 @@
+{
+  "id": 1108782021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001775,
+    "geom:area_square_m":21560716.324832,
+    "geom:bbox":"106.609111636,10.7794703627,106.659278454,10.8396106308",
+    "geom:latitude":10.811976,
+    "geom:longitude":106.635334,
+    "iso:country":"VN",
+    "lbl:latitude":10.81691,
+    "lbl:longitude":106.63832,
+    "meso:admin_1":"TP. Ho Chi Minh",
+    "meso:gadm_admin":"T\u00e2n B\u00ecnh",
+    "meso:gadm_hasc2":"VN.HC.TB",
+    "meso:gaul_adm2":"Tan Binh",
+    "meso:local_id":"79766",
+    "meso:mps_x":106.63832,
+    "meso:mps_y":10.81691,
+    "meso:name_en":"Tan Binh",
+    "meso:source":"AOTM",
+    "mps:latitude":10.81691,
+    "mps:longitude":106.63832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u65b0\u5e73\u90e1"
+    ],
+    "name:dut_x_preferred":[
+        "T\u00e2n B\u00ecnh"
+    ],
+    "name:eng_x_preferred":[
+        "Tan Binh"
+    ],
+    "name:fre_x_preferred":[
+        "T\u00e2n Binh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30d3\u30f3\u533a"
+    ],
+    "name:nob_x_preferred":[
+        "Tan Binh"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Tan Binh"
+    ],
+    "name:rum_x_preferred":[
+        "Tan Binh"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n B\u00ecnh"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"22",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ho Chi Minh City",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HC",
+    "statoids:name":"Tan Binh",
+    "statoids:population":"425136",
+    "statoids:statoid":"VN.HC.TB",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2200028"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741682,
+    "wof:geomhash":"d41d22281e9de4564f20d3274544bab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782021,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1108782021,
+    "wof:lastmodified":1553816509,
+    "wof:name":"Tan Binh",
+    "wof:parent_id":85680809,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":425136,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60911163620828,
+    10.77947036272671,
+    106.65927845362486,
+    10.83961063084539
+],
+  "geometry": {"coordinates":[[[106.60914799039746,10.82659731224579],[106.6120531326402,10.83232772041185],[106.61317166204245,10.83315738792015],[106.6145360067398,10.83534796613993],[106.62295885971979,10.83961063084539],[106.62917269199514,10.83736391927404],[106.63393489457945,10.83273190809907],[106.63741215464574,10.83267279313281],[106.64182021569039,10.83109614795879],[106.6446603235222,10.83215615248436],[106.65146783310306,10.82723744282311],[106.65264429505656,10.82316820108231],[106.65902323992901,10.81800212862515],[106.65228609122343,10.80818092486157],[106.65380306958414,10.80581913297297],[106.65345071146851,10.79762318623234],[106.65538789171738,10.79566145464932],[106.65927845362486,10.78818576121155],[106.65210721636063,10.78491532926648],[106.65042579540156,10.78291481966872],[106.64531168208428,10.77947036272671],[106.63977315647746,10.78688781368505],[106.63910766439837,10.78719828509421],[106.63094724853914,10.78658660442081],[106.62628526267491,10.7927998803014],[106.62549648628044,10.79337995332744],[106.62552841961694,10.79920854562124],[106.62765500490437,10.80610718937607],[106.62746507799694,10.80687721412083],[106.61469207419306,10.81072936932359],[106.60911163620828,10.81782784054667],[106.60946390770091,10.81912133678768],[106.60914799039746,10.82659731224579]]],"type":"Polygon"}
+}

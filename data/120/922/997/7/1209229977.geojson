@@ -1,0 +1,64 @@
+{
+  "id": 1209229977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42865,18.33782,105.42865,18.33782",
+    "geom:latitude":18.33782,
+    "geom:longitude":105.42865,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Tan Quang",
+    "gn:country_code":"VN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8637638,
+    "gn:latitude":18.33782,
+    "gn:longitude":105.42865,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"T\u00e2n Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637638
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef25e7139df1836d9f239071d2bc5e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209229977
+        }
+    ],
+    "wof:id":1209229977,
+    "wof:lastmodified":1537714385,
+    "wof:name":"Tan Quang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42865,
+    18.33782,
+    105.42865,
+    18.33782
+],
+  "geometry": {"coordinates":[105.42865,18.33782],"type":"Point"}
+}

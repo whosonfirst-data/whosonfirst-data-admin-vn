@@ -1,0 +1,70 @@
+{
+  "id": 1242696767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0866,19.08321,105.0866,19.08321",
+    "geom:latitude":19.08321,
+    "geom:longitude":105.0866,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nam Ky",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10252841,
+    "gn:latitude":19.08321,
+    "gn:longitude":105.0866,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Nam K\u1ef3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam K\u1ef3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10252841
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c6c44ae7e4bccc383b632dfbfbd56ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781473,
+            "locality_id":1242696767,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1242696767,
+    "wof:lastmodified":1537714652,
+    "wof:name":"Nam Ky",
+    "wof:parent_id":1108781473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0866,
+    19.08321,
+    105.0866,
+    19.08321
+],
+  "geometry": {"coordinates":[105.0866,19.08321],"type":"Point"}
+}

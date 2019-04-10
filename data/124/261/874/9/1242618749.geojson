@@ -1,0 +1,73 @@
+{
+  "id": 1242618749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99984,21.23126,103.99984,21.23126",
+    "geom:latitude":21.23126,
+    "geom:longitude":103.99984,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Xum Hai",
+    "gn:country_code":"VN",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893332,
+    "gn:latitude":21.23126,
+    "gn:longitude":103.99984,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"B\u1ea3n Xum Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Xum Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Xum 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48e9c3e4843f6944ce396db7dfe913b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1242618749,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1242618749,
+    "wof:lastmodified":1537714554,
+    "wof:name":"Ban Xum Hai",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99984,
+    21.23126,
+    103.99984,
+    21.23126
+],
+  "geometry": {"coordinates":[103.99984000000001,21.23126],"type":"Point"}
+}

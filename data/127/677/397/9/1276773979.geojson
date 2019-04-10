@@ -1,0 +1,67 @@
+{
+  "id": 1276773979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.91667,10.96667,106.91667,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":106.91667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ho Nai",
+    "gn:country_code":"VN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580448,
+    "gn:latitude":10.96667,
+    "gn:longitude":106.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u1ed1 Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580448
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50d18462a71b056998db2e895e2efe03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781979,
+            "locality_id":1276773979,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1276773979,
+    "wof:lastmodified":1536685308,
+    "wof:name":"Ho Nai",
+    "wof:parent_id":1108781979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.91667,
+    10.96667,
+    106.91667,
+    10.96667
+],
+  "geometry": {"coordinates":[106.91667,10.96667],"type":"Point"}
+}

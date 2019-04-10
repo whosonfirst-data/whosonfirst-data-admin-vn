@@ -1,0 +1,74 @@
+{
+  "id": 1343976861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.64407,9.34473,105.64407,9.34473",
+    "geom:latitude":9.34473,
+    "geom:longitude":105.64407,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Tram Mot",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591896,
+    "gn:latitude":9.34473,
+    "gn:longitude":105.64407,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tr\u00e0m M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nh\u00e0 M\u00e1y Gao",
+        "\u1ea4p Tr\u00e0m M\u1ed9t"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u00e0m M\u1ed9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591896
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f9e964477d3fed8b104e29b053d8d76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782323,
+            "locality_id":1343976861,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1343976861,
+    "wof:lastmodified":1537714145,
+    "wof:name":"Tram Mot",
+    "wof:parent_id":1108782323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.64407,
+    9.34473,
+    105.64407,
+    9.34473
+],
+  "geometry": {"coordinates":[105.64407,9.34473],"type":"Point"}
+}

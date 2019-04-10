@@ -1,0 +1,67 @@
+{
+  "id": 1360095713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86667,17.86667,105.86667,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":105.86667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Len Ca Vat",
+    "gn:country_code":"VN",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576118,
+    "gn:latitude":17.86667,
+    "gn:longitude":105.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e8n C\u00e0 V\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576118
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4d195727c6c7caaf9ca170d7dcd64563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1360095713,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1360095713,
+    "wof:lastmodified":1536930980,
+    "wof:name":"Len Ca Vat",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86667,
+    17.86667000000001,
+    105.86667,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[105.86667,17.86667000000001],"type":"Point"}
+}

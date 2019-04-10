@@ -1,0 +1,67 @@
+{
+  "id": 1327249925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,20.78333,105.63333,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ao Kenh",
+    "gn:country_code":"VN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594154,
+    "gn:latitude":20.78333,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ao K\u00eanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594154
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc70661d158d6b6baae5428acb527603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1327249925,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1327249925,
+    "wof:lastmodified":1536944703,
+    "wof:name":"Ao Kenh",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    20.78333,
+    105.63333,
+    20.78333
+],
+  "geometry": {"coordinates":[105.63333,20.78333],"type":"Point"}
+}

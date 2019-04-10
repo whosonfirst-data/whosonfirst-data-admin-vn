@@ -1,0 +1,74 @@
+{
+  "id": 1243573293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95856,12.94961,108.95856,12.94961",
+    "geom:latitude":12.94961,
+    "geom:longitude":108.95856,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Buon Thung",
+    "gn:country_code":"VN",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587176,
+    "gn:latitude":12.94961,
+    "gn:longitude":108.95856,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Bu\u00f4n Thung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Tung",
+        "Bun Tung"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Thung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587176
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec9ca8506e63d80777f77204c8e8c277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781705,
+            "locality_id":1243573293,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1243573293,
+    "wof:lastmodified":1537714059,
+    "wof:name":"Buon Thung",
+    "wof:parent_id":1108781705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95856,
+    12.94961,
+    108.95856,
+    12.94961
+],
+  "geometry": {"coordinates":[108.95856000000001,12.94961],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209531169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57949,22.40989,104.57949,22.40989",
+    "geom:latitude":22.40989,
+    "geom:longitude":104.57949,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Yen Binh",
+    "gn:country_code":"VN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8474046,
+    "gn:latitude":22.40989,
+    "gn:longitude":104.57949,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Y\u00ean B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"800723548e092ddc968460e41d3e20af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531169
+        }
+    ],
+    "wof:id":1209531169,
+    "wof:lastmodified":1537714321,
+    "wof:name":"Yen Binh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57949,
+    22.40989,
+    104.57949,
+    22.40989
+],
+  "geometry": {"coordinates":[104.57949000000001,22.40989],"type":"Point"}
+}

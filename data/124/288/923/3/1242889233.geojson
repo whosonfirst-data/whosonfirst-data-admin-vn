@@ -1,0 +1,70 @@
+{
+  "id": 1242889233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02609,21.35849,106.02609,21.35849",
+    "geom:latitude":21.35849,
+    "geom:longitude":106.02609,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Go Cong",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867829,
+    "gn:latitude":21.35849,
+    "gn:longitude":106.02609,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"G\u00f2 C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "G\u00f2 C\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867829
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"956d05b74ec34108e474bbd36a60b9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781147,
+            "locality_id":1242889233,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1242889233,
+    "wof:lastmodified":1537714516,
+    "wof:name":"Go Cong",
+    "wof:parent_id":1108781147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02609,
+    21.35849,
+    106.02609,
+    21.35849
+],
+  "geometry": {"coordinates":[106.02609,21.35849],"type":"Point"}
+}

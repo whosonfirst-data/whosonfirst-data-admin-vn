@@ -1,0 +1,70 @@
+{
+  "id": 1242914091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6449,20.3229,104.6449,20.3229",
+    "geom:latitude":20.3229,
+    "geom:longitude":104.6449,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Son",
+    "gn:country_code":"VN",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549869,
+    "gn:latitude":20.3229,
+    "gn:longitude":104.6449,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"B\u1ea3n Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Son"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549869
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a559958d6437b3b7bf273b6a2ab08cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1242914091,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1242914091,
+    "wof:lastmodified":1537714345,
+    "wof:name":"Ban Son",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6449,
+    20.3229,
+    104.6449,
+    20.3229
+],
+  "geometry": {"coordinates":[104.64490000000001,20.3229],"type":"Point"}
+}

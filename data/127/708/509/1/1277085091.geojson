@@ -1,0 +1,75 @@
+{
+  "id": 1277085091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.72063,11.20962,106.72063,11.20962",
+    "geom:latitude":11.20962,
+    "geom:longitude":106.72063,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Bo La",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593751,
+    "gn:latitude":11.20962,
+    "gn:longitude":106.72063,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u1ed1 L\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Chinh",
+        "Ap Dong Chinh",
+        "\u1ea4p B\u1ed3 L\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ed1 L\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593751
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9177234ea9cb0c85d1fa947f550d2fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1277085091,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1277085091,
+    "wof:lastmodified":1537714194,
+    "wof:name":"Bo La",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.72063,
+    11.20962,
+    106.72063,
+    11.20962
+],
+  "geometry": {"coordinates":[106.72063,11.20962],"type":"Point"}
+}

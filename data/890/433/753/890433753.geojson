@@ -1,0 +1,75 @@
+{
+  "id": 890433753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.21667,13.45,109.21667,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":109.21667,
+    "gn:country":"VN",
+    "gn:fcode":"PPL",
+    "gn:pop":94066,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Song Cau"
+    ],
+    "name:unk_x_variant":[
+        "B\u00f4ng C\u1ea7u"
+    ],
+    "qs:name":"S\u00f4ng C\u1ea7u",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567723,
+        "gp:id":91882598,
+        "qs:id":133478,
+        "wd:id":"Q2052825",
+        "wk:page":"S\u00f4ng C\u1ea7u"
+    },
+    "wof:country":"VN",
+    "wof:created":1469051993,
+    "wof:geomhash":"5f19cae05371b956c4145ed9fa0138fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":890433753,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":890433753,
+    "wof:lastmodified":1527792951,
+    "wof:name":"S\u00f4ng C\u1ea7u",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:population":94066,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.21667,
+    13.45,
+    109.21667,
+    13.45
+],
+  "geometry": {"coordinates":[109.21666999999999,13.45],"type":"Point"}
+}

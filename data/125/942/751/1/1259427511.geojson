@@ -1,0 +1,70 @@
+{
+  "id": 1259427511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77861,19.44645,105.77861,19.44645",
+    "geom:latitude":19.44645,
+    "geom:longitude":105.77861,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tinh Gia",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1564548,
+    "gn:latitude":19.44645,
+    "gn:longitude":105.77861,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"T\u0129nh Gia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0129nh Gia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564548
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5551e441061c829595eae189113a429f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1259427511,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259427511,
+    "wof:lastmodified":1537713733,
+    "wof:name":"Tinh Gia",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77861,
+    19.44645,
+    105.77861,
+    19.44645
+],
+  "geometry": {"coordinates":[105.77861,19.44645],"type":"Point"}
+}

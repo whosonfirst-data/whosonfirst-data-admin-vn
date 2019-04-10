@@ -1,0 +1,70 @@
+{
+  "id": 1243187607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42088,21.51772,105.42088,21.51772",
+    "geom:latitude":21.51772,
+    "geom:longitude":105.42088,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Xay",
+    "gn:country_code":"VN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523182,
+    "gn:latitude":21.51772,
+    "gn:longitude":105.42088,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"\u0110\u1ed3ng Xay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng Xay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523182
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d548e0510ecdc9f1c847b6dd82c475d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1243187607,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243187607,
+    "wof:lastmodified":1537714332,
+    "wof:name":"Dong Xay",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42088,
+    21.51772,
+    105.42088,
+    21.51772
+],
+  "geometry": {"coordinates":[105.42088,21.51772],"type":"Point"}
+}

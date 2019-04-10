@@ -1,0 +1,67 @@
+{
+  "id": 1309946609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,19.85,105.71667,19.85",
+    "geom:latitude":19.85,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ngoc Tich",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572386,
+    "gn:latitude":19.85,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ngoc Tich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572386
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"53dd3e65bb167ef7c91b6dcfecb6e396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781441,
+            "locality_id":1309946609,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1309946609,
+    "wof:lastmodified":1536728574,
+    "wof:name":"Ngoc Tich",
+    "wof:parent_id":1108781441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    19.85,
+    105.71667,
+    19.85
+],
+  "geometry": {"coordinates":[105.71666999999999,19.85],"type":"Point"}
+}

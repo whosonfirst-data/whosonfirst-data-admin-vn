@@ -1,0 +1,72 @@
+{
+  "id": 1226342895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59194,9.84,106.59194,9.84",
+    "geom:latitude":9.84,
+    "geom:longitude":106.59194,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giong Mo Neo",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942002,
+    "gn:latitude":9.84,
+    "gn:longitude":106.59194,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gi\u1ed3ng M\u00f5 Ne\u01a1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00f5 Ne\u01a1",
+        "Gi\u1ed3ng M\u00f5 Ne\u01a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942002
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c5e3a9c5ebc84e9dc0e97f0786ce43ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1226342895,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1226342895,
+    "wof:lastmodified":1537714212,
+    "wof:name":"Giong Mo Neo",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59194,
+    9.84,
+    106.59194,
+    9.84
+],
+  "geometry": {"coordinates":[106.59193999999999,9.84],"type":"Point"}
+}

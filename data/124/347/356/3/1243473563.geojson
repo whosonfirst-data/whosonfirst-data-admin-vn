@@ -1,0 +1,70 @@
+{
+  "id": 1243473563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66277,22.17682,106.66277,22.17682",
+    "geom:latitude":22.17682,
+    "geom:longitude":106.66277,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Dong Bau",
+    "gn:country_code":"VN",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313921,
+    "gn:latitude":22.17682,
+    "gn:longitude":106.66277,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"B\u1ea3n \u0110\u00f4ng B\u00e1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n \u0110\u00f4ng B\u00e1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313921
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"88d839669349a0ab1fa862df6f76c3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1243473563,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243473563,
+    "wof:lastmodified":1537714270,
+    "wof:name":"Ban Dong Bau",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66277,
+    22.17682000000001,
+    106.66277,
+    22.17682000000001
+],
+  "geometry": {"coordinates":[106.66276999999999,22.17682000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243121003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74987,21.05091,103.74987,21.05091",
+    "geom:latitude":21.05091,
+    "geom:longitude":103.74987,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Song Ma",
+    "gn:country_code":"VN",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1567701,
+    "gn:latitude":21.05091,
+    "gn:longitude":103.74987,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"S\u00f4ng M\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Na Nhiu",
+        "S\u00f4ng M\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567701
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62af1a6c0948d382cfc418adf68fed53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781015,
+            "locality_id":1243121003,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1243121003,
+    "wof:lastmodified":1537713791,
+    "wof:name":"Song Ma",
+    "wof:parent_id":1108781015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74987,
+    21.05091,
+    103.74987,
+    21.05091
+],
+  "geometry": {"coordinates":[103.74987,21.05091],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260164643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.64083,20.87194,106.64083,20.87194",
+    "geom:latitude":20.87194,
+    "geom:longitude":106.64083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Cam Lo",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586383,
+    "gn:latitude":20.87194,
+    "gn:longitude":106.64083,
+    "gn:modification_date":"2002-06-11",
+    "gn:name":"Cam Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586383
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"345c53914f7bcda613619c99577918b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781269,
+            "locality_id":1260164643,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1260164643,
+    "wof:lastmodified":1536872855,
+    "wof:name":"Cam Lo",
+    "wof:parent_id":1108781269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.64083,
+    20.87194,
+    106.64083,
+    20.87194
+],
+  "geometry": {"coordinates":[106.64082999999999,20.87194],"type":"Point"}
+}

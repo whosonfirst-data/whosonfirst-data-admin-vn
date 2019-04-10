@@ -1,0 +1,75 @@
+{
+  "id": 1326488441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13128,12.14148,108.13128,12.14148",
+    "geom:latitude":12.14148,
+    "geom:longitude":108.13128,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pang Pe Dong",
+    "gn:country_code":"VN",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571286,
+    "gn:latitude":12.14148,
+    "gn:longitude":108.13128,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Pang Pe D\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pang Phey Dang",
+        "Pampei Dan",
+        "Pang Phey Dan"
+    ],
+    "name:vie_x_preferred":[
+        "Pang Pe D\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571286
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"95e0fa6652a4470d6a6bdf6b28133121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781889,
+            "locality_id":1326488441,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1326488441,
+    "wof:lastmodified":1537713843,
+    "wof:name":"Pang Pe Dong",
+    "wof:parent_id":1108781889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13128,
+    12.14148,
+    108.13128,
+    12.14148
+],
+  "geometry": {"coordinates":[108.13128,12.14148],"type":"Point"}
+}

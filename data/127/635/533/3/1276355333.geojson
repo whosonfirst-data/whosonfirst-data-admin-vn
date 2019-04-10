@@ -1,0 +1,73 @@
+{
+  "id": 1276355333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29201,22.5719,105.29201,22.5719",
+    "geom:latitude":22.5719,
+    "geom:longitude":105.29201,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Thin",
+    "gn:country_code":"VN",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309640,
+    "gn:latitude":22.5719,
+    "gn:longitude":105.29201,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"N\u00e0 Thin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Th\u00ecn"
+    ],
+    "name:vie_x_variant":[
+        "N\u00e0 Thin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309640
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"737ccee89775c04cfbd3f7471c45eb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1276355333,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1276355333,
+    "wof:lastmodified":1537714261,
+    "wof:name":"Na Thin",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29201,
+    22.5719,
+    105.29201,
+    22.5719
+],
+  "geometry": {"coordinates":[105.29201,22.5719],"type":"Point"}
+}

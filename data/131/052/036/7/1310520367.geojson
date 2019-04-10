@@ -1,0 +1,73 @@
+{
+  "id": 1310520367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71423,18.82323,105.71423,18.82323",
+    "geom:latitude":18.82323,
+    "geom:longitude":105.71423,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Khoi Bay",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182032,
+    "gn:latitude":18.82323,
+    "gn:longitude":105.71423,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Kh\u1ed1i B\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i B\u1ea3y"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i 7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182032
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"050141f4d5e2100e4fe7d7cab31e5ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781449,
+            "locality_id":1310520367,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1310520367,
+    "wof:lastmodified":1537714612,
+    "wof:name":"Khoi Bay",
+    "wof:parent_id":1108781449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71423,
+    18.82323,
+    105.71423,
+    18.82323
+],
+  "geometry": {"coordinates":[105.71423,18.82323],"type":"Point"}
+}

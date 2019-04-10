@@ -1,0 +1,71 @@
+{
+  "id": 1259995079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.71667,15.01667,108.71667,15.01667",
+    "geom:latitude":15.01667,
+    "geom:longitude":108.71667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Kim Thanh Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578862,
+    "gn:latitude":15.01667,
+    "gn:longitude":108.71667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kim Th\u00e0nh Th\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ed3ng Vinh",
+        "Kim Th\u00e0nh Th\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578862
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2c5865e287c564b210456a3a8fd3a19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781655,
+            "locality_id":1259995079,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1259995079,
+    "wof:lastmodified":1537713944,
+    "wof:name":"Kim Thanh Thuong",
+    "wof:parent_id":1108781655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.71667,
+    15.01667,
+    108.71667,
+    15.01667
+],
+  "geometry": {"coordinates":[108.71666999999999,15.01667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293215955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77034,22.47022,105.77034,22.47022",
+    "geom:latitude":22.47022,
+    "geom:longitude":105.77034,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Nieng",
+    "gn:country_code":"VN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311391,
+    "gn:latitude":22.47022,
+    "gn:longitude":105.77034,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"N\u00e0 Ni\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e0 Ni\u1ebfng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 Ni\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311391
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e86f9320f4ecf367007f65bbba9838f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1293215955,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293215955,
+    "wof:lastmodified":1537714265,
+    "wof:name":"Na Nieng",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77034,
+    22.47022,
+    105.77034,
+    22.47022
+],
+  "geometry": {"coordinates":[105.77034,22.47022],"type":"Point"}
+}

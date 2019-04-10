@@ -1,0 +1,67 @@
+{
+  "id": 1276883507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,22.51667,105.76667,22.51667",
+    "geom:latitude":22.51667,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Coc Mat",
+    "gn:country_code":"VN",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585084,
+    "gn:latitude":22.51667,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Coc Mat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585084
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"64c5ef1eb113494f2f721de8146fc5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1276883507,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1276883507,
+    "wof:lastmodified":1537034646,
+    "wof:name":"Coc Mat",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    22.51667,
+    105.76667,
+    22.51667
+],
+  "geometry": {"coordinates":[105.76667,22.51667],"type":"Point"}
+}

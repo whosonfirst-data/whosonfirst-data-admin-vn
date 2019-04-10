@@ -1,0 +1,73 @@
+{
+  "id": 1226555375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55638,18.41223,105.55638,18.41223",
+    "geom:latitude":18.41223,
+    "geom:longitude":105.55638,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Huong F Tam",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8637645,
+    "gn:latitude":18.41223,
+    "gn:longitude":105.55638,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"H\u01b0\u01a1ng F T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u01b0\u01a1ng F T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "H\u01b0\u01a1ng F 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637645
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a43fe77420663c83f6300553f5172255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1226555375,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1226555375,
+    "wof:lastmodified":1537714385,
+    "wof:name":"Huong F Tam",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55638,
+    18.41223,
+    105.55638,
+    18.41223
+],
+  "geometry": {"coordinates":[105.55638,18.41223],"type":"Point"}
+}

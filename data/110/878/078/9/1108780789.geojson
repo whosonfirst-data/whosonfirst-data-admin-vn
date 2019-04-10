@@ -1,0 +1,109 @@
+{
+  "id": 1108780789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002498,
+    "geom:area_square_m":28824265.443983,
+    "geom:bbox":"105.785726564,21.0387140634,105.852764301,21.1081706168",
+    "geom:latitude":21.073489,
+    "geom:longitude":105.81687,
+    "iso:country":"VN",
+    "lbl:latitude":21.073219,
+    "lbl:longitude":105.816362,
+    "meso:admin_1":"Ha Noi",
+    "meso:gadm_admin":"T\u00e2y H\u1ed3",
+    "meso:gadm_hasc2":"VN.HN.TH",
+    "meso:gaul_adm2":"Tay Ho",
+    "meso:local_id":"1003",
+    "meso:mps_x":105.816362,
+    "meso:mps_y":21.073219,
+    "meso:name_en":"Tay Ho",
+    "meso:source":"AOTM",
+    "mps:latitude":21.073219,
+    "mps:longitude":105.816362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u897f\u6e56\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Tay Ho"
+    ],
+    "name:fre_x_preferred":[
+        "District de Tay Ho"
+    ],
+    "name:kor_x_preferred":[
+        "\ub5a0\uc774\ud638"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u06cc \u0647\u0648\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044d\u0439\u0445\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tay Ho"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u06d2 \u06c1\u0624 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2y H\u1ed3"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"24",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ha Noi",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HI",
+    "statoids:name":"Tay Ho",
+    "statoids:population":"105221",
+    "statoids:statoid":"VN.HI.TH",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1048642"
+    },
+    "wof:country":"VN",
+    "wof:created":1481740885,
+    "wof:geomhash":"751e4a787c2b541ad3238561ec82bbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780789,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1108780789,
+    "wof:lastmodified":1514502820,
+    "wof:name":"Tay Ho",
+    "wof:parent_id":85680653,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":105221,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78572656423691,
+    21.03871406343582,
+    105.85276430102286,
+    21.10817061679403
+],
+  "geometry": {"coordinates":[[[105.85188629236593,21.07015312565875],[105.85276430102286,21.0608976766144],[105.85250688445879,21.05583604009507],[105.84808516679246,21.05324541630672],[105.83705161745796,21.05756228705381],[105.83531728555893,21.05629115077232],[105.83367129940183,21.05396028287739],[105.83497488948792,21.04637613698173],[105.8321796784346,21.03871406343582],[105.82081806930525,21.04412374499879],[105.81774538955614,21.04246330576243],[105.81023166292015,21.04604940488791],[105.80593659123033,21.04665426814699],[105.80245351009954,21.05498943419834],[105.79730134598309,21.05755050145025],[105.80066380808447,21.06785996963865],[105.79893035978846,21.07595412663885],[105.79037815429922,21.07823120525666],[105.78974678385265,21.08055205347222],[105.79087162282921,21.086314257209],[105.78727415518266,21.09363200419529],[105.78572656423691,21.10591019103878],[105.78999999999925,21.10817061679403],[105.79817263039931,21.10638375208777],[105.80018548640226,21.10691872862318],[105.81243866353526,21.09968921624615],[105.81900399514011,21.10065587471686],[105.82248071502003,21.09459737987369],[105.83024641675601,21.09227259316036],[105.83142875299008,21.07887899350846],[105.83251944562492,21.07664632170748],[105.83988745485721,21.07456872003315],[105.84049160403538,21.07412678244086],[105.84850487518707,21.07356116013512],[105.85017410874588,21.07230237495776],[105.85188629236593,21.07015312565875]]],"type":"Polygon"}
+}

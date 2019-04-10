@@ -1,0 +1,67 @@
+{
+  "id": 1310288675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.68333,20.8,106.68333,20.8",
+    "geom:latitude":20.8,
+    "geom:longitude":106.68333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Phuc Loc",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570700,
+    "gn:latitude":20.8,
+    "gn:longitude":106.68333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ph\u00fac L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"250d812798520b3d7cf01f7546e5cc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781273,
+            "locality_id":1310288675,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1310288675,
+    "wof:lastmodified":1536732475,
+    "wof:name":"Phuc Loc",
+    "wof:parent_id":1108781273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.68333,
+    20.8,
+    106.68333,
+    20.8
+],
+  "geometry": {"coordinates":[106.68333,20.8],"type":"Point"}
+}

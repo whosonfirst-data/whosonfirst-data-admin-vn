@@ -1,0 +1,78 @@
+{
+  "id": 1259898895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11667,12.1,107.11667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":107.11667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Phuoc Hoa",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570209,
+    "gn:latitude":12.1,
+    "gn:longitude":107.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ph\u01b0\u1edbc H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Ya M\u1eadp",
+        "Poste de Djamap",
+        "Don Djamap",
+        "B\u00f9 Gia M\u1eadp",
+        "Diamap",
+        "Bu-Jamap",
+        "Djamap",
+        "Ph\u01b0\u1edbc H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570209
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"691f9eef95e7e4860a63161f11460223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1259898895,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1259898895,
+    "wof:lastmodified":1537713826,
+    "wof:name":"Phuoc Hoa",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11667,
+    12.1,
+    107.11667,
+    12.1
+],
+  "geometry": {"coordinates":[107.11667,12.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343576747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25,22.23333,103.25,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":103.25,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Tiu Dong",
+    "gn:country_code":"VN",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564500,
+    "gn:latitude":22.23333,
+    "gn:longitude":103.25,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"T\u1ec9u \u0110\u1ed9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564500
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55ce5fb25d775c17615a1b5f8d3dc9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1343576747,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1343576747,
+    "wof:lastmodified":1537072806,
+    "wof:name":"Tiu Dong",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25,
+    22.23333,
+    103.25,
+    22.23333
+],
+  "geometry": {"coordinates":[103.25,22.23333],"type":"Point"}
+}

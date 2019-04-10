@@ -1,0 +1,70 @@
+{
+  "id": 1293802833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42795,21.77183,106.42795,21.77183",
+    "geom:latitude":21.77183,
+    "geom:longitude":106.42795,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Chau",
+    "gn:country_code":"VN",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889993,
+    "gn:latitude":21.77183,
+    "gn:longitude":106.42795,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"N\u00e0 Ch\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Ch\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889993
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2ea3260192633a910bca42e6d6a32d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781097,
+            "locality_id":1293802833,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1293802833,
+    "wof:lastmodified":1537714552,
+    "wof:name":"Na Chau",
+    "wof:parent_id":1108781097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42795,
+    21.77183,
+    106.42795,
+    21.77183
+],
+  "geometry": {"coordinates":[106.42795,21.77183],"type":"Point"}
+}

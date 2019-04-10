@@ -1,0 +1,67 @@
+{
+  "id": 1209825659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38333,22.15,104.38333,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":104.38333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lang Bun",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577710,
+    "gn:latitude":22.15,
+    "gn:longitude":104.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng B\u00f9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"adc7a3a5acd83275802f2bc21388b15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1209825659,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1209825659,
+    "wof:lastmodified":1536373969,
+    "wof:name":"Lang Bun",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38333,
+    22.15,
+    104.38333,
+    22.15
+],
+  "geometry": {"coordinates":[104.38333,22.15],"type":"Point"}
+}

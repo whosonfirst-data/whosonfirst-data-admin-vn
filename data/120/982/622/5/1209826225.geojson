@@ -1,0 +1,71 @@
+{
+  "id": 1209826225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0,11.63333,107.0,11.63333",
+    "geom:latitude":11.63333,
+    "geom:longitude":107.0,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu Tchan Saum",
+    "gn:country_code":"VN",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1586719,
+    "gn:latitude":11.63333,
+    "gn:longitude":107.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Tchan Saum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bu Tchan Srum",
+        "Bu Tchan Saum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8413afb95973e83a959480a4d87e5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781923,
+            "locality_id":1209826225,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1209826225,
+    "wof:lastmodified":1537714038,
+    "wof:name":"Bu Tchan Saum",
+    "wof:parent_id":1108781923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0,
+    11.63333,
+    107.0,
+    11.63333
+],
+  "geometry": {"coordinates":[107.0,11.63333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327149959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45991,19.22447,105.45991,19.22447",
+    "geom:latitude":19.22447,
+    "geom:longitude":105.45991,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Khanh Tien",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628087,
+    "gn:latitude":19.22447,
+    "gn:longitude":105.45991,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Kh\u00e1nh Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u00e1nh Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628087,
+        "wk:page":"Kh%C3%A1nh_Ti%E1%BA%BFn"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"797a86e67f1ca859adb7b9788ee4a934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781463,
+            "locality_id":1327149959,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1327149959,
+    "wof:lastmodified":1537714382,
+    "wof:name":"Khanh Tien",
+    "wof:parent_id":1108781463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45991,
+    19.22447,
+    105.45991,
+    19.22447
+],
+  "geometry": {"coordinates":[105.45990999999999,19.22447],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243282945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76233,18.38493,105.76233,18.38493",
+    "geom:latitude":18.38493,
+    "geom:longitude":105.76233,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bao Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275062,
+    "gn:latitude":18.38493,
+    "gn:longitude":105.76233,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"B\u1ea3o Th\u00fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3o Th\u00fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275062
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d255ef16ad7e4bf8648fcfac9ea08e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1243282945,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243282945,
+    "wof:lastmodified":1537714665,
+    "wof:name":"Bao Thuy",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76233,
+    18.38493,
+    105.76233,
+    18.38493
+],
+  "geometry": {"coordinates":[105.76233000000001,18.38493],"type":"Point"}
+}

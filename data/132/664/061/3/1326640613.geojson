@@ -1,0 +1,71 @@
+{
+  "id": 1326640613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.66667,15.0,107.66667,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":107.66667,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dak Lat",
+    "gn:country_code":"VN",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584166,
+    "gn:latitude":15.0,
+    "gn:longitude":107.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dak Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Lat",
+        "Dak Lat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584166
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d495c873ee3743795d9b59de5ed4e614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1326640613,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1326640613,
+    "wof:lastmodified":1537714010,
+    "wof:name":"Dak Lat",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.66667,
+    15.0,
+    107.66667,
+    15.0
+],
+  "geometry": {"coordinates":[107.66667,15.0],"type":"Point"}
+}

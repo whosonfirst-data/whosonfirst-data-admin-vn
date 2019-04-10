@@ -1,0 +1,73 @@
+{
+  "id": 1310593917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42824,22.95739,105.42824,22.95739",
+    "geom:latitude":22.95739,
+    "geom:longitude":105.42824,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nam Dang",
+    "gn:country_code":"VN",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573523,
+    "gn:latitude":22.95739,
+    "gn:longitude":105.42824,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Nam Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eb7m \u0110\u1ea3ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u1eadm \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573523
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"838329d8d41a59449a92a1689a561da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1310593917,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310593917,
+    "wof:lastmodified":1537713869,
+    "wof:name":"Nam Dang",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42824,
+    22.95739,
+    105.42824,
+    22.95739
+],
+  "geometry": {"coordinates":[105.42824,22.95739],"type":"Point"}
+}

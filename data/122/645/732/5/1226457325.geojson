@@ -1,0 +1,73 @@
+{
+  "id": 1226457325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.66667,14.15,107.66667,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":107.66667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Polei Ya Dip Ya Bolok",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569024,
+    "gn:latitude":14.15,
+    "gn:longitude":107.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"P\u01a1lei Ya Dip Ya B\u01a1lok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pele Ya Dip Ya Bolok",
+        "Polai Ya Dip Ya Blok",
+        "P\u01a1lei Ya Dip Ya B\u01a1lok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569024
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"57e09c9788836bbea0e306af9d032fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781803,
+            "locality_id":1226457325,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1226457325,
+    "wof:lastmodified":1537713806,
+    "wof:name":"Polei Ya Dip Ya Bolok",
+    "wof:parent_id":1108781803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.66667,
+    14.15,
+    107.66667,
+    14.15
+],
+  "geometry": {"coordinates":[107.66667,14.15],"type":"Point"}
+}

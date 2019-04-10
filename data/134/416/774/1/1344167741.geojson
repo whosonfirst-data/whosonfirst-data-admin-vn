@@ -1,0 +1,67 @@
+{
+  "id": 1344167741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,17.75,105.91667,17.75",
+    "geom:latitude":17.75,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Cat Dang Sach",
+    "gn:country_code":"VN",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586046,
+    "gn:latitude":17.75,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"C\u00e1t \u0110\u1eafng S\u00e1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"07f99b3e1570309fbc3f2754835d8d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1344167741,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1344167741,
+    "wof:lastmodified":1536721055,
+    "wof:name":"Cat Dang Sach",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    17.75,
+    105.91667,
+    17.75
+],
+  "geometry": {"coordinates":[105.91667,17.75],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293405349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16158,9.11725,105.16158,9.11725",
+    "geom:latitude":9.11725,
+    "geom:longitude":105.16158,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Song Cai",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592366,
+    "gn:latitude":9.11725,
+    "gn:longitude":105.16158,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"S\u00f4ng C\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p S\u00f4ng C\u00e1i"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng C\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9934c0d36480d6a4a0335010ac6f4fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782325,
+            "locality_id":1293405349,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1293405349,
+    "wof:lastmodified":1537714157,
+    "wof:name":"Song Cai",
+    "wof:parent_id":1108782325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16158,
+    9.11725,
+    105.16158,
+    9.11725
+],
+  "geometry": {"coordinates":[105.16158,9.11725],"type":"Point"}
+}

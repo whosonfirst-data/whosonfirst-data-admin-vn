@@ -1,0 +1,70 @@
+{
+  "id": 1226261753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28524,21.9668,105.28524,21.9668",
+    "geom:latitude":21.9668,
+    "geom:longitude":105.28524,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kim Trang",
+    "gn:country_code":"VN",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138184,
+    "gn:latitude":21.9668,
+    "gn:longitude":105.28524,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kim Tr\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kim Tr\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138184
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"314d01821e0fa31b34ca3a2eb96e002b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1226261753,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226261753,
+    "wof:lastmodified":1537714219,
+    "wof:name":"Kim Trang",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28524,
+    21.9668,
+    105.28524,
+    21.9668
+],
+  "geometry": {"coordinates":[105.28524,21.9668],"type":"Point"}
+}

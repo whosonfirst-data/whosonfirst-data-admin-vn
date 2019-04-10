@@ -1,0 +1,67 @@
+{
+  "id": 1277085031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.93333,14.35,107.93333,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":107.93333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dak Teng",
+    "gn:country_code":"VN",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584095,
+    "gn:latitude":14.35,
+    "gn:longitude":107.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dak Teng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584095
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9f2ff9d2ab277cc6841174ef0071fcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781773,
+            "locality_id":1277085031,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1277085031,
+    "wof:lastmodified":1536764585,
+    "wof:name":"Dak Teng",
+    "wof:parent_id":1108781773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.93333,
+    14.35,
+    107.93333,
+    14.35
+],
+  "geometry": {"coordinates":[107.93333,14.35],"type":"Point"}
+}

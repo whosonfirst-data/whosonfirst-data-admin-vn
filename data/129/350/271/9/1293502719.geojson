@@ -1,0 +1,71 @@
+{
+  "id": 1293502719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95,21.61667,104.95,21.61667",
+    "geom:latitude":21.61667,
+    "geom:longitude":104.95,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Dan Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583868,
+    "gn:latitude":21.61667,
+    "gn:longitude":104.95,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110an Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Don Thuong",
+        "\u0110an Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583868
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ba9aa5cf74b96c0a76853ecf1bcf414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781171,
+            "locality_id":1293502719,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1293502719,
+    "wof:lastmodified":1537714006,
+    "wof:name":"Dan Thuong",
+    "wof:parent_id":1108781171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95,
+    21.61667000000001,
+    104.95,
+    21.61667000000001
+],
+  "geometry": {"coordinates":[104.95,21.61667000000001],"type":"Point"}
+}

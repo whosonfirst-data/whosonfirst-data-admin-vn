@@ -1,0 +1,71 @@
+{
+  "id": 1226161837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,21.51667,105.85,21.51667",
+    "geom:latitude":21.51667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Thon Nieu",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565413,
+    "gn:latitude":21.51667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ni\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thon Nhieu",
+        "Th\u00f4n Ni\u00eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565413
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1d39e50a9c78aeaf1866360d21478b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781065,
+            "locality_id":1226161837,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1226161837,
+    "wof:lastmodified":1537713753,
+    "wof:name":"Thon Nieu",
+    "wof:parent_id":1108781065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    21.51667,
+    105.85,
+    21.51667
+],
+  "geometry": {"coordinates":[105.84999999999999,21.51667],"type":"Point"}
+}

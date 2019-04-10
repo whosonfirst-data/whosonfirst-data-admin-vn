@@ -1,0 +1,67 @@
+{
+  "id": 1260072897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4,22.6,106.4,22.6",
+    "geom:latitude":22.6,
+    "geom:longitude":106.4,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lung Nhan",
+    "gn:country_code":"VN",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575342,
+    "gn:latitude":22.6,
+    "gn:longitude":106.4,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u0169ng Nh\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575342
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e6f62e205b39036540a0c2dcb53a2633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780891,
+            "locality_id":1260072897,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1260072897,
+    "wof:lastmodified":1537002532,
+    "wof:name":"Lung Nhan",
+    "wof:parent_id":1108780891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4,
+    22.6,
+    106.4,
+    22.6
+],
+  "geometry": {"coordinates":[106.40000000000001,22.6],"type":"Point"}
+}

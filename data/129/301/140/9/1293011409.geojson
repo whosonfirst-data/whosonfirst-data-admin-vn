@@ -1,0 +1,70 @@
+{
+  "id": 1293011409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34542,22.34989,105.34542,22.34989",
+    "geom:latitude":22.34989,
+    "geom:longitude":105.34542,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Luoc",
+    "gn:country_code":"VN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309242,
+    "gn:latitude":22.34989,
+    "gn:longitude":105.34542,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u00e0ng Lu\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Lu\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309242
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"77f169e7e00115fcab3f312b39c99bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1293011409,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293011409,
+    "wof:lastmodified":1537714251,
+    "wof:name":"Lang Luoc",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34542,
+    22.34989,
+    105.34542,
+    22.34989
+],
+  "geometry": {"coordinates":[105.34542,22.34989],"type":"Point"}
+}

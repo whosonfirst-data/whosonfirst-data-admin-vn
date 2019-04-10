@@ -1,0 +1,70 @@
+{
+  "id": 1259998475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26231,21.0102,105.26231,21.0102",
+    "geom:latitude":21.0102,
+    "geom:longitude":105.26231,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Luc Luong",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200718,
+    "gn:latitude":21.0102,
+    "gn:longitude":105.26231,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u1ee5c L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ee5c L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"789f00afeb93434209925b0ef4fe7619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781189,
+            "locality_id":1259998475,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1259998475,
+    "wof:lastmodified":1537714238,
+    "wof:name":"Luc Luong",
+    "wof:parent_id":1108781189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26231,
+    21.0102,
+    105.26231,
+    21.0102
+],
+  "geometry": {"coordinates":[105.26231,21.0102],"type":"Point"}
+}

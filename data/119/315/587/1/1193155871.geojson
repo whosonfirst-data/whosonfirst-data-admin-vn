@@ -1,0 +1,67 @@
+{
+  "id": 1193155871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95,22.21667,103.95,22.21667",
+    "geom:latitude":22.21667,
+    "geom:longitude":103.95,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ma Quay Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574847,
+    "gn:latitude":22.21667,
+    "gn:longitude":103.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ma Quay H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574847
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4481a20b887c05af8de48f2b6ce91b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1193155871,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1193155871,
+    "wof:lastmodified":1536373297,
+    "wof:name":"Ma Quay Ho",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95,
+    22.21667,
+    103.95,
+    22.21667
+],
+  "geometry": {"coordinates":[103.95,22.21667],"type":"Point"}
+}

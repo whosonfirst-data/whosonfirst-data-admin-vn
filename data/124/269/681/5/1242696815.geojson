@@ -1,0 +1,74 @@
+{
+  "id": 1242696815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.76998,13.13337,108.76998,13.13337",
+    "geom:latitude":13.13337,
+    "geom:longitude":108.76998,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Buon Thu",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588372,
+    "gn:latitude":13.13337,
+    "gn:longitude":108.76998,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Bu\u00f4n Thu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Xa Thu",
+        "Ban X\u00e3 Thu"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Thu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588372
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bf4c5a955bdc0c8bfb9e0d08a4d27f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1242696815,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1242696815,
+    "wof:lastmodified":1537714077,
+    "wof:name":"Buon Thu",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.76998,
+    13.13337,
+    108.76998,
+    13.13337
+],
+  "geometry": {"coordinates":[108.76998,13.13337],"type":"Point"}
+}

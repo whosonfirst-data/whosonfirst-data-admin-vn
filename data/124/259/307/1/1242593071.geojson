@@ -1,0 +1,70 @@
+{
+  "id": 1242593071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03028,21.33531,106.03028,21.33531",
+    "geom:latitude":21.33531,
+    "geom:longitude":106.03028,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Go Van",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867873,
+    "gn:latitude":21.33531,
+    "gn:longitude":106.03028,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"G\u00f2 V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "G\u00f2 V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867873
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f56f99dab82de3e08b215df7c68885b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781159,
+            "locality_id":1242593071,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1242593071,
+    "wof:lastmodified":1537714517,
+    "wof:name":"Go Van",
+    "wof:parent_id":1108781159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03028,
+    21.33531,
+    106.03028,
+    21.33531
+],
+  "geometry": {"coordinates":[106.03028,21.33531],"type":"Point"}
+}

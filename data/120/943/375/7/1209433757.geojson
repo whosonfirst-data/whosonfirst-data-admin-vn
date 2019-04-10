@@ -1,0 +1,71 @@
+{
+  "id": 1209433757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43972,22.72923,105.43972,22.72923",
+    "geom:latitude":22.72923,
+    "geom:longitude":105.43972,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Tan Khau",
+    "gn:country_code":"VN",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566913,
+    "gn:latitude":22.72923,
+    "gn:longitude":105.43972,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u1ea3n T\u1eafn Kh\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kuay",
+        "Tan Kuay"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ea5n Kh\u00e2u"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n T\u1eafn Kh\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566913
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ef727700f78652cfa2833e176c5e504",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433757
+        }
+    ],
+    "wof:id":1209433757,
+    "wof:lastmodified":1537713783,
+    "wof:name":"Ban Tan Khau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43972,
+    22.72923,
+    105.43972,
+    22.72923
+],
+  "geometry": {"coordinates":[105.43971999999999,22.72923],"type":"Point"}
+}

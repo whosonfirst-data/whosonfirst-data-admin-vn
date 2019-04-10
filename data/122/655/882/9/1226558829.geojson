@@ -1,0 +1,67 @@
+{
+  "id": 1226558829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2,22.36667,103.2,22.36667",
+    "geom:latitude":22.36667,
+    "geom:longitude":103.2,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sin Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567887,
+    "gn:latitude":22.36667,
+    "gn:longitude":103.2,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"Sin Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567887
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b68d67655ae61c68a7332ef83fb5787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1226558829,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226558829,
+    "wof:lastmodified":1536978599,
+    "wof:name":"Sin Chai",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2,
+    22.36667000000001,
+    103.2,
+    22.36667000000001
+],
+  "geometry": {"coordinates":[103.2,22.36667000000001],"type":"Point"}
+}

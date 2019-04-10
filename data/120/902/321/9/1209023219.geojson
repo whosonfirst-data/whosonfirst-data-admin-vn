@@ -1,0 +1,64 @@
+{
+  "id": 1209023219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38419,22.72109,103.38419,22.72109",
+    "geom:latitude":22.72109,
+    "geom:longitude":103.38419,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Theo Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356463,
+    "gn:latitude":22.72109,
+    "gn:longitude":103.38419,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u00e8o H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e8o H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356463
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a0abd36b24aa12cb2881dda950658d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023219
+        }
+    ],
+    "wof:id":1209023219,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Theo Ho",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38419,
+    22.72109,
+    103.38419,
+    22.72109
+],
+  "geometry": {"coordinates":[103.38419,22.72109],"type":"Point"}
+}

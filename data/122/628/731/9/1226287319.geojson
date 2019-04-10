@@ -1,0 +1,67 @@
+{
+  "id": 1226287319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36667,20.35,105.36667,20.35",
+    "geom:latitude":20.35,
+    "geom:longitude":105.36667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xom Bien",
+    "gn:country_code":"VN",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561975,
+    "gn:latitude":20.35,
+    "gn:longitude":105.36667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m Bi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561975
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d23dc23562c0213954d4f0d39d56a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1226287319,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226287319,
+    "wof:lastmodified":1536872782,
+    "wof:name":"Xom Bien",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36667,
+    20.35,
+    105.36667,
+    20.35
+],
+  "geometry": {"coordinates":[105.36667,20.35],"type":"Point"}
+}

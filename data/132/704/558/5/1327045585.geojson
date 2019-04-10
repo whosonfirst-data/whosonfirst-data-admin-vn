@@ -1,0 +1,67 @@
+{
+  "id": 1327045585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,21.1,106.26667,21.1",
+    "geom:latitude":21.1,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Dai Than",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584263,
+    "gn:latitude":21.1,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ea1i Th\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584263
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d62ef30736c7f790729238ac6b1b250a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781229,
+            "locality_id":1327045585,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1327045585,
+    "wof:lastmodified":1536741167,
+    "wof:name":"Dai Than",
+    "wof:parent_id":1108781229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    21.1,
+    106.26667,
+    21.1
+],
+  "geometry": {"coordinates":[106.26667,21.1],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326775683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41817,11.16821,106.41817,11.16821",
+    "geom:latitude":11.16821,
+    "geom:longitude":106.41817,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bung Binh",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562339,
+    "gn:latitude":11.16821,
+    "gn:longitude":106.41817,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u00f9ng B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Bung Binh",
+        "X\u00e1 Bung Binh"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f9ng B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562339
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"788234a4178701fb6d9e162d327c24e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781949,
+            "locality_id":1326775683,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1326775683,
+    "wof:lastmodified":1537713705,
+    "wof:name":"Bung Binh",
+    "wof:parent_id":1108781949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41817,
+    11.16821,
+    106.41817,
+    11.16821
+],
+  "geometry": {"coordinates":[106.41817,11.16821],"type":"Point"}
+}

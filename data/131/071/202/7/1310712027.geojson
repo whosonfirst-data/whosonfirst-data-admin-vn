@@ -1,0 +1,67 @@
+{
+  "id": 1310712027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45,21.08333,106.45,21.08333",
+    "geom:latitude":21.08333,
+    "geom:longitude":106.45,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dong Mai",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582757,
+    "gn:latitude":21.08333,
+    "gn:longitude":106.45,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed9ng Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582757
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"22d5bd2629c86c867459f0c33a4808c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781135,
+            "locality_id":1310712027,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1310712027,
+    "wof:lastmodified":1536616596,
+    "wof:name":"Dong Mai",
+    "wof:parent_id":1108781135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45,
+    21.08333,
+    106.45,
+    21.08333
+],
+  "geometry": {"coordinates":[106.45,21.08333],"type":"Point"}
+}

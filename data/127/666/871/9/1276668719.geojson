@@ -1,0 +1,72 @@
+{
+  "id": 1276668719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27167,20.60889,105.27167,20.60889",
+    "geom:latitude":20.60889,
+    "geom:longitude":105.27167,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Huong Tan Lac",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566910,
+    "gn:latitude":20.60889,
+    "gn:longitude":105.27167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u01b0\u01a1ng T\u00e2n L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e2n L\u1ea1c",
+        "H\u01b0\u01a1ng T\u00e2n L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566910
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cdc1849a4ff2c0a5f2f0c19d4496e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781053,
+            "locality_id":1276668719,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1276668719,
+    "wof:lastmodified":1537713782,
+    "wof:name":"Huong Tan Lac",
+    "wof:parent_id":1108781053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27167,
+    20.60889,
+    105.27167,
+    20.60889
+],
+  "geometry": {"coordinates":[105.27167,20.60889],"type":"Point"}
+}

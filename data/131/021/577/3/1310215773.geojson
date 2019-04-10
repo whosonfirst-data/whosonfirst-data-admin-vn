@@ -1,0 +1,70 @@
+{
+  "id": 1310215773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9641,20.50358,105.9641,20.50358",
+    "geom:latitude":20.50358,
+    "geom:longitude":105.9641,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Dong Tam",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564124,
+    "gn:latitude":20.50358,
+    "gn:longitude":105.9641,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u0110\u1ed9ng Tam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed9ng Tam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564124
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34014e3ca685e4f713ed0f843511edfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781339,
+            "locality_id":1310215773,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1310215773,
+    "wof:lastmodified":1537714355,
+    "wof:name":"Dong Tam",
+    "wof:parent_id":1108781339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9641,
+    20.50358,
+    105.9641,
+    20.50358
+],
+  "geometry": {"coordinates":[105.9641,20.50358],"type":"Point"}
+}

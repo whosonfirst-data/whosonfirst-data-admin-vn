@@ -1,0 +1,67 @@
+{
+  "id": 1327045499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38333,22.13333,103.38333,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":103.38333,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Chan Toun",
+    "gn:country_code":"VN",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585704,
+    "gn:latitude":22.13333,
+    "gn:longitude":103.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Chan Toun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585704
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7a73dd9291293b87c470221b4c758d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780963,
+            "locality_id":1327045499,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1327045499,
+    "wof:lastmodified":1536741285,
+    "wof:name":"Chan Toun",
+    "wof:parent_id":1108780963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38333,
+    22.13333,
+    103.38333,
+    22.13333
+],
+  "geometry": {"coordinates":[103.38333,22.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293332633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,15.48333,108.1,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tahoua",
+    "gn:country_code":"VN",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567311,
+    "gn:latitude":15.48333,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tahoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567311
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"590ed98c9a5fa15b1eeac4048f0f23f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781617,
+            "locality_id":1293332633,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293332633,
+    "wof:lastmodified":1537009615,
+    "wof:name":"Tahoua",
+    "wof:parent_id":1108781617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    15.48333,
+    108.1,
+    15.48333
+],
+  "geometry": {"coordinates":[108.09999999999999,15.48333],"type":"Point"}
+}

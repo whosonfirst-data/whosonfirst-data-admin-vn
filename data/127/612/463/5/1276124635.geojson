@@ -1,0 +1,67 @@
+{
+  "id": 1276124635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33333,10.2,106.33333,10.2",
+    "geom:latitude":10.2,
+    "geom:longitude":106.33333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Tan Long",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592224,
+    "gn:latitude":10.2,
+    "gn:longitude":106.33333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e2n Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592224
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0f5c2e6ab006e0923c8c9d3106c8711a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1276124635,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1276124635,
+    "wof:lastmodified":1537055765,
+    "wof:name":"Ap Tan Long",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33333,
+    10.2,
+    106.33333,
+    10.2
+],
+  "geometry": {"coordinates":[106.33333,10.2],"type":"Point"}
+}

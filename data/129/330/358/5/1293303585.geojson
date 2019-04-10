@@ -1,0 +1,71 @@
+{
+  "id": 1293303585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.25,12.9,108.25,12.9",
+    "geom:latitude":12.9,
+    "geom:longitude":108.25,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Dinh Dien Buon Ho",
+    "gn:country_code":"VN",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583378,
+    "gn:latitude":12.9,
+    "gn:longitude":108.25,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dinh \u0110i\u1ec1n Bu\u00f4n H\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n H\u00f4",
+        "Dinh \u0110i\u1ec1n Bu\u00f4n H\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583378
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd72af113a0aabd9d2cecf99698bea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781835,
+            "locality_id":1293303585,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293303585,
+    "wof:lastmodified":1537713999,
+    "wof:name":"Dinh Dien Buon Ho",
+    "wof:parent_id":1108781835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.25,
+    12.9,
+    108.25,
+    12.9
+],
+  "geometry": {"coordinates":[108.25,12.9],"type":"Point"}
+}

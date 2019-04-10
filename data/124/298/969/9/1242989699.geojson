@@ -1,0 +1,67 @@
+{
+  "id": 1242989699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3,10.98333,108.3,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":108.3,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Bao Ghe",
+    "gn:country_code":"VN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588285,
+    "gn:latitude":10.98333,
+    "gn:longitude":108.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e0o Ghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588285
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc674a88e298ce3da4b08efa1637b251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781751,
+            "locality_id":1242989699,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1242989699,
+    "wof:lastmodified":1536966813,
+    "wof:name":"Bao Ghe",
+    "wof:parent_id":1108781751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3,
+    10.98333,
+    108.3,
+    10.98333
+],
+  "geometry": {"coordinates":[108.3,10.98333],"type":"Point"}
+}

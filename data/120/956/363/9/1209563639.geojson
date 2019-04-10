@@ -1,0 +1,64 @@
+{
+  "id": 1209563639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.42439,15.53467,107.42439,15.53467",
+    "geom:latitude":15.53467,
+    "geom:longitude":107.42439,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dak Lot",
+    "gn:country_code":"VN",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668706,
+    "gn:latitude":15.53467,
+    "gn:longitude":107.42439,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u0103k L\u00f3t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u0103k L\u00f3t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668706
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7b3026c1477031bb98a2c110b0a65fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209563639
+        }
+    ],
+    "wof:id":1209563639,
+    "wof:lastmodified":1537714397,
+    "wof:name":"Dak Lot",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.42439,
+    15.53467,
+    107.42439,
+    15.53467
+],
+  "geometry": {"coordinates":[107.42439,15.53467],"type":"Point"}
+}

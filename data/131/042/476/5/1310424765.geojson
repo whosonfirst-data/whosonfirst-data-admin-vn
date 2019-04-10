@@ -1,0 +1,73 @@
+{
+  "id": 1310424765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90418,10.03572,105.90418,10.03572",
+    "geom:latitude":10.03572,
+    "geom:longitude":105.90418,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Binh Quy",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593808,
+    "gn:latitude":10.03572,
+    "gn:longitude":105.90418,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00ecnh Qu\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00ecnh Qu\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh Qu\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593808
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a975aeca29e1448a86d93fb9b547e081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782159,
+            "locality_id":1310424765,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1310424765,
+    "wof:lastmodified":1537714195,
+    "wof:name":"Binh Quy",
+    "wof:parent_id":1108782159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90418,
+    10.03572,
+    105.90418,
+    10.03572
+],
+  "geometry": {"coordinates":[105.90418,10.03572],"type":"Point"}
+}

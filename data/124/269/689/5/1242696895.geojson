@@ -1,0 +1,67 @@
+{
+  "id": 1242696895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.73333,14.33333,108.73333,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":108.73333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Konai",
+    "gn:country_code":"VN",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1578714,
+    "gn:latitude":14.33333,
+    "gn:longitude":108.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Konai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578714
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c095aca0268e63c7e0d5b2300934e536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781677,
+            "locality_id":1242696895,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1242696895,
+    "wof:lastmodified":1536891613,
+    "wof:name":"Konai",
+    "wof:parent_id":1108781677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.73333,
+    14.33333,
+    108.73333,
+    14.33333
+],
+  "geometry": {"coordinates":[108.73333,14.33333],"type":"Point"}
+}

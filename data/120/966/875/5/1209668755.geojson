@@ -1,0 +1,64 @@
+{
+  "id": 1209668755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89034,19.89337,105.89034,19.89337",
+    "geom:latitude":19.89337,
+    "geom:longitude":105.89034,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dat Tai",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440818,
+    "gn:latitude":19.89337,
+    "gn:longitude":105.89034,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Dat Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Dat Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440818
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9c385635f7a387794cb85d925715ee34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209668755
+        }
+    ],
+    "wof:id":1209668755,
+    "wof:lastmodified":1537714312,
+    "wof:name":"Dat Tai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89034,
+    19.89337,
+    105.89034,
+    19.89337
+],
+  "geometry": {"coordinates":[105.89033999999999,19.89337],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309686285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7375,10.85528,106.7375,10.85528",
+    "geom:latitude":10.85528,
+    "geom:longitude":106.7375,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tam Phuc",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904522,
+    "gn:latitude":10.85528,
+    "gn:longitude":106.7375,
+    "gn:modification_date":"1998-04-27",
+    "gn:name":"Tam Ph\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904522
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a9f9a82207459250608c3eed9c8bfc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782013,
+            "locality_id":1309686285,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1309686285,
+    "wof:lastmodified":1536603434,
+    "wof:name":"Tam Phuc",
+    "wof:parent_id":1108782013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7375,
+    10.85528,
+    106.7375,
+    10.85528
+],
+  "geometry": {"coordinates":[106.7375,10.85528],"type":"Point"}
+}

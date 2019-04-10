@@ -1,0 +1,70 @@
+{
+  "id": 1226766567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2851,13.57066,109.2851,13.57066",
+    "geom:latitude":13.57066,
+    "geom:longitude":109.2851,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Hoa An",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719427,
+    "gn:latitude":13.57066,
+    "gn:longitude":109.2851,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00f2a An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719427
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7c408d3e1ceaa037931dbb4d781b6a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1226766567,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1226766567,
+    "wof:lastmodified":1537714411,
+    "wof:name":"Hoa An",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2851,
+    13.57066,
+    109.2851,
+    13.57066
+],
+  "geometry": {"coordinates":[109.2851,13.57066],"type":"Point"}
+}

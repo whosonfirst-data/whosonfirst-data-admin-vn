@@ -1,0 +1,70 @@
+{
+  "id": 1226058053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9997,18.23257,105.9997,18.23257",
+    "geom:latitude":18.23257,
+    "geom:longitude":105.9997,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nam Duong",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316372,
+    "gn:latitude":18.23257,
+    "gn:longitude":105.9997,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Nam D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam D\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316372
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c7f27837c1087a6da77eafc446382a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781515,
+            "locality_id":1226058053,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1226058053,
+    "wof:lastmodified":1537714694,
+    "wof:name":"Nam Duong",
+    "wof:parent_id":1108781515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9997,
+    18.23257000000001,
+    105.9997,
+    18.23257000000001
+],
+  "geometry": {"coordinates":[105.9997,18.23257000000001],"type":"Point"}
+}

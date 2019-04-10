@@ -1,0 +1,67 @@
+{
+  "id": 1276924533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.29403,15.76483,107.29403,15.76483",
+    "geom:latitude":15.76483,
+    "geom:longitude":107.29403,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"A Rooi",
+    "gn:country_code":"VN",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8668698,
+    "gn:latitude":15.76483,
+    "gn:longitude":107.29403,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"A Rooi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668698
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0f990b7bca827ecd7877e87c877cf871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781599,
+            "locality_id":1276924533,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1276924533,
+    "wof:lastmodified":1536980822,
+    "wof:name":"A Rooi",
+    "wof:parent_id":1108781599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.29403,
+    15.76483,
+    107.29403,
+    15.76483
+],
+  "geometry": {"coordinates":[107.29403000000001,15.76483],"type":"Point"}
+}

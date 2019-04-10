@@ -1,0 +1,73 @@
+{
+  "id": 1327250299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86497,22.04378,105.86497,22.04378",
+    "geom:latitude":22.04378,
+    "geom:longitude":105.86497,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Giac",
+    "gn:country_code":"VN",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590588,
+    "gn:latitude":22.04378,
+    "gn:longitude":105.86497,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u1ea3n Gi\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Giac"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Gi\u00e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590588
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f15546abfc4f2a9ba873c72e1797c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1327250299,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1327250299,
+    "wof:lastmodified":1537714121,
+    "wof:name":"Ban Giac",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86497,
+    22.04378,
+    105.86497,
+    22.04378
+],
+  "geometry": {"coordinates":[105.86497,22.04378],"type":"Point"}
+}

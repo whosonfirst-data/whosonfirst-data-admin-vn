@@ -1,0 +1,73 @@
+{
+  "id": 1210031841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.24882,21.26654,106.24882,21.26654",
+    "geom:latitude":21.26654,
+    "geom:longitude":106.24882,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Xom Gao",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565624,
+    "gn:latitude":21.26654,
+    "gn:longitude":106.24882,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"X\u00f3m G\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n G\u1ea1o"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m G\u00e1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565624
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"27fde6c30ca12b9384761be3a78f03bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781157,
+            "locality_id":1210031841,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1210031841,
+    "wof:lastmodified":1537713762,
+    "wof:name":"Xom Gao",
+    "wof:parent_id":1108781157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.24882,
+    21.26654,
+    106.24882,
+    21.26654
+],
+  "geometry": {"coordinates":[106.24881999999999,21.26654],"type":"Point"}
+}

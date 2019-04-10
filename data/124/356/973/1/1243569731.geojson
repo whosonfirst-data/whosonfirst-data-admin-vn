@@ -1,0 +1,67 @@
+{
+  "id": 1243569731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21667,20.88333,106.21667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":106.21667,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Bang Da",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590604,
+    "gn:latitude":20.88333,
+    "gn:longitude":106.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1eb1ng D\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590604
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"986cd0bb35870f0ff93aeef82f0852df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781249,
+            "locality_id":1243569731,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1243569731,
+    "wof:lastmodified":1536625956,
+    "wof:name":"Bang Da",
+    "wof:parent_id":1108781249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21667,
+    20.88333,
+    106.21667,
+    20.88333
+],
+  "geometry": {"coordinates":[106.21666999999999,20.88333],"type":"Point"}
+}

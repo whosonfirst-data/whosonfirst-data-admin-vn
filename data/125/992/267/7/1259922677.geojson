@@ -1,0 +1,73 @@
+{
+  "id": 1259922677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.34039,10.47962,106.34039,10.47962",
+    "geom:latitude":10.47962,
+    "geom:longitude":106.34039,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tan Quoi",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592185,
+    "gn:latitude":10.47962,
+    "gn:longitude":106.34039,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"T\u00e2n Q\u01b0\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p T\u00e2n Qu\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Q\u01b0\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592185
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c36041d68b66f06f74927048dc942c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1259922677,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1259922677,
+    "wof:lastmodified":1537714153,
+    "wof:name":"Tan Quoi",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.34039,
+    10.47962,
+    106.34039,
+    10.47962
+],
+  "geometry": {"coordinates":[106.34039,10.47962],"type":"Point"}
+}

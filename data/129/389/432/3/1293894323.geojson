@@ -1,0 +1,73 @@
+{
+  "id": 1293894323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94187,19.28694,103.94187,19.28694",
+    "geom:latitude":19.28694,
+    "geom:longitude":103.94187,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Cheng Lau",
+    "gn:country_code":"VN",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590317,
+    "gn:latitude":19.28694,
+    "gn:longitude":103.94187,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ch\u00e8ng Lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Houei L\u00e2u"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00e8ng Lau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590317
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"20c76fb79432900bc8680ff1d7ec12a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781459,
+            "locality_id":1293894323,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293894323,
+    "wof:lastmodified":1537714115,
+    "wof:name":"Cheng Lau",
+    "wof:parent_id":1108781459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94187,
+    19.28694,
+    103.94187,
+    19.28694
+],
+  "geometry": {"coordinates":[103.94186999999999,19.28694],"type":"Point"}
+}

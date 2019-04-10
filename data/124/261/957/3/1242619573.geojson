@@ -1,0 +1,71 @@
+{
+  "id": 1242619573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.88333,15.26667,107.88333,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":107.88333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dak Saba",
+    "gn:country_code":"VN",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1584106,
+    "gn:latitude":15.26667,
+    "gn:longitude":107.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dak Saba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Da Se Ba",
+        "Dak Saba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584106
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4163c8d692f2b58fabd132610dd62845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781615,
+            "locality_id":1242619573,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242619573,
+    "wof:lastmodified":1537714009,
+    "wof:name":"Dak Saba",
+    "wof:parent_id":1108781615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.88333,
+    15.26667,
+    107.88333,
+    15.26667
+],
+  "geometry": {"coordinates":[107.88333,15.26667],"type":"Point"}
+}

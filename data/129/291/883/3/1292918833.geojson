@@ -1,0 +1,73 @@
+{
+  "id": 1292918833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25233,22.9992,105.25233,22.9992",
+    "geom:latitude":22.9992,
+    "geom:longitude":105.25233,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lao Lung Tung",
+    "gn:country_code":"VN",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576267,
+    "gn:latitude":22.9992,
+    "gn:longitude":105.25233,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lao L\u00f9ng T\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laou Lo Tong"
+    ],
+    "name:vie_x_preferred":[
+        "Lao L\u00f9ng T\u1ee7ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576267
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2abaac45ae97ccbaab25e0632230e5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1292918833,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1292918833,
+    "wof:lastmodified":1537713903,
+    "wof:name":"Lao Lung Tung",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25233,
+    22.9992,
+    105.25233,
+    22.9992
+],
+  "geometry": {"coordinates":[105.25233,22.9992],"type":"Point"}
+}

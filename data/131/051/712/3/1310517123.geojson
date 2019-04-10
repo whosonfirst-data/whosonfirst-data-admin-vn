@@ -1,0 +1,73 @@
+{
+  "id": 1310517123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22294,21.51993,103.22294,21.51993",
+    "geom:latitude":21.51993,
+    "geom:longitude":103.22294,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Muong Ang",
+    "gn:country_code":"VN",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8594716,
+    "gn:latitude":21.51993,
+    "gn:longitude":103.22294,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"M\u01b0\u1eddng \u1ea2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n M\u01b0\u1eddng \u1ea2ng"
+    ],
+    "name:vie_x_variant":[
+        "M\u01b0\u1eddng \u1ea2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594716
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2b8cd6e2e8ba0114cc6e1d1db88ba6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780973,
+            "locality_id":1310517123,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1310517123,
+    "wof:lastmodified":1537714360,
+    "wof:name":"Muong Ang",
+    "wof:parent_id":1108780973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22294,
+    21.51993,
+    103.22294,
+    21.51993
+],
+  "geometry": {"coordinates":[103.22293999999999,21.51993],"type":"Point"}
+}

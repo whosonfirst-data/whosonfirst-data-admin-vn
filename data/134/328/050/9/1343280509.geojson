@@ -1,0 +1,67 @@
+{
+  "id": 1343280509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,22.41667,105.76667,22.41667",
+    "geom:latitude":22.41667,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Na Tom",
+    "gn:country_code":"VN",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572810,
+    "gn:latitude":22.41667,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Tom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572810
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc87a817aa4c16c79b0fd72b01bd0f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1343280509,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343280509,
+    "wof:lastmodified":1537005236,
+    "wof:name":"Na Tom",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    22.41667,
+    105.76667,
+    22.41667
+],
+  "geometry": {"coordinates":[105.76667,22.41667],"type":"Point"}
+}

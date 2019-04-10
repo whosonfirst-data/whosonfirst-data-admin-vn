@@ -1,0 +1,67 @@
+{
+  "id": 1309722621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,18.45,105.55,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Van Tan",
+    "gn:country_code":"VN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562966,
+    "gn:latitude":18.45,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0103n T\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562966
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"74baa918b215696d1c9c9f1ad799a961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1309722621,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309722621,
+    "wof:lastmodified":1537048840,
+    "wof:name":"Van Tan",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    18.45,
+    105.55,
+    18.45
+],
+  "geometry": {"coordinates":[105.55,18.45],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310470271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.86064,11.74658,107.86064,11.74658",
+    "geom:latitude":11.74658,
+    "geom:longitude":107.86064,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Da Rhan Blang",
+    "gn:country_code":"VN",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588091,
+    "gn:latitude":11.74658,
+    "gn:longitude":107.86064,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Da Rhan Blang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da Rhan Blan",
+        "B\u2019Da Rhan Blan",
+        "B\u0111a Khang Blang",
+        "B\u2019da Rhan Blang",
+        "Da Rhan Blang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588091
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad9a675828b458e48c689f21e4f7e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781903,
+            "locality_id":1310470271,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1310470271,
+    "wof:lastmodified":1537714073,
+    "wof:name":"Da Rhan Blang",
+    "wof:parent_id":1108781903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.86064,
+    11.74658,
+    107.86064,
+    11.74658
+],
+  "geometry": {"coordinates":[107.86064,11.74658],"type":"Point"}
+}

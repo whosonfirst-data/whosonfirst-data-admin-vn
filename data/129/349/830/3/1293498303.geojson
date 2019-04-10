@@ -1,0 +1,70 @@
+{
+  "id": 1293498303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13591,22.27421,105.13591,22.27421",
+    "geom:latitude":22.27421,
+    "geom:longitude":105.13591,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"La Lung",
+    "gn:country_code":"VN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309108,
+    "gn:latitude":22.27421,
+    "gn:longitude":105.13591,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u00e0 L\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0 L\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309108
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"108e4ccf9dacf721491d5d2f176cfc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1293498303,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293498303,
+    "wof:lastmodified":1537714248,
+    "wof:name":"La Lung",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13591,
+    22.27421,
+    105.13591,
+    22.27421
+],
+  "geometry": {"coordinates":[105.13591,22.27421],"type":"Point"}
+}

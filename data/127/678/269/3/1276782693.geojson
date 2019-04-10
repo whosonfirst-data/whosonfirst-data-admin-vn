@@ -1,0 +1,73 @@
+{
+  "id": 1276782693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.66904,13.95449,108.66904,13.95449",
+    "geom:latitude":13.95449,
+    "geom:longitude":108.66904,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Khom Nam",
+    "gn:country_code":"VN",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865398,
+    "gn:latitude":13.95449,
+    "gn:longitude":108.66904,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kh\u00f3m N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u00f3m N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u00f3m 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865398
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68f764121f58280f2b51cbc18a8d1095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781797,
+            "locality_id":1276782693,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1276782693,
+    "wof:lastmodified":1537714499,
+    "wof:name":"Khom Nam",
+    "wof:parent_id":1108781797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.66904,
+    13.95449,
+    108.66904,
+    13.95449
+],
+  "geometry": {"coordinates":[108.66904,13.95449],"type":"Point"}
+}

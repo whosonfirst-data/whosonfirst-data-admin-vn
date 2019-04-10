@@ -1,0 +1,70 @@
+{
+  "id": 1243473431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50386,18.42958,105.50386,18.42958",
+    "geom:latitude":18.42958,
+    "geom:longitude":105.50386,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Cao Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354127,
+    "gn:latitude":18.42958,
+    "gn:longitude":105.50386,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Cao Thanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Cao Thanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354127
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6265a134c34dedd2961e0b1ab24e43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1243473431,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243473431,
+    "wof:lastmodified":1537714709,
+    "wof:name":"Cao Thanh",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50386,
+    18.42958,
+    105.50386,
+    18.42958
+],
+  "geometry": {"coordinates":[105.50386,18.42958],"type":"Point"}
+}

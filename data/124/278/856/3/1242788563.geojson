@@ -1,0 +1,71 @@
+{
+  "id": 1242788563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92627,22.39752,105.92627,22.39752",
+    "geom:latitude":22.39752,
+    "geom:longitude":105.92627,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Mach",
+    "gn:country_code":"VN",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589759,
+    "gn:latitude":22.39752,
+    "gn:longitude":105.92627,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n M\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n M\u1ea1ch",
+        "B\u1ea3n Mec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589759
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e7d94c0073117f7f2a1a541823b8b6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1242788563,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242788563,
+    "wof:lastmodified":1537714102,
+    "wof:name":"Ban Mach",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92627,
+    22.39752,
+    105.92627,
+    22.39752
+],
+  "geometry": {"coordinates":[105.92627,22.39752],"type":"Point"}
+}

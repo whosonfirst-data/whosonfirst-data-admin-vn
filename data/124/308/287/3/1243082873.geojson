@@ -1,0 +1,70 @@
+{
+  "id": 1243082873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90464,18.28549,105.90464,18.28549",
+    "geom:latitude":18.28549,
+    "geom:longitude":105.90464,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ky Cac",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275429,
+    "gn:latitude":18.28549,
+    "gn:longitude":105.90464,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"K\u1ef3 C\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "K\u1ef3 C\u00e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275429
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e9ff514c5ff2a8d8af2976bf422aabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1243082873,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243082873,
+    "wof:lastmodified":1537714679,
+    "wof:name":"Ky Cac",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90464,
+    18.28549,
+    105.90464,
+    18.28549
+],
+  "geometry": {"coordinates":[105.90464,18.28549],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343599503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.8,15.3,107.8,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":107.8,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Kaduat Ose",
+    "gn:country_code":"VN",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1579960,
+    "gn:latitude":15.3,
+    "gn:longitude":107.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kaduat Ose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579960
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9584691a4941961f0dad8132fdfa614a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781615,
+            "locality_id":1343599503,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1343599503,
+    "wof:lastmodified":1537041232,
+    "wof:name":"Kaduat Ose",
+    "wof:parent_id":1108781615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.8,
+    15.3,
+    107.8,
+    15.3
+],
+  "geometry": {"coordinates":[107.8,15.3],"type":"Point"}
+}

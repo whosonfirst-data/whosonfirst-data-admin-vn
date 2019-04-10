@@ -1,0 +1,70 @@
+{
+  "id": 1225903489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00922,21.15493,104.00922,21.15493",
+    "geom:latitude":21.15493,
+    "geom:longitude":104.00922,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Me Tren",
+    "gn:country_code":"VN",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314652,
+    "gn:latitude":21.15493,
+    "gn:longitude":104.00922,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"M\u00e8 Tr\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u00e8 Tr\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71953a7096480926a8088408919be252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1225903489,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1225903489,
+    "wof:lastmodified":1537714691,
+    "wof:name":"Me Tren",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00922,
+    21.15493,
+    104.00922,
+    21.15493
+],
+  "geometry": {"coordinates":[104.00922,21.15493],"type":"Point"}
+}

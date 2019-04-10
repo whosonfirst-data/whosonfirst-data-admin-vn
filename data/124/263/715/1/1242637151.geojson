@@ -1,0 +1,67 @@
+{
+  "id": 1242637151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31667,21.15,107.31667,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":107.31667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dong Mo",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582746,
+    "gn:latitude":21.15,
+    "gn:longitude":107.31667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110ong Mo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582746
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b22d8ec2f4d8b6d551a556e3d160d7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781115,
+            "locality_id":1242637151,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1242637151,
+    "wof:lastmodified":1536977623,
+    "wof:name":"Dong Mo",
+    "wof:parent_id":1108781115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31667,
+    21.15,
+    107.31667,
+    21.15
+],
+  "geometry": {"coordinates":[107.31667,21.15],"type":"Point"}
+}

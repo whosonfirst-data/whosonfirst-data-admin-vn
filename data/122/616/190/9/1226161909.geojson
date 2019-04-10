@@ -1,0 +1,73 @@
+{
+  "id": 1226161909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67784,9.32523,105.67784,9.32523",
+    "geom:latitude":9.32523,
+    "geom:longitude":105.67784,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Bec Hen Lon",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593931,
+    "gn:latitude":9.32523,
+    "gn:longitude":105.67784,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u00e9c Hen L\u1edbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00e9c Hen L\u1edbn"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e9c Hen L\u1edbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593931
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b1dec28f6a5fbaa05739565a2914614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782317,
+            "locality_id":1226161909,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1226161909,
+    "wof:lastmodified":1537714198,
+    "wof:name":"Bec Hen Lon",
+    "wof:parent_id":1108782317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67784,
+    9.32523,
+    105.67784,
+    9.32523
+],
+  "geometry": {"coordinates":[105.67784,9.32523],"type":"Point"}
+}

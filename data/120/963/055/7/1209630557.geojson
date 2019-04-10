@@ -1,0 +1,64 @@
+{
+  "id": 1209630557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.0469,13.50895,109.0469,13.50895",
+    "geom:latitude":13.50895,
+    "geom:longitude":109.0469,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Lanh Cao",
+    "gn:country_code":"VN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719435,
+    "gn:latitude":13.50895,
+    "gn:longitude":109.0469,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e3nh Cao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e3nh Cao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719435
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dd4691d93897568af117423d85b9e75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630557
+        }
+    ],
+    "wof:id":1209630557,
+    "wof:lastmodified":1537714412,
+    "wof:name":"Lanh Cao",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.0469,
+    13.50895,
+    109.0469,
+    13.50895
+],
+  "geometry": {"coordinates":[109.04689999999999,13.50895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327176345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.31667,15.91667,108.31667,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":108.31667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ha My Tay",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581207,
+    "gn:latitude":15.91667,
+    "gn:longitude":108.31667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"H\u00e0 My T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581207
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1475095dd19437e3b90a803d71a0fdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781605,
+            "locality_id":1327176345,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1327176345,
+    "wof:lastmodified":1537048529,
+    "wof:name":"Ha My Tay",
+    "wof:parent_id":1108781605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.31667,
+    15.91667,
+    108.31667,
+    15.91667
+],
+  "geometry": {"coordinates":[108.31667,15.91667],"type":"Point"}
+}

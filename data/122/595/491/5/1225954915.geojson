@@ -1,0 +1,71 @@
+{
+  "id": 1225954915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.96667,11.08333,106.96667,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":106.96667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Xom Cay Xoai",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1561841,
+    "gn:latitude":11.08333,
+    "gn:longitude":106.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m C\u00e2y Xo\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "X\u00f3m Cai Xoai",
+        "X\u00f3m C\u00e2y Xo\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561841
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0dd6f346cab61f166418e0a4e31af2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1225954915,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1225954915,
+    "wof:lastmodified":1537713693,
+    "wof:name":"Xom Cay Xoai",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.96667,
+    11.08333,
+    106.96667,
+    11.08333
+],
+  "geometry": {"coordinates":[106.96666999999999,11.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259502575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05,11.8,107.05,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":107.05,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ap Phuoc Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592508,
+    "gn:latitude":11.8,
+    "gn:longitude":107.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u01b0\u1edbc Thinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuoc Tin",
+        "\u1ea4p Ph\u01b0\u1edbc Thinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592508
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3e1acd3676c5d6ddeba2c3dc34a69e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781929,
+            "locality_id":1259502575,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1259502575,
+    "wof:lastmodified":1537714161,
+    "wof:name":"Ap Phuoc Thinh",
+    "wof:parent_id":1108781929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05,
+    11.8,
+    107.05,
+    11.8
+],
+  "geometry": {"coordinates":[107.05,11.8],"type":"Point"}
+}

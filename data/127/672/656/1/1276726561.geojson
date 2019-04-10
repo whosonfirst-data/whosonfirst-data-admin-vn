@@ -1,0 +1,67 @@
+{
+  "id": 1276726561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57611,10.75,106.57611,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":106.57611,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tan Tao",
+    "gn:country_code":"VN",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904471,
+    "gn:latitude":10.75,
+    "gn:longitude":106.57611,
+    "gn:modification_date":"1998-04-27",
+    "gn:name":"T\u00e2n T\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904471
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f121c730816a87ccd9d2eb036c84f306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782043,
+            "locality_id":1276726561,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1276726561,
+    "wof:lastmodified":1536748903,
+    "wof:name":"Tan Tao",
+    "wof:parent_id":1108782043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57611,
+    10.75,
+    106.57611,
+    10.75
+],
+  "geometry": {"coordinates":[106.57611,10.75],"type":"Point"}
+}

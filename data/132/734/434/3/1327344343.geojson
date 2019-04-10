@@ -1,0 +1,71 @@
+{
+  "id": 1327344343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,18.31667,105.65,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xom Trai Bau",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560833,
+    "gn:latitude":18.31667,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Tr\u1ea1i B\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Tuah Bau",
+        "X\u00f3m Tr\u1ea1i B\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"46c34d88d3e0a601a64d5c9ee3f30836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1327344343,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1327344343,
+    "wof:lastmodified":1537713671,
+    "wof:name":"Xom Trai Bau",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    18.31667,
+    105.65,
+    18.31667
+],
+  "geometry": {"coordinates":[105.65000000000001,18.31667],"type":"Point"}
+}

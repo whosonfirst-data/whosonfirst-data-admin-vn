@@ -1,0 +1,65 @@
+{
+  "id": 1293400547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,16.56667,106.66667,16.56667",
+    "geom:latitude":16.56667,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Lang Vuc Tang",
+    "gn:country_code":"VN",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576393,
+    "gn:latitude":16.56667,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Vuc Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576393
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"550729619323d1fe44640362c53399a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1293400547,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293400547,
+    "wof:lastmodified":1536912644,
+    "wof:name":"Lang Vuc Tang",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    16.56667,
+    106.66667,
+    16.56667
+],
+  "geometry": {"coordinates":[106.66667,16.56667],"type":"Point"}
+}

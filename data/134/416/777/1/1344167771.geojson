@@ -1,0 +1,67 @@
+{
+  "id": 1344167771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,20.88333,106.26667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Cam Cau",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586426,
+    "gn:latitude":20.88333,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ea9m C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586426
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b3cee60a05d40661ca33eab471558136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781251,
+            "locality_id":1344167771,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1344167771,
+    "wof:lastmodified":1536721012,
+    "wof:name":"Cam Cau",
+    "wof:parent_id":1108781251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    20.88333,
+    106.26667,
+    20.88333
+],
+  "geometry": {"coordinates":[106.26667,20.88333],"type":"Point"}
+}

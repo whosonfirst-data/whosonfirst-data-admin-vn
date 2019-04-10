@@ -1,0 +1,67 @@
+{
+  "id": 1242922235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86667,21.56667,103.86667,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":103.86667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Le",
+    "gn:country_code":"VN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589944,
+    "gn:latitude":21.56667,
+    "gn:longitude":103.86667,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"B\u1ea3n Le",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589944
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1af78c23db3d06ee18014d784cae0d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1242922235,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1242922235,
+    "wof:lastmodified":1537061698,
+    "wof:name":"Ban Le",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86667,
+    21.56667,
+    103.86667,
+    21.56667
+],
+  "geometry": {"coordinates":[103.86667,21.56667],"type":"Point"}
+}

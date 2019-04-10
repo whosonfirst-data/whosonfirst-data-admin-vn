@@ -1,0 +1,67 @@
+{
+  "id": 1243261713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8,22.9,105.8,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":105.8,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Loung Kuang",
+    "gn:country_code":"VN",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575533,
+    "gn:latitude":22.9,
+    "gn:longitude":105.8,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Loung Kuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575533
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e4df16b1cc3d561357d3887691d5cd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780879,
+            "locality_id":1243261713,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243261713,
+    "wof:lastmodified":1537068864,
+    "wof:name":"Loung Kuang",
+    "wof:parent_id":1108780879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8,
+    22.9,
+    105.8,
+    22.9
+],
+  "geometry": {"coordinates":[105.8,22.9],"type":"Point"}
+}

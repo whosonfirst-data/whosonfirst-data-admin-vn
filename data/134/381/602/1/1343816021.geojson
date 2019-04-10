@@ -1,0 +1,70 @@
+{
+  "id": 1343816021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.5602,11.87182,108.5602,11.87182",
+    "geom:latitude":11.87182,
+    "geom:longitude":108.5602,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Phat Chi",
+    "gn:country_code":"VN",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571030,
+    "gn:latitude":11.87182,
+    "gn:longitude":108.5602,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ph\u00e1t Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00e1t Chi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9e5842c1466c082f34909bdce07db21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781885,
+            "locality_id":1343816021,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343816021,
+    "wof:lastmodified":1537713840,
+    "wof:name":"Phat Chi",
+    "wof:parent_id":1108781885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.5602,
+    11.87182,
+    108.5602,
+    11.87182
+],
+  "geometry": {"coordinates":[108.56019999999999,11.87182],"type":"Point"}
+}

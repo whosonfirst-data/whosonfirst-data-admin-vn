@@ -1,0 +1,65 @@
+{
+  "id": 1209233469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.88333,11.6,108.88333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":108.88333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Phuoc An",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565375,
+    "gn:latitude":11.6,
+    "gn:longitude":108.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ph\u01b0\u1edbc An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1edbc An",
+        "Th\u00f4n Ph\u01b0\u1edbc An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565375
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cef55bd1092849830d5bb6348e438d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233469
+        }
+    ],
+    "wof:id":1209233469,
+    "wof:lastmodified":1537713751,
+    "wof:name":"Thon Phuoc An",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.88333,
+    11.6,
+    108.88333,
+    11.6
+],
+  "geometry": {"coordinates":[108.88333,11.6],"type":"Point"}
+}

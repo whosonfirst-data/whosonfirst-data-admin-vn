@@ -1,0 +1,64 @@
+{
+  "id": 1209528835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45913,10.4306,105.45913,10.4306",
+    "geom:latitude":10.4306,
+    "geom:longitude":105.45913,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"An Thi",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336997,
+    "gn:latitude":10.4306,
+    "gn:longitude":105.45913,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"An Th\u1ecb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An Th\u1ecb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336997
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b874f004882c29ca2e50c81ffd3a65af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209528835
+        }
+    ],
+    "wof:id":1209528835,
+    "wof:lastmodified":1537714279,
+    "wof:name":"An Thi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45913,
+    10.4306,
+    105.45913,
+    10.4306
+],
+  "geometry": {"coordinates":[105.45913,10.4306],"type":"Point"}
+}

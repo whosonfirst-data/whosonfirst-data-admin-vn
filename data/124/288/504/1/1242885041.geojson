@@ -1,0 +1,67 @@
+{
+  "id": 1242885041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.58333,16.38333,107.58333,16.38333",
+    "geom:latitude":16.38333,
+    "geom:longitude":107.58333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Nam Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573457,
+    "gn:latitude":16.38333,
+    "gn:longitude":107.58333,
+    "gn:modification_date":"1998-10-16",
+    "gn:name":"Nam Hoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573457
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"16b71ccf330d4e06d8d31a4f435ef871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781567,
+            "locality_id":1242885041,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1242885041,
+    "wof:lastmodified":1536618617,
+    "wof:name":"Nam Hoa",
+    "wof:parent_id":1108781567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.58333,
+    16.38332999999999,
+    107.58333,
+    16.38332999999999
+],
+  "geometry": {"coordinates":[107.58333,16.38332999999999],"type":"Point"}
+}

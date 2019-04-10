@@ -1,0 +1,70 @@
+{
+  "id": 1260095725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23698,21.53156,105.23698,21.53156",
+    "geom:latitude":21.53156,
+    "geom:longitude":105.23698,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Ma Vuong",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138812,
+    "gn:latitude":21.53156,
+    "gn:longitude":105.23698,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ma V\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ma V\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138812
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e5c8837aa6884f9e231d416ab0b81129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781169,
+            "locality_id":1260095725,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1260095725,
+    "wof:lastmodified":1537714223,
+    "wof:name":"Ma Vuong",
+    "wof:parent_id":1108781169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23698,
+    21.53156,
+    105.23698,
+    21.53156
+],
+  "geometry": {"coordinates":[105.23698,21.53156],"type":"Point"}
+}

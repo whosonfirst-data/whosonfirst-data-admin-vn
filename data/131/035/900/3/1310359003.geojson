@@ -1,0 +1,72 @@
+{
+  "id": 1310359003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,19.61667,105.66667,19.61667",
+    "geom:latitude":19.61667,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Truong Quang Tien",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563561,
+    "gn:latitude":19.61667,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tr\u01b0\u1eddng Quang Ti\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Truong Quang",
+        "Tr\u01b0\u1eddng Quang Ti\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c187f452212a395fb1bd2aff1cecd8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781439,
+            "locality_id":1310359003,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1310359003,
+    "wof:lastmodified":1537713722,
+    "wof:name":"Truong Quang Tien",
+    "wof:parent_id":1108781439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    19.61667000000001,
+    105.66667,
+    19.61667000000001
+],
+  "geometry": {"coordinates":[105.66667,19.61667000000001],"type":"Point"}
+}

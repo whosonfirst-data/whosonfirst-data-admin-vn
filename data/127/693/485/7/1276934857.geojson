@@ -1,0 +1,74 @@
+{
+  "id": 1276934857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.19417,12.08278,108.19417,12.08278",
+    "geom:latitude":12.08278,
+    "geom:longitude":108.19417,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Buon Ro Men",
+    "gn:country_code":"VN",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568317,
+    "gn:latitude":12.08278,
+    "gn:longitude":108.19417,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n R\u00f4 Men",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Romen",
+        "Rom\u00ean"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n R\u00f4 Men"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568317
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"561e3f0c1e266eb06405672814842355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781889,
+            "locality_id":1276934857,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1276934857,
+    "wof:lastmodified":1537713797,
+    "wof:name":"Buon Ro Men",
+    "wof:parent_id":1108781889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.19417,
+    12.08278,
+    108.19417,
+    12.08278
+],
+  "geometry": {"coordinates":[108.19417,12.08278],"type":"Point"}
+}

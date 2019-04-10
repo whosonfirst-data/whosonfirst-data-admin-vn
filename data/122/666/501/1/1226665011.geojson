@@ -1,0 +1,73 @@
+{
+  "id": 1226665011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.21521,12.34811,108.21521,12.34811",
+    "geom:latitude":12.34811,
+    "geom:longitude":108.21521,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Dung",
+    "gn:country_code":"VN",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587056,
+    "gn:latitude":12.34811,
+    "gn:longitude":108.21521,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n D\u0169ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n Dung Hma"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n D\u0169ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587056
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7a9d5ddd51e0e48b528f1c89c4c62b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1226665011,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1226665011,
+    "wof:lastmodified":1537714053,
+    "wof:name":"Buon Dung",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.21521,
+    12.34811,
+    108.21521,
+    12.34811
+],
+  "geometry": {"coordinates":[108.21521,12.34811],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1108780783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001045,
+    "geom:area_square_m":12063932.034685,
+    "geom:bbox":"105.799551492,21.0181006773,105.867417617,21.0575622871",
+    "geom:latitude":21.038994,
+    "geom:longitude":105.829033,
+    "iso:country":"VN",
+    "lbl:latitude":21.046107,
+    "lbl:longitude":105.843198,
+    "meso:admin_1":"Ha Noi",
+    "meso:gadm_admin":"Ba \u0110\u00ecnh",
+    "meso:gadm_hasc2":"VN.HN.BD",
+    "meso:gaul_adm2":"Ba Dinh",
+    "meso:local_id":"1001",
+    "meso:mps_x":105.843198,
+    "meso:mps_y":21.046107,
+    "meso:name_en":"Ba Dinh",
+    "meso:source":"AOTM",
+    "mps:latitude":21.046107,
+    "mps:longitude":105.843198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5df4\u4ead\u90e1"
+    ],
+    "name:dut_x_preferred":[
+        "Ba \u0110\u00ecnh"
+    ],
+    "name:eng_x_preferred":[
+        "Ba Dinh"
+    ],
+    "name:fre_x_preferred":[
+        "District de Ba Dinh"
+    ],
+    "name:hak_x_preferred":[
+        "P\u00e2-th\u00ecn-khi\u00f9n"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub518"
+    ],
+    "name:nob_x_preferred":[
+        "Ba Dinh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0438\u043d\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Ba \u0110\u00ecnh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627 \u062f\u06cc\u0646\u06c1 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Ba \u0110\u00ecnh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u4ead\u90e1"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u4ead\u90e1"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"9",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ha Noi",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HI",
+    "statoids:name":"Ba Dinh",
+    "statoids:population":"228353",
+    "statoids:statoid":"VN.HI.BD",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q890194"
+    },
+    "wof:country":"VN",
+    "wof:created":1481740881,
+    "wof:geomhash":"a7d8422903190d0ad07f8fb30027fc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780783,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1108780783,
+    "wof:lastmodified":1553816509,
+    "wof:name":"Ba Dinh",
+    "wof:parent_id":85680653,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":228353,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.799551491526,
+    21.0181006773087,
+    105.86741761656782,
+    21.05756228705381
+],
+  "geometry": {"coordinates":[[[105.80593659123033,21.04665426814699],[105.81023166292015,21.04604940488791],[105.81774538955614,21.04246330576243],[105.82081806930525,21.04412374499879],[105.8321796784346,21.03871406343582],[105.83497488948792,21.04637613698173],[105.83367129940183,21.05396028287739],[105.83531728555893,21.05629115077232],[105.83705161745796,21.05756228705381],[105.84808516679246,21.05324541630672],[105.85250688445879,21.05583604009507],[105.86740753516335,21.04802560483369],[105.86741761656782,21.04637016388807],[105.86698375337686,21.04478704711024],[105.84915065128908,21.03992858368956],[105.84886956286654,21.04006010850775],[105.83661121015693,21.03387793293507],[105.83330835582697,21.03551749620154],[105.83003623324353,21.03285243949167],[105.8212604810461,21.02891694037454],[105.82044261256257,21.02091893125645],[105.80771714147137,21.0181006773087],[105.80277333420517,21.02312535742291],[105.80206276282775,21.02347678297224],[105.799551491526,21.02951870244755],[105.80428113621073,21.03697432719432],[105.80453296506441,21.04402288255863],[105.80593659123033,21.04665426814699]]],"type":"Polygon"}
+}

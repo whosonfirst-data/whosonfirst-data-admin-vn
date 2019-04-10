@@ -1,0 +1,71 @@
+{
+  "id": 1259898833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.01667,11.46667,109.01667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":109.01667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Tu Thien",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565227,
+    "gn:latitude":11.46667,
+    "gn:longitude":109.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n T\u1eeb Thi\u1ec7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hieu Thien",
+        "Th\u00f4n T\u1eeb Thi\u1ec7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565227
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b96a3b9369a2aca5e2b06384763d2886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1259898833,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1259898833,
+    "wof:lastmodified":1537713744,
+    "wof:name":"Thon Tu Thien",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.01667,
+    11.46667,
+    109.01667,
+    11.46667
+],
+  "geometry": {"coordinates":[109.01667,11.46667],"type":"Point"}
+}

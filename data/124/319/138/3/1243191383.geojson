@@ -1,0 +1,70 @@
+{
+  "id": 1243191383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57859,21.42788,105.57859,21.42788",
+    "geom:latitude":21.42788,
+    "geom:longitude":105.57859,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Lang Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609195,
+    "gn:latitude":21.42788,
+    "gn:longitude":105.57859,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"L\u00e0ng Chanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Chanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609195
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2528f51a9baf2e8467f5cfb3e3034cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781205,
+            "locality_id":1243191383,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1243191383,
+    "wof:lastmodified":1537714368,
+    "wof:name":"Lang Chanh",
+    "wof:parent_id":1108781205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57859,
+    21.42788,
+    105.57859,
+    21.42788
+],
+  "geometry": {"coordinates":[105.57859000000001,21.42788],"type":"Point"}
+}

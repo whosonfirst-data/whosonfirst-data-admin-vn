@@ -1,0 +1,70 @@
+{
+  "id": 1259502485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33783,21.75631,106.33783,21.75631",
+    "geom:latitude":21.75631,
+    "geom:longitude":106.33783,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Lan Phi",
+    "gn:country_code":"VN",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890048,
+    "gn:latitude":21.75631,
+    "gn:longitude":106.33783,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e2n Phi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e2n Phi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890048
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba80029c6414b4ed03d55c943a936828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1259502485,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1259502485,
+    "wof:lastmodified":1537714553,
+    "wof:name":"Lan Phi",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33783,
+    21.75631,
+    106.33783,
+    21.75631
+],
+  "geometry": {"coordinates":[106.33783,21.75631],"type":"Point"}
+}

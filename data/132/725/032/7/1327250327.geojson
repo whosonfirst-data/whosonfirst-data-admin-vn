@@ -1,0 +1,73 @@
+{
+  "id": 1327250327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59238,21.97071,104.59238,21.97071",
+    "geom:latitude":21.97071,
+    "geom:longitude":104.59238,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Trai Hut",
+    "gn:country_code":"VN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564175,
+    "gn:latitude":21.97071,
+    "gn:longitude":104.59238,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tr\u00e1i H\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u1ea1i H\u00fat"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u00e1i H\u00fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564175
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e09c6eeec45d36c5e61fe117b3a2f694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1327250327,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1327250327,
+    "wof:lastmodified":1537713730,
+    "wof:name":"Trai Hut",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59238,
+    21.97071,
+    104.59238,
+    21.97071
+],
+  "geometry": {"coordinates":[104.59238000000001,21.97071],"type":"Point"}
+}

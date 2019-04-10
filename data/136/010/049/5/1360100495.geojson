@@ -1,0 +1,72 @@
+{
+  "id": 1360100495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.10278,9.98944,106.10278,9.98944",
+    "geom:latitude":9.98944,
+    "geom:longitude":106.10278,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Hieu Ngai",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592811,
+    "gn:latitude":9.98944,
+    "gn:longitude":106.10278,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hi\u1ebfu Ng\u1ea5i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Ng\u00e3i H\u1eefu",
+        "Ap Nga Huu",
+        "Hi\u1ebfu Ng\u1ea5i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592811
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"000adef92e71d6f6377fa48f90351e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782157,
+            "locality_id":1360100495,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1360100495,
+    "wof:lastmodified":1537714169,
+    "wof:name":"Hieu Ngai",
+    "wof:parent_id":1108782157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.10278,
+    9.98944,
+    106.10278,
+    9.98944
+],
+  "geometry": {"coordinates":[106.10278,9.98944],"type":"Point"}
+}

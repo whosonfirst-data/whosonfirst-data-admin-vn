@@ -1,0 +1,64 @@
+{
+  "id": 1209534599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.01028,21.86862,104.01028,21.86862",
+    "geom:latitude":21.86862,
+    "geom:longitude":104.01028,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Thai",
+    "gn:country_code":"VN",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10838533,
+    "gn:latitude":21.86862,
+    "gn:longitude":104.01028,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"B\u1ea3n Th\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Th\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10838533
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43b0a78ae19f0e49195ea4b38ea167ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534599
+        }
+    ],
+    "wof:id":1209534599,
+    "wof:lastmodified":1537714731,
+    "wof:name":"Ban Thai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.01028,
+    21.86862,
+    104.01028,
+    21.86862
+],
+  "geometry": {"coordinates":[104.01027999999999,21.86862],"type":"Point"}
+}

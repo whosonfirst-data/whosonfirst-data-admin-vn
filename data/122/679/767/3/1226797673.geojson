@@ -1,0 +1,71 @@
+{
+  "id": 1226797673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,15.45,108.15,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Thon Tam",
+    "gn:country_code":"VN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565326,
+    "gn:latitude":15.45,
+    "gn:longitude":108.15,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Th\u00f4n T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kim Thanh",
+        "Th\u00f4n T\u00e1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565326
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6d63a8c0cfb95e1eabc286b2fc3875b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781621,
+            "locality_id":1226797673,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1226797673,
+    "wof:lastmodified":1537713749,
+    "wof:name":"Thon Tam",
+    "wof:parent_id":1108781621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    15.45,
+    108.15,
+    15.45
+],
+  "geometry": {"coordinates":[108.15000000000001,15.45],"type":"Point"}
+}

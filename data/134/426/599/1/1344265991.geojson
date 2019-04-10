@@ -1,0 +1,73 @@
+{
+  "id": 1344265991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43211,10.39104,105.43211,10.39104",
+    "geom:latitude":10.39104,
+    "geom:longitude":105.43211,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Binh Long Hai",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336991,
+    "gn:latitude":10.39104,
+    "gn:longitude":105.43211,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u00ecnh Long Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Long Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh Long 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336991
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"86c176b0c750c45f313dee4b0d09ab15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1344265991,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1344265991,
+    "wof:lastmodified":1537714279,
+    "wof:name":"Binh Long Hai",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43211,
+    10.39104,
+    105.43211,
+    10.39104
+],
+  "geometry": {"coordinates":[105.43210999999999,10.39104],"type":"Point"}
+}

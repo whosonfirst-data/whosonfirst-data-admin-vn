@@ -1,0 +1,67 @@
+{
+  "id": 1293020025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13333,22.0,104.13333,22.0",
+    "geom:latitude":22.0,
+    "geom:longitude":104.13333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nam Mien",
+    "gn:country_code":"VN",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573344,
+    "gn:latitude":22.0,
+    "gn:longitude":104.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u1eadm Mi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573344
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"582781821f5324a2c0ccaaa7e24aa10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1293020025,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1293020025,
+    "wof:lastmodified":1536963827,
+    "wof:name":"Nam Mien",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13333,
+    22.0,
+    104.13333,
+    22.0
+],
+  "geometry": {"coordinates":[104.13333,22.0],"type":"Point"}
+}

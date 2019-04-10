@@ -1,0 +1,76 @@
+{
+  "id": 1276247945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.76632,21.21452,106.76632,21.21452",
+    "geom:latitude":21.21452,
+    "geom:longitude":106.76632,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lang Non",
+    "gn:country_code":"VN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594297,
+    "gn:latitude":21.21452,
+    "gn:longitude":106.76632,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"L\u00e0ng N\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Nang",
+        "An No\u00f3ng",
+        "L\u00e0ng Nong",
+        "An N\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng N\u00f2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594297
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f4eff38a205bc0d2a71229aeb8acc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781155,
+            "locality_id":1276247945,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1276247945,
+    "wof:lastmodified":1537714206,
+    "wof:name":"Lang Non",
+    "wof:parent_id":1108781155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76632,
+    21.21452,
+    106.76632,
+    21.21452
+],
+  "geometry": {"coordinates":[106.76631999999999,21.21452],"type":"Point"}
+}

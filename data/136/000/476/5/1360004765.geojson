@@ -1,0 +1,70 @@
+{
+  "id": 1360004765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27948,20.61441,105.27948,20.61441",
+    "geom:latitude":20.61441,
+    "geom:longitude":105.27948,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Muong Khen",
+    "gn:country_code":"VN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8551391,
+    "gn:latitude":20.61441,
+    "gn:longitude":105.27948,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"M\u01b0\u1eddng Kh\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u01b0\u1eddng Kh\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551391
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cdcbeaea738c5e7f213870312acafa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781053,
+            "locality_id":1360004765,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1360004765,
+    "wof:lastmodified":1537714347,
+    "wof:name":"Muong Khen",
+    "wof:parent_id":1108781053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27948,
+    20.61441,
+    105.27948,
+    20.61441
+],
+  "geometry": {"coordinates":[105.27948000000001,20.61441],"type":"Point"}
+}

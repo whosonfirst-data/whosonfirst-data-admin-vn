@@ -1,0 +1,72 @@
+{
+  "id": 1225863751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52639,9.74028,106.52639,9.74028",
+    "geom:latitude":9.74028,
+    "geom:longitude":106.52639,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Lam Ro",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593162,
+    "gn:latitude":9.74028,
+    "gn:longitude":106.52639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p L\u00e2m R\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e2m R\u1ed3",
+        "\u1ea4p L\u00e2m R\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593162
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a8c40f38b84a86e991491e6ac4731b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782143,
+            "locality_id":1225863751,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1225863751,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Ap Lam Ro",
+    "wof:parent_id":1108782143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52639,
+    9.74028,
+    106.52639,
+    9.74028
+],
+  "geometry": {"coordinates":[106.52639000000001,9.74028],"type":"Point"}
+}

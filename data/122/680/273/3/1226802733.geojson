@@ -1,0 +1,67 @@
+{
+  "id": 1226802733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,20.03333,105.28333,20.03333",
+    "geom:latitude":20.03333,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Van Am",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563184,
+    "gn:latitude":20.03333,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"V\u00e2n Am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563184
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a57ad7c65975c5fe2238fb85402a9a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781405,
+            "locality_id":1226802733,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226802733,
+    "wof:lastmodified":1536632143,
+    "wof:name":"Van Am",
+    "wof:parent_id":1108781405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    20.03333,
+    105.28333,
+    20.03333
+],
+  "geometry": {"coordinates":[105.28333000000001,20.03333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243573271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23311,21.31223,106.23311,21.31223",
+    "geom:latitude":21.31223,
+    "geom:longitude":106.23311,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lien Son",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867981,
+    "gn:latitude":21.31223,
+    "gn:longitude":106.23311,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Li\u00ean S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867981
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0c86df0edb6c6b852c567e97687777b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781149,
+            "locality_id":1243573271,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1243573271,
+    "wof:lastmodified":1537714520,
+    "wof:name":"Lien Son",
+    "wof:parent_id":1108781149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23311,
+    21.31223,
+    106.23311,
+    21.31223
+],
+  "geometry": {"coordinates":[106.23311,21.31223],"type":"Point"}
+}

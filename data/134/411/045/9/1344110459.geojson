@@ -1,0 +1,73 @@
+{
+  "id": 1344110459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24844,20.03499,105.24844,20.03499",
+    "geom:latitude":20.03499,
+    "geom:longitude":105.24844,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Giao Lao",
+    "gn:country_code":"VN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577365,
+    "gn:latitude":20.03499,
+    "gn:longitude":105.24844,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Giao L\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Giao L\u00e3o"
+    ],
+    "name:vie_x_preferred":[
+        "Giao L\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da48cfedf953ef228b16351c5a49a0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781403,
+            "locality_id":1344110459,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1344110459,
+    "wof:lastmodified":1537713923,
+    "wof:name":"Giao Lao",
+    "wof:parent_id":1108781403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24844,
+    20.03499,
+    105.24844,
+    20.03499
+],
+  "geometry": {"coordinates":[105.24844,20.03499],"type":"Point"}
+}

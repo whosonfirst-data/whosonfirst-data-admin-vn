@@ -1,0 +1,73 @@
+{
+  "id": 1344176129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.6935,13.97795,108.6935,13.97795",
+    "geom:latitude":13.97795,
+    "geom:longitude":108.6935,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"An Thuong Ba",
+    "gn:country_code":"VN",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865382,
+    "gn:latitude":13.97795,
+    "gn:longitude":108.6935,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"An Th\u01b0\u1ee3ng Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An Th\u01b0\u1ee3ng Ba"
+    ],
+    "name:vie_x_variant":[
+        "An Th\u01b0\u1ee3ng 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865382
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f5b9e1a5bda15f99488f9028ffad8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781797,
+            "locality_id":1344176129,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1344176129,
+    "wof:lastmodified":1537714499,
+    "wof:name":"An Thuong Ba",
+    "wof:parent_id":1108781797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.6935,
+    13.97795,
+    108.6935,
+    13.97795
+],
+  "geometry": {"coordinates":[108.6935,13.97795],"type":"Point"}
+}

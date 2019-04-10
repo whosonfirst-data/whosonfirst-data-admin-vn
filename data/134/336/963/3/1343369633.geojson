@@ -1,0 +1,73 @@
+{
+  "id": 1343369633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26787,21.79861,103.26787,21.79861",
+    "geom:latitude":21.79861,
+    "geom:longitude":103.26787,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Lu Thang Mot",
+    "gn:country_code":"VN",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425733,
+    "gn:latitude":21.79861,
+    "gn:longitude":103.26787,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"L\u00f9 Th\u00e0ng M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00f9 Th\u00e0ng M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "L\u00f9 Th\u00e0ng 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425733
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"362a531a1725262bea932d5cb17c80cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1343369633,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343369633,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Lu Thang Mot",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26787,
+    21.79861,
+    103.26787,
+    21.79861
+],
+  "geometry": {"coordinates":[103.26787,21.79861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225903483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50348,20.76853,104.50348,20.76853",
+    "geom:latitude":20.76853,
+    "geom:longitude":104.50348,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Hong Hua",
+    "gn:country_code":"VN",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545410,
+    "gn:latitude":20.76853,
+    "gn:longitude":104.50348,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Hong H\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hong H\u00f9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545410
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"655fc80a83e448a8abbf34c9ed0155ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1225903483,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1225903483,
+    "wof:lastmodified":1537714342,
+    "wof:name":"Hong Hua",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50348,
+    20.76853,
+    104.50348,
+    20.76853
+],
+  "geometry": {"coordinates":[104.50348,20.76853],"type":"Point"}
+}

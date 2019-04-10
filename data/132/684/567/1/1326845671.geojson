@@ -1,0 +1,67 @@
+{
+  "id": 1326845671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06667,21.75,107.06667,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":107.06667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khuoi Ly",
+    "gn:country_code":"VN",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579111,
+    "gn:latitude":21.75,
+    "gn:longitude":107.06667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Khu\u00f4i L\u1ef3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579111
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f12f2fe2d2fe198c5c463be3b1d83c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1326845671,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1326845671,
+    "wof:lastmodified":1537028130,
+    "wof:name":"Khuoi Ly",
+    "wof:parent_id":1108781105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06667,
+    21.75,
+    107.06667,
+    21.75
+],
+  "geometry": {"coordinates":[107.06667,21.75],"type":"Point"}
+}

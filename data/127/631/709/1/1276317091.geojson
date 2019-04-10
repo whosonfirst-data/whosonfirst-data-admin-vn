@@ -1,0 +1,67 @@
+{
+  "id": 1276317091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,10.53333,105.66667,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ap Loi",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593023,
+    "gn:latitude":10.53333,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"\u1ea4p L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593023
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23a7143713910d2086b5d86d37a4ebf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782183,
+            "locality_id":1276317091,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1276317091,
+    "wof:lastmodified":1536800553,
+    "wof:name":"Ap Loi",
+    "wof:parent_id":1108782183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    10.53333,
+    105.66667,
+    10.53333
+],
+  "geometry": {"coordinates":[105.66667,10.53333],"type":"Point"}
+}

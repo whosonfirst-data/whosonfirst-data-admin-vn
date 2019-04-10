@@ -1,0 +1,71 @@
+{
+  "id": 1259398155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,12.33333,108.45,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Bon Ma",
+    "gn:country_code":"VN",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587465,
+    "gn:latitude":12.33333,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bon M\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ma",
+        "Bon M\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587465
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da9555fb8f764f4e2974598bb3ad217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1259398155,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259398155,
+    "wof:lastmodified":1537714064,
+    "wof:name":"Bon Ma",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    12.33333,
+    108.45,
+    12.33333
+],
+  "geometry": {"coordinates":[108.45,12.33333],"type":"Point"}
+}

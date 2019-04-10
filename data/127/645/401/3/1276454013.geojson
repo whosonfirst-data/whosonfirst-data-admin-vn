@@ -1,0 +1,67 @@
+{
+  "id": 1276454013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,21.93333,106.7,21.93333",
+    "geom:latitude":21.93333,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Man",
+    "gn:country_code":"VN",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573606,
+    "gn:latitude":21.93333,
+    "gn:longitude":106.7,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"N\u00e0 M\u1eabn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573606
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"72b58dc9b70c40016512548c9d74b8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781095,
+            "locality_id":1276454013,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1276454013,
+    "wof:lastmodified":1536614532,
+    "wof:name":"Na Man",
+    "wof:parent_id":1108781095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    21.93333,
+    106.7,
+    21.93333
+],
+  "geometry": {"coordinates":[106.7,21.93333],"type":"Point"}
+}

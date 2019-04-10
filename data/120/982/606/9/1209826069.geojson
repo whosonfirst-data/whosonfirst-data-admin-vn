@@ -1,0 +1,67 @@
+{
+  "id": 1209826069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66389,16.49028,106.66389,16.49028",
+    "geom:latitude":16.49028,
+    "geom:longitude":106.66389,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Lang Tenouo",
+    "gn:country_code":"VN",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576589,
+    "gn:latitude":16.49028,
+    "gn:longitude":106.66389,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"L\u00e0ng T\u00e9nouo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576589
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"88d2bd1a25bef3b1508f1aa191790441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1209826069,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1209826069,
+    "wof:lastmodified":1536373558,
+    "wof:name":"Lang Tenouo",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66389,
+    16.49028,
+    106.66389,
+    16.49028
+],
+  "geometry": {"coordinates":[106.66388999999999,16.49028],"type":"Point"}
+}

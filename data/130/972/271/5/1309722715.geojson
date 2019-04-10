@@ -1,0 +1,74 @@
+{
+  "id": 1309722715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12269,9.35297,106.12269,9.35297",
+    "geom:latitude":9.35297,
+    "geom:longitude":106.12269,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Au Tho A",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594025,
+    "gn:latitude":9.35297,
+    "gn:longitude":106.12269,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"\u00c2u Th\u1ecd A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c2u Th\u1ecd",
+        "\u1ea4p \u00c2u Th\u1ecd"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c2u Th\u1ecd A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594025
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b4462e6b666e0da30e1952ecdc903e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782307,
+            "locality_id":1309722715,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1309722715,
+    "wof:lastmodified":1537714200,
+    "wof:name":"Au Tho A",
+    "wof:parent_id":1108782307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12269,
+    9.35297,
+    106.12269,
+    9.35297
+],
+  "geometry": {"coordinates":[106.12269000000001,9.35297],"type":"Point"}
+}

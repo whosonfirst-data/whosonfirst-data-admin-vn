@@ -1,0 +1,70 @@
+{
+  "id": 1210035197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39178,21.5556,105.39178,21.5556",
+    "geom:latitude":21.5556,
+    "geom:longitude":105.39178,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Trang Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138872,
+    "gn:latitude":21.5556,
+    "gn:longitude":105.39178,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tr\u1ea1ng Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u1ea1ng Kinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138872
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"be1d9f31b8b1528dda021685b25c5090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1210035197,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1210035197,
+    "wof:lastmodified":1537714223,
+    "wof:name":"Trang Kinh",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39178,
+    21.5556,
+    105.39178,
+    21.5556
+],
+  "geometry": {"coordinates":[105.39178,21.5556],"type":"Point"}
+}

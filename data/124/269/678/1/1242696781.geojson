@@ -1,0 +1,70 @@
+{
+  "id": 1242696781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05286,22.46821,105.05286,22.46821",
+    "geom:latitude":22.46821,
+    "geom:longitude":105.05286,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Nam Bau",
+    "gn:country_code":"VN",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309049,
+    "gn:latitude":22.46821,
+    "gn:longitude":105.05286,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u1eadm B\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm B\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309049
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cafa9e8c4b17954bd96da27e1e91f836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1242696781,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1242696781,
+    "wof:lastmodified":1537714246,
+    "wof:name":"Nam Bau",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05286,
+    22.46821,
+    105.05286,
+    22.46821
+],
+  "geometry": {"coordinates":[105.05286,22.46821],"type":"Point"}
+}

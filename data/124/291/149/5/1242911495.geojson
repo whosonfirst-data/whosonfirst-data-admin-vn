@@ -1,0 +1,67 @@
+{
+  "id": 1242911495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18333,15.56667,108.18333,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":108.18333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"An Vang",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594171,
+    "gn:latitude":15.56667,
+    "gn:longitude":108.18333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"An Vang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594171
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"46f8610aeaaaf64b4dbaf1e728b4ef7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781617,
+            "locality_id":1242911495,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242911495,
+    "wof:lastmodified":1537076643,
+    "wof:name":"An Vang",
+    "wof:parent_id":1108781617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18333,
+    15.56667,
+    108.18333,
+    15.56667
+],
+  "geometry": {"coordinates":[108.18333,15.56667],"type":"Point"}
+}

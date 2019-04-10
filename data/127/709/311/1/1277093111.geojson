@@ -1,0 +1,73 @@
+{
+  "id": 1277093111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35961,21.13246,105.35961,21.13246",
+    "geom:latitude":21.13246,
+    "geom:longitude":105.35961,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Cau Rong",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561867,
+    "gn:latitude":21.13246,
+    "gn:longitude":105.35961,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ea7u R\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m C\u1ea7u R\u1ed3ng"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7u R\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561867
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea43d2c4e40cf3894cf10f6e098120e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1277093111,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1277093111,
+    "wof:lastmodified":1537713694,
+    "wof:name":"Cau Rong",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35961,
+    21.13246,
+    105.35961,
+    21.13246
+],
+  "geometry": {"coordinates":[105.35961,21.13246],"type":"Point"}
+}

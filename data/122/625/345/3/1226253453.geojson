@@ -1,0 +1,73 @@
+{
+  "id": 1226253453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48684,11.28713,107.48684,11.28713",
+    "geom:latitude":11.28713,
+    "geom:longitude":107.48684,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Phuong Lam",
+    "gn:country_code":"VN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562221,
+    "gn:latitude":11.28713,
+    "gn:longitude":107.48684,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ph\u01b0\u01a1ng L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e3 Ph\u01b0\u01a1ng L\u00e2m"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u01a1ng L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562221
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b4584a677d2f6a2207ddcb28f08b31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781971,
+            "locality_id":1226253453,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1226253453,
+    "wof:lastmodified":1537713702,
+    "wof:name":"Phuong Lam",
+    "wof:parent_id":1108781971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48684,
+    11.28713,
+    107.48684,
+    11.28713
+],
+  "geometry": {"coordinates":[107.48684,11.28713],"type":"Point"}
+}

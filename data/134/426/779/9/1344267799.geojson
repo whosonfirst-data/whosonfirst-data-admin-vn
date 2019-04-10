@@ -1,0 +1,71 @@
+{
+  "id": 1344267799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6625,21.08917,105.6625,21.08917",
+    "geom:latitude":21.08917,
+    "geom:longitude":105.6625,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Dan Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583882,
+    "gn:latitude":21.08917,
+    "gn:longitude":105.6625,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110an Ph\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuong Tri",
+        "\u0110an Ph\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583882
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dd0f782ecc7894b80bb9c12282733b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780827,
+            "locality_id":1344267799,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1344267799,
+    "wof:lastmodified":1537714006,
+    "wof:name":"Dan Phuong",
+    "wof:parent_id":1108780827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6625,
+    21.08917000000001,
+    105.6625,
+    21.08917000000001
+],
+  "geometry": {"coordinates":[105.66249999999999,21.08917000000001],"type":"Point"}
+}

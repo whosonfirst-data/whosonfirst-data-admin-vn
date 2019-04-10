@@ -1,0 +1,71 @@
+{
+  "id": 1193155909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,20.76667,105.76667,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thanh Sam",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566059,
+    "gn:latitude":20.76667,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thanh Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sam Thanh",
+        "Thanh Sam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566059
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f15f55d8c4ebf85d79e7c3daea88a87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780845,
+            "locality_id":1193155909,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1193155909,
+    "wof:lastmodified":1537713771,
+    "wof:name":"Thanh Sam",
+    "wof:parent_id":1108780845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    20.76667,
+    105.76667,
+    20.76667
+],
+  "geometry": {"coordinates":[105.76667,20.76667],"type":"Point"}
+}

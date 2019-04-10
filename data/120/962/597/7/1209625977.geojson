@@ -1,0 +1,61 @@
+{
+  "id": 1209625977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84558,22.45192,105.84558,22.45192",
+    "geom:latitude":22.45192,
+    "geom:longitude":105.84558,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuoi Thoc",
+    "gn:country_code":"VN",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311588,
+    "gn:latitude":22.45192,
+    "gn:longitude":105.84558,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khu\u1ed5i Th\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311588
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d037186bef8e04895efc0372b86d84f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209625977
+        }
+    ],
+    "wof:id":1209625977,
+    "wof:lastmodified":1536281352,
+    "wof:name":"Khuoi Thoc",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84558,
+    22.45192,
+    105.84558,
+    22.45192
+],
+  "geometry": {"coordinates":[105.84558,22.45192],"type":"Point"}
+}

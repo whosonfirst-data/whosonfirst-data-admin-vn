@@ -1,0 +1,70 @@
+{
+  "id": 1243382533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36512,21.52504,105.36512,21.52504",
+    "geom:latitude":21.52504,
+    "geom:longitude":105.36512,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Luong Phao",
+    "gn:country_code":"VN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138917,
+    "gn:latitude":21.52504,
+    "gn:longitude":105.36512,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"L\u01b0\u01a1ng Phao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u01b0\u01a1ng Phao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138917
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b65abe0f6f898bea7cabec204cb554da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1243382533,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1243382533,
+    "wof:lastmodified":1537714224,
+    "wof:name":"Luong Phao",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36512,
+    21.52504,
+    105.36512,
+    21.52504
+],
+  "geometry": {"coordinates":[105.36512,21.52504],"type":"Point"}
+}

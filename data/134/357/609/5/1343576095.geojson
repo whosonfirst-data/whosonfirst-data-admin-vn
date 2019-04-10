@@ -1,0 +1,73 @@
+{
+  "id": 1343576095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,22.43333,105.75,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Na Tiao",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572823,
+    "gn:latitude":22.43333,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Na Tiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Tian",
+        "Na Tiau",
+        "Na Tiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572823
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d08054a4f41588411f3d68991216628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1343576095,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343576095,
+    "wof:lastmodified":1537713861,
+    "wof:name":"Na Tiao",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    22.43333,
+    105.75,
+    22.43333
+],
+  "geometry": {"coordinates":[105.75,22.43333],"type":"Point"}
+}

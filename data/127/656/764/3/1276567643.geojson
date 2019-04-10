@@ -1,0 +1,67 @@
+{
+  "id": 1276567643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.7,14.63333,108.7,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":108.7,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ba Doc",
+    "gn:country_code":"VN",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591403,
+    "gn:latitude":14.63333,
+    "gn:longitude":108.7,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ba \u0110\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591403
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fe7b94bf7c0d254a09c375ae352f6b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781661,
+            "locality_id":1276567643,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1276567643,
+    "wof:lastmodified":1536962117,
+    "wof:name":"Ba Doc",
+    "wof:parent_id":1108781661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.7,
+    14.63333,
+    108.7,
+    14.63333
+],
+  "geometry": {"coordinates":[108.7,14.63333],"type":"Point"}
+}

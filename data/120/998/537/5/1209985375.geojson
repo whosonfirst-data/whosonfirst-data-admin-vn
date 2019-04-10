@@ -1,0 +1,67 @@
+{
+  "id": 1209985375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12306,9.86806,105.12306,9.86806",
+    "geom:latitude":9.86806,
+    "geom:longitude":105.12306,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Thon An Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565746,
+    "gn:latitude":9.86806,
+    "gn:longitude":105.12306,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"Th\u00f4n An Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565746
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d27fd24890720d7f6f78d7e213906f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782231,
+            "locality_id":1209985375,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1209985375,
+    "wof:lastmodified":1536388848,
+    "wof:name":"Thon An Ninh",
+    "wof:parent_id":1108782231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12306,
+    9.86806,
+    105.12306,
+    9.86806
+],
+  "geometry": {"coordinates":[105.12306,9.86806],"type":"Point"}
+}

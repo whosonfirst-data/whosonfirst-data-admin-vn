@@ -1,0 +1,72 @@
+{
+  "id": 1343576107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.91667,11.03333,106.91667,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":106.91667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Xa Thuong Lang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1562180,
+    "gn:latitude":11.03333,
+    "gn:longitude":106.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 Th\u01b0\u01a1ng L\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Thuong Lang",
+        "X\u00e3 Th\u01b0\u01a1ng L\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562180
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8ba4a9b115a39912e6bb834f5b0545a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1343576107,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1343576107,
+    "wof:lastmodified":1537713700,
+    "wof:name":"Xa Thuong Lang",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.91667,
+    11.03333,
+    106.91667,
+    11.03333
+],
+  "geometry": {"coordinates":[106.91667,11.03333],"type":"Point"}
+}

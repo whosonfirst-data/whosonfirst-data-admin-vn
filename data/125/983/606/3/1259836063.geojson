@@ -1,0 +1,67 @@
+{
+  "id": 1259836063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21306,9.56583,105.21306,9.56583",
+    "geom:latitude":9.56583,
+    "geom:longitude":105.21306,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Vinh Binh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562783,
+    "gn:latitude":9.56583,
+    "gn:longitude":105.21306,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"V\u0129nh B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562783
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2b4dcdf42f72dc97f6823ffed7169210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782241,
+            "locality_id":1259836063,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1259836063,
+    "wof:lastmodified":1536846528,
+    "wof:name":"Vinh Binh",
+    "wof:parent_id":1108782241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21306,
+    9.56583,
+    105.21306,
+    9.56583
+],
+  "geometry": {"coordinates":[105.21306,9.56583],"type":"Point"}
+}

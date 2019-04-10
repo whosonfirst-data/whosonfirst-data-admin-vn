@@ -1,0 +1,71 @@
+{
+  "id": 1276346299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,21.75,105.81667,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Dac Kiet",
+    "gn:country_code":"VN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584439,
+    "gn:latitude":21.75,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"D\u1eb7c Ki\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dao Kiet",
+        "D\u1eb7c Ki\u1ec7t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584439
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"25fc805e986000aa01ab20b6c41b76a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781075,
+            "locality_id":1276346299,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1276346299,
+    "wof:lastmodified":1537714014,
+    "wof:name":"Dac Kiet",
+    "wof:parent_id":1108781075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    21.75,
+    105.81667,
+    21.75
+],
+  "geometry": {"coordinates":[105.81667,21.75],"type":"Point"}
+}

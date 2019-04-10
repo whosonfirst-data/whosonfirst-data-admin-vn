@@ -1,0 +1,72 @@
+{
+  "id": 1293595505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58861,9.88611,106.58861,9.88611",
+    "geom:latitude":9.88611,
+    "geom:longitude":106.58861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap An Nhon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594084,
+    "gn:latitude":9.88611,
+    "gn:longitude":106.58861,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p An Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nh\u01a1n",
+        "\u1ea4p An Nh\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594084
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4d3237fc8f9d507ba92c78a789200d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1293595505,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293595505,
+    "wof:lastmodified":1537714202,
+    "wof:name":"Ap An Nhon",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58861,
+    9.88611,
+    106.58861,
+    9.88611
+],
+  "geometry": {"coordinates":[106.58861,9.88611],"type":"Point"}
+}

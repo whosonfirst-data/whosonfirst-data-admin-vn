@@ -1,0 +1,70 @@
+{
+  "id": 1259401757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98584,20.51886,105.98584,20.51886",
+    "geom:latitude":20.51886,
+    "geom:longitude":105.98584,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ha Trang",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564123,
+    "gn:latitude":20.51886,
+    "gn:longitude":105.98584,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"H\u1ea1 Trang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea1 Trang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564123
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b42e698d4d8be019055c9e2db22c1421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1259401757,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1259401757,
+    "wof:lastmodified":1537714355,
+    "wof:name":"Ha Trang",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98584,
+    20.51886,
+    105.98584,
+    20.51886
+],
+  "geometry": {"coordinates":[105.98584,20.51886],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209912303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,22.68333,105.58333,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pi Than",
+    "gn:country_code":"VN",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569690,
+    "gn:latitude":22.68333,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Pi Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569690
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b3fbf6dbf5bc18bfe6ce0e60e6e7bb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780879,
+            "locality_id":1209912303,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1209912303,
+    "wof:lastmodified":1536377463,
+    "wof:name":"Pi Than",
+    "wof:parent_id":1108780879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    22.68333,
+    105.58333,
+    22.68333
+],
+  "geometry": {"coordinates":[105.58333,22.68333],"type":"Point"}
+}

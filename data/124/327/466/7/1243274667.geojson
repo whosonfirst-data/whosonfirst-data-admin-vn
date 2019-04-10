@@ -1,0 +1,70 @@
+{
+  "id": 1243274667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13338,21.28096,106.13338,21.28096",
+    "geom:latitude":21.28096,
+    "geom:longitude":106.13338,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Yen Son",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868108,
+    "gn:latitude":21.28096,
+    "gn:longitude":106.13338,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Y\u00ean S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868108
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d0a99cdf283da4162b2fa351f464b4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781159,
+            "locality_id":1243274667,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1243274667,
+    "wof:lastmodified":1537714524,
+    "wof:name":"Yen Son",
+    "wof:parent_id":1108781159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13338,
+    21.28096,
+    106.13338,
+    21.28096
+],
+  "geometry": {"coordinates":[106.13338,21.28096],"type":"Point"}
+}

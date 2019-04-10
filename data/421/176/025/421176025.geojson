@@ -1,0 +1,91 @@
+{
+  "id": 421176025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96667,10.21667,103.96667,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":103.96667,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Duong Dong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043e\u043d\u0433-\u0414\u043e\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "D\u01b0\u01a1ng D\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "D\u01b0\u01a1ng \u0110\u00f4ng"
+    ],
+    "qs:gn_country":"VN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1569973,
+    "qs:gn_pop":15000,
+    "qs:name":"Duong Dong",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Kien Giang",
+    "qs:photos":1061,
+    "qs:photos_1k":215,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1061,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1040137,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252406,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569973,
+        "gp:id":1252406,
+        "qs:id":1040137
+    },
+    "wof:country":"VN",
+    "wof:created":1459009087,
+    "wof:geomhash":"6551262f21859de3acec085f7d6e947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782245,
+            "locality_id":421176025,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":421176025,
+    "wof:lastmodified":1505340626,
+    "wof:name":"Duong Dong",
+    "wof:parent_id":1108782245,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96667,
+    10.21667,
+    103.96667,
+    10.21667
+],
+  "geometry": {"coordinates":[103.96666999999999,10.21667],"type":"Point"}
+}

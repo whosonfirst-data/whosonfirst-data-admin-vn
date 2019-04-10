@@ -1,0 +1,61 @@
+{
+  "id": 1209630115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11667,11.28333,108.11667,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":108.11667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Lou Khel",
+    "gn:country_code":"VN",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1575566,
+    "gn:latitude":11.28333,
+    "gn:longitude":108.11667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Lou Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575566
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a4a8709e732112e4855172fdb41e63b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630115
+        }
+    ],
+    "wof:id":1209630115,
+    "wof:lastmodified":1536281217,
+    "wof:name":"Lou Khel",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11667,
+    11.28333,
+    108.11667,
+    11.28333
+],
+  "geometry": {"coordinates":[108.11667,11.28333],"type":"Point"}
+}

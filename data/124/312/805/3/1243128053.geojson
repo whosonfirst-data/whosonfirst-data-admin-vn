@@ -1,0 +1,73 @@
+{
+  "id": 1243128053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68286,11.42403,107.68286,11.42403",
+    "geom:latitude":11.42403,
+    "geom:longitude":107.68286,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Khu Pho Sau",
+    "gn:country_code":"VN",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991646,
+    "gn:latitude":11.42403,
+    "gn:longitude":107.68286,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Khu Ph\u1ed1 S\u00e1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu Ph\u1ed1 S\u00e1u"
+    ],
+    "name:vie_x_variant":[
+        "Khu Ph\u1ed1 6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991646
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2c9b6e75678cf63b84975f3110efbb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781905,
+            "locality_id":1243128053,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1243128053,
+    "wof:lastmodified":1537714425,
+    "wof:name":"Khu Pho Sau",
+    "wof:parent_id":1108781905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68286,
+    11.42403,
+    107.68286,
+    11.42403
+],
+  "geometry": {"coordinates":[107.68286000000001,11.42403],"type":"Point"}
+}

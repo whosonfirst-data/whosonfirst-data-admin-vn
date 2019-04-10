@@ -1,0 +1,83 @@
+{
+  "id": 1108782037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000387,
+    "geom:area_square_m":4702553.292768,
+    "geom:bbox":"106.691167278,10.7485111901,106.717934952,10.7704214248",
+    "geom:latitude":10.759303,
+    "geom:longitude":106.703551,
+    "iso:country":"VN",
+    "lbl:latitude":10.759676,
+    "lbl:longitude":106.703296,
+    "meso:admin_1":"TP. Ho Chi Minh",
+    "meso:gadm_admin":"Qu\u1eadn 4",
+    "meso:gadm_hasc2":"VN.HC.QD",
+    "meso:gaul_adm2":"District 4",
+    "meso:local_id":"79773",
+    "meso:mps_x":106.703296,
+    "meso:mps_y":10.759676,
+    "meso:name_en":"Quan 4",
+    "meso:source":"AOTM",
+    "mps:latitude":10.759676,
+    "mps:longitude":106.703296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Quan 4"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"4",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ho Chi Minh City",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HC",
+    "statoids:name":"Quan 4",
+    "statoids:population":"206937",
+    "statoids:statoid":"VN.HC.QD",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"VN",
+    "wof:created":1481741692,
+    "wof:geomhash":"a0488a538e2116ad5c7f6e85667f3d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782037,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1108782037,
+    "wof:lastmodified":1505431845,
+    "wof:name":"Quan 4",
+    "wof:parent_id":85680809,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":206937,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69116727793674,
+    10.7485111901459,
+    106.71793495227882,
+    10.77042142482387
+],
+  "geometry": {"coordinates":[[[106.70571671578632,10.77042142482387],[106.71070864415687,10.76583454001846],[106.71261058353785,10.76524319698613],[106.71793495227882,10.75749749350368],[106.70692935115827,10.7485111901459],[106.7043250082921,10.74967330588918],[106.69888574757834,10.74964131720513],[106.69116727793674,10.75569570792097],[106.69345646181122,10.76775605889301],[106.69648830308832,10.76761277968284],[106.70571671578632,10.77042142482387]]],"type":"Polygon"}
+}

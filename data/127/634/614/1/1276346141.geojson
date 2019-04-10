@@ -1,0 +1,73 @@
+{
+  "id": 1276346141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,15.18333,107.73333,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dak Dru Dak",
+    "gn:country_code":"VN",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584213,
+    "gn:latitude":15.18333,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Dak Dru Dak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poste de Dak Dru",
+        "Dak Drou",
+        "Dak Dru",
+        "Dak Dru Dak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584213
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48488e52d4570044779294e9e461efff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1276346141,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1276346141,
+    "wof:lastmodified":1537714011,
+    "wof:name":"Dak Dru Dak",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    15.18333,
+    107.73333,
+    15.18333
+],
+  "geometry": {"coordinates":[107.73333,15.18333],"type":"Point"}
+}

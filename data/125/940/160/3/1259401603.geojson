@@ -1,0 +1,73 @@
+{
+  "id": 1259401603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07018,21.38531,106.07018,21.38531",
+    "geom:latitude":21.38531,
+    "geom:longitude":106.07018,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Bang Cuc",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590607,
+    "gn:latitude":21.38531,
+    "gn:longitude":106.07018,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u1eb1ng C\u1ee5c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1eb1ng C\u1ee5c Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eb1ng C\u1ee5c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590607
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"903794b2c8d2a3b1fedbd0ec2ad2f8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781147,
+            "locality_id":1259401603,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1259401603,
+    "wof:lastmodified":1537714121,
+    "wof:name":"Bang Cuc",
+    "wof:parent_id":1108781147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07018,
+    21.38531,
+    106.07018,
+    21.38531
+],
+  "geometry": {"coordinates":[106.07017999999999,21.38531],"type":"Point"}
+}

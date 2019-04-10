@@ -1,0 +1,72 @@
+{
+  "id": 1293506269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.23333,10.48333,107.23333,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":107.23333,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Xa An Ngai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562357,
+    "gn:latitude":10.48333,
+    "gn:longitude":107.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 An Ng\u00e3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Ngai",
+        "X\u00e3 An Ng\u00e3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562357,
+        "wk:page":"An_Ng%C3%A3i"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e16c59769559d061e7b68796f2278ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781999,
+            "locality_id":1293506269,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1293506269,
+    "wof:lastmodified":1537713706,
+    "wof:name":"Xa An Ngai",
+    "wof:parent_id":1108781999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.23333,
+    10.48333,
+    107.23333,
+    10.48333
+],
+  "geometry": {"coordinates":[107.23333,10.48333],"type":"Point"}
+}

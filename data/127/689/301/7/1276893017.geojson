@@ -1,0 +1,67 @@
+{
+  "id": 1276893017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28333,18.08333,106.28333,18.08333",
+    "geom:latitude":18.08333,
+    "geom:longitude":106.28333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bieu Due",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587914,
+    "gn:latitude":18.08333,
+    "gn:longitude":106.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bi\u1ec3u Du\u1ec7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587914
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66896a10c3aa1c3a215bed27eb5386cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781517,
+            "locality_id":1276893017,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276893017,
+    "wof:lastmodified":1537022545,
+    "wof:name":"Bieu Due",
+    "wof:parent_id":1108781517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28333,
+    18.08333,
+    106.28333,
+    18.08333
+],
+  "geometry": {"coordinates":[106.28333000000001,18.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360004835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.41667,15.05,108.41667,15.05",
+    "geom:latitude":15.05,
+    "geom:longitude":108.41667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Tayou",
+    "gn:country_code":"VN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566556,
+    "gn:latitude":15.05,
+    "gn:longitude":108.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tayou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566556
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e8d5db81564319e33cff7d6a7d5e8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1360004835,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1360004835,
+    "wof:lastmodified":1537058861,
+    "wof:name":"Tayou",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.41667,
+    15.05,
+    108.41667,
+    15.05
+],
+  "geometry": {"coordinates":[108.41667,15.05],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193147693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4424,18.96538,105.4424,18.96538",
+    "geom:latitude":18.96538,
+    "geom:longitude":105.4424,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hoang Dieu",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200839,
+    "gn:latitude":18.96538,
+    "gn:longitude":105.4424,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Ho\u00e0ng Di\u1ec7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng Di\u1ec7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c22953ffc04254d8fc922e22c1c66956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1193147693,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1193147693,
+    "wof:lastmodified":1537714627,
+    "wof:name":"Hoang Dieu",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4424,
+    18.96538,
+    105.4424,
+    18.96538
+],
+  "geometry": {"coordinates":[105.44240000000001,18.96538],"type":"Point"}
+}

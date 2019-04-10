@@ -1,0 +1,72 @@
+{
+  "id": 1193016577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59556,9.84528,106.59556,9.84528",
+    "geom:latitude":9.84528,
+    "geom:longitude":106.59556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Thanh Binh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592096,
+    "gn:latitude":9.84528,
+    "gn:longitude":106.59556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Th\u1ea1nh B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u1ea1nh B\u00ecnh",
+        "\u1ea4p Th\u1ea1nh B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592096
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b16085736a6aa897008dabdeab07a212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1193016577,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1193016577,
+    "wof:lastmodified":1537714151,
+    "wof:name":"Ap Thanh Binh",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59556,
+    9.84528,
+    106.59556,
+    9.84528
+],
+  "geometry": {"coordinates":[106.59556000000001,9.84528],"type":"Point"}
+}

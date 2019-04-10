@@ -1,0 +1,67 @@
+{
+  "id": 1243282963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.43333,16.6,107.43333,16.6",
+    "geom:latitude":16.6,
+    "geom:longitude":107.43333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Vinh Nay",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591731,
+    "gn:latitude":16.6,
+    "gn:longitude":107.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p V\u0129nh N\u1ea9y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591731
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17456f5dd3b214f263a723e4c69ae200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1243282963,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1243282963,
+    "wof:lastmodified":1537039545,
+    "wof:name":"Ap Vinh Nay",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.43333,
+    16.6,
+    107.43333,
+    16.6
+],
+  "geometry": {"coordinates":[107.43333,16.6],"type":"Point"}
+}

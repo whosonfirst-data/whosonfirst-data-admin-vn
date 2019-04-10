@@ -1,0 +1,73 @@
+{
+  "id": 1259502647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.58686,15.27642,108.58686,15.27642",
+    "geom:latitude":15.27642,
+    "geom:longitude":108.58686,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Thon Mot",
+    "gn:country_code":"VN",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673475,
+    "gn:latitude":15.27642,
+    "gn:longitude":108.58686,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u00f4n M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673475
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a5bb705ac0e0f3cb7c8da918dad43a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781639,
+            "locality_id":1259502647,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1259502647,
+    "wof:lastmodified":1537714401,
+    "wof:name":"Thon Mot",
+    "wof:parent_id":1108781639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.58686000000002,
+    15.27642,
+    108.58686000000002,
+    15.27642
+],
+  "geometry": {"coordinates":[108.58686000000002,15.27642],"type":"Point"}
+}

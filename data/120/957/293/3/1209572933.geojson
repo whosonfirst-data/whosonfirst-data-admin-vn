@@ -1,0 +1,64 @@
+{
+  "id": 1209572933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41283,10.49756,106.41283,10.49756",
+    "geom:latitude":10.49756,
+    "geom:longitude":106.41283,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Hoa Binh",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337980,
+    "gn:latitude":10.49756,
+    "gn:longitude":106.41283,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ho\u00e0 B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0 B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337980
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a31be4149ff62744db7f380ae3374ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209572933
+        }
+    ],
+    "wof:id":1209572933,
+    "wof:lastmodified":1537714286,
+    "wof:name":"Hoa Binh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41283,
+    10.49756,
+    106.41283,
+    10.49756
+],
+  "geometry": {"coordinates":[106.41283,10.49756],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259998527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,20.53333,106.1,20.53333",
+    "geom:latitude":20.53333,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Dong Quan",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582652,
+    "gn:latitude":20.53333,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4ng Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Quau",
+        "\u0110\u00f4ng Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2afd8144d8a6aa24b4fef18f6cdf76c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781345,
+            "locality_id":1259998527,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1259998527,
+    "wof:lastmodified":1537713990,
+    "wof:name":"Dong Quan",
+    "wof:parent_id":1108781345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    20.53333,
+    106.1,
+    20.53333
+],
+  "geometry": {"coordinates":[106.09999999999999,20.53333],"type":"Point"}
+}

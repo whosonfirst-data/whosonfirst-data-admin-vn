@@ -1,0 +1,70 @@
+{
+  "id": 1260095651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27761,22.53931,104.27761,22.53931",
+    "geom:latitude":22.53931,
+    "geom:longitude":104.27761,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Na Kheo",
+    "gn:country_code":"VN",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869341,
+    "gn:latitude":22.53931,
+    "gn:longitude":104.27761,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Na Kh\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Na Kh\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d61164960ea1278148725164eeebf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1260095651,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1260095651,
+    "wof:lastmodified":1537714530,
+    "wof:name":"Na Kheo",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27761,
+    22.53931,
+    104.27761,
+    22.53931
+],
+  "geometry": {"coordinates":[104.27761,22.53931],"type":"Point"}
+}

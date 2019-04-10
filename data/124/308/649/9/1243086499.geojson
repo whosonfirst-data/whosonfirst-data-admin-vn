@@ -1,0 +1,70 @@
+{
+  "id": 1243086499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11827,22.40364,105.11827,22.40364",
+    "geom:latitude":22.40364,
+    "geom:longitude":105.11827,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Hong Quang",
+    "gn:country_code":"VN",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309340,
+    "gn:latitude":22.40364,
+    "gn:longitude":105.11827,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"H\u1ed3ng Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309340
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ec89e1a2505c1ab6edb8813229adbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1243086499,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243086499,
+    "wof:lastmodified":1537714253,
+    "wof:name":"Hong Quang",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11827,
+    22.40364,
+    105.11827,
+    22.40364
+],
+  "geometry": {"coordinates":[105.11827,22.40364],"type":"Point"}
+}

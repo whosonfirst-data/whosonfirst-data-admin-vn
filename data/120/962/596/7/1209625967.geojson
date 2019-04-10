@@ -1,0 +1,64 @@
+{
+  "id": 1209625967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63308,21.96072,104.63308,21.96072",
+    "geom:latitude":21.96072,
+    "geom:longitude":104.63308,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ba Ngoi",
+    "gn:country_code":"VN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944232,
+    "gn:latitude":21.96072,
+    "gn:longitude":104.63308,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"B\u00e0 Ng\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e0 Ng\u00f4i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944232
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"04696fa5ba5c8e5f77bd4d932647c154",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209625967
+        }
+    ],
+    "wof:id":1209625967,
+    "wof:lastmodified":1537714732,
+    "wof:name":"Ba Ngoi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63308,
+    21.96072,
+    104.63308,
+    21.96072
+],
+  "geometry": {"coordinates":[104.63308000000001,21.96072],"type":"Point"}
+}

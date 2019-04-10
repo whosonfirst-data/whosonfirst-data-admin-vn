@@ -1,0 +1,73 @@
+{
+  "id": 1226061521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46573,9.35789,105.46573,9.35789",
+    "geom:latitude":9.35789,
+    "geom:longitude":105.46573,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Vinh Hue",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591754,
+    "gn:latitude":9.35789,
+    "gn:longitude":105.46573,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"V\u00ecnh Hu\u1ec7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p V\u00ecnh Hu\u1ec7 M\u1ed9i"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00ecnh Hu\u1ec7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591754
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68f03b91beb17d1d022f5d8316c22652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782311,
+            "locality_id":1226061521,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1226061521,
+    "wof:lastmodified":1537714142,
+    "wof:name":"Vinh Hue",
+    "wof:parent_id":1108782311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46573,
+    9.35789,
+    105.46573,
+    9.35789
+],
+  "geometry": {"coordinates":[105.46572999999999,9.35789],"type":"Point"}
+}

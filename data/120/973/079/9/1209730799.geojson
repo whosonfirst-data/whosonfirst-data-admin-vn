@@ -1,0 +1,73 @@
+{
+  "id": 1209730799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2368,13.60063,109.2368,13.60063",
+    "geom:latitude":13.60063,
+    "geom:longitude":109.2368,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Tuy Phong Nam",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741785,
+    "gn:latitude":13.60063,
+    "gn:longitude":109.2368,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Tuy Phong N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tuy Phong N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "Tuy Phong 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741785
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ccbe11dcdfa9447ff6856937465cf82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1209730799,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209730799,
+    "wof:lastmodified":1537714415,
+    "wof:name":"Tuy Phong Nam",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2368,
+    13.60063,
+    109.2368,
+    13.60063
+],
+  "geometry": {"coordinates":[109.2368,13.60063],"type":"Point"}
+}

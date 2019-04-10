@@ -1,0 +1,67 @@
+{
+  "id": 1343780925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,21.05,105.75,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Van Tri",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562934,
+    "gn:latitude":21.05,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0103n Tr\u00ec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562934
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fea31624844995ed1ff90258c9ced412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780811,
+            "locality_id":1343780925,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1343780925,
+    "wof:lastmodified":1536781959,
+    "wof:name":"Van Tri",
+    "wof:parent_id":1108780811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    21.05,
+    105.75,
+    21.05
+],
+  "geometry": {"coordinates":[105.75,21.05],"type":"Point"}
+}

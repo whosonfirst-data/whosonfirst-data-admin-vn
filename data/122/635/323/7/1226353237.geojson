@@ -1,0 +1,73 @@
+{
+  "id": 1226353237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36326,21.85534,105.36326,21.85534",
+    "geom:latitude":21.85534,
+    "geom:longitude":105.36326,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dao Vien",
+    "gn:country_code":"VN",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583816,
+    "gn:latitude":21.85534,
+    "gn:longitude":105.36326,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ea1o Vi\u1ec7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00e0o Vi\u1ec7n"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1o Vi\u1ec7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583816
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b09f92ac40fd9620345b125a354358d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1226353237,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226353237,
+    "wof:lastmodified":1537714005,
+    "wof:name":"Dao Vien",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36326,
+    21.85534,
+    105.36326,
+    21.85534
+],
+  "geometry": {"coordinates":[105.36326,21.85534],"type":"Point"}
+}

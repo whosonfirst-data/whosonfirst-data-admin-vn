@@ -1,0 +1,73 @@
+{
+  "id": 1276760233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4441,22.92636,105.4441,22.92636",
+    "geom:latitude":22.92636,
+    "geom:longitude":105.4441,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Khuoi Cam",
+    "gn:country_code":"VN",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309681,
+    "gn:latitude":22.92636,
+    "gn:longitude":105.4441,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Khu\u1ed5i C\u1eafm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu\u1ed5i C\u1eafm"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Khu\u1ed5i C\u1eafm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309681
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e70e127feca38af693bb2836012caf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1276760233,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1276760233,
+    "wof:lastmodified":1537714263,
+    "wof:name":"Ban Khuoi Cam",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4441,
+    22.92636,
+    105.4441,
+    22.92636
+],
+  "geometry": {"coordinates":[105.44410000000001,22.92636],"type":"Point"}
+}

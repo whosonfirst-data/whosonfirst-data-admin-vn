@@ -1,0 +1,73 @@
+{
+  "id": 1292912405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43748,10.3801,105.43748,10.3801",
+    "geom:latitude":10.3801,
+    "geom:longitude":105.43748,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khom Bon",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336989,
+    "gn:latitude":10.3801,
+    "gn:longitude":105.43748,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kh\u00f3m B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u00f3m B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u00f3m 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336989
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f203f8944ef792e06480cef702cbffc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1292912405,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1292912405,
+    "wof:lastmodified":1537714279,
+    "wof:name":"Khom Bon",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43748,
+    10.3801,
+    105.43748,
+    10.3801
+],
+  "geometry": {"coordinates":[105.43747999999999,10.3801],"type":"Point"}
+}

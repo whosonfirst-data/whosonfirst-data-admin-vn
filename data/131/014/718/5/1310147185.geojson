@@ -1,0 +1,73 @@
+{
+  "id": 1310147185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22588,21.63559,104.22588,21.63559",
+    "geom:latitude":21.63559,
+    "geom:longitude":104.22588,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Phay",
+    "gn:country_code":"VN",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589177,
+    "gn:latitude":21.63559,
+    "gn:longitude":104.22588,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Ph\u00e0y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Phai"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ph\u00e0y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589177
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"af7b126640785177b5d2cddc273bc1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1310147185,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310147185,
+    "wof:lastmodified":1537714092,
+    "wof:name":"Ban Phay",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22588,
+    21.63559,
+    104.22588,
+    21.63559
+],
+  "geometry": {"coordinates":[104.22588,21.63559],"type":"Point"}
+}

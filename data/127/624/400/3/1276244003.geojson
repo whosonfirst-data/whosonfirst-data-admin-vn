@@ -1,0 +1,67 @@
+{
+  "id": 1276244003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,22.75,104.2,22.75",
+    "geom:latitude":22.75,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Keou Hoi",
+    "gn:country_code":"VN",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579755,
+    "gn:latitude":22.75,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Keou Hoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579755
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a1bbc3b9fc0fb1459baf061927ca109f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1276244003,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1276244003,
+    "wof:lastmodified":1536898250,
+    "wof:name":"Keou Hoi",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    22.75,
+    104.2,
+    22.75
+],
+  "geometry": {"coordinates":[104.2,22.75],"type":"Point"}
+}

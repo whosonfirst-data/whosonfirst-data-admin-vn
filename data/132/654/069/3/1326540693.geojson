@@ -1,0 +1,67 @@
+{
+  "id": 1326540693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28333,22.65,104.28333,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":104.28333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Kan Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579919,
+    "gn:latitude":22.65,
+    "gn:longitude":104.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kan Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579919
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"307c4e92b5b3d9371aba2e06a2cf6b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780943,
+            "locality_id":1326540693,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1326540693,
+    "wof:lastmodified":1536971371,
+    "wof:name":"Kan Ho",
+    "wof:parent_id":1108780943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28333,
+    22.65,
+    104.28333,
+    22.65
+],
+  "geometry": {"coordinates":[104.28333000000001,22.65],"type":"Point"}
+}

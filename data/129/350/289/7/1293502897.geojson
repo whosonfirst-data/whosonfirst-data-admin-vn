@@ -1,0 +1,73 @@
+{
+  "id": 1293502897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45289,12.78314,108.45289,12.78314",
+    "geom:latitude":12.78314,
+    "geom:longitude":108.45289,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ninh Thanh Hai",
+    "gn:country_code":"VN",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262613,
+    "gn:latitude":12.78314,
+    "gn:longitude":108.45289,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Ninh Thanh Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ninh Thanh Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ninh Thanh 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262613
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"21b3f2c5f30e2296ac395a8afd0484a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1293502897,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293502897,
+    "wof:lastmodified":1537714658,
+    "wof:name":"Ninh Thanh Hai",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45289,
+    12.78314,
+    108.45289,
+    12.78314
+],
+  "geometry": {"coordinates":[108.45289,12.78314],"type":"Point"}
+}

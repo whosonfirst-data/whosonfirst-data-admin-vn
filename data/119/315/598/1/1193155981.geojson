@@ -1,0 +1,67 @@
+{
+  "id": 1193155981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90111,9.87917,105.90111,9.87917",
+    "geom:latitude":9.87917,
+    "geom:longitude":105.90111,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Hoa Phu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593328,
+    "gn:latitude":9.87917,
+    "gn:longitude":105.90111,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p H\u00f2a Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593328
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ee3ab979370856b8dd13b2516bbf83dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782291,
+            "locality_id":1193155981,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1193155981,
+    "wof:lastmodified":1536373192,
+    "wof:name":"Ap Hoa Phu",
+    "wof:parent_id":1108782291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90111,
+    9.87917,
+    105.90111,
+    9.87917
+],
+  "geometry": {"coordinates":[105.90111,9.87917],"type":"Point"}
+}

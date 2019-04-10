@@ -1,0 +1,67 @@
+{
+  "id": 1260304657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95,21.73333,106.95,21.73333",
+    "geom:latitude":21.73333,
+    "geom:longitude":106.95,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Po Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569121,
+    "gn:latitude":21.73333,
+    "gn:longitude":106.95,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00f4 K\u00ednh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569121
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7cbd93c47c5bde2990b2776ac9f8a452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1260304657,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1260304657,
+    "wof:lastmodified":1536683472,
+    "wof:name":"Po Kinh",
+    "wof:parent_id":1108781105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95,
+    21.73333,
+    106.95,
+    21.73333
+],
+  "geometry": {"coordinates":[106.95,21.73333],"type":"Point"}
+}

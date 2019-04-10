@@ -1,0 +1,67 @@
+{
+  "id": 1226213573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,20.83333,106.56667,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chi Lai",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585495,
+    "gn:latitude":20.83333,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Chi Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585495
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"295b30c1691396d8a9c9af356470d390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781281,
+            "locality_id":1226213573,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1226213573,
+    "wof:lastmodified":1536979459,
+    "wof:name":"Chi Lai",
+    "wof:parent_id":1108781281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    20.83333,
+    106.56667,
+    20.83333
+],
+  "geometry": {"coordinates":[106.56667,20.83333],"type":"Point"}
+}

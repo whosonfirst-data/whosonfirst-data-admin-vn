@@ -1,0 +1,67 @@
+{
+  "id": 1242792577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,15.03333,108.15,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lac Trom Dong",
+    "gn:country_code":"VN",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578006,
+    "gn:latitude":15.03333,
+    "gn:longitude":108.15,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Lac Trom Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578006
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1cf29f11668c4a43a1a5928a6c9d54d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781625,
+            "locality_id":1242792577,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242792577,
+    "wof:lastmodified":1536753918,
+    "wof:name":"Lac Trom Dong",
+    "wof:parent_id":1108781625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    15.03333,
+    108.15,
+    15.03333
+],
+  "geometry": {"coordinates":[108.15000000000001,15.03333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259895309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85544,21.26691,105.85544,21.26691",
+    "geom:latitude":21.26691,
+    "geom:longitude":105.85544,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Pho Moi",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570407,
+    "gn:latitude":21.26691,
+    "gn:longitude":105.85544,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Ph\u1ed1 M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa M\u00f4i"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u1ed1 M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570407
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65e3a5b25b0a20bcf4fbd8acbffd9b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780805,
+            "locality_id":1259895309,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1259895309,
+    "wof:lastmodified":1537713829,
+    "wof:name":"Pho Moi",
+    "wof:parent_id":1108780805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85544,
+    21.26691,
+    105.85544,
+    21.26691
+],
+  "geometry": {"coordinates":[105.85544,21.26691],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226161847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57826,22.04847,106.57826,22.04847",
+    "geom:latitude":22.04847,
+    "geom:longitude":106.57826,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Nam Tau",
+    "gn:country_code":"VN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573178,
+    "gn:latitude":22.04847,
+    "gn:longitude":106.57826,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u1eb7m T\u1ea5u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u1eb7m T\u1ea5u",
+        "N\u00e3m T\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573178
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d544dd0b8cbb752ec550dd1a3a991b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1226161847,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226161847,
+    "wof:lastmodified":1537713866,
+    "wof:name":"Nam Tau",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57826,
+    22.04847,
+    106.57826,
+    22.04847
+],
+  "geometry": {"coordinates":[106.57826,22.04847],"type":"Point"}
+}

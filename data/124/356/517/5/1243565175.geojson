@@ -1,0 +1,73 @@
+{
+  "id": 1243565175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1405,10.0257,106.1405,10.0257",
+    "geom:latitude":10.0257,
+    "geom:longitude":106.1405,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"An Lac Hai",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290518,
+    "gn:latitude":10.0257,
+    "gn:longitude":106.1405,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"An L\u1ea1c Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An L\u1ea1c Hai"
+    ],
+    "name:vie_x_variant":[
+        "An L\u1ea1c 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290518
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b9b68fe0f7cee2ab96da25ddca1b5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782157,
+            "locality_id":1243565175,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1243565175,
+    "wof:lastmodified":1537714467,
+    "wof:name":"An Lac Hai",
+    "wof:parent_id":1108782157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1405,
+    10.0257,
+    106.1405,
+    10.0257
+],
+  "geometry": {"coordinates":[106.1405,10.0257],"type":"Point"}
+}

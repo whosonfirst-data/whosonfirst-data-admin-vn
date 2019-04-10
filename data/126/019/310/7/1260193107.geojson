@@ -1,0 +1,67 @@
+{
+  "id": 1260193107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86667,21.11667,104.86667,21.11667",
+    "geom:latitude":21.11667,
+    "geom:longitude":104.86667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ba Dao",
+    "gn:country_code":"VN",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591414,
+    "gn:latitude":21.11667,
+    "gn:longitude":104.86667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ba Dao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591414
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e74e8c76b366a0f4349491ca2a8397f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1260193107,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1260193107,
+    "wof:lastmodified":1536833645,
+    "wof:name":"Ba Dao",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86667,
+    21.11667000000001,
+    104.86667,
+    21.11667000000001
+],
+  "geometry": {"coordinates":[104.86667,21.11667000000001],"type":"Point"}
+}

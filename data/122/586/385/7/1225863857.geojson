@@ -1,0 +1,74 @@
+{
+  "id": 1225863857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22667,17.64906,106.22667,17.64906",
+    "geom:latitude":17.64906,
+    "geom:longitude":106.22667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Tay Gat",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579373,
+    "gn:latitude":17.64906,
+    "gn:longitude":106.22667,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"T\u00e2y G\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khe Ghat",
+        "Khe Phat"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2y G\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579373
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"78d0e679aa7cb7086a54a3c28079b4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1225863857,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1225863857,
+    "wof:lastmodified":1537713952,
+    "wof:name":"Tay Gat",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22667,
+    17.64906000000001,
+    106.22667,
+    17.64906000000001
+],
+  "geometry": {"coordinates":[106.22667,17.64906000000001],"type":"Point"}
+}

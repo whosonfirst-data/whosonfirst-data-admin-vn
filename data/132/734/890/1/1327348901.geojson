@@ -1,0 +1,70 @@
+{
+  "id": 1327348901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00321,18.32996,106.00321,18.32996",
+    "geom:latitude":18.32996,
+    "geom:longitude":106.00321,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Tay Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357257,
+    "gn:latitude":18.32996,
+    "gn:longitude":106.00321,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"T\u00e2y H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2y H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357257
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cbe64fe1b6b2d47fb5d3399dd61ab57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1327348901,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1327348901,
+    "wof:lastmodified":1537714714,
+    "wof:name":"Tay Hoa",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00321,
+    18.32996,
+    106.00321,
+    18.32996
+],
+  "geometry": {"coordinates":[106.00321,18.32996],"type":"Point"}
+}

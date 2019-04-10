@@ -1,0 +1,70 @@
+{
+  "id": 1343680879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3252,21.31852,105.3252,21.31852",
+    "geom:latitude":21.31852,
+    "geom:longitude":105.3252,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Thanh Mai",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200810,
+    "gn:latitude":21.31852,
+    "gn:longitude":105.3252,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Thanh Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200810
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"749770cb6e011d15c936b5a03f1fa37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781165,
+            "locality_id":1343680879,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343680879,
+    "wof:lastmodified":1537714240,
+    "wof:name":"Thanh Mai",
+    "wof:parent_id":1108781165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3252,
+    21.31852,
+    105.3252,
+    21.31852
+],
+  "geometry": {"coordinates":[105.3252,21.31852],"type":"Point"}
+}

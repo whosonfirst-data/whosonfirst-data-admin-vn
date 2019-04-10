@@ -1,0 +1,67 @@
+{
+  "id": 1242926971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4,20.23333,105.4,20.23333",
+    "geom:latitude":20.23333,
+    "geom:longitude":105.4,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thach Son",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566383,
+    "gn:latitude":20.23333,
+    "gn:longitude":105.4,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Th\u1ea1ch S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566383
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8a12a528c3da48e05501c7b8e1782e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781407,
+            "locality_id":1242926971,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242926971,
+    "wof:lastmodified":1537055238,
+    "wof:name":"Thach Son",
+    "wof:parent_id":1108781407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4,
+    20.23333,
+    105.4,
+    20.23333
+],
+  "geometry": {"coordinates":[105.40000000000001,20.23333],"type":"Point"}
+}

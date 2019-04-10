@@ -1,0 +1,71 @@
+{
+  "id": 1343973345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.33333,12.43333,108.33333,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":108.33333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Dak",
+    "gn:country_code":"VN",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587093,
+    "gn:latitude":12.43333,
+    "gn:longitude":108.33333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Bu\u00f4n Dak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Dak",
+        "Bu\u00f4n Dak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587093
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b97491ffa8aa08750487c786eb3046c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1343973345,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1343973345,
+    "wof:lastmodified":1537714055,
+    "wof:name":"Buon Dak",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.33333,
+    12.43333,
+    108.33333,
+    12.43333
+],
+  "geometry": {"coordinates":[108.33333,12.43333],"type":"Point"}
+}

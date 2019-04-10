@@ -1,0 +1,70 @@
+{
+  "id": 1243473501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.47718,9.73342,106.47718,9.73342",
+    "geom:latitude":9.73342,
+    "geom:longitude":106.47718,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"O Lac",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571652,
+    "gn:latitude":9.73342,
+    "gn:longitude":106.47718,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"\u00d4 L\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u00d4 L\u1eafc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1abd5ade09d29691a9a6de8911216d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782143,
+            "locality_id":1243473501,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1243473501,
+    "wof:lastmodified":1537713846,
+    "wof:name":"O Lac",
+    "wof:parent_id":1108782143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.47718,
+    9.73342,
+    106.47718,
+    9.73342
+],
+  "geometry": {"coordinates":[106.47718,9.73342],"type":"Point"}
+}

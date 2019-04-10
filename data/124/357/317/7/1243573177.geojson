@@ -1,0 +1,72 @@
+{
+  "id": 1243573177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08667,9.95806,106.08667,9.95806",
+    "geom:latitude":9.95806,
+    "geom:longitude":106.08667,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ap Long Thanh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593050,
+    "gn:latitude":9.95806,
+    "gn:longitude":106.08667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Long Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long Th\u00e0nh",
+        "\u1ea4p Long Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593050
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd72005ee1a06624ea8d5d1e26fe29de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782137,
+            "locality_id":1243573177,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1243573177,
+    "wof:lastmodified":1537714175,
+    "wof:name":"Ap Long Thanh",
+    "wof:parent_id":1108782137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08667,
+    9.95806,
+    106.08667,
+    9.95806
+],
+  "geometry": {"coordinates":[106.08667,9.95806],"type":"Point"}
+}

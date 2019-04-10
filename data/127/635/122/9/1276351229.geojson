@@ -1,0 +1,73 @@
+{
+  "id": 1276351229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.98806,14.55448,107.98806,14.55448",
+    "geom:latitude":14.55448,
+    "geom:longitude":107.98806,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Thon Muoi Mot",
+    "gn:country_code":"VN",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8676081,
+    "gn:latitude":14.55448,
+    "gn:longitude":107.98806,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u00f4n M\u01b0\u1eddi M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n M\u01b0\u1eddi M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8676081
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d8b0dad329f7a9f7a761f4a82097865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781787,
+            "locality_id":1276351229,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1276351229,
+    "wof:lastmodified":1537714405,
+    "wof:name":"Thon Muoi Mot",
+    "wof:parent_id":1108781787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.98806,
+    14.55448,
+    107.98806,
+    14.55448
+],
+  "geometry": {"coordinates":[107.98806,14.55448],"type":"Point"}
+}

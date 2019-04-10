@@ -1,0 +1,73 @@
+{
+  "id": 1243374283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58933,21.21728,106.58933,21.21728",
+    "geom:latitude":21.21728,
+    "geom:longitude":106.58933,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Dam Tri",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584004,
+    "gn:latitude":21.21728,
+    "gn:longitude":106.58933,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00e1m Tri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00e1m Tr\u00ec"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e1m Tri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584004
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ee352c701e0af79fcb5951b8d726d48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781151,
+            "locality_id":1243374283,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1243374283,
+    "wof:lastmodified":1537714007,
+    "wof:name":"Dam Tri",
+    "wof:parent_id":1108781151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58933,
+    21.21728,
+    106.58933,
+    21.21728
+],
+  "geometry": {"coordinates":[106.58933,21.21728],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327391393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,10.88333,106.16667,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ba Thu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588190,
+    "gn:latitude":10.88333,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ba Thu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588190
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d2b410f2a410457103863447bf05f141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782075,
+            "locality_id":1327391393,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1327391393,
+    "wof:lastmodified":1536739957,
+    "wof:name":"Ba Thu",
+    "wof:parent_id":1108782075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    10.88333,
+    106.16667,
+    10.88333
+],
+  "geometry": {"coordinates":[106.16667,10.88333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225993245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46092,21.14943,103.46092,21.14943",
+    "geom:latitude":21.14943,
+    "geom:longitude":103.46092,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Noc Coc Hai",
+    "gn:country_code":"VN",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545384,
+    "gn:latitude":21.14943,
+    "gn:longitude":103.46092,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"B\u1ea3n N\u1ed9c C\u1ed1c Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1ed9c C\u1ed1i Hai"
+    ],
+    "name:vie_x_variant":[
+        "N\u1ed9c C\u1ed1i 2",
+        "B\u1ea3n N\u1ed9c C\u1ed1c Hai",
+        "B\u1ea3n N\u1ed9c C\u1ed1c 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545384
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71ac6dd87e8367b58c515463aacad381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781015,
+            "locality_id":1225993245,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1225993245,
+    "wof:lastmodified":1537714342,
+    "wof:name":"Ban Noc Coc Hai",
+    "wof:parent_id":1108781015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46092,
+    21.14943,
+    103.46092,
+    21.14943
+],
+  "geometry": {"coordinates":[103.46092,21.14943],"type":"Point"}
+}

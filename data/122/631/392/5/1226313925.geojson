@@ -1,0 +1,74 @@
+{
+  "id": 1226313925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.62527,20.82723,106.62527,20.82723",
+    "geom:latitude":20.82723,
+    "geom:longitude":106.62527,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kieu Dong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578964,
+    "gn:latitude":20.82723,
+    "gn:longitude":106.62527,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"K\u00ed\u1ec1u D\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ed\u00eau D\u00f4ng",
+        "Ki\u00eau Y\u00eau Dong"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00ed\u1ec1u D\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578964
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6431715bcbc90bf0a1507a30f079bb06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781279,
+            "locality_id":1226313925,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1226313925,
+    "wof:lastmodified":1537713946,
+    "wof:name":"Kieu Dong",
+    "wof:parent_id":1108781279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.62527,
+    20.82723,
+    106.62527,
+    20.82723
+],
+  "geometry": {"coordinates":[106.62527,20.82723],"type":"Point"}
+}

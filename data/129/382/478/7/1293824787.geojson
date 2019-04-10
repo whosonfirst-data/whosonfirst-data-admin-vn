@@ -1,0 +1,67 @@
+{
+  "id": 1293824787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0,19.98333,105.0,19.98333",
+    "geom:latitude":19.98333,
+    "geom:longitude":105.0,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Liem",
+    "gn:country_code":"VN",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589936,
+    "gn:latitude":19.98333,
+    "gn:longitude":105.0,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Liem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589936
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"37757eb809204fd4256cab9577334841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1293824787,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293824787,
+    "wof:lastmodified":1536798024,
+    "wof:name":"Ban Liem",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0,
+    19.98333,
+    105.0,
+    19.98333
+],
+  "geometry": {"coordinates":[105.0,19.98333],"type":"Point"}
+}

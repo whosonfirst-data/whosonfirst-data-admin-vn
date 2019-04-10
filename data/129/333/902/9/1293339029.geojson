@@ -1,0 +1,73 @@
+{
+  "id": 1293339029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19603,21.43174,104.19603,21.43174",
+    "geom:latitude":21.43174,
+    "geom:longitude":104.19603,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Co Su Tren",
+    "gn:country_code":"VN",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584750,
+    "gn:latitude":21.43174,
+    "gn:longitude":104.19603,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Co S\u1ee7 Tr\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Co S\u01b0"
+    ],
+    "name:vie_x_preferred":[
+        "Co S\u1ee7 Tr\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584750
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec8474919f1412243922c79735b12552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1293339029,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1293339029,
+    "wof:lastmodified":1537714017,
+    "wof:name":"Co Su Tren",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19603,
+    21.43174,
+    104.19603,
+    21.43174
+],
+  "geometry": {"coordinates":[104.19602999999999,21.43174],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259702769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57919,21.05723,105.57919,21.05723",
+    "geom:latitude":21.05723,
+    "geom:longitude":105.57919,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Lien Quan",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8615817,
+    "gn:latitude":21.05723,
+    "gn:longitude":105.57919,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Li\u00ean Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8615817
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"76d41265669c5ed167ed91e4e125d6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780833,
+            "locality_id":1259702769,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1259702769,
+    "wof:lastmodified":1537714374,
+    "wof:name":"Lien Quan",
+    "wof:parent_id":1108780833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57919,
+    21.05723,
+    105.57919,
+    21.05723
+],
+  "geometry": {"coordinates":[105.57919,21.05723],"type":"Point"}
+}

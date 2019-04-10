@@ -1,0 +1,70 @@
+{
+  "id": 1276705625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02382,11.47782,106.02382,11.47782",
+    "geom:latitude":11.47782,
+    "geom:longitude":106.02382,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"San Bay",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9081409,
+    "gn:latitude":11.47782,
+    "gn:longitude":106.02382,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"S\u00e2n Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u00e2n Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9081409
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71ef5b5e6d50eb21cae35e3d18fb7e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781933,
+            "locality_id":1276705625,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1276705625,
+    "wof:lastmodified":1537714447,
+    "wof:name":"San Bay",
+    "wof:parent_id":1108781933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02382,
+    11.47782,
+    106.02382,
+    11.47782
+],
+  "geometry": {"coordinates":[106.02382,11.47782],"type":"Point"}
+}

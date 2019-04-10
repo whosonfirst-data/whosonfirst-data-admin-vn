@@ -1,0 +1,64 @@
+{
+  "id": 1209019919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0566,18.26193,106.0566,18.26193",
+    "geom:latitude":18.26193,
+    "geom:longitude":106.0566,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Phu Quang",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357287,
+    "gn:latitude":18.26193,
+    "gn:longitude":106.0566,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ph\u00fa Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357287
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52b39ff9184a44551e123cf7680fe6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019919
+        }
+    ],
+    "wof:id":1209019919,
+    "wof:lastmodified":1537714715,
+    "wof:name":"Phu Quang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0566,
+    18.26193,
+    106.0566,
+    18.26193
+],
+  "geometry": {"coordinates":[106.0566,18.26193],"type":"Point"}
+}

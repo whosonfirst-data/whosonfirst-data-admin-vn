@@ -1,0 +1,72 @@
+{
+  "id": 1260180173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05,22.65,106.05,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":106.05,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khuoi Mon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579104,
+    "gn:latitude":22.65,
+    "gn:longitude":106.05,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khu\u1ed5i M\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuoi Mong",
+        "Khu\u1ed5i M\u00f2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579104
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3d70a2fc2f54c55e7b8e3b7350764216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780899,
+            "locality_id":1260180173,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1260180173,
+    "wof:lastmodified":1537713948,
+    "wof:name":"Khuoi Mon",
+    "wof:parent_id":1108780899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05,
+    22.65,
+    106.05,
+    22.65
+],
+  "geometry": {"coordinates":[106.05,22.65],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259802507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41244,21.22785,103.41244,21.22785",
+    "geom:latitude":21.22785,
+    "geom:longitude":103.41244,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Lai Hai",
+    "gn:country_code":"VN",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10266873,
+    "gn:latitude":21.22785,
+    "gn:longitude":103.41244,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"B\u1ea3n L\u1ea1i Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u1ea1i Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n L\u1ea1i 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10266873
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ff52bc0b50ec76dedb7e9ce1a83a83f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1259802507,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1259802507,
+    "wof:lastmodified":1537714663,
+    "wof:name":"Ban Lai Hai",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41244,
+    21.22785,
+    103.41244,
+    21.22785
+],
+  "geometry": {"coordinates":[103.41244,21.22785],"type":"Point"}
+}

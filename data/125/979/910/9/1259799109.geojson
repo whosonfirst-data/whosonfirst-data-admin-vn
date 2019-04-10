@@ -1,0 +1,71 @@
+{
+  "id": 1259799109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28333,16.8,107.28333,16.8",
+    "geom:latitude":16.8,
+    "geom:longitude":107.28333,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Gia Dang I",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565615,
+    "gn:latitude":16.8,
+    "gn:longitude":107.28333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u00f4n Gia \u0110\u1eb3ng I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia Dang",
+        "Th\u00f4n Gia \u0110\u1eb3ng I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565615
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"20f9721acf5cdb4b20f8a9e31d96b3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781553,
+            "locality_id":1259799109,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1259799109,
+    "wof:lastmodified":1537713762,
+    "wof:name":"Thon Gia Dang I",
+    "wof:parent_id":1108781553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28333,
+    16.8,
+    107.28333,
+    16.8
+],
+  "geometry": {"coordinates":[107.28333000000001,16.8],"type":"Point"}
+}

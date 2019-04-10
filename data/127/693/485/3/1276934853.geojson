@@ -1,0 +1,67 @@
+{
+  "id": 1276934853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.87663,11.4556,107.87663,11.4556",
+    "geom:latitude":11.4556,
+    "geom:longitude":107.87663,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bun Ko",
+    "gn:country_code":"VN",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443037,
+    "gn:latitude":11.4556,
+    "gn:longitude":107.87663,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bun Ko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443037
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"403fc4e725f67b17d4cee0984f93733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1276934853,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1276934853,
+    "wof:lastmodified":1536967435,
+    "wof:name":"Bun Ko",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.87663,
+    11.4556,
+    107.87663,
+    11.4556
+],
+  "geometry": {"coordinates":[107.87663000000001,11.4556],"type":"Point"}
+}

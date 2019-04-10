@@ -1,0 +1,67 @@
+{
+  "id": 1344272503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11667,11.1,108.11667,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":108.11667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ap Lam Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593167,
+    "gn:latitude":11.1,
+    "gn:longitude":108.11667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p L\u00e2m Hoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593167
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51518ac1fa27639239077d9d9b5568c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1344272503,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1344272503,
+    "wof:lastmodified":1537063841,
+    "wof:name":"Ap Lam Hoa",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11667,
+    11.1,
+    108.11667,
+    11.1
+],
+  "geometry": {"coordinates":[108.11667,11.1],"type":"Point"}
+}

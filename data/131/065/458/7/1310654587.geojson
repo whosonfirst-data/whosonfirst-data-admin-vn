@@ -1,0 +1,73 @@
+{
+  "id": 1310654587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,11.18333,106.38333,11.18333",
+    "geom:latitude":11.18333,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Ben Cho",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593925,
+    "gn:latitude":11.18333,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p B\u1ebfn Ch\u01a1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ben Cho",
+        "Xom Ben Cho",
+        "\u1ea4p B\u1ebfn Ch\u01a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"580b716cf3cc873006022753c25d947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781949,
+            "locality_id":1310654587,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1310654587,
+    "wof:lastmodified":1537714198,
+    "wof:name":"Ap Ben Cho",
+    "wof:parent_id":1108781949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    11.18333,
+    106.38333,
+    11.18333
+],
+  "geometry": {"coordinates":[106.38333,11.18333],"type":"Point"}
+}

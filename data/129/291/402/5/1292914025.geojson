@@ -1,0 +1,67 @@
+{
+  "id": 1292914025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86415,22.31995,105.86415,22.31995",
+    "geom:latitude":22.31995,
+    "geom:longitude":105.86415,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Phung",
+    "gn:country_code":"VN",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311558,
+    "gn:latitude":22.31995,
+    "gn:longitude":105.86415,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 Ph\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311558
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3b6dce9af0e467779739f58c6bdb3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1292914025,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1292914025,
+    "wof:lastmodified":1536617399,
+    "wof:name":"Na Phung",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86415,
+    22.31995,
+    105.86415,
+    22.31995
+],
+  "geometry": {"coordinates":[105.86415,22.31995],"type":"Point"}
+}

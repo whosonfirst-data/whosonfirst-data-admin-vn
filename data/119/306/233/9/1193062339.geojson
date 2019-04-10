@@ -1,0 +1,73 @@
+{
+  "id": 1193062339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25409,10.43895,106.25409,10.43895",
+    "geom:latitude":10.43895,
+    "geom:longitude":106.25409,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ap Kenh Hai A",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337849,
+    "gn:latitude":10.43895,
+    "gn:longitude":106.25409,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1ea4p K\u00eanh Hai A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p K\u00eanh Hai A"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p K\u00eanh 2A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337849
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b26a2f7849846558c2d579e9d2f10f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782095,
+            "locality_id":1193062339,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1193062339,
+    "wof:lastmodified":1537714284,
+    "wof:name":"Ap Kenh Hai A",
+    "wof:parent_id":1108782095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25409,
+    10.43895,
+    106.25409,
+    10.43895
+],
+  "geometry": {"coordinates":[106.25409000000001,10.43895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243125607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,19.96667,105.88333,19.96667",
+    "geom:latitude":19.96667,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thieu Xa",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565858,
+    "gn:latitude":19.96667,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Thi\u1ec1u X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565858
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b13db00e3cc69da61d4fea6f25242472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781429,
+            "locality_id":1243125607,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1243125607,
+    "wof:lastmodified":1536771803,
+    "wof:name":"Thieu Xa",
+    "wof:parent_id":1108781429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    19.96667,
+    105.88333,
+    19.96667
+],
+  "geometry": {"coordinates":[105.88333,19.96667],"type":"Point"}
+}

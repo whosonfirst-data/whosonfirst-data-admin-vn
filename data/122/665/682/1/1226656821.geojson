@@ -1,0 +1,75 @@
+{
+  "id": 1226656821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11873,11.01353,108.11873,11.01353",
+    "geom:latitude":11.01353,
+    "geom:longitude":108.11873,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ninh Thuan",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592699,
+    "gn:latitude":11.01353,
+    "gn:longitude":108.11873,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ninh Thu\u1eadn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninh Thu\u00e2n",
+        "Ninh Thu\u00e2n Th\u00f4n",
+        "\u1ea4p Ninh Thu\u1eadn"
+    ],
+    "name:vie_x_preferred":[
+        "Ninh Thu\u1eadn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592699
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b3f96a7014a6ed50fe1691ee513dc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1226656821,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1226656821,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Ninh Thuan",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11873,
+    11.01353,
+    108.11873,
+    11.01353
+],
+  "geometry": {"coordinates":[108.11873,11.01353],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209433703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22357,21.75569,105.22357,21.75569",
+    "geom:latitude":21.75569,
+    "geom:longitude":105.22357,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Po Be",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138340,
+    "gn:latitude":21.75569,
+    "gn:longitude":105.22357,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Po B\u1ec3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Po B\u1ec3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138340
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"424927ffdee77d704d39cd8a67e8ab61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433703
+        }
+    ],
+    "wof:id":1209433703,
+    "wof:lastmodified":1537714221,
+    "wof:name":"Po Be",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22357,
+    21.75569,
+    105.22357,
+    21.75569
+],
+  "geometry": {"coordinates":[105.22357,21.75569],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360301009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49085,22.09665,105.49085,22.09665",
+    "geom:latitude":22.09665,
+    "geom:longitude":105.49085,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Pha",
+    "gn:country_code":"VN",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309308,
+    "gn:latitude":22.09665,
+    "gn:longitude":105.49085,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 Pha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Pha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309308
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6e94c97e7ce4794cde8ac69cac4974cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780915,
+            "locality_id":1360301009,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1360301009,
+    "wof:lastmodified":1537714253,
+    "wof:name":"Na Pha",
+    "wof:parent_id":1108780915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49085,
+    22.09665,
+    105.49085,
+    22.09665
+],
+  "geometry": {"coordinates":[105.49084999999999,22.09665],"type":"Point"}
+}

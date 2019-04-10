@@ -1,0 +1,73 @@
+{
+  "id": 1360296173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.614,20.79022,105.614,20.79022",
+    "geom:latitude":20.79022,
+    "geom:longitude":105.614,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Lang Ngam",
+    "gn:country_code":"VN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576881,
+    "gn:latitude":20.79022,
+    "gn:longitude":105.614,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"L\u00e0ng Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Ng\u00e2m"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Ngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576881
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a4272b7d2f949882f1c1c721c9dd073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1360296173,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1360296173,
+    "wof:lastmodified":1537713914,
+    "wof:name":"Lang Ngam",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.614,
+    20.79022,
+    105.614,
+    20.79022
+],
+  "geometry": {"coordinates":[105.614,20.79022],"type":"Point"}
+}

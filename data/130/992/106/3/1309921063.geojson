@@ -1,0 +1,71 @@
+{
+  "id": 1309921063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30938,22.33532,105.30938,22.33532",
+    "geom:latitude":22.33532,
+    "geom:longitude":105.30938,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Heng",
+    "gn:country_code":"VN",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573810,
+    "gn:latitude":22.33532,
+    "gn:longitude":105.30938,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u00e0 Heng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e0 Heng",
+        "Na Hang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573810
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c50fc94375ccf1070dcf6cf219eb829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1309921063,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1309921063,
+    "wof:lastmodified":1537713874,
+    "wof:name":"Na Heng",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30938,
+    22.33532,
+    105.30938,
+    22.33532
+],
+  "geometry": {"coordinates":[105.30938,22.33532],"type":"Point"}
+}

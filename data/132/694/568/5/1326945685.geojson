@@ -1,0 +1,67 @@
+{
+  "id": 1326945685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,11.83333,106.65,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Srok Phil",
+    "gn:country_code":"VN",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1567521,
+    "gn:latitude":11.83333,
+    "gn:longitude":106.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Srok Phil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567521
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"494b696bb96ee591f292ecab956898fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781915,
+            "locality_id":1326945685,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1326945685,
+    "wof:lastmodified":1536884827,
+    "wof:name":"Srok Phil",
+    "wof:parent_id":1108781915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    11.83333,
+    106.65,
+    11.83333
+],
+  "geometry": {"coordinates":[106.65000000000001,11.83333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210031809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4137,21.10523,105.4137,21.10523",
+    "geom:latitude":21.10523,
+    "geom:longitude":105.4137,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"My Khe",
+    "gn:country_code":"VN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574117,
+    "gn:latitude":21.10523,
+    "gn:longitude":105.4137,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u1ef9 Khe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u1ef9 Kh\u00ea"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ef9 Khe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574117
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"593b2534b4db145d1573509f239fc75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1210031809,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1210031809,
+    "wof:lastmodified":1537713879,
+    "wof:name":"My Khe",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4137,
+    21.10523,
+    105.4137,
+    21.10523
+],
+  "geometry": {"coordinates":[105.41370000000001,21.10523],"type":"Point"}
+}

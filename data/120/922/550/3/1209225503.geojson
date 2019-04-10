@@ -1,0 +1,65 @@
+{
+  "id": 1209225503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.5,13.78333,107.5,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":107.5,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Mlou",
+    "gn:country_code":"VN",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569397,
+    "gn:latitude":13.78333,
+    "gn:longitude":107.5,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Plei Mlou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plei M\u2019Lon",
+        "Plei Mlou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569397
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6cae540fb9a9f9f7fc6af9c291d1a459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225503
+        }
+    ],
+    "wof:id":1209225503,
+    "wof:lastmodified":1537713814,
+    "wof:name":"Plei Mlou",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.5,
+    13.78333,
+    107.5,
+    13.78333
+],
+  "geometry": {"coordinates":[107.5,13.78333],"type":"Point"}
+}

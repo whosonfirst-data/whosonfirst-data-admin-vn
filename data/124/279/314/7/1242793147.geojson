@@ -1,0 +1,73 @@
+{
+  "id": 1242793147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.26914,13.31722,109.26914,13.31722",
+    "geom:latitude":13.31722,
+    "geom:longitude":109.26914,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Son",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569950,
+    "gn:latitude":13.31722,
+    "gn:longitude":109.26914,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ph\u00fa S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Luc"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569950
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6451c01f3daae4501b1697b54a67a032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781699,
+            "locality_id":1242793147,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1242793147,
+    "wof:lastmodified":1537713822,
+    "wof:name":"Phu Son",
+    "wof:parent_id":1108781699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.26914,
+    13.31722,
+    109.26914,
+    13.31722
+],
+  "geometry": {"coordinates":[109.26913999999999,13.31722],"type":"Point"}
+}

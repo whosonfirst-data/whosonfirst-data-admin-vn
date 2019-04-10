@@ -1,0 +1,65 @@
+{
+  "id": 1209329957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,20.75,106.08333,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Nhan La Luong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572203,
+    "gn:latitude":20.75,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nh\u00e2n La L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nhan La Duong",
+        "Nh\u00e2n La L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572203
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bb9cda8e08441e5e28c60910a632c21a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329957
+        }
+    ],
+    "wof:id":1209329957,
+    "wof:lastmodified":1537713852,
+    "wof:name":"Nhan La Luong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    20.75,
+    106.08333,
+    20.75
+],
+  "geometry": {"coordinates":[106.08333,20.75],"type":"Point"}
+}

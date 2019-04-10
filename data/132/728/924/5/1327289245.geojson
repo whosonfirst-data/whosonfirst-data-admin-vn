@@ -1,0 +1,72 @@
+{
+  "id": 1327289245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,10.58333,105.93333,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xom Thay Tro",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560898,
+    "gn:latitude":10.58333,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m Th\u1ea7y Tr\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thay Tro",
+        "X\u00f3m Th\u1ea7y Tr\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560898
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51bc72051ddf7db4d7194f2e05e901a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782071,
+            "locality_id":1327289245,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1327289245,
+    "wof:lastmodified":1537713673,
+    "wof:name":"Xom Thay Tro",
+    "wof:parent_id":1108782071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    10.58333,
+    105.93333,
+    10.58333
+],
+  "geometry": {"coordinates":[105.93333,10.58333],"type":"Point"}
+}

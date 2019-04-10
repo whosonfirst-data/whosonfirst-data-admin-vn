@@ -1,0 +1,72 @@
+{
+  "id": 1343973533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89722,9.75806,105.89722,9.75806",
+    "geom:latitude":9.75806,
+    "geom:longitude":105.89722,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Xom Ho Soai",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561434,
+    "gn:latitude":9.75806,
+    "gn:longitude":105.89722,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m H\u1ed5 Soai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho Xoai",
+        "Xom Ho Xoai",
+        "X\u00f3m H\u1ed5 Soai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561434
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fb8a6e5e311d7799bd2ec34f6bd18868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782291,
+            "locality_id":1343973533,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1343973533,
+    "wof:lastmodified":1537713684,
+    "wof:name":"Xom Ho Soai",
+    "wof:parent_id":1108782291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89722,
+    9.75806,
+    105.89722,
+    9.75806
+],
+  "geometry": {"coordinates":[105.89722,9.75806],"type":"Point"}
+}

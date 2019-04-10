@@ -1,0 +1,75 @@
+{
+  "id": 1343272623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.62237,12.44957,107.62237,12.44957",
+    "geom:latitude":12.44957,
+    "geom:longitude":107.62237,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Tram de Dak Mil",
+    "gn:country_code":"VN",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1582203,
+    "gn:latitude":12.44957,
+    "gn:longitude":107.62237,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Tram de Dak Mil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ee9c Minh",
+        "Dak Mil",
+        "\u0110\u1ee9c L\u1eadp"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1eafk Mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582203
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4a92b61b1b5dc57ae7c1e28b4d1e3f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781873,
+            "locality_id":1343272623,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1343272623,
+    "wof:lastmodified":1537713985,
+    "wof:name":"Tram de Dak Mil",
+    "wof:parent_id":1108781873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.62237,
+    12.44957,
+    107.62237,
+    12.44957
+],
+  "geometry": {"coordinates":[107.62237,12.44957],"type":"Point"}
+}

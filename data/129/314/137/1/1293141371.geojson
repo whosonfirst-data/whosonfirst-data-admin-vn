@@ -1,0 +1,67 @@
+{
+  "id": 1293141371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15111,20.36889,105.15111,20.36889",
+    "geom:latitude":20.36889,
+    "geom:longitude":105.15111,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Phu Nghiem",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570320,
+    "gn:latitude":20.36889,
+    "gn:longitude":105.15111,
+    "gn:modification_date":"2000-11-28",
+    "gn:name":"Ph\u00fa Nghi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570320
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d73ec2093b06f3c1b1a9ed51f580ef0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781395,
+            "locality_id":1293141371,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293141371,
+    "wof:lastmodified":1536789479,
+    "wof:name":"Phu Nghiem",
+    "wof:parent_id":1108781395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15111,
+    20.36889,
+    105.15111,
+    20.36889
+],
+  "geometry": {"coordinates":[105.15111,20.36889],"type":"Point"}
+}

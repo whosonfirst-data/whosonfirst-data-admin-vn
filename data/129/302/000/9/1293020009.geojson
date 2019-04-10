@@ -1,0 +1,70 @@
+{
+  "id": 1293020009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74289,20.22169,105.74289,20.22169",
+    "geom:latitude":20.22169,
+    "geom:longitude":105.74289,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Met Duoi",
+    "gn:country_code":"VN",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553342,
+    "gn:latitude":20.22169,
+    "gn:longitude":105.74289,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"M\u00e9t D\u01b0\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u00e9t D\u01b0\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553342
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c1975e60f2e54b70443203364e3ba979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781373,
+            "locality_id":1293020009,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1293020009,
+    "wof:lastmodified":1537714350,
+    "wof:name":"Met Duoi",
+    "wof:parent_id":1108781373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74289,
+    20.22169,
+    105.74289,
+    20.22169
+],
+  "geometry": {"coordinates":[105.74289,20.22169],"type":"Point"}
+}

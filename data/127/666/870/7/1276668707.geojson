@@ -1,0 +1,73 @@
+{
+  "id": 1276668707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82221,10.06821,105.82221,10.06821",
+    "geom:latitude":10.06821,
+    "geom:longitude":105.82221,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Binh Minh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8539621,
+    "gn:latitude":10.06821,
+    "gn:longitude":105.82221,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e1i V\u1ed3n"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539621
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91649a2dcbddfd2832c0ca0e9ee07a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782161,
+            "locality_id":1276668707,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1276668707,
+    "wof:lastmodified":1537714336,
+    "wof:name":"Binh Minh",
+    "wof:parent_id":1108782161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82221,
+    10.06821,
+    105.82221,
+    10.06821
+],
+  "geometry": {"coordinates":[105.82221,10.06821],"type":"Point"}
+}

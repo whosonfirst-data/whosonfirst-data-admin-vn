@@ -1,0 +1,70 @@
+{
+  "id": 1276244009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02292,20.47366,106.02292,20.47366",
+    "geom:latitude":20.47366,
+    "geom:longitude":106.02292,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Ha Noi",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564175,
+    "gn:latitude":20.47366,
+    "gn:longitude":106.02292,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"H\u00e0 N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0 N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564175
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"afab00519f2ee03ec7344a3eb0db6563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1276244009,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1276244009,
+    "wof:lastmodified":1537714356,
+    "wof:name":"Ha Noi",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02292,
+    20.47366,
+    106.02292,
+    20.47366
+],
+  "geometry": {"coordinates":[106.02292,20.47366],"type":"Point"}
+}

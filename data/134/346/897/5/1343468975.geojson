@@ -1,0 +1,75 @@
+{
+  "id": 1343468975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.36667,11.55,107.36667,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":107.36667,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"La Canh Dom",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578080,
+    "gn:latitude":11.55,
+    "gn:longitude":107.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"La Canh Dom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Canh Dom",
+        "La Cahn Dom",
+        "La Cahm Dom",
+        "La Canh Dong",
+        "La Canh Dom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578080
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c4ed85047b6476198adf4e2f864841b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781909,
+            "locality_id":1343468975,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343468975,
+    "wof:lastmodified":1537713934,
+    "wof:name":"La Canh Dom",
+    "wof:parent_id":1108781909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.36667,
+    11.55,
+    107.36667,
+    11.55
+],
+  "geometry": {"coordinates":[107.36667,11.55],"type":"Point"}
+}

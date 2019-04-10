@@ -1,0 +1,67 @@
+{
+  "id": 1259802545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90966,22.33146,105.90966,22.33146",
+    "geom:latitude":22.33146,
+    "geom:longitude":105.90966,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Phac Lam",
+    "gn:country_code":"VN",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311710,
+    "gn:latitude":22.33146,
+    "gn:longitude":105.90966,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ph\u1ea1c L\u1eabm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6627d6b7673ff453fbdedd48c328d1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1259802545,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1259802545,
+    "wof:lastmodified":1536895560,
+    "wof:name":"Phac Lam",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90966,
+    22.33146,
+    105.90966,
+    22.33146
+],
+  "geometry": {"coordinates":[105.90966,22.33146],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209015327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73333,22.68333,104.73333,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":104.73333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Tu Nhan",
+    "gn:country_code":"VN",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563418,
+    "gn:latitude":22.68333,
+    "gn:longitude":104.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"T\u1ee5 Nh\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563418
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73a9eeaf0fbcad09b18f9a6c7f8d34ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015327
+        }
+    ],
+    "wof:id":1209015327,
+    "wof:lastmodified":1536300314,
+    "wof:name":"Tu Nhan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73333,
+    22.68333,
+    104.73333,
+    22.68333
+],
+  "geometry": {"coordinates":[104.73333,22.68333],"type":"Point"}
+}

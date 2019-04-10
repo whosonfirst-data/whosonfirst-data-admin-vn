@@ -1,0 +1,64 @@
+{
+  "id": 1209425705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79587,18.44851,105.79587,18.44851",
+    "geom:latitude":18.44851,
+    "geom:longitude":105.79587,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nha Huong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275088,
+    "gn:latitude":18.44851,
+    "gn:longitude":105.79587,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Nh\u00e0 H\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u00e0 H\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275088
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7ab7100d32c81b2883636bf02d759e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425705
+        }
+    ],
+    "wof:id":1209425705,
+    "wof:lastmodified":1537714666,
+    "wof:name":"Nha Huong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79587,
+    18.44851,
+    105.79587,
+    18.44851
+],
+  "geometry": {"coordinates":[105.79586999999999,18.44851],"type":"Point"}
+}

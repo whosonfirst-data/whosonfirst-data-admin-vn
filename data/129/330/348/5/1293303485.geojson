@@ -1,0 +1,70 @@
+{
+  "id": 1293303485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15376,21.53751,105.15376,21.53751",
+    "geom:latitude":21.53751,
+    "geom:longitude":105.15376,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Cay Tre",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138255,
+    "gn:latitude":21.53751,
+    "gn:longitude":105.15376,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u00e2y Tre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y Tre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138255
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc30c3e6acc19b8b64c3f40a0e6e8b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781175,
+            "locality_id":1293303485,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1293303485,
+    "wof:lastmodified":1537714220,
+    "wof:name":"Cay Tre",
+    "wof:parent_id":1108781175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15376,
+    21.53751,
+    105.15376,
+    21.53751
+],
+  "geometry": {"coordinates":[105.15376000000001,21.53751],"type":"Point"}
+}

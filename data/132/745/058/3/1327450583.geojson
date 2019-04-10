@@ -1,0 +1,71 @@
+{
+  "id": 1327450583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.6,13.3,108.6,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":108.6,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Le Bac",
+    "gn:country_code":"VN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576149,
+    "gn:latitude":13.3,
+    "gn:longitude":108.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00ea B\u1eb1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n Thoat",
+        "L\u00ea B\u1eb1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576149
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2c6d9eaa153915510a6428e211770bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781825,
+            "locality_id":1327450583,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1327450583,
+    "wof:lastmodified":1537713902,
+    "wof:name":"Le Bac",
+    "wof:parent_id":1108781825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.6,
+    13.3,
+    108.6,
+    13.3
+],
+  "geometry": {"coordinates":[108.59999999999999,13.3],"type":"Point"}
+}

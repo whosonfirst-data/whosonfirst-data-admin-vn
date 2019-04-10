@@ -1,0 +1,65 @@
+{
+  "id": 1209125037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.63333,12.65,108.63333,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":108.63333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban M'trong",
+    "gn:country_code":"VN",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1589668,
+    "gn:latitude":12.65,
+    "gn:longitude":108.63333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ban M\u2019tr\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Buon M\u2019Trong",
+        "Ban M\u2019tr\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589668
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71c3a5cf91ac388e7cd479e801ead9d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125037
+        }
+    ],
+    "wof:id":1209125037,
+    "wof:lastmodified":1537714100,
+    "wof:name":"Ban M'trong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.63333,
+    12.65,
+    108.63333,
+    12.65
+],
+  "geometry": {"coordinates":[108.63333,12.65],"type":"Point"}
+}

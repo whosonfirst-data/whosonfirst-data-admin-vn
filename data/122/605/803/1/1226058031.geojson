@@ -1,0 +1,67 @@
+{
+  "id": 1226058031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05,10.21667,106.05,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":106.05,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ap Hanh Lam",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593399,
+    "gn:latitude":10.21667,
+    "gn:longitude":106.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p H\u1ea1nh L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593399
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0f656456ce9a752c9789a97103468440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782155,
+            "locality_id":1226058031,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1226058031,
+    "wof:lastmodified":1536707669,
+    "wof:name":"Ap Hanh Lam",
+    "wof:parent_id":1108782155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05,
+    10.21667,
+    106.05,
+    10.21667
+],
+  "geometry": {"coordinates":[106.05,10.21667],"type":"Point"}
+}

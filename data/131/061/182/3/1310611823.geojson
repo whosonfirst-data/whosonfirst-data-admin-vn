@@ -1,0 +1,73 @@
+{
+  "id": 1310611823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74205,18.38699,105.74205,18.38699",
+    "geom:latitude":18.38699,
+    "geom:longitude":105.74205,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thai Xa Hai",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354173,
+    "gn:latitude":18.38699,
+    "gn:longitude":105.74205,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u00e1i X\u00e1 Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e1i X\u00e1 Hai"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00e1i X\u00e1 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354173
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"174eb183fb0c30b46a930303aff80948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1310611823,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310611823,
+    "wof:lastmodified":1537714710,
+    "wof:name":"Thai Xa Hai",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74205,
+    18.38699,
+    105.74205,
+    18.38699
+],
+  "geometry": {"coordinates":[105.74205000000001,18.38699],"type":"Point"}
+}

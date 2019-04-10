@@ -1,0 +1,67 @@
+{
+  "id": 1193064401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,19.51667,105.78333,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ho Phu",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580341,
+    "gn:latitude":19.51667,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"H\u1ed3 Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"736d83806602d2fc633fc842f84410f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1193064401,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193064401,
+    "wof:lastmodified":1536374451,
+    "wof:name":"Ho Phu",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    19.51667,
+    105.78333,
+    19.51667
+],
+  "geometry": {"coordinates":[105.78333000000001,19.51667],"type":"Point"}
+}

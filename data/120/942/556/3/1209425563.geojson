@@ -1,0 +1,66 @@
+{
+  "id": 1209425563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41667,18.9,105.41667,18.9",
+    "geom:latitude":18.9,
+    "geom:longitude":105.41667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Tru Phap",
+    "gn:country_code":"VN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563539,
+    "gn:latitude":18.9,
+    "gn:longitude":105.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u1ee5 Ph\u00e1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Lan",
+        "Tru Thap",
+        "Tr\u1ee5 Ph\u00e1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563539
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8c05b8bfe6db34b4397f99cb3110a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425563
+        }
+    ],
+    "wof:id":1209425563,
+    "wof:lastmodified":1537713722,
+    "wof:name":"Tru Phap",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41667,
+    18.9,
+    105.41667,
+    18.9
+],
+  "geometry": {"coordinates":[105.41667,18.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209864727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.02045,21.21635,104.02045,21.21635",
+    "geom:latitude":21.21635,
+    "geom:longitude":104.02045,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Na Sang",
+    "gn:country_code":"VN",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314169,
+    "gn:latitude":21.21635,
+    "gn:longitude":104.02045,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"N\u00e0 Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314169
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"871f976c3f50b641adba87c3a293a1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1209864727,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1209864727,
+    "wof:lastmodified":1537714688,
+    "wof:name":"Na Sang",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.02045,
+    21.21635,
+    104.02045,
+    21.21635
+],
+  "geometry": {"coordinates":[104.02045,21.21635],"type":"Point"}
+}

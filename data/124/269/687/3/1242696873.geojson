@@ -1,0 +1,70 @@
+{
+  "id": 1242696873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42014,9.90511,106.42014,9.90511",
+    "geom:latitude":9.90511,
+    "geom:longitude":106.42014,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Rach Von",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9292300,
+    "gn:latitude":9.90511,
+    "gn:longitude":106.42014,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"R\u1ea1ch V\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "R\u1ea1ch V\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9292300
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec13daec3cb727f76031c55527d81779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782141,
+            "locality_id":1242696873,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1242696873,
+    "wof:lastmodified":1537714470,
+    "wof:name":"Rach Von",
+    "wof:parent_id":1108782141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42014,
+    9.90511,
+    106.42014,
+    9.90511
+],
+  "geometry": {"coordinates":[106.42014,9.90511],"type":"Point"}
+}

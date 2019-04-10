@@ -1,0 +1,70 @@
+{
+  "id": 1226058245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.34195,12.9687,109.34195,12.9687",
+    "geom:latitude":12.9687,
+    "geom:longitude":109.34195,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Nham",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719479,
+    "gn:latitude":12.9687,
+    "gn:longitude":109.34195,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00e0n Nham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e0n Nham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"574ed7da450a72df7c3c2b1d6a2da593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781713,
+            "locality_id":1226058245,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1226058245,
+    "wof:lastmodified":1537714413,
+    "wof:name":"Ban Nham",
+    "wof:parent_id":1108781713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.34195,
+    12.9687,
+    109.34195,
+    12.9687
+],
+  "geometry": {"coordinates":[109.34195,12.9687],"type":"Point"}
+}

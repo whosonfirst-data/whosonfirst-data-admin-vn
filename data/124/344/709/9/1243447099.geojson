@@ -1,0 +1,70 @@
+{
+  "id": 1243447099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57501,22.91965,105.57501,22.91965",
+    "geom:latitude":22.91965,
+    "geom:longitude":105.57501,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Tham",
+    "gn:country_code":"VN",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8476923,
+    "gn:latitude":22.91965,
+    "gn:longitude":105.57501,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"B\u1ea3n Th\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Th\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8476923
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e01670a678472f7ec3e5aaf1a1277a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1243447099,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243447099,
+    "wof:lastmodified":1537714325,
+    "wof:name":"Ban Tham",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57501,
+    22.91965,
+    105.57501,
+    22.91965
+],
+  "geometry": {"coordinates":[105.57501000000001,22.91965],"type":"Point"}
+}

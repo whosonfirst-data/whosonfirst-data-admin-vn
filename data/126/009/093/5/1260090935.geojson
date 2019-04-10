@@ -1,0 +1,75 @@
+{
+  "id": 1260090935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.14853,12.40249,108.14853,12.40249",
+    "geom:latitude":12.40249,
+    "geom:longitude":108.14853,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Bang",
+    "gn:country_code":"VN",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587157,
+    "gn:latitude":12.40249,
+    "gn:longitude":108.14853,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n B\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Dang",
+        "Bu\u00f4n Bang",
+        "Buon Ouk"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n B\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587157
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4fa1db6b35ea7ed7336a193e81e94b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1260090935,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1260090935,
+    "wof:lastmodified":1537714058,
+    "wof:name":"Buon Bang",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.14853,
+    12.40249,
+    108.14853,
+    12.40249
+],
+  "geometry": {"coordinates":[108.14852999999999,12.40249],"type":"Point"}
+}

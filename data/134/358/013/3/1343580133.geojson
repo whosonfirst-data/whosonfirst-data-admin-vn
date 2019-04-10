@@ -1,0 +1,73 @@
+{
+  "id": 1343580133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08191,21.69408,103.08191,21.69408",
+    "geom:latitude":21.69408,
+    "geom:longitude":103.08191,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Hin Hai",
+    "gn:country_code":"VN",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425729,
+    "gn:latitude":21.69408,
+    "gn:longitude":103.08191,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"B\u1ea3n Hin Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Hin Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Hin 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425729
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55599d5f6826c588c19462d80e9d5dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1343580133,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343580133,
+    "wof:lastmodified":1537714309,
+    "wof:name":"Ban Hin Hai",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08191,
+    21.69408,
+    103.08191,
+    21.69408
+],
+  "geometry": {"coordinates":[103.08190999999999,21.69408],"type":"Point"}
+}

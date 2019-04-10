@@ -1,0 +1,67 @@
+{
+  "id": 1343453593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11667,22.9,106.11667,22.9",
+    "geom:latitude":22.9,
+    "geom:longitude":106.11667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ca Rai",
+    "gn:country_code":"VN",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586076,
+    "gn:latitude":22.9,
+    "gn:longitude":106.11667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"C\u00e1 R\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586076
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8f17782477309d287fe3fb083f60fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780883,
+            "locality_id":1343453593,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343453593,
+    "wof:lastmodified":1536756194,
+    "wof:name":"Ca Rai",
+    "wof:parent_id":1108780883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11667,
+    22.9,
+    106.11667,
+    22.9
+],
+  "geometry": {"coordinates":[106.11667,22.9],"type":"Point"}
+}

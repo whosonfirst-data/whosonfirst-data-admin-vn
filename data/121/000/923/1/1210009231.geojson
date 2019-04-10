@@ -1,0 +1,67 @@
+{
+  "id": 1210009231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,22.66667,106.65,22.66667",
+    "geom:latitude":22.66667,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kham Din",
+    "gn:country_code":"VN",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579662,
+    "gn:latitude":22.66667,
+    "gn:longitude":106.65,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kh\u00e2m \u0110in",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579662
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c6616b480b1629e3f585ef1df76ef4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780889,
+            "locality_id":1210009231,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1210009231,
+    "wof:lastmodified":1536370296,
+    "wof:name":"Kham Din",
+    "wof:parent_id":1108780889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    22.66667,
+    106.65,
+    22.66667
+],
+  "geometry": {"coordinates":[106.65000000000001,22.66667],"type":"Point"}
+}

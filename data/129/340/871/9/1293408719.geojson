@@ -1,0 +1,67 @@
+{
+  "id": 1293408719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.86667,14.76667,108.86667,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":108.86667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Lang Goi Gia",
+    "gn:country_code":"VN",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1577338,
+    "gn:latitude":14.76667,
+    "gn:longitude":108.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Goi Gia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577338
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c08f49ded7165010cbd8f875783ed8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781661,
+            "locality_id":1293408719,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1293408719,
+    "wof:lastmodified":1536900652,
+    "wof:name":"Lang Goi Gia",
+    "wof:parent_id":1108781661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.86667,
+    14.76667,
+    108.86667,
+    14.76667
+],
+  "geometry": {"coordinates":[108.86667,14.76667],"type":"Point"}
+}

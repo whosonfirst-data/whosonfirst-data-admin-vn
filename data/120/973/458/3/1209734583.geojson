@@ -1,0 +1,70 @@
+{
+  "id": 1209734583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51076,22.43701,105.51076,22.43701",
+    "geom:latitude":22.43701,
+    "geom:longitude":105.51076,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Luc",
+    "gn:country_code":"VN",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523087,
+    "gn:latitude":22.43701,
+    "gn:longitude":105.51076,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"B\u1ea3n L\u1ee5c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u1ee5c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523087
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b2d4c997d326b5d3facb2f844e2be37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1209734583,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1209734583,
+    "wof:lastmodified":1537714329,
+    "wof:name":"Ban Luc",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51076,
+    22.43701,
+    105.51076,
+    22.43701
+],
+  "geometry": {"coordinates":[105.51076,22.43701],"type":"Point"}
+}

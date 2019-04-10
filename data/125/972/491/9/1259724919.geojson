@@ -1,0 +1,77 @@
+{
+  "id": 1259724919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59941,21.75917,103.59941,21.75917",
+    "geom:latitude":21.75917,
+    "geom:longitude":103.59941,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Pac Ma",
+    "gn:country_code":"VN",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589241,
+    "gn:latitude":21.75917,
+    "gn:longitude":103.59941,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"B\u1ea3n P\u1eafc Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma",
+        "B\u1ea3n Pa Ma"
+    ],
+    "name:vie_x_preferred":[
+        "P\u1eafc Ma"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n P\u1eafc Ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589241
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c250e3a3479c6733f85906fe2c26bcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780997,
+            "locality_id":1259724919,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1259724919,
+    "wof:lastmodified":1537714093,
+    "wof:name":"Ban Pac Ma",
+    "wof:parent_id":1108780997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59941,
+    21.75917,
+    103.59941,
+    21.75917
+],
+  "geometry": {"coordinates":[103.59941000000001,21.75917],"type":"Point"}
+}

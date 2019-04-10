@@ -1,0 +1,67 @@
+{
+  "id": 1293599865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8286,22.34083,105.8286,22.34083",
+    "geom:latitude":22.34083,
+    "geom:longitude":105.8286,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Phieng Coong",
+    "gn:country_code":"VN",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311519,
+    "gn:latitude":22.34083,
+    "gn:longitude":105.8286,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Phi\u00eang Co\u1ecdng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311519
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7cca3d8e83dfb3afd2ffbb21a4d79b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1293599865,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293599865,
+    "wof:lastmodified":1536623030,
+    "wof:name":"Phieng Coong",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8286,
+    22.34083,
+    105.8286,
+    22.34083
+],
+  "geometry": {"coordinates":[105.82859999999999,22.34083],"type":"Point"}
+}

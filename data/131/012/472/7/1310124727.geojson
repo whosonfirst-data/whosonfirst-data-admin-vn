@@ -1,0 +1,73 @@
+{
+  "id": 1310124727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.70072,10.92959,106.70072,10.92959",
+    "geom:latitude":10.92959,
+    "geom:longitude":106.70072,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Binh Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593866,
+    "gn:latitude":10.92959,
+    "gn:longitude":106.70072,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u00ecnh H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00ecnh H\u00f2a 1"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593866
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"afdccb551cbe699348132ae736b12b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781965,
+            "locality_id":1310124727,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1310124727,
+    "wof:lastmodified":1537714196,
+    "wof:name":"Binh Hoa",
+    "wof:parent_id":1108781965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.70072,
+    10.92959,
+    106.70072,
+    10.92959
+],
+  "geometry": {"coordinates":[106.70072,10.92959],"type":"Point"}
+}

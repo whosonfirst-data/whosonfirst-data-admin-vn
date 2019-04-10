@@ -1,0 +1,67 @@
+{
+  "id": 1326649001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.16667,12.23333,109.16667,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":109.16667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Vinh Thai",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562619,
+    "gn:latitude":12.23333,
+    "gn:longitude":109.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0129nh Th\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562619
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"92e2da9bd5c34c62af36858adc7d26c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781715,
+            "locality_id":1326649001,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1326649001,
+    "wof:lastmodified":1536814946,
+    "wof:name":"Vinh Thai",
+    "wof:parent_id":1108781715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.16667,
+    12.23333,
+    109.16667,
+    12.23333
+],
+  "geometry": {"coordinates":[109.16667,12.23333],"type":"Point"}
+}

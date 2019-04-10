@@ -1,0 +1,67 @@
+{
+  "id": 1326940999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06667,20.68333,106.06667,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":106.06667,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Yen Tao",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560097,
+    "gn:latitude":20.68333,
+    "gn:longitude":106.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00e8n Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560097
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c8a0d9357520b1269b07025992e20095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781293,
+            "locality_id":1326940999,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1326940999,
+    "wof:lastmodified":1536891742,
+    "wof:name":"Yen Tao",
+    "wof:parent_id":1108781293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06667,
+    20.68333,
+    106.06667,
+    20.68333
+],
+  "geometry": {"coordinates":[106.06667,20.68333],"type":"Point"}
+}

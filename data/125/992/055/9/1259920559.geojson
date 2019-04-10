@@ -1,0 +1,67 @@
+{
+  "id": 1259920559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20287,19.94991,105.20287,19.94991",
+    "geom:latitude":19.94991,
+    "geom:longitude":105.20287,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Mac",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890466,
+    "gn:latitude":19.94991,
+    "gn:longitude":105.20287,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"B\u1ea3n M\u1eb7c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890466
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7e3cddc1c51fa062039e48bb4598308c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1259920559,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259920559,
+    "wof:lastmodified":1536726142,
+    "wof:name":"Ban Mac",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20287,
+    19.94991,
+    105.20287,
+    19.94991
+],
+  "geometry": {"coordinates":[105.20287,19.94991],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293894213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.9,15.1,108.9,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":108.9,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Phu Nghia",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570321,
+    "gn:latitude":15.1,
+    "gn:longitude":108.9,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ph\u00fa Ngh\u0129a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trang Liet",
+        "Ph\u00fa Ngh\u0129a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570321
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a179be72b5f6030a2059504153ac82ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781645,
+            "locality_id":1293894213,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1293894213,
+    "wof:lastmodified":1537713827,
+    "wof:name":"Phu Nghia",
+    "wof:parent_id":1108781645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.9,
+    15.1,
+    108.9,
+    15.1
+],
+  "geometry": {"coordinates":[108.90000000000001,15.1],"type":"Point"}
+}

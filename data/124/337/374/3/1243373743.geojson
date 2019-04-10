@@ -1,0 +1,67 @@
+{
+  "id": 1243373743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18333,21.58333,105.18333,21.58333",
+    "geom:latitude":21.58333,
+    "geom:longitude":105.18333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Yen Kien (1)",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560240,
+    "gn:latitude":21.58333,
+    "gn:longitude":105.18333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Y\u00ean Ki\u1ec7n (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560240
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a612a37ca6106891fbd3c8b77342312f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781169,
+            "locality_id":1243373743,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1243373743,
+    "wof:lastmodified":1536910680,
+    "wof:name":"Yen Kien (1)",
+    "wof:parent_id":1108781169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18333,
+    21.58333,
+    105.18333,
+    21.58333
+],
+  "geometry": {"coordinates":[105.18333,21.58333],"type":"Point"}
+}

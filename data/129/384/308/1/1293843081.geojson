@@ -1,0 +1,67 @@
+{
+  "id": 1293843081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51667,20.78333,104.51667,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":104.51667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban A Ma",
+    "gn:country_code":"VN",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591223,
+    "gn:latitude":20.78333,
+    "gn:longitude":104.51667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n A Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591223
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82568cb80442de8dfbfb33169e332e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1293843081,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1293843081,
+    "wof:lastmodified":1536772287,
+    "wof:name":"Ban A Ma",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51667,
+    20.78333,
+    104.51667,
+    20.78333
+],
+  "geometry": {"coordinates":[104.51667,20.78333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242796755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,21.3,105.81667,21.3",
+    "geom:latitude":21.3,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thanh Lam",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566144,
+    "gn:latitude":21.3,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thanh L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tham Lam",
+        "Thanh L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566144
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"90c4af1e4ec97d8381388271f46916a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780805,
+            "locality_id":1242796755,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1242796755,
+    "wof:lastmodified":1537713773,
+    "wof:name":"Thanh Lam",
+    "wof:parent_id":1108780805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    21.3,
+    105.81667,
+    21.3
+],
+  "geometry": {"coordinates":[105.81667,21.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343973319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,21.08333,105.71667,21.08333",
+    "geom:latitude":21.08333,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Hanh Dan",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581145,
+    "gn:latitude":21.08333,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"H\u1ea1nh \u0110\u00e0n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7db909e38e28141066b1c1248fe3beda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780827,
+            "locality_id":1343973319,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1343973319,
+    "wof:lastmodified":1537000633,
+    "wof:name":"Hanh Dan",
+    "wof:parent_id":1108780827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    21.08333,
+    105.71667,
+    21.08333
+],
+  "geometry": {"coordinates":[105.71666999999999,21.08333],"type":"Point"}
+}

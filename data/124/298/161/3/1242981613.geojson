@@ -1,0 +1,75 @@
+{
+  "id": 1242981613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21943,9.87369,106.21943,9.87369",
+    "geom:latitude":9.87369,
+    "geom:longitude":106.21943,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Lo Ngo",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581664,
+    "gn:latitude":9.87369,
+    "gn:longitude":106.21943,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"L\u00f2 Ng\u1edd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e0 Ng\u00f4 Nh\u1ecf",
+        "Gi\u1ed3ng Lo Ng\u00f3 Nh\u1ecf",
+        "Gi\u1ed3ng B\u00e0 Ng\u00f4 Nh\u1ecf"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f2 Ng\u1edd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581664
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e723ad1f2a86d2a29afb94179b27199d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782139,
+            "locality_id":1242981613,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1242981613,
+    "wof:lastmodified":1537713979,
+    "wof:name":"Lo Ngo",
+    "wof:parent_id":1108782139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21943,
+    9.87369,
+    106.21943,
+    9.87369
+],
+  "geometry": {"coordinates":[106.21943,9.87369],"type":"Point"}
+}

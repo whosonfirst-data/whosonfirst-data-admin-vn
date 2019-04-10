@@ -1,0 +1,70 @@
+{
+  "id": 1260095537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40048,21.65562,105.40048,21.65562",
+    "geom:latitude":21.65562,
+    "geom:longitude":105.40048,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Binh Tich",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587755,
+    "gn:latitude":21.65562,
+    "gn:longitude":105.40048,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u00ecnh T\u00edch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh T\u00edch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587755
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1bf2216db0f4fb6e1607964bb51c7fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1260095537,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1260095537,
+    "wof:lastmodified":1537714069,
+    "wof:name":"Binh Tich",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40048,
+    21.65562000000001,
+    105.40048,
+    21.65562000000001
+],
+  "geometry": {"coordinates":[105.40048,21.65562000000001],"type":"Point"}
+}

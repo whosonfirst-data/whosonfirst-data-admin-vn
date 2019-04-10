@@ -1,0 +1,73 @@
+{
+  "id": 1276872999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20179,10.25044,106.20179,10.25044",
+    "geom:latitude":10.25044,
+    "geom:longitude":106.20179,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tien Loi",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591920,
+    "gn:latitude":10.25044,
+    "gn:longitude":106.20179,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ti\u00ean L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Ti\u00ean L\u1ee3i"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u00ean L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591920
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9c3fc856b65ed1f8a252c2960d8836c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1276872999,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1276872999,
+    "wof:lastmodified":1537714146,
+    "wof:name":"Tien Loi",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20179,
+    10.25044,
+    106.20179,
+    10.25044
+],
+  "geometry": {"coordinates":[106.20179,10.25044],"type":"Point"}
+}

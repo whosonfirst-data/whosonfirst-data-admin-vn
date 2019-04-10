@@ -1,0 +1,70 @@
+{
+  "id": 1343781033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14551,21.20214,105.14551,21.20214",
+    "geom:latitude":21.20214,
+    "geom:longitude":105.14551,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Mai Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200295,
+    "gn:latitude":21.20214,
+    "gn:longitude":105.14551,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mai Thinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Mai Thinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200295
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bcf568a1ec843ca3d31ce019e0a22d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1343781033,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343781033,
+    "wof:lastmodified":1537714234,
+    "wof:name":"Mai Thinh",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14551000000002,
+    21.20214,
+    105.14551000000002,
+    21.20214
+],
+  "geometry": {"coordinates":[105.14551000000002,21.20214],"type":"Point"}
+}

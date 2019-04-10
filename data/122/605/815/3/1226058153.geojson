@@ -1,0 +1,67 @@
+{
+  "id": 1226058153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,19.11667,105.08333,19.11667",
+    "geom:latitude":19.11667,
+    "geom:longitude":105.08333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dong Van",
+    "gn:country_code":"VN",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582474,
+    "gn:latitude":19.11667,
+    "gn:longitude":105.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dong Van",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582474
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"adf40ee35e6b4da1fccf673d77defe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781473,
+            "locality_id":1226058153,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1226058153,
+    "wof:lastmodified":1536707490,
+    "wof:name":"Dong Van",
+    "wof:parent_id":1108781473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    19.11667000000001,
+    105.08333,
+    19.11667000000001
+],
+  "geometry": {"coordinates":[105.08333,19.11667000000001],"type":"Point"}
+}

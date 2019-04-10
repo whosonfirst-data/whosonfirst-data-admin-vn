@@ -1,0 +1,70 @@
+{
+  "id": 1343973379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51789,21.96717,105.51789,21.96717",
+    "geom:latitude":21.96717,
+    "geom:longitude":105.51789,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Vang Nguoc",
+    "gn:country_code":"VN",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523156,
+    "gn:latitude":21.96717,
+    "gn:longitude":105.51789,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"V\u00e0ng Ng\u01b0\u1ee3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e0ng Ng\u01b0\u1ee3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523156
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1b495dccc895aee3cba9963bb323bcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1343973379,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343973379,
+    "wof:lastmodified":1537714331,
+    "wof:name":"Vang Nguoc",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51789,
+    21.96717,
+    105.51789,
+    21.96717
+],
+  "geometry": {"coordinates":[105.51788999999999,21.96717],"type":"Point"}
+}

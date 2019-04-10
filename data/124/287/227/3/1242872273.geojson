@@ -1,0 +1,74 @@
+{
+  "id": 1242872273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38069,22.96069,105.38069,22.96069",
+    "geom:latitude":22.96069,
+    "geom:longitude":105.38069,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Na Man",
+    "gn:country_code":"VN",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573287,
+    "gn:latitude":22.96069,
+    "gn:longitude":105.38069,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n N\u00e0 M\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Nom",
+        "Na Mon"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u00e0 M\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573287
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d20210c910a95354568df0076de22e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1242872273,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1242872273,
+    "wof:lastmodified":1537713867,
+    "wof:name":"Ban Na Man",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38069,
+    22.96069,
+    105.38069,
+    22.96069
+],
+  "geometry": {"coordinates":[105.38069,22.96069],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243191307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.00605,11.41491,109.00605,11.41491",
+    "geom:latitude":11.41491,
+    "geom:longitude":109.00605,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Son Hai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565340,
+    "gn:latitude":11.41491,
+    "gn:longitude":109.00605,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"S\u01a1n H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n S\u01a1n H\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "S\u01a1n H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565340,
+        "wk:page":"S%C6%A1n_H%E1%BA%A3i"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d390f8400ab96f01c7d1bf5c5dc12d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1243191307,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1243191307,
+    "wof:lastmodified":1537713749,
+    "wof:name":"Son Hai",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.00605,
+    11.41491,
+    109.00605,
+    11.41491
+],
+  "geometry": {"coordinates":[109.00605,11.41491],"type":"Point"}
+}

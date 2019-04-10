@@ -1,0 +1,73 @@
+{
+  "id": 1293925001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63285,21.01103,104.63285,21.01103",
+    "geom:latitude":21.01103,
+    "geom:longitude":104.63285,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Na Mi",
+    "gn:country_code":"VN",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573446,
+    "gn:latitude":21.01103,
+    "gn:longitude":104.63285,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n N\u00e0 M\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Mi"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u00e0 M\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3f7809b6fa98761e77d4a3588a05663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1293925001,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1293925001,
+    "wof:lastmodified":1537713869,
+    "wof:name":"Ban Na Mi",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63285,
+    21.01103,
+    104.63285,
+    21.01103
+],
+  "geometry": {"coordinates":[104.63285,21.01103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243473513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,18.78333,105.3,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Thanh La",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566145,
+    "gn:latitude":18.78333,
+    "gn:longitude":105.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thanh L\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9f365a6e914c592bb84cd5b304b6806a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781483,
+            "locality_id":1243473513,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243473513,
+    "wof:lastmodified":1536766955,
+    "wof:name":"Thanh La",
+    "wof:parent_id":1108781483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    18.78333,
+    105.3,
+    18.78333
+],
+  "geometry": {"coordinates":[105.3,18.78333],"type":"Point"}
+}

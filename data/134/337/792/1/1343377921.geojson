@@ -1,0 +1,70 @@
+{
+  "id": 1343377921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78538,22.13151,105.78538,22.13151",
+    "geom:latitude":22.13151,
+    "geom:longitude":105.78538,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Vai",
+    "gn:country_code":"VN",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869936,
+    "gn:latitude":22.13151,
+    "gn:longitude":105.78538,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"N\u00e0 V\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 V\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869936
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7e87645da5cb3e7bf67d02493a107dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1343377921,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343377921,
+    "wof:lastmodified":1537714533,
+    "wof:name":"Na Vai",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78538,
+    22.13151,
+    105.78538,
+    22.13151
+],
+  "geometry": {"coordinates":[105.78538,22.13151],"type":"Point"}
+}

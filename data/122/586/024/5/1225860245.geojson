@@ -1,0 +1,70 @@
+{
+  "id": 1225860245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23,22.38052,103.23,22.38052",
+    "geom:latitude":22.38052,
+    "geom:longitude":103.23,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pa Cha O",
+    "gn:country_code":"VN",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456848,
+    "gn:latitude":22.38052,
+    "gn:longitude":103.23,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Pa Cha \u00d4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pa Cha \u00d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456848
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13726b8e62e90d30fb27b348b3333bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1225860245,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1225860245,
+    "wof:lastmodified":1537714317,
+    "wof:name":"Pa Cha O",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23,
+    22.38052,
+    103.23,
+    22.38052
+],
+  "geometry": {"coordinates":[103.23,22.38052],"type":"Point"}
+}

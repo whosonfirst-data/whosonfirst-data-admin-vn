@@ -1,0 +1,67 @@
+{
+  "id": 1243279433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.85,15.08333,108.85,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":108.85,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Dien An",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583479,
+    "gn:latitude":15.08333,
+    "gn:longitude":108.85,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110i\u1ec7n An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef3c738c5783ea61c73849f4fb6687be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781645,
+            "locality_id":1243279433,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1243279433,
+    "wof:lastmodified":1537044372,
+    "wof:name":"Dien An",
+    "wof:parent_id":1108781645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.85,
+    15.08333,
+    108.85,
+    15.08333
+],
+  "geometry": {"coordinates":[108.84999999999999,15.08333],"type":"Point"}
+}

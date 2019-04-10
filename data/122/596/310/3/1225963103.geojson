@@ -1,0 +1,70 @@
+{
+  "id": 1225963103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79907,22.05275,105.79907,22.05275",
+    "geom:latitude":22.05275,
+    "geom:longitude":105.79907,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Pia",
+    "gn:country_code":"VN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870005,
+    "gn:latitude":22.05275,
+    "gn:longitude":105.79907,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n Pia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Pia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870005
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f11c5891be72c7e2001e3157788ce761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1225963103,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1225963103,
+    "wof:lastmodified":1537714534,
+    "wof:name":"Ban Pia",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79907,
+    22.05275,
+    105.79907,
+    22.05275
+],
+  "geometry": {"coordinates":[105.79907,22.05275],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310599181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,22.55,106.38333,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khuoi Linh Dau",
+    "gn:country_code":"VN",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579117,
+    "gn:latitude":22.55,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khu\u1ed5i Linh \u0110\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuo Linh Dau",
+        "Khu\u1ed5i Linh \u0110\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579117
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"be6b001207feabcc459ca31b01bf39d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780897,
+            "locality_id":1310599181,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1310599181,
+    "wof:lastmodified":1537713948,
+    "wof:name":"Khuoi Linh Dau",
+    "wof:parent_id":1108780897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    22.55,
+    106.38333,
+    22.55
+],
+  "geometry": {"coordinates":[106.38333,22.55],"type":"Point"}
+}

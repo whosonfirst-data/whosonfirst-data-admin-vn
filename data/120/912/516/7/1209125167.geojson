@@ -1,0 +1,64 @@
+{
+  "id": 1209125167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99236,11.68823,106.99236,11.68823",
+    "geom:latitude":11.68823,
+    "geom:longitude":106.99236,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Phu Trung",
+    "gn:country_code":"VN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9078122,
+    "gn:latitude":11.68823,
+    "gn:longitude":106.99236,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9078122
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1a2463f76b9b4384f0c9c7e1477d644b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125167
+        }
+    ],
+    "wof:id":1209125167,
+    "wof:lastmodified":1537714439,
+    "wof:name":"Phu Trung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99236,
+    11.68823,
+    106.99236,
+    11.68823
+],
+  "geometry": {"coordinates":[106.99236000000001,11.68823],"type":"Point"}
+}

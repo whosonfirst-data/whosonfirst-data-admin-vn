@@ -1,0 +1,73 @@
+{
+  "id": 1343976943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90169,21.9317,106.90169,21.9317",
+    "geom:latitude":21.9317,
+    "geom:longitude":106.90169,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Keo Luot",
+    "gn:country_code":"VN",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579772,
+    "gn:latitude":21.9317,
+    "gn:longitude":106.90169,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"K\u00e9o L\u01b0\u1ee3t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keo L\u01b0\u1ee3t"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00e9o L\u01b0\u1ee3t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579772
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ffcc1b1736c86aa54b74de2a16861a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781095,
+            "locality_id":1343976943,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343976943,
+    "wof:lastmodified":1537713957,
+    "wof:name":"Keo Luot",
+    "wof:parent_id":1108781095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90169,
+    21.9317,
+    106.90169,
+    21.9317
+],
+  "geometry": {"coordinates":[106.90169,21.9317],"type":"Point"}
+}

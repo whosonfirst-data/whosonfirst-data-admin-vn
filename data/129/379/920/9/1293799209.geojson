@@ -1,0 +1,71 @@
+{
+  "id": 1293799209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,15.15,107.73333,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Guga",
+    "gn:country_code":"VN",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1581434,
+    "gn:latitude":15.15,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Guga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gouga",
+        "Guga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581434
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b6e4dea204df340e90d53842ad1237bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1293799209,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1293799209,
+    "wof:lastmodified":1537713975,
+    "wof:name":"Guga",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    15.15,
+    107.73333,
+    15.15
+],
+  "geometry": {"coordinates":[107.73333,15.15],"type":"Point"}
+}

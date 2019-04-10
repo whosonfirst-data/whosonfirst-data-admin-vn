@@ -1,0 +1,72 @@
+{
+  "id": 1209726313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.55,10.55,107.55,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":107.55,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ap Binh Chau",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593889,
+    "gn:latitude":10.55,
+    "gn:longitude":107.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p B\u00ecnh Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binh Chau",
+        "\u1ea4p B\u00ecnh Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593889,
+        "wk:page":"B%C3%ACnh_Ch%C3%A2u"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e15821b03a38501c5934af326872243d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781997,
+            "locality_id":1209726313,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1209726313,
+    "wof:lastmodified":1537714197,
+    "wof:name":"Ap Binh Chau",
+    "wof:parent_id":1108781997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.55,
+    10.55,
+    107.55,
+    10.55
+],
+  "geometry": {"coordinates":[107.55,10.55],"type":"Point"}
+}

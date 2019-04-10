@@ -1,0 +1,67 @@
+{
+  "id": 1293019809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99647,22.4465,105.99647,22.4465",
+    "geom:latitude":22.4465,
+    "geom:longitude":105.99647,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Dong Pieu",
+    "gn:country_code":"VN",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311858,
+    "gn:latitude":22.4465,
+    "gn:longitude":105.99647,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"\u0110\u00f4ng Pi\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311858
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aa33f13140c598c429a260ca0d08d075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1293019809,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293019809,
+    "wof:lastmodified":1536964119,
+    "wof:name":"Dong Pieu",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99647,
+    22.4465,
+    105.99647,
+    22.4465
+],
+  "geometry": {"coordinates":[105.99647,22.4465],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209433661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30481,22.14261,105.30481,22.14261",
+    "geom:latitude":22.14261,
+    "geom:longitude":105.30481,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ngoc Tien",
+    "gn:country_code":"VN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309295,
+    "gn:latitude":22.14261,
+    "gn:longitude":105.30481,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ng\u1ecdc Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309295
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aec755b5017c40e51604bcde1274d54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433661
+        }
+    ],
+    "wof:id":1209433661,
+    "wof:lastmodified":1537714252,
+    "wof:name":"Ngoc Tien",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30481,
+    22.14261,
+    105.30481,
+    22.14261
+],
+  "geometry": {"coordinates":[105.30481,22.14261],"type":"Point"}
+}

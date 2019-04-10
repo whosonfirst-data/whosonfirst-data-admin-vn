@@ -1,0 +1,70 @@
+{
+  "id": 1343280839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.18582,21.43002,106.18582,21.43002",
+    "geom:latitude":21.43002,
+    "geom:longitude":106.18582,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Bai Cat",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867481,
+    "gn:latitude":21.43002,
+    "gn:longitude":106.18582,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00e3i C\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e3i C\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867481
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"832ec1db2a37e38536d34d4edd88be78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781149,
+            "locality_id":1343280839,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343280839,
+    "wof:lastmodified":1537714506,
+    "wof:name":"Bai Cat",
+    "wof:parent_id":1108781149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.18582,
+    21.43002000000001,
+    106.18582,
+    21.43002000000001
+],
+  "geometry": {"coordinates":[106.18582000000001,21.43002000000001],"type":"Point"}
+}

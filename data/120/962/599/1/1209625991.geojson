@@ -1,0 +1,61 @@
+{
+  "id": 1209625991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99417,9.62583,105.99417,9.62583",
+    "geom:latitude":9.62583,
+    "geom:longitude":105.99417,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Chung Don",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585218,
+    "gn:latitude":9.62583,
+    "gn:longitude":105.99417,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Chung \u0110\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585218
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"add1180fe0fa30f49f1557e90fe7973d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209625991
+        }
+    ],
+    "wof:id":1209625991,
+    "wof:lastmodified":1536281352,
+    "wof:name":"Chung Don",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99417,
+    9.62583,
+    105.99417,
+    9.62583
+],
+  "geometry": {"coordinates":[105.99417,9.62583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259998411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85806,9.50417,105.85806,9.50417",
+    "geom:latitude":9.50417,
+    "geom:longitude":105.85806,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Thanh Phu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566079,
+    "gn:latitude":9.50417,
+    "gn:longitude":105.85806,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"Th\u1ea1nh Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566079
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cca8e0950202e8945e386ae030519de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782301,
+            "locality_id":1259998411,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1259998411,
+    "wof:lastmodified":1536611077,
+    "wof:name":"Thanh Phu",
+    "wof:parent_id":1108782301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85806,
+    9.50417,
+    105.85806,
+    9.50417
+],
+  "geometry": {"coordinates":[105.85805999999999,9.50417],"type":"Point"}
+}

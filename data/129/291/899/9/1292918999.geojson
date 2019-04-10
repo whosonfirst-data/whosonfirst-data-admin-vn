@@ -1,0 +1,67 @@
+{
+  "id": 1292918999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16667,22.58333,103.16667,22.58333",
+    "geom:latitude":22.58333,
+    "geom:longitude":103.16667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pin Chai",
+    "gn:country_code":"VN",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569738,
+    "gn:latitude":22.58333,
+    "gn:longitude":103.16667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00ecn Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569738
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"366d5877f7f8565ef13bf16e25351f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1292918999,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1292918999,
+    "wof:lastmodified":1536609757,
+    "wof:name":"Pin Chai",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16667,
+    22.58333,
+    103.16667,
+    22.58333
+],
+  "geometry": {"coordinates":[103.16667,22.58333],"type":"Point"}
+}

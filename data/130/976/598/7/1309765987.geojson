@@ -1,0 +1,67 @@
+{
+  "id": 1309765987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.8,20.9,106.8,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":106.8,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yen Dong",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560293,
+    "gn:latitude":20.9,
+    "gn:longitude":106.8,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Y\u00ean \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7afda9f3ca8540bbff7c0657d8cb666b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781137,
+            "locality_id":1309765987,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1309765987,
+    "wof:lastmodified":1536987813,
+    "wof:name":"Yen Dong",
+    "wof:parent_id":1108781137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8,
+    20.9,
+    106.8,
+    20.9
+],
+  "geometry": {"coordinates":[106.8,20.9],"type":"Point"}
+}

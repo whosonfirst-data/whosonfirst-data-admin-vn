@@ -1,0 +1,67 @@
+{
+  "id": 1276138387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,21.05,105.91667,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Quan Tinh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568658,
+    "gn:latitude":21.05,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Quan T\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568658
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71f8377d933b9eab793a398ec8ea1912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780791,
+            "locality_id":1276138387,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1276138387,
+    "wof:lastmodified":1537038218,
+    "wof:name":"Quan Tinh",
+    "wof:parent_id":1108780791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    21.05,
+    105.91667,
+    21.05
+],
+  "geometry": {"coordinates":[105.91667,21.05],"type":"Point"}
+}

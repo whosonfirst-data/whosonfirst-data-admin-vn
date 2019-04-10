@@ -1,0 +1,70 @@
+{
+  "id": 1293114041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32919,18.99292,105.32919,18.99292",
+    "geom:latitude":18.99292,
+    "geom:longitude":105.32919,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Vinh Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200813,
+    "gn:latitude":18.99292,
+    "gn:longitude":105.32919,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Vinh Th\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vinh Th\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200813
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e48f3c3a45c8d00c5dfbcfad100dbcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1293114041,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293114041,
+    "wof:lastmodified":1537714627,
+    "wof:name":"Vinh Thinh",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32919,
+    18.99292,
+    105.32919,
+    18.99292
+],
+  "geometry": {"coordinates":[105.32919,18.99292],"type":"Point"}
+}

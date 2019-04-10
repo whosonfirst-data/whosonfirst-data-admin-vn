@@ -1,0 +1,70 @@
+{
+  "id": 1242588389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98922,22.70192,104.98922,22.70192",
+    "geom:latitude":22.70192,
+    "geom:longitude":104.98922,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na Hien",
+    "gn:country_code":"VN",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474082,
+    "gn:latitude":22.70192,
+    "gn:longitude":104.98922,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Na Hi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Na Hi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474082
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e7c75ba5f4bcc41f0cae938137fb8bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780849,
+            "locality_id":1242588389,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1242588389,
+    "wof:lastmodified":1537714321,
+    "wof:name":"Na Hien",
+    "wof:parent_id":1108780849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98922,
+    22.70192,
+    104.98922,
+    22.70192
+],
+  "geometry": {"coordinates":[104.98922,22.70192],"type":"Point"}
+}

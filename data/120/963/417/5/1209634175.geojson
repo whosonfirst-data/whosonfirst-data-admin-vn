@@ -1,0 +1,61 @@
+{
+  "id": 1209634175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96667,22.13333,104.96667,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":104.96667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Tuang",
+    "gn:country_code":"VN",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576436,
+    "gn:latitude":22.13333,
+    "gn:longitude":104.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Tu\u00e1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576436
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c77db64374156d9e0a0bbe640965c2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634175
+        }
+    ],
+    "wof:id":1209634175,
+    "wof:lastmodified":1536281095,
+    "wof:name":"Lang Tuang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96667,
+    22.13333,
+    104.96667,
+    22.13333
+],
+  "geometry": {"coordinates":[104.96666999999999,22.13333],"type":"Point"}
+}

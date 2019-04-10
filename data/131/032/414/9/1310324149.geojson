@@ -1,0 +1,70 @@
+{
+  "id": 1310324149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00605,21.2826,106.00605,21.2826",
+    "geom:latitude":21.2826,
+    "geom:longitude":106.00605,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Hung Dao",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868063,
+    "gn:latitude":21.2826,
+    "gn:longitude":106.00605,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u01b0ng \u0110\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u01b0ng \u0110\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868063
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb89c0808b9cde0eb4bb6d56e70f45d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781161,
+            "locality_id":1310324149,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1310324149,
+    "wof:lastmodified":1537714523,
+    "wof:name":"Hung Dao",
+    "wof:parent_id":1108781161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00605,
+    21.2826,
+    106.00605,
+    21.2826
+],
+  "geometry": {"coordinates":[106.00605,21.2826],"type":"Point"}
+}

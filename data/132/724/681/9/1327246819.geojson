@@ -1,0 +1,67 @@
+{
+  "id": 1327246819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.1,11.08333,107.1,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":107.1,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ap Thanh Dang",
+    "gn:country_code":"VN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592085,
+    "gn:latitude":11.08333,
+    "gn:longitude":107.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u1ea4p Thanh \u0110\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592085
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"efecfe7d84967476d69138308506bde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781979,
+            "locality_id":1327246819,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1327246819,
+    "wof:lastmodified":1536948941,
+    "wof:name":"Ap Thanh Dang",
+    "wof:parent_id":1108781979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.1,
+    11.08333,
+    107.1,
+    11.08333
+],
+  "geometry": {"coordinates":[107.09999999999999,11.08333],"type":"Point"}
+}

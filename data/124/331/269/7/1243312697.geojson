@@ -1,0 +1,74 @@
+{
+  "id": 1243312697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.36667,21.01667,107.36667,21.01667",
+    "geom:latitude":21.01667,
+    "geom:longitude":107.36667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Cam Pha Port",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586356,
+    "gn:latitude":21.01667,
+    "gn:longitude":107.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"C\u1ea9m Ph\u1ea3 Port",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamfa Port",
+        "Port Campha",
+        "Port of Kam Pha",
+        "C\u1ea9m Ph\u1ea3 Port"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586356
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a50b16b6f26c9c7b339422dd11d42362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781115,
+            "locality_id":1243312697,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1243312697,
+    "wof:lastmodified":1537714034,
+    "wof:name":"Cam Pha Port",
+    "wof:parent_id":1108781115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.36667,
+    21.01667,
+    107.36667,
+    21.01667
+],
+  "geometry": {"coordinates":[107.36667,21.01667],"type":"Point"}
+}

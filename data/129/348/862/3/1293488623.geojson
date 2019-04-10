@@ -1,0 +1,67 @@
+{
+  "id": 1293488623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42361,9.96111,106.42361,9.96111",
+    "geom:latitude":9.96111,
+    "geom:longitude":106.42361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kinh Tong Can",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941989,
+    "gn:latitude":9.96111,
+    "gn:longitude":106.42361,
+    "gn:modification_date":"2000-12-19",
+    "gn:name":"Kinh T\u00f4ng Can",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941989
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aca50d76a9345173999879f7a56bbb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1293488623,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293488623,
+    "wof:lastmodified":1536785904,
+    "wof:name":"Kinh Tong Can",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42361,
+    9.96111,
+    106.42361,
+    9.96111
+],
+  "geometry": {"coordinates":[106.42361,9.96111],"type":"Point"}
+}

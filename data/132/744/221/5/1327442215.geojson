@@ -1,0 +1,67 @@
+{
+  "id": 1327442215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36667,21.76667,104.36667,21.76667",
+    "geom:latitude":21.76667,
+    "geom:longitude":104.36667,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Ban",
+    "gn:country_code":"VN",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577790,
+    "gn:latitude":21.76667,
+    "gn:longitude":104.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577790
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2900d25bb27dd1dcb712771cac9e06a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1327442215,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1327442215,
+    "wof:lastmodified":1536666579,
+    "wof:name":"Lang Ban",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36667,
+    21.76667,
+    104.36667,
+    21.76667
+],
+  "geometry": {"coordinates":[104.36667,21.76667],"type":"Point"}
+}

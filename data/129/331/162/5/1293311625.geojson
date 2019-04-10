@@ -1,0 +1,70 @@
+{
+  "id": 1293311625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01487,20.82326,106.01487,20.82326",
+    "geom:latitude":20.82326,
+    "geom:longitude":106.01487,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Van Ngoai",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612961,
+    "gn:latitude":20.82326,
+    "gn:longitude":106.01487,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"V\u00e2n Ngo\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e2n Ngo\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612961
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8d531daeea7fcf35ff88e2cf4cda7b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781299,
+            "locality_id":1293311625,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1293311625,
+    "wof:lastmodified":1537714374,
+    "wof:name":"Van Ngoai",
+    "wof:parent_id":1108781299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01487,
+    20.82326,
+    106.01487,
+    20.82326
+],
+  "geometry": {"coordinates":[106.01487,20.82326],"type":"Point"}
+}

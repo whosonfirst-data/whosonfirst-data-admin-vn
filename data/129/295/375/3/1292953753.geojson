@@ -1,0 +1,67 @@
+{
+  "id": 1292953753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58333,20.41667,106.58333,20.41667",
+    "geom:latitude":20.41667,
+    "geom:longitude":106.58333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tan Lac",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566911,
+    "gn:latitude":20.41667,
+    "gn:longitude":106.58333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"T\u00e2n L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566911
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7615ce03d5e98d97512af46420e764f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781327,
+            "locality_id":1292953753,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1292953753,
+    "wof:lastmodified":1537057045,
+    "wof:name":"Tan Lac",
+    "wof:parent_id":1108781327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58333,
+    20.41667,
+    106.58333,
+    20.41667
+],
+  "geometry": {"coordinates":[106.58333,20.41667],"type":"Point"}
+}

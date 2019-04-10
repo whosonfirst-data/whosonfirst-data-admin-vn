@@ -1,0 +1,73 @@
+{
+  "id": 1326941009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.26069,12.91646,108.26069,12.91646",
+    "geom:latitude":12.91646,
+    "geom:longitude":108.26069,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Ho",
+    "gn:country_code":"VN",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586986,
+    "gn:latitude":12.91646,
+    "gn:longitude":108.26069,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Bu\u00f4n H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n H\u00f4"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586986
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ffde44ed2a6070c8a22142d3b1d07452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781835,
+            "locality_id":1326941009,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1326941009,
+    "wof:lastmodified":1537714051,
+    "wof:name":"Buon Ho",
+    "wof:parent_id":1108781835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.26069,
+    12.91646,
+    108.26069,
+    12.91646
+],
+  "geometry": {"coordinates":[108.26069,12.91646],"type":"Point"}
+}

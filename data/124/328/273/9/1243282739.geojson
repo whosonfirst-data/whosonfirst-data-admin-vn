@@ -1,0 +1,73 @@
+{
+  "id": 1243282739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.89196,10.77813,107.89196,10.77813",
+    "geom:latitude":10.77813,
+    "geom:longitude":107.89196,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Hiep Nghia",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561016,
+    "gn:latitude":10.77813,
+    "gn:longitude":107.89196,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Hi\u1ec7p Ngh\u0129a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m R\u1ec5y"
+    ],
+    "name:vie_x_preferred":[
+        "Hi\u1ec7p Ngh\u0129a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561016
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71a7a895835dc81b2c6c47b7e2022b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781763,
+            "locality_id":1243282739,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1243282739,
+    "wof:lastmodified":1537713676,
+    "wof:name":"Hiep Nghia",
+    "wof:parent_id":1108781763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.89196,
+    10.77813,
+    107.89196,
+    10.77813
+],
+  "geometry": {"coordinates":[107.89196,10.77813],"type":"Point"}
+}

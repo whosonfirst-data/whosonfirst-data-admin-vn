@@ -1,0 +1,67 @@
+{
+  "id": 1327145289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.18333,11.0,107.18333,11.0",
+    "geom:latitude":11.0,
+    "geom:longitude":107.18333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Xa Binh Loc",
+    "gn:country_code":"VN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562344,
+    "gn:latitude":11.0,
+    "gn:longitude":107.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 B\u00ecnh L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562344
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2351fd8534db53f196f66b74941126d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781981,
+            "locality_id":1327145289,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1327145289,
+    "wof:lastmodified":1537092073,
+    "wof:name":"Xa Binh Loc",
+    "wof:parent_id":1108781981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.18333,
+    11.0,
+    107.18333,
+    11.0
+],
+  "geometry": {"coordinates":[107.18333,11.0],"type":"Point"}
+}

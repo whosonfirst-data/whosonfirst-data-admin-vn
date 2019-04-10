@@ -1,0 +1,71 @@
+{
+  "id": 1243378985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86667,11.25,106.86667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":106.86667,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Xa An",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562361,
+    "gn:latitude":11.25,
+    "gn:longitude":106.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom An",
+        "X\u00e3 An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562361
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17e249298bf0f8b7c9334b83d15c2f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1243378985,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1243378985,
+    "wof:lastmodified":1537713706,
+    "wof:name":"Xa An",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86667,
+    11.25,
+    106.86667,
+    11.25
+],
+  "geometry": {"coordinates":[106.86667,11.25],"type":"Point"}
+}

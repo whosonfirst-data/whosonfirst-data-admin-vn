@@ -1,0 +1,67 @@
+{
+  "id": 1293902641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51667,21.48333,105.51667,21.48333",
+    "geom:latitude":21.48333,
+    "geom:longitude":105.51667,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Bo Ly",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587561,
+    "gn:latitude":21.48333,
+    "gn:longitude":105.51667,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"B\u1ed3 L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"33022d7c16e61cb279e6d420b7e38c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781201,
+            "locality_id":1293902641,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1293902641,
+    "wof:lastmodified":1536685769,
+    "wof:name":"Bo Ly",
+    "wof:parent_id":1108781201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51667,
+    21.48333,
+    105.51667,
+    21.48333
+],
+  "geometry": {"coordinates":[105.51667,21.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209159313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28198,19.87087,105.28198,19.87087",
+    "geom:latitude":19.87087,
+    "geom:longitude":105.28198,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Din",
+    "gn:country_code":"VN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577446,
+    "gn:latitude":19.87087,
+    "gn:longitude":105.28198,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"L\u00e0ng D\u00ecn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Dinh"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng D\u00ecn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d735f4afa976feffe743f1d17eb5669",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209159313
+        }
+    ],
+    "wof:id":1209159313,
+    "wof:lastmodified":1537713924,
+    "wof:name":"Lang Din",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28198,
+    19.87087,
+    105.28198,
+    19.87087
+],
+  "geometry": {"coordinates":[105.28198,19.87087],"type":"Point"}
+}

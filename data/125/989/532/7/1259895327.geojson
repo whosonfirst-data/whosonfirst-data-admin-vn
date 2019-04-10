@@ -1,0 +1,73 @@
+{
+  "id": 1259895327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90397,18.45552,105.90397,18.45552",
+    "geom:latitude":18.45552,
+    "geom:longitude":105.90397,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xom Tam",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275142,
+    "gn:latitude":18.45552,
+    "gn:longitude":105.90397,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"X\u00f3m T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f3m 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c70d9c8a567b2153fb44877156341b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1259895327,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1259895327,
+    "wof:lastmodified":1537714668,
+    "wof:name":"Xom Tam",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90397,
+    18.45552,
+    105.90397,
+    18.45552
+],
+  "geometry": {"coordinates":[105.90397,18.45552],"type":"Point"}
+}

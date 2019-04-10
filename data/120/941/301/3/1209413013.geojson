@@ -1,0 +1,66 @@
+{
+  "id": 1209413013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21667,22.86667,106.21667,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":106.21667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lang Siem",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576650,
+    "gn:latitude":22.86667,
+    "gn:longitude":106.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng Si\u1ec1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siem",
+        "L\u00e0ng Si\u1ec1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576650
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55c461e1c7e66c50d15f3bd541671b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209413013
+        }
+    ],
+    "wof:id":1209413013,
+    "wof:lastmodified":1537713910,
+    "wof:name":"Lang Siem",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21667,
+    22.86667000000001,
+    106.21667,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[106.21666999999999,22.86667000000001],"type":"Point"}
+}

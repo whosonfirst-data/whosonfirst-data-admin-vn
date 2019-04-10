@@ -1,0 +1,67 @@
+{
+  "id": 1260197909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,21.71667,103.91667,21.71667",
+    "geom:latitude":21.71667,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Thuong Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564972,
+    "gn:latitude":21.71667,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Thuong Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564972
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"728245f0d12beb1b05386073e739ff84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1260197909,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1260197909,
+    "wof:lastmodified":1536827080,
+    "wof:name":"Thuong Ho",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    21.71667,
+    103.91667,
+    21.71667
+],
+  "geometry": {"coordinates":[103.91667,21.71667],"type":"Point"}
+}

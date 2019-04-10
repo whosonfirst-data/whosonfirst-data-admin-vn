@@ -1,0 +1,74 @@
+{
+  "id": 421196693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.332378,10.131454,106.332378,10.131454",
+    "geom:latitude":10.131454,
+    "geom:longitude":106.332378,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Lomg Ho",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Ben Tre",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1223749,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252704,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1252704,
+        "qs:id":1223749
+    },
+    "wof:country":"VN",
+    "wof:created":1459009890,
+    "wof:geomhash":"27e31d88d5a30fa7ea280aab821e0ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782119,
+            "locality_id":421196693,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":421196693,
+    "wof:lastmodified":1496498173,
+    "wof:name":"Lomg Ho",
+    "wof:parent_id":1108782119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.332378,
+    10.131454,
+    106.332378,
+    10.131454
+],
+  "geometry": {"coordinates":[106.33237800000001,10.131454],"type":"Point"}
+}

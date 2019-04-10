@@ -1,0 +1,67 @@
+{
+  "id": 1326849405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6,21.68333,104.6,21.68333",
+    "geom:latitude":21.68333,
+    "geom:longitude":104.6,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Bam",
+    "gn:country_code":"VN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591186,
+    "gn:latitude":21.68333,
+    "gn:longitude":104.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Bam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591186
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"12991f6d180ab940baf41973cdf80821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1326849405,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1326849405,
+    "wof:lastmodified":1537022999,
+    "wof:name":"Ban Bam",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6,
+    21.68333,
+    104.6,
+    21.68333
+],
+  "geometry": {"coordinates":[104.59999999999999,21.68333],"type":"Point"}
+}

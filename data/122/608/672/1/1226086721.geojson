@@ -1,0 +1,72 @@
+{
+  "id": 1226086721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,19.43333,105.78333,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Nhu Xuan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572007,
+    "gn:latitude":19.43333,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nh\u01b0 Xu\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nux Xuan",
+        "Nh\u01b0 Xu\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572007
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5e7a5a56bf2b9bd07324fc81f8bac9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1226086721,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226086721,
+    "wof:lastmodified":1537713850,
+    "wof:name":"Nhu Xuan",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    19.43333,
+    105.78333,
+    19.43333
+],
+  "geometry": {"coordinates":[105.78333000000001,19.43333],"type":"Point"}
+}

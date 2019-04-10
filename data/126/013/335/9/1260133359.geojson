@@ -1,0 +1,67 @@
+{
+  "id": 1260133359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53333,20.1,105.53333,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":105.53333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Quan Bang",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568859,
+    "gn:latitude":20.1,
+    "gn:longitude":105.53333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Quan B\u1eb1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568859
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3bde546554468804b9068ba5f5fe9e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781407,
+            "locality_id":1260133359,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1260133359,
+    "wof:lastmodified":1536917032,
+    "wof:name":"Quan Bang",
+    "wof:parent_id":1108781407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53333,
+    20.1,
+    105.53333,
+    20.1
+],
+  "geometry": {"coordinates":[105.53333000000001,20.1],"type":"Point"}
+}

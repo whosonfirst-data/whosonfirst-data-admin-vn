@@ -1,0 +1,67 @@
+{
+  "id": 1226797667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,15.68333,107.73333,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Rong",
+    "gn:country_code":"VN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568306,
+    "gn:latitude":15.68333,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568306
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e53efdbbe8fc0cc74e11e4541ffe91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781611,
+            "locality_id":1226797667,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1226797667,
+    "wof:lastmodified":1536639950,
+    "wof:name":"Rong",
+    "wof:parent_id":1108781611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    15.68333,
+    107.73333,
+    15.68333
+],
+  "geometry": {"coordinates":[107.73333,15.68333],"type":"Point"}
+}

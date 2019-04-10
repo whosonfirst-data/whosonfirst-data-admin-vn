@@ -1,0 +1,73 @@
+{
+  "id": 1243076627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29943,10.45345,105.29943,10.45345",
+    "geom:latitude":10.45345,
+    "geom:longitude":105.29943,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Can Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593685,
+    "gn:latitude":10.45345,
+    "gn:longitude":105.29943,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"C\u1ea7n Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p C\u1ea7n Th\u1ea1nh"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7n Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593685
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2eb0c8f8b9517b64b69c1cf408d792a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782213,
+            "locality_id":1243076627,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1243076627,
+    "wof:lastmodified":1537714192,
+    "wof:name":"Can Thanh",
+    "wof:parent_id":1108782213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29943,
+    10.45345,
+    105.29943,
+    10.45345
+],
+  "geometry": {"coordinates":[105.29943,10.45345],"type":"Point"}
+}

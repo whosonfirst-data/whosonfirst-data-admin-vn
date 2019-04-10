@@ -1,0 +1,72 @@
+{
+  "id": 1276244143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13333,23.0,105.13333,23.0",
+    "geom:latitude":23.0,
+    "geom:longitude":105.13333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Loung Heu",
+    "gn:country_code":"VN",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575542,
+    "gn:latitude":23.0,
+    "gn:longitude":105.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loung Heu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loung Hau",
+        "Loung Hou",
+        "Loung Heu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575542
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef8d44d44e03dbcfdc1e79d41f1451ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780859,
+            "locality_id":1276244143,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1276244143,
+    "wof:lastmodified":1537713895,
+    "wof:name":"Loung Heu",
+    "wof:parent_id":1108780859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13333,
+    23.0,
+    105.13333,
+    23.0
+],
+  "geometry": {"coordinates":[105.13333,23.0],"type":"Point"}
+}

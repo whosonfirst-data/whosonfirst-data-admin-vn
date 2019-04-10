@@ -1,0 +1,74 @@
+{
+  "id": 1293154673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86316,11.57073,105.86316,11.57073",
+    "geom:latitude":11.57073,
+    "geom:longitude":105.86316,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ben Ra",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587998,
+    "gn:latitude":11.57073,
+    "gn:longitude":105.86316,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u1ebfn R\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Ben Ra",
+        "B\u1ebfn Ra"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ebfn R\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587998
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b598498b29fbdc912f0e8aca0b11531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781933,
+            "locality_id":1293154673,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1293154673,
+    "wof:lastmodified":1537714072,
+    "wof:name":"Ben Ra",
+    "wof:parent_id":1108781933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86316,
+    11.57073,
+    105.86316,
+    11.57073
+],
+  "geometry": {"coordinates":[105.86315999999999,11.57073],"type":"Point"}
+}

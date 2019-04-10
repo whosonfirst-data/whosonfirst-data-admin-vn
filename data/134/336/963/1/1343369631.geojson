@@ -1,0 +1,76 @@
+{
+  "id": 1343369631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.79011,17.22328,106.79011,17.22328",
+    "geom:latitude":17.22328,
+    "geom:longitude":106.79011,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Kien Giang",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1576073,
+    "gn:latitude":17.22328,
+    "gn:longitude":106.79011,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Ki\u1ebfn Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e2n H\u1eadu",
+        "Let Thuy",
+        "L\u1ec7 Th\u1ee7y"
+    ],
+    "name:vie_x_preferred":[
+        "Ki\u1ebfn Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576073,
+        "wk:page":"Le_Thuy_District"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da84b14c3a11435deaeba0cae39998a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781535,
+            "locality_id":1343369631,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1343369631,
+    "wof:lastmodified":1537713901,
+    "wof:name":"Kien Giang",
+    "wof:parent_id":1108781535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.79011,
+    17.22328,
+    106.79011,
+    17.22328
+],
+  "geometry": {"coordinates":[106.79011,17.22328],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243469707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32764,21.50445,105.32764,21.50445",
+    "geom:latitude":21.50445,
+    "geom:longitude":105.32764,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Hang Duong",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609169,
+    "gn:latitude":21.50445,
+    "gn:longitude":105.32764,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"H\u00e0ng \u0110\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0ng \u0110\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609169
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f5bc7f2a066386b89bcc73f5568e747e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1243469707,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1243469707,
+    "wof:lastmodified":1537714367,
+    "wof:name":"Hang Duong",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32764,
+    21.50445,
+    105.32764,
+    21.50445
+],
+  "geometry": {"coordinates":[105.32764,21.50445],"type":"Point"}
+}

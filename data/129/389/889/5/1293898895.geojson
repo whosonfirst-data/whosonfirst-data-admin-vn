@@ -1,0 +1,67 @@
+{
+  "id": 1293898895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.86667,11.4,108.86667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":108.86667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Can Ron",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586207,
+    "gn:latitude":11.4,
+    "gn:longitude":108.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u00e0n R\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586207
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"259c615cd174aaa90ea0063e1d487780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1293898895,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1293898895,
+    "wof:lastmodified":1536691229,
+    "wof:name":"Can Ron",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.86667,
+    11.4,
+    108.86667,
+    11.4
+],
+  "geometry": {"coordinates":[108.86667,11.4],"type":"Point"}
+}

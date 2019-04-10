@@ -1,0 +1,67 @@
+{
+  "id": 1260332659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,20.1,105.78333,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dong Hau",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582911,
+    "gn:latitude":20.1,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4ng H\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582911
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82a1c1cea7147b0581468db2ac8f6957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781411,
+            "locality_id":1260332659,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1260332659,
+    "wof:lastmodified":1536645568,
+    "wof:name":"Dong Hau",
+    "wof:parent_id":1108781411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    20.1,
+    105.78333,
+    20.1
+],
+  "geometry": {"coordinates":[105.78333000000001,20.1],"type":"Point"}
+}

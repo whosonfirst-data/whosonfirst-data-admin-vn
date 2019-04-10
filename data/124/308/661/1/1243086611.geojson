@@ -1,0 +1,70 @@
+{
+  "id": 1243086611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.09156,20.57751,106.09156,20.57751",
+    "geom:latitude":20.57751,
+    "geom:longitude":106.09156,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Noi Roi",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564220,
+    "gn:latitude":20.57751,
+    "gn:longitude":106.09156,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"N\u1ed9i R\u1ed1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1ed9i R\u1ed1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564220
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b8c791e602addd3557ea055d28c6d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781345,
+            "locality_id":1243086611,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1243086611,
+    "wof:lastmodified":1537714358,
+    "wof:name":"Noi Roi",
+    "wof:parent_id":1108781345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.09156000000002,
+    20.57751,
+    106.09156000000002,
+    20.57751
+],
+  "geometry": {"coordinates":[106.09156000000002,20.57751],"type":"Point"}
+}

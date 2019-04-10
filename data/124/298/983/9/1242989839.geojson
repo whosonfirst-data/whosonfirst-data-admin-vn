@@ -1,0 +1,70 @@
+{
+  "id": 1242989839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86366,20.37637,105.86366,20.37637",
+    "geom:latitude":20.37637,
+    "geom:longitude":105.86366,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Hoang Quyen",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553369,
+    "gn:latitude":20.37637,
+    "gn:longitude":105.86366,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ho\u00e0ng Quy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng Quy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553369
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71d32c800f627ffce4908ecedaceece6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781375,
+            "locality_id":1242989839,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1242989839,
+    "wof:lastmodified":1537714350,
+    "wof:name":"Hoang Quyen",
+    "wof:parent_id":1108781375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86366,
+    20.37637,
+    105.86366,
+    20.37637
+],
+  "geometry": {"coordinates":[105.86366,20.37637],"type":"Point"}
+}

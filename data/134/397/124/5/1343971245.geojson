@@ -1,0 +1,67 @@
+{
+  "id": 1343971245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,10.36667,105.28333,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ap Tay Phu",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592122,
+    "gn:latitude":10.36667,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u1ea4p T\u00e2y Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592122
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5859a07ff4b321ec8885638fbe7349f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782213,
+            "locality_id":1343971245,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1343971245,
+    "wof:lastmodified":1537003606,
+    "wof:name":"Ap Tay Phu",
+    "wof:parent_id":1108782213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    10.36667,
+    105.28333,
+    10.36667
+],
+  "geometry": {"coordinates":[105.28333000000001,10.36667],"type":"Point"}
+}

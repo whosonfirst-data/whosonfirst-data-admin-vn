@@ -1,0 +1,70 @@
+{
+  "id": 1343680811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16774,22.33702,105.16774,22.33702",
+    "geom:latitude":22.33702,
+    "geom:longitude":105.16774,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Thai",
+    "gn:country_code":"VN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523130,
+    "gn:latitude":22.33702,
+    "gn:longitude":105.16774,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00e0 Thai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Thai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a7163e498ad8393b48a16b3eb3264c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1343680811,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343680811,
+    "wof:lastmodified":1537714330,
+    "wof:name":"Na Thai",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16774,
+    22.33702000000001,
+    105.16774,
+    22.33702000000001
+],
+  "geometry": {"coordinates":[105.16773999999999,22.33702000000001],"type":"Point"}
+}

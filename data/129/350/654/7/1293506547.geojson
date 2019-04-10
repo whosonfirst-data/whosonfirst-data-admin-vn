@@ -1,0 +1,71 @@
+{
+  "id": 1293506547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51667,20.7,105.51667,20.7",
+    "geom:latitude":20.7,
+    "geom:longitude":105.51667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Tun Kay",
+    "gn:country_code":"VN",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563416,
+    "gn:latitude":20.7,
+    "gn:longitude":105.51667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tun Kay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan Kay",
+        "Tun Kay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563416
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"faf43c07bf58f2ed2e4e5398ffb9f44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781049,
+            "locality_id":1293506547,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1293506547,
+    "wof:lastmodified":1537713720,
+    "wof:name":"Tun Kay",
+    "wof:parent_id":1108781049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51667,
+    20.7,
+    105.51667,
+    20.7
+],
+  "geometry": {"coordinates":[105.51667,20.7],"type":"Point"}
+}

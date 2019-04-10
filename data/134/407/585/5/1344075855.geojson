@@ -1,0 +1,67 @@
+{
+  "id": 1344075855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51667,22.1,103.51667,22.1",
+    "geom:latitude":22.1,
+    "geom:longitude":103.51667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Nam Dong",
+    "gn:country_code":"VN",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589515,
+    "gn:latitude":22.1,
+    "gn:longitude":103.51667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"B\u1ea3n Nam \u0110\u1ed1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2e5f852d40ee607d48549dff43d0891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1344075855,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1344075855,
+    "wof:lastmodified":1536852271,
+    "wof:name":"Ban Nam Dong",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51667,
+    22.1,
+    103.51667,
+    22.1
+],
+  "geometry": {"coordinates":[103.51667,22.1],"type":"Point"}
+}

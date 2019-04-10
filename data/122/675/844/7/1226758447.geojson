@@ -1,0 +1,70 @@
+{
+  "id": 1226758447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39791,21.89007,106.39791,21.89007",
+    "geom:latitude":21.89007,
+    "geom:longitude":106.39791,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Lan Khinh",
+    "gn:country_code":"VN",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889838,
+    "gn:latitude":21.89007,
+    "gn:longitude":106.39791,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e2n Khinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e2n Khinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889838
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"acdc1855d56aec566e1b43f4f5d31dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1226758447,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226758447,
+    "wof:lastmodified":1537714549,
+    "wof:name":"Lan Khinh",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39791,
+    21.89007,
+    106.39791,
+    21.89007
+],
+  "geometry": {"coordinates":[106.39791,21.89007],"type":"Point"}
+}

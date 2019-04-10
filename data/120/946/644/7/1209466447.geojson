@@ -1,0 +1,64 @@
+{
+  "id": 1209466447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.49203,10.33937,106.49203,10.33937",
+    "geom:latitude":10.33937,
+    "geom:longitude":106.49203,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Thanh Khiet",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338066,
+    "gn:latitude":10.33937,
+    "gn:longitude":106.49203,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Th\u1ea1nh Khi\u1ebft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1nh Khi\u1ebft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338066
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11cf7642dd9155ea226b66941542ee1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209466447
+        }
+    ],
+    "wof:id":1209466447,
+    "wof:lastmodified":1537714288,
+    "wof:name":"Thanh Khiet",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.49203,
+    10.33937,
+    106.49203,
+    10.33937
+],
+  "geometry": {"coordinates":[106.49203,10.33937],"type":"Point"}
+}

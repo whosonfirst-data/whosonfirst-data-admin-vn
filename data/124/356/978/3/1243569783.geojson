@@ -1,0 +1,72 @@
+{
+  "id": 1243569783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38703,22.70256,104.38703,22.70256",
+    "geom:latitude":22.70256,
+    "geom:longitude":104.38703,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Thao Chu Van",
+    "gn:country_code":"VN",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869278,
+    "gn:latitude":22.70256,
+    "gn:longitude":104.38703,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n Th\u00e0o Ch\u1ee9 V\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Th\u00e0o Ch\u1ee9 V\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869278
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"331d06c9492c14ce764abd11663fb416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732431,
+            "empire_id":136253041,
+            "locality_id":1243569783,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1243569783,
+    "wof:lastmodified":1537714528,
+    "wof:name":"Ban Thao Chu Van",
+    "wof:parent_id":1108732431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38703,
+    22.70256,
+    104.38703,
+    22.70256
+],
+  "geometry": {"coordinates":[104.38703,22.70256],"type":"Point"}
+}

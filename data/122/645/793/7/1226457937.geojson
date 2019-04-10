@@ -1,0 +1,73 @@
+{
+  "id": 1226457937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00589,10.95358,107.00589,10.95358",
+    "geom:latitude":10.95358,
+    "geom:longitude":107.00589,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Trang Bom",
+    "gn:country_code":"VN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1562176,
+    "gn:latitude":10.95358,
+    "gn:longitude":107.00589,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Tr\u1ea3ng Bom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e3 Tr\u1ea3ng B\u00f4m"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea3ng Bom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562176
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5bcff2bbdbeb9d2322979489569da50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781979,
+            "locality_id":1226457937,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1226457937,
+    "wof:lastmodified":1537713700,
+    "wof:name":"Trang Bom",
+    "wof:parent_id":1108781979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00589,
+    10.95358,
+    107.00589,
+    10.95358
+],
+  "geometry": {"coordinates":[107.00588999999999,10.95358],"type":"Point"}
+}

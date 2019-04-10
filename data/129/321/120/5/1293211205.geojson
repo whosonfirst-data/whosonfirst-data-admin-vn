@@ -1,0 +1,67 @@
+{
+  "id": 1293211205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.06667,22.25,104.06667,22.25",
+    "geom:latitude":22.25,
+    "geom:longitude":104.06667,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Mou Lao",
+    "gn:country_code":"VN",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574411,
+    "gn:latitude":22.25,
+    "gn:longitude":104.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u00f2u L\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574411
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e414f9a74cebf7d61156bdb9d92e797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1293211205,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1293211205,
+    "wof:lastmodified":1536688339,
+    "wof:name":"Mou Lao",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.06667,
+    22.25,
+    104.06667,
+    22.25
+],
+  "geometry": {"coordinates":[104.06667,22.25],"type":"Point"}
+}

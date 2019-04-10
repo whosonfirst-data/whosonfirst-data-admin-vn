@@ -1,0 +1,67 @@
+{
+  "id": 1242588381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01667,20.53333,106.01667,20.53333",
+    "geom:latitude":20.53333,
+    "geom:longitude":106.01667,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Dong Du",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582973,
+    "gn:latitude":20.53333,
+    "gn:longitude":106.01667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed3ng Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582973
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3dbe888f4b19bb4efc54031d28f6fdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1242588381,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1242588381,
+    "wof:lastmodified":1537046094,
+    "wof:name":"Dong Du",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01667,
+    20.53333,
+    106.01667,
+    20.53333
+],
+  "geometry": {"coordinates":[106.01667,20.53333],"type":"Point"}
+}

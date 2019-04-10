@@ -1,0 +1,72 @@
+{
+  "id": 1309864917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66667,20.9,104.66667,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":104.66667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ba Xenn",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588122,
+    "gn:latitude":20.9,
+    "gn:longitude":104.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba Xenn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Kenn",
+        "Ba Xenn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588122
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18bc29ca10801c94e44758cd8999ff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1309864917,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1309864917,
+    "wof:lastmodified":1537714073,
+    "wof:name":"Ba Xenn",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66667,
+    20.9,
+    104.66667,
+    20.9
+],
+  "geometry": {"coordinates":[104.66667,20.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225860251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04764,21.97392,105.04764,21.97392",
+    "geom:latitude":21.97392,
+    "geom:longitude":105.04764,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Moi",
+    "gn:country_code":"VN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576958,
+    "gn:latitude":21.97392,
+    "gn:longitude":105.04764,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng M\u00f3i"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576958
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4321416cedf78aadc651a403f373d3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780931,
+            "locality_id":1225860251,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1225860251,
+    "wof:lastmodified":1537713916,
+    "wof:name":"Lang Moi",
+    "wof:parent_id":1108780931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04764,
+    21.97392,
+    105.04764,
+    21.97392
+],
+  "geometry": {"coordinates":[105.04764,21.97392],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343677303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,20.51667,106.13333,20.51667",
+    "geom:latitude":20.51667,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Yen Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560142,
+    "gn:latitude":20.51667,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00ean Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen Nhan",
+        "Yeh Ninh",
+        "Y\u00ean Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fd54b577b2aeef33af7ede3f107b1418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1343677303,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1343677303,
+    "wof:lastmodified":1537713660,
+    "wof:name":"Yen Ninh",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    20.51667,
+    106.13333,
+    20.51667
+],
+  "geometry": {"coordinates":[106.13333,20.51667],"type":"Point"}
+}

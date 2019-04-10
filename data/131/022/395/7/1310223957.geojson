@@ -1,0 +1,73 @@
+{
+  "id": 1310223957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37562,9.389,105.37562,9.389",
+    "geom:latitude":9.389,
+    "geom:longitude":105.37562,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Phuoc Truong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592499,
+    "gn:latitude":9.389,
+    "gn:longitude":105.37562,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ph\u01b0\u1edbc Tr\u01b0\u1edbng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Ph\u01b0\u1edbc Tr\u01b0\u1edbng"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc Tr\u01b0\u1edbng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7974c815a4d0c605060a8827b0255f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782311,
+            "locality_id":1310223957,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1310223957,
+    "wof:lastmodified":1537714161,
+    "wof:name":"Phuoc Truong",
+    "wof:parent_id":1108782311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37562,
+    9.389,
+    105.37562,
+    9.389
+],
+  "geometry": {"coordinates":[105.37562,9.389],"type":"Point"}
+}

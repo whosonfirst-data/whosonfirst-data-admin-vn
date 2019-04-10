@@ -1,0 +1,67 @@
+{
+  "id": 1259427959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,11.58333,106.0,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Thien Ngon",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565882,
+    "gn:latitude":11.58333,
+    "gn:longitude":106.0,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Thi\u1ec7n Ng\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565882
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b8e8efa8214c4e67e3f23309d27c91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781933,
+            "locality_id":1259427959,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1259427959,
+    "wof:lastmodified":1536939320,
+    "wof:name":"Thien Ngon",
+    "wof:parent_id":1108781933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    11.58333,
+    106.0,
+    11.58333
+],
+  "geometry": {"coordinates":[106.0,11.58333],"type":"Point"}
+}

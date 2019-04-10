@@ -1,0 +1,67 @@
+{
+  "id": 1276180967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23222,9.48694,105.23222,9.48694",
+    "geom:latitude":9.48694,
+    "geom:longitude":105.23222,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Vinh Tay",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562622,
+    "gn:latitude":9.48694,
+    "gn:longitude":105.23222,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"V\u0129nh T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562622
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c1c35be08ea124dc94ee2cc175c7b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782241,
+            "locality_id":1276180967,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1276180967,
+    "wof:lastmodified":1536982450,
+    "wof:name":"Vinh Tay",
+    "wof:parent_id":1108782241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23222,
+    9.48694,
+    105.23222,
+    9.48694
+],
+  "geometry": {"coordinates":[105.23222,9.48694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327344269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9184,18.35999,105.9184,18.35999",
+    "geom:latitude":18.35999,
+    "geom:longitude":105.9184,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xom Bay",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275335,
+    "gn:latitude":18.35999,
+    "gn:longitude":105.9184,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"X\u00f3m B\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m B\u1ea3y"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f3m 7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3bf457af588540c193b0317c2e5d6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1327344269,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1327344269,
+    "wof:lastmodified":1537714676,
+    "wof:name":"Xom Bay",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9184,
+    18.35999,
+    105.9184,
+    18.35999
+],
+  "geometry": {"coordinates":[105.91840000000001,18.35999],"type":"Point"}
+}

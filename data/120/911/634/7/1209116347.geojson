@@ -1,0 +1,66 @@
+{
+  "id": 1209116347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96667,20.65,105.96667,20.65",
+    "geom:latitude":20.65,
+    "geom:longitude":105.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cho Luong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585414,
+    "gn:latitude":20.65,
+    "gn:longitude":105.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u1ed9 L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cho Dong",
+        "Ch\u1ed9 L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585414
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"629724244e80bcba51f4f9b4e94936fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116347
+        }
+    ],
+    "wof:id":1209116347,
+    "wof:lastmodified":1537714024,
+    "wof:name":"Cho Luong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96667,
+    20.65,
+    105.96667,
+    20.65
+],
+  "geometry": {"coordinates":[105.96666999999999,20.65],"type":"Point"}
+}

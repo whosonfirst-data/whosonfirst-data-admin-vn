@@ -1,0 +1,70 @@
+{
+  "id": 1310619963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41221,21.28483,105.41221,21.28483",
+    "geom:latitude":21.28483,
+    "geom:longitude":105.41221,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thanh Chieu",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201697,
+    "gn:latitude":21.28483,
+    "gn:longitude":105.41221,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Thanh Chi\u1ec3u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh Chi\u1ec3u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201697
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1385a57326764c8dceba7dc4f2b1b522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1310619963,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1310619963,
+    "wof:lastmodified":1537714244,
+    "wof:name":"Thanh Chieu",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41221000000002,
+    21.28483,
+    105.41221000000002,
+    21.28483
+],
+  "geometry": {"coordinates":[105.41221000000002,21.28483],"type":"Point"}
+}

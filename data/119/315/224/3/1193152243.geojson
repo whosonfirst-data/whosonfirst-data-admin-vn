@@ -1,0 +1,70 @@
+{
+  "id": 1193152243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88328,21.12701,105.88328,21.12701",
+    "geom:latitude":21.12701,
+    "geom:longitude":105.88328,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Gia Loc",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616170,
+    "gn:latitude":21.12701,
+    "gn:longitude":105.88328,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Gia L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Gia L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616170
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eba4cebed37967d7a74178de539befdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780807,
+            "locality_id":1193152243,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1193152243,
+    "wof:lastmodified":1537714376,
+    "wof:name":"Gia Loc",
+    "wof:parent_id":1108780807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88328,
+    21.12701,
+    105.88328,
+    21.12701
+],
+  "geometry": {"coordinates":[105.88328,21.12701],"type":"Point"}
+}

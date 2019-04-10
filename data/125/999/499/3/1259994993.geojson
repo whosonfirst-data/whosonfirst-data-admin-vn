@@ -1,0 +1,70 @@
+{
+  "id": 1259994993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31713,21.36399,105.31713,21.36399",
+    "geom:latitude":21.36399,
+    "geom:longitude":105.31713,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Dai Phu",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200807,
+    "gn:latitude":21.36399,
+    "gn:longitude":105.31713,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"\u0110\u1ea1i Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200807
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"63ba537bc539e7f4fe8eac1a25e03b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781165,
+            "locality_id":1259994993,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1259994993,
+    "wof:lastmodified":1537714240,
+    "wof:name":"Dai Phu",
+    "wof:parent_id":1108781165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31713,
+    21.36399,
+    105.31713,
+    21.36399
+],
+  "geometry": {"coordinates":[105.31713000000001,21.36399],"type":"Point"}
+}

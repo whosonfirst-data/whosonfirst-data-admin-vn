@@ -1,0 +1,70 @@
+{
+  "id": 1226758439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68188,21.88045,104.68188,21.88045",
+    "geom:latitude":21.88045,
+    "geom:longitude":104.68188,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Hong Phong",
+    "gn:country_code":"VN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944292,
+    "gn:latitude":21.88045,
+    "gn:longitude":104.68188,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"H\u1ed3ng Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944292
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"faf8c53afe8d282d1346ccb2c67ba796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1226758439,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1226758439,
+    "wof:lastmodified":1537714734,
+    "wof:name":"Hong Phong",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68188,
+    21.88045,
+    104.68188,
+    21.88045
+],
+  "geometry": {"coordinates":[104.68188000000001,21.88045],"type":"Point"}
+}

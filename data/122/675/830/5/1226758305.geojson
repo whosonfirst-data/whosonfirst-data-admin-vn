@@ -1,0 +1,67 @@
+{
+  "id": 1226758305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,20.55,105.9,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Chau Cau",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585664,
+    "gn:latitude":20.55,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u00e2u C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585664
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d233cad18ab0fc5c26e234e06db5d48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781333,
+            "locality_id":1226758305,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1226758305,
+    "wof:lastmodified":1536697606,
+    "wof:name":"Chau Cau",
+    "wof:parent_id":1108781333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    20.55,
+    105.9,
+    20.55
+],
+  "geometry": {"coordinates":[105.90000000000001,20.55],"type":"Point"}
+}

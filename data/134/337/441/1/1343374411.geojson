@@ -1,0 +1,70 @@
+{
+  "id": 1343374411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.8856,11.38521,108.8856,11.38521",
+    "geom:latitude":11.38521,
+    "geom:longitude":108.8856,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Lac Tien",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8994019,
+    "gn:latitude":11.38521,
+    "gn:longitude":108.8856,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u1ea1c Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ea1c Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8994019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c7d8d72b3d6cc3929971be039a38756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1343374411,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1343374411,
+    "wof:lastmodified":1537714427,
+    "wof:name":"Lac Tien",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.8856,
+    11.38521,
+    108.8856,
+    11.38521
+],
+  "geometry": {"coordinates":[108.8856,11.38521],"type":"Point"}
+}

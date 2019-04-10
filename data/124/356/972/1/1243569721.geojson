@@ -1,0 +1,67 @@
+{
+  "id": 1243569721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13333,22.38333,105.13333,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":105.13333,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Loung Dat",
+    "gn:country_code":"VN",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575551,
+    "gn:latitude":22.38333,
+    "gn:longitude":105.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loung Dat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575551
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e6f0d2bbc89824c1d7530b7ce7c61d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1243569721,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243569721,
+    "wof:lastmodified":1536625972,
+    "wof:name":"Loung Dat",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13333,
+    22.38333,
+    105.13333,
+    22.38333
+],
+  "geometry": {"coordinates":[105.13333,22.38333],"type":"Point"}
+}

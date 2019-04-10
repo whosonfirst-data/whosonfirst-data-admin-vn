@@ -1,0 +1,61 @@
+{
+  "id": 1209626045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.63333,22.01667,106.63333,22.01667",
+    "geom:latitude":22.01667,
+    "geom:longitude":106.63333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khon Nioc",
+    "gn:country_code":"VN",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579201,
+    "gn:latitude":22.01667,
+    "gn:longitude":106.63333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kh\u00f4n Nioc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579201
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"08d460319671ad5dfbcc08f181c14aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209626045
+        }
+    ],
+    "wof:id":1209626045,
+    "wof:lastmodified":1536281350,
+    "wof:name":"Khon Nioc",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.63333,
+    22.01667,
+    106.63333,
+    22.01667
+],
+  "geometry": {"coordinates":[106.63333,22.01667],"type":"Point"}
+}

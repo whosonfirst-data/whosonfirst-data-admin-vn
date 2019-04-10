@@ -1,0 +1,61 @@
+{
+  "id": 1209333607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38333,20.46667,105.38333,20.46667",
+    "geom:latitude":20.46667,
+    "geom:longitude":105.38333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Pheo",
+    "gn:country_code":"VN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561101,
+    "gn:latitude":20.46667,
+    "gn:longitude":105.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Ph\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561101
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f684692279bfba200831f31cf412076f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209333607
+        }
+    ],
+    "wof:id":1209333607,
+    "wof:lastmodified":1536290294,
+    "wof:name":"Xom Pheo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38333,
+    20.46667,
+    105.38333,
+    20.46667
+],
+  "geometry": {"coordinates":[105.38333,20.46667],"type":"Point"}
+}

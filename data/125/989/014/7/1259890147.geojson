@@ -1,0 +1,65 @@
+{
+  "id": 1259890147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,18.75,105.75,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Loc Chau",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575893,
+    "gn:latitude":18.75,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"L\u1ed9c Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loc Chao",
+        "L\u1ed9c Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575893
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1b609d221392998fae386175050d8f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259890147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259890147,
+    "wof:lastmodified":1537713899,
+    "wof:name":"Loc Chau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    18.75,
+    105.75,
+    18.75
+],
+  "geometry": {"coordinates":[105.75,18.75],"type":"Point"}
+}

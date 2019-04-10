@@ -1,0 +1,66 @@
+{
+  "id": 1209526277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41667,22.05,106.41667,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":106.41667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Tan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588709,
+    "gn:latitude":22.05,
+    "gn:longitude":106.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Tao",
+        "B\u1ea3n Tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588709
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f02e658d3630116a4a53da045c4e8d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526277
+        }
+    ],
+    "wof:id":1209526277,
+    "wof:lastmodified":1537714083,
+    "wof:name":"Ban Tan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41667,
+    22.05,
+    106.41667,
+    22.05
+],
+  "geometry": {"coordinates":[106.41667,22.05],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209628443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15228,10.86985,105.15228,10.86985",
+    "geom:latitude":10.86985,
+    "geom:longitude":105.15228,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu Yen",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375955,
+    "gn:latitude":10.86985,
+    "gn:longitude":105.15228,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ph\u00fa Y\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Y\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375955
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f11dc83643e4501363e40a517e8a85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209628443
+        }
+    ],
+    "wof:id":1209628443,
+    "wof:lastmodified":1537714299,
+    "wof:name":"Phu Yen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15228,
+    10.86985,
+    105.15228,
+    10.86985
+],
+  "geometry": {"coordinates":[105.15228,10.86985],"type":"Point"}
+}

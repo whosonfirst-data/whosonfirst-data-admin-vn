@@ -1,0 +1,73 @@
+{
+  "id": 1277000769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48234,22.59504,105.48234,22.59504",
+    "geom:latitude":22.59504,
+    "geom:longitude":105.48234,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Nam Ba",
+    "gn:country_code":"VN",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309722,
+    "gn:latitude":22.59504,
+    "gn:longitude":105.48234,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"N\u1eb7m B\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u00e0m B\u00e1"
+    ],
+    "name:vie_x_variant":[
+        "N\u1eb7m B\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"07d5c5b7bd6d13bc3965618bde263863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1277000769,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1277000769,
+    "wof:lastmodified":1537714264,
+    "wof:name":"Nam Ba",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48234,
+    22.59504,
+    105.48234,
+    22.59504
+],
+  "geometry": {"coordinates":[105.48233999999999,22.59504],"type":"Point"}
+}

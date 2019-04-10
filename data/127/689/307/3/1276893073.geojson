@@ -1,0 +1,70 @@
+{
+  "id": 1276893073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44354,18.96821,105.44354,18.96821",
+    "geom:latitude":18.96821,
+    "geom:longitude":105.44354,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nam Son",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200835,
+    "gn:latitude":18.96821,
+    "gn:longitude":105.44354,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Nam S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200835
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7618e1e9f73de418d35a57f7810fc75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1276893073,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276893073,
+    "wof:lastmodified":1537714627,
+    "wof:name":"Nam Son",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44353999999998,
+    18.96821,
+    105.44353999999998,
+    18.96821
+],
+  "geometry": {"coordinates":[105.44353999999998,18.96821],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209014717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,21.03333,106.61667,21.03333",
+    "geom:latitude":21.03333,
+    "geom:longitude":106.61667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tu Lac",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563385,
+    "gn:latitude":21.03333,
+    "gn:longitude":106.61667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"T\u1eed L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563385
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aa0060cb64b24f1fc8d7d071fecd8ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209014717
+        }
+    ],
+    "wof:id":1209014717,
+    "wof:lastmodified":1536300332,
+    "wof:name":"Tu Lac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    21.03333,
+    106.61667,
+    21.03333
+],
+  "geometry": {"coordinates":[106.61667,21.03333],"type":"Point"}
+}

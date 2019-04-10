@@ -1,0 +1,67 @@
+{
+  "id": 1293898899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.1,14.11667,109.1,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":109.1,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Vinh Ly",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562682,
+    "gn:latitude":14.11667,
+    "gn:longitude":109.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0129nh Ly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562682
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5521c58f121451d3e5abcec59a4a7758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781675,
+            "locality_id":1293898899,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1293898899,
+    "wof:lastmodified":1536691222,
+    "wof:name":"Vinh Ly",
+    "wof:parent_id":1108781675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.1,
+    14.11667,
+    109.1,
+    14.11667
+],
+  "geometry": {"coordinates":[109.09999999999999,14.11667],"type":"Point"}
+}

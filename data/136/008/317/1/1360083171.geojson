@@ -1,0 +1,73 @@
+{
+  "id": 1360083171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38725,22.86154,105.38725,22.86154",
+    "geom:latitude":22.86154,
+    "geom:longitude":105.38725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Tong Dun",
+    "gn:country_code":"VN",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309570,
+    "gn:latitude":22.86154,
+    "gn:longitude":105.38725,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n T\u1ed5ng D\u00f9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ed1ng G\u01b0\u1ee1ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n T\u1ed5ng D\u00f9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309570
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1f29b1fe77bd9218f2f455f395ed2367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1360083171,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1360083171,
+    "wof:lastmodified":1537714259,
+    "wof:name":"Ban Tong Dun",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38725,
+    22.86154,
+    105.38725,
+    22.86154
+],
+  "geometry": {"coordinates":[105.38724999999999,22.86154],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276244149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03808,14.4978,109.03808,14.4978",
+    "geom:latitude":14.4978,
+    "geom:longitude":109.03808,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Tai Luong",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567298,
+    "gn:latitude":14.4978,
+    "gn:longitude":109.03808,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"T\u00e0i L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e1i L\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e0i L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567298
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0c94a74ce0a46a1ae12fc949ebb967af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781671,
+            "locality_id":1276244149,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1276244149,
+    "wof:lastmodified":1537713787,
+    "wof:name":"Tai Luong",
+    "wof:parent_id":1108781671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03808,
+    14.4978,
+    109.03808,
+    14.4978
+],
+  "geometry": {"coordinates":[109.03807999999999,14.4978],"type":"Point"}
+}

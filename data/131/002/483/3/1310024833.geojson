@@ -1,0 +1,73 @@
+{
+  "id": 1310024833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97444,22.40303,103.97444,22.40303",
+    "geom:latitude":22.40303,
+    "geom:longitude":103.97444,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Thon Phoi",
+    "gn:country_code":"VN",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576758,
+    "gn:latitude":22.40303,
+    "gn:longitude":103.97444,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Th\u00f4n Ph\u1eddi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Phuoi"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n Ph\u1eddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576758
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d320f77817b5e94d5bfb000c3c3a745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780937,
+            "locality_id":1310024833,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310024833,
+    "wof:lastmodified":1537713912,
+    "wof:name":"Thon Phoi",
+    "wof:parent_id":1108780937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97444,
+    22.40303,
+    103.97444,
+    22.40303
+],
+  "geometry": {"coordinates":[103.97444,22.40303],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259699089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,22.46667,103.85,22.46667",
+    "geom:latitude":22.46667,
+    "geom:longitude":103.85,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lao Toang",
+    "gn:country_code":"VN",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576268,
+    "gn:latitude":22.46667,
+    "gn:longitude":103.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lao Toang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576268
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"09a7fd0da8ca174c69d1f9d6af6a500b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1259699089,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1259699089,
+    "wof:lastmodified":1537042694,
+    "wof:name":"Lao Toang",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    22.46667,
+    103.85,
+    22.46667
+],
+  "geometry": {"coordinates":[103.84999999999999,22.46667],"type":"Point"}
+}

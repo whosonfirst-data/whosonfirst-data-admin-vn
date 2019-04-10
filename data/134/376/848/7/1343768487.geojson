@@ -1,0 +1,73 @@
+{
+  "id": 1343768487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48333,10.21667,106.48333,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":106.48333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chau Hoa",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585655,
+    "gn:latitude":10.21667,
+    "gn:longitude":106.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u00e2u H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chau Phu",
+        "Ch\u00e2u H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585655,
+        "wk:page":"Ch%C3%A2u_H%C3%B3a"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b0da37dfef0870f0bd1c4d5ddf30b7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782121,
+            "locality_id":1343768487,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1343768487,
+    "wof:lastmodified":1537714027,
+    "wof:name":"Chau Hoa",
+    "wof:parent_id":1108782121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48333,
+    10.21667,
+    106.48333,
+    10.21667
+],
+  "geometry": {"coordinates":[106.48333,10.21667],"type":"Point"}
+}

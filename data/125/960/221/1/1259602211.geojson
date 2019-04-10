@@ -1,0 +1,70 @@
+{
+  "id": 1259602211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06866,21.03095,106.06866,21.03095",
+    "geom:latitude":21.03095,
+    "geom:longitude":106.06866,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Tam A",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340833,
+    "gn:latitude":21.03095,
+    "gn:longitude":106.06866,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tam \u00c1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tam \u00c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1c64450ddc2aed9c1e9075bfa7cf6598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781227,
+            "locality_id":1259602211,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259602211,
+    "wof:lastmodified":1537714294,
+    "wof:name":"Tam A",
+    "wof:parent_id":1108781227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06866,
+    21.03095,
+    106.06866,
+    21.03095
+],
+  "geometry": {"coordinates":[106.06865999999999,21.03095],"type":"Point"}
+}

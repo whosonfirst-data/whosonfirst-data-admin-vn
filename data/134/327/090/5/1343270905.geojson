@@ -1,0 +1,73 @@
+{
+  "id": 1343270905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2671,10.27452,105.2671,10.27452",
+    "geom:latitude":10.27452,
+    "geom:longitude":105.2671,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bac Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594003,
+    "gn:latitude":10.27452,
+    "gn:longitude":105.2671,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u00e1c Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00e1c Th\u1ea1nh"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e1c Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594003
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68053a30d9db021930e0dd55cbd529d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782217,
+            "locality_id":1343270905,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1343270905,
+    "wof:lastmodified":1537714200,
+    "wof:name":"Bac Thanh",
+    "wof:parent_id":1108782217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2671,
+    10.27452,
+    105.2671,
+    10.27452
+],
+  "geometry": {"coordinates":[105.2671,10.27452],"type":"Point"}
+}

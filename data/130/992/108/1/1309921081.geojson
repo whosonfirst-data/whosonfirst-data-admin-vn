@@ -1,0 +1,73 @@
+{
+  "id": 1309921081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.69989,11.23671,108.69989,11.23671",
+    "geom:latitude":11.23671,
+    "geom:longitude":108.69989,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Phu Dien",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592644,
+    "gn:latitude":11.23671,
+    "gn:longitude":108.69989,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Phu Dien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Ph\u00fa \u0110i\u1ec1n"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa \u0110i\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592644
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e4ffbeb6b6439c65d2c8634fadcfcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781755,
+            "locality_id":1309921081,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1309921081,
+    "wof:lastmodified":1537714165,
+    "wof:name":"Phu Dien",
+    "wof:parent_id":1108781755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.69989,
+    11.23671,
+    108.69989,
+    11.23671
+],
+  "geometry": {"coordinates":[108.69989,11.23671],"type":"Point"}
+}

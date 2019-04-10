@@ -1,0 +1,73 @@
+{
+  "id": 1226790731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28895,21.05693,103.28895,21.05693",
+    "geom:latitude":21.05693,
+    "geom:longitude":103.28895,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Muong Ten Lao",
+    "gn:country_code":"VN",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574240,
+    "gn:latitude":21.05693,
+    "gn:longitude":103.28895,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"M\u01b0\u1eddng Ten L\u00e0o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u01b0\u01a1ng Ten"
+    ],
+    "name:vie_x_preferred":[
+        "M\u01b0\u1eddng Ten L\u00e0o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574240
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"af39cfe3d1a515f9e28c8884382b5938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781017,
+            "locality_id":1226790731,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226790731,
+    "wof:lastmodified":1537713880,
+    "wof:name":"Muong Ten Lao",
+    "wof:parent_id":1108781017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28895,
+    21.05693,
+    103.28895,
+    21.05693
+],
+  "geometry": {"coordinates":[103.28895,21.05693],"type":"Point"}
+}

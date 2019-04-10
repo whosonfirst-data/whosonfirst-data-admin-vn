@@ -1,0 +1,76 @@
+{
+  "id": 1326741245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91491,18.46172,105.91491,18.46172",
+    "geom:latitude":18.46172,
+    "geom:longitude":105.91491,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Long Hai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560608,
+    "gn:latitude":18.46172,
+    "gn:longitude":105.91491,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Long H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xuan H\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "Xu\u00e2n H\u1ea3i"
+    ],
+    "name:vie_x_variant":[
+        "Long H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560608
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1477ce30d53a2132846d4a3c52564ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1326741245,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1326741245,
+    "wof:lastmodified":1537713666,
+    "wof:name":"Long Hai",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91491,
+    18.46172,
+    105.91491,
+    18.46172
+],
+  "geometry": {"coordinates":[105.91491000000001,18.46172],"type":"Point"}
+}

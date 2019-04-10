@@ -1,0 +1,61 @@
+{
+  "id": 1209225491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35,20.71667,105.35,20.71667",
+    "geom:latitude":20.71667,
+    "geom:longitude":105.35,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Bung",
+    "gn:country_code":"VN",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561945,
+    "gn:latitude":20.71667,
+    "gn:longitude":105.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m B\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561945
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24f69ba54a1769f46cf7e1cdcf23fb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225491
+        }
+    ],
+    "wof:id":1209225491,
+    "wof:lastmodified":1536293812,
+    "wof:name":"Xom Bung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35,
+    20.71667,
+    105.35,
+    20.71667
+],
+  "geometry": {"coordinates":[105.34999999999999,20.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193152349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06667,20.88333,105.06667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":105.06667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Quy Duc",
+    "gn:country_code":"VN",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568553,
+    "gn:latitude":20.88333,
+    "gn:longitude":105.06667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Quy \u0110\u1ee9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568553
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de90df22e4b9250b6acbaa954365d3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1193152349,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1193152349,
+    "wof:lastmodified":1536376889,
+    "wof:name":"Quy Duc",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06667,
+    20.88333,
+    105.06667,
+    20.88333
+],
+  "geometry": {"coordinates":[105.06667,20.88333],"type":"Point"}
+}

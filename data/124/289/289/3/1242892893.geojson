@@ -1,0 +1,75 @@
+{
+  "id": 1242892893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38261,9.65633,106.38261,9.65633",
+    "geom:latitude":9.65633,
+    "geom:longitude":106.38261,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"La Ban Chua",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591914,
+    "gn:latitude":9.65633,
+    "gn:longitude":106.38261,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"La Ban Ch\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap La Ban",
+        "Ap Lu Ban",
+        "\u1ea4p Tr\u00e0 Ban"
+    ],
+    "name:vie_x_preferred":[
+        "La Ban Ch\u00f9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591914
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"207717e1be0731ee3a60a227f587f3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1242892893,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1242892893,
+    "wof:lastmodified":1537714146,
+    "wof:name":"La Ban Chua",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38261,
+    9.65633,
+    106.38261,
+    9.65633
+],
+  "geometry": {"coordinates":[106.38261,9.65633],"type":"Point"}
+}

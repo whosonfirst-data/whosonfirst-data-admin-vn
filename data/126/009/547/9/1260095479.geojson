@@ -1,0 +1,70 @@
+{
+  "id": 1260095479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14225,22.60559,105.14225,22.60559",
+    "geom:latitude":22.60559,
+    "geom:longitude":105.14225,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Khau Cau",
+    "gn:country_code":"VN",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523095,
+    "gn:latitude":22.60559,
+    "gn:longitude":105.14225,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Khau Cau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khau Cau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523095
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f63e7a5eb0a49abee9ea4d1f210b1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1260095479,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1260095479,
+    "wof:lastmodified":1537714329,
+    "wof:name":"Khau Cau",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14225,
+    22.60559,
+    105.14225,
+    22.60559
+],
+  "geometry": {"coordinates":[105.14225,22.60559],"type":"Point"}
+}

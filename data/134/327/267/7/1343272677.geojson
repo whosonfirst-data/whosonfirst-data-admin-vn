@@ -1,0 +1,67 @@
+{
+  "id": 1343272677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53333,22.16667,105.53333,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":105.53333,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Nian",
+    "gn:country_code":"VN",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573024,
+    "gn:latitude":22.16667,
+    "gn:longitude":105.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Na Nian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573024
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f186a98de81e3a07b035865f6f11be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780915,
+            "locality_id":1343272677,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343272677,
+    "wof:lastmodified":1537016484,
+    "wof:name":"Na Nian",
+    "wof:parent_id":1108780915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53333,
+    22.16667,
+    105.53333,
+    22.16667
+],
+  "geometry": {"coordinates":[105.53333000000001,22.16667],"type":"Point"}
+}

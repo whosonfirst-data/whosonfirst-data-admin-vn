@@ -1,0 +1,71 @@
+{
+  "id": 1243191261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05,10.85,107.05,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":107.05,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ap An Vieng",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594030,
+    "gn:latitude":10.85,
+    "gn:longitude":107.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p An Vi\u1ec5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p An Vi\u1ec5n",
+        "\u1ea4p An Vi\u1ec5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e682e0e496a2ba61251e819f26aaf983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781983,
+            "locality_id":1243191261,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1243191261,
+    "wof:lastmodified":1537714201,
+    "wof:name":"Ap An Vieng",
+    "wof:parent_id":1108781983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05,
+    10.85,
+    107.05,
+    10.85
+],
+  "geometry": {"coordinates":[107.05,10.85],"type":"Point"}
+}

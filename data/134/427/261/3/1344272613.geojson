@@ -1,0 +1,67 @@
+{
+  "id": 1344272613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81833,9.63667,105.81833,9.63667",
+    "geom:latitude":9.63667,
+    "geom:longitude":105.81833,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Thuan Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565084,
+    "gn:latitude":9.63667,
+    "gn:longitude":105.81833,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"Thu\u1eadn H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565084
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"efd7b9317554441de92db4975e1498a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782293,
+            "locality_id":1344272613,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1344272613,
+    "wof:lastmodified":1537063696,
+    "wof:name":"Thuan Hoa",
+    "wof:parent_id":1108782293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81833,
+    9.63667,
+    105.81833,
+    9.63667
+],
+  "geometry": {"coordinates":[105.81833,9.63667],"type":"Point"}
+}

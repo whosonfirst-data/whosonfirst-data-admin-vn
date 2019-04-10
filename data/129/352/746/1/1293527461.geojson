@@ -1,0 +1,71 @@
+{
+  "id": 1293527461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.9,16.0,107.9,16.0",
+    "geom:latitude":16.0,
+    "geom:longitude":107.9,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Pu Neo",
+    "gn:country_code":"VN",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1568898,
+    "gn:latitude":16.0,
+    "gn:longitude":107.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pu Neo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pu Nep",
+        "Pu Neo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568898
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1963179c72fb38ac65ce69f40a16a894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781601,
+            "locality_id":1293527461,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293527461,
+    "wof:lastmodified":1537713805,
+    "wof:name":"Pu Neo",
+    "wof:parent_id":1108781601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.9,
+    16.0,
+    107.9,
+    16.0
+],
+  "geometry": {"coordinates":[107.90000000000001,16.0],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360026529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88578,11.53694,105.88578,11.53694",
+    "geom:latitude":11.53694,
+    "geom:longitude":105.88578,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Lo Go",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575831,
+    "gn:latitude":11.53694,
+    "gn:longitude":105.88578,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"L\u00f2 G\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Lo Go",
+        "L\u00f2 G\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8c44dfc592a9d0964737a73d7928e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781933,
+            "locality_id":1360026529,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1360026529,
+    "wof:lastmodified":1537713898,
+    "wof:name":"Lo Go",
+    "wof:parent_id":1108781933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88578,
+    11.53694,
+    105.88578,
+    11.53694
+],
+  "geometry": {"coordinates":[105.88578,11.53694],"type":"Point"}
+}

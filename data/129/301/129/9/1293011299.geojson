@@ -1,0 +1,70 @@
+{
+  "id": 1293011299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92971,20.58405,105.92971,20.58405",
+    "geom:latitude":20.58405,
+    "geom:longitude":105.92971,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Thon Kieu",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564235,
+    "gn:latitude":20.58405,
+    "gn:longitude":105.92971,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Th\u00f4n Ki\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n Ki\u1ec1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564235
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0013c864045bb2143cdbd85627af2676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781335,
+            "locality_id":1293011299,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1293011299,
+    "wof:lastmodified":1537714358,
+    "wof:name":"Thon Kieu",
+    "wof:parent_id":1108781335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92971,
+    20.58405,
+    105.92971,
+    20.58405
+],
+  "geometry": {"coordinates":[105.92971,20.58405],"type":"Point"}
+}

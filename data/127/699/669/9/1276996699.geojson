@@ -1,0 +1,67 @@
+{
+  "id": 1276996699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,20.53333,105.61667,20.53333",
+    "geom:latitude":20.53333,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Lang Luong",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577058,
+    "gn:latitude":20.53333,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Lu\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577058
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02bb5b03ced12c9c2b3ee6519f936e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781049,
+            "locality_id":1276996699,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1276996699,
+    "wof:lastmodified":1536883831,
+    "wof:name":"Lang Luong",
+    "wof:parent_id":1108781049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    20.53333,
+    105.61667,
+    20.53333
+],
+  "geometry": {"coordinates":[105.61667,20.53333],"type":"Point"}
+}

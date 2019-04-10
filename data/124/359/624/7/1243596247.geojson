@@ -1,0 +1,72 @@
+{
+  "id": 1243596247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,15.93333,107.73333,15.93333",
+    "geom:latitude":15.93333,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Vat",
+    "gn:country_code":"VN",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562887,
+    "gn:latitude":15.93333,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi Ya",
+        "Pi Yu",
+        "Vat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562887
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e721523a03d3fec8a3a5747627074a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781601,
+            "locality_id":1243596247,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1243596247,
+    "wof:lastmodified":1537713713,
+    "wof:name":"Vat",
+    "wof:parent_id":1108781601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    15.93333,
+    107.73333,
+    15.93333
+],
+  "geometry": {"coordinates":[107.73333,15.93333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1344051113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35,10.61667,105.35,10.61667",
+    "geom:latitude":10.61667,
+    "geom:longitude":105.35,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ap Tan Binh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592296,
+    "gn:latitude":10.61667,
+    "gn:longitude":105.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p T\u00e2n B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan Binh",
+        "\u1ea4p T\u00e2n B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782203,
+        85680807,
+        1108782185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592296
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8f9883fce6b2a0688671cd0c9d7db40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782203,
+            "locality_id":1344051113,
+            "region_id":85680797
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782185,
+            "locality_id":1344051113,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1344051113,
+    "wof:lastmodified":1537714155,
+    "wof:name":"Ap Tan Binh",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35,
+    10.61667,
+    105.35,
+    10.61667
+],
+  "geometry": {"coordinates":[105.34999999999999,10.61667],"type":"Point"}
+}

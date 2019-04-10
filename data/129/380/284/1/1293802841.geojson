@@ -1,0 +1,67 @@
+{
+  "id": 1293802841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43333,19.31667,105.43333,19.31667",
+    "geom:latitude":19.31667,
+    "geom:longitude":105.43333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Cho Hieu",
+    "gn:country_code":"VN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585336,
+    "gn:latitude":19.31667,
+    "gn:longitude":105.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u1ee3 Hi\u1ebfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585336
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fd1deac16116be2ee51a83932e9255e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781453,
+            "locality_id":1293802841,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293802841,
+    "wof:lastmodified":1536828586,
+    "wof:name":"Cho Hieu",
+    "wof:parent_id":1108781453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43333,
+    19.31667,
+    105.43333,
+    19.31667
+],
+  "geometry": {"coordinates":[105.43333,19.31667],"type":"Point"}
+}

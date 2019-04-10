@@ -1,0 +1,70 @@
+{
+  "id": 1243469881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.47362,21.49726,105.47362,21.49726",
+    "geom:latitude":21.49726,
+    "geom:longitude":105.47362,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Qui Minh",
+    "gn:country_code":"VN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201886,
+    "gn:latitude":21.49726,
+    "gn:longitude":105.47362,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Qui Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Qui Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201886
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dd15171256664ed50c214bf1b4f2a6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781201,
+            "locality_id":1243469881,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1243469881,
+    "wof:lastmodified":1537714246,
+    "wof:name":"Qui Minh",
+    "wof:parent_id":1108781201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.47362,
+    21.49726,
+    105.47362,
+    21.49726
+],
+  "geometry": {"coordinates":[105.47362,21.49726],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209526267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25141,21.30555,105.25141,21.30555",
+    "geom:latitude":21.30555,
+    "geom:longitude":105.25141,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Co Tel",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200653,
+    "gn:latitude":21.30555,
+    "gn:longitude":105.25141,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u1ed5 T\u1ebfl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed5 T\u1ebfl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200653
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"60df6a0cea3e7bce69e0980bd38618db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526267
+        }
+    ],
+    "wof:id":1209526267,
+    "wof:lastmodified":1537714236,
+    "wof:name":"Co Tel",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25141,
+    21.30555,
+    105.25141,
+    21.30555
+],
+  "geometry": {"coordinates":[105.25141000000001,21.30555],"type":"Point"}
+}

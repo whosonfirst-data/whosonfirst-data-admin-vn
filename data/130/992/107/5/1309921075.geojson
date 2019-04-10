@@ -1,0 +1,70 @@
+{
+  "id": 1309921075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87672,18.27853,105.87672,18.27853",
+    "geom:latitude":18.27853,
+    "geom:longitude":105.87672,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thach Mon",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275500,
+    "gn:latitude":18.27853,
+    "gn:longitude":105.87672,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Th\u1ea1ch M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1ch M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275500
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8fbeb7ef631389efd0fc0b305e9c40bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1309921075,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309921075,
+    "wof:lastmodified":1537714683,
+    "wof:name":"Thach Mon",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87672,
+    18.27853,
+    105.87672,
+    18.27853
+],
+  "geometry": {"coordinates":[105.87672000000001,18.27853],"type":"Point"}
+}

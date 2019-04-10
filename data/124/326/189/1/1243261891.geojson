@@ -1,0 +1,74 @@
+{
+  "id": 1243261891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49334,22.82968,105.49334,22.82968",
+    "geom:latitude":22.82968,
+    "geom:longitude":105.49334,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pac Miau",
+    "gn:country_code":"VN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8309686,
+    "gn:latitude":22.82968,
+    "gn:longitude":105.49334,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"P\u00e1c Mi\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u0103c Mi\u1ec1u"
+    ],
+    "name:vie_x_variant":[
+        "P\u00e1c Mi\u1ea7u",
+        "B\u1ea3o L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309686
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"194b93e846a4a96544f7d54aeec22024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1243261891,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243261891,
+    "wof:lastmodified":1537714263,
+    "wof:name":"Pac Miau",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49334,
+    22.82968,
+    105.49334,
+    22.82968
+],
+  "geometry": {"coordinates":[105.49334,22.82968],"type":"Point"}
+}

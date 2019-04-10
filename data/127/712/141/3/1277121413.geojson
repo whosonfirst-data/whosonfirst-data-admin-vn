@@ -1,0 +1,72 @@
+{
+  "id": 1277121413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38333,20.08333,105.38333,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":105.38333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ngoc Khe",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572452,
+    "gn:latitude":20.08333,
+    "gn:longitude":105.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ng\u1ecdc Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u01b0\u01a1ng Ngon",
+        "Ng\u1ecdc Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572452
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eeb0e7e03f03eec604b8a827f7d3a137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781405,
+            "locality_id":1277121413,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1277121413,
+    "wof:lastmodified":1537713856,
+    "wof:name":"Ngoc Khe",
+    "wof:parent_id":1108781405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38333,
+    20.08333,
+    105.38333,
+    20.08333
+],
+  "geometry": {"coordinates":[105.38333,20.08333],"type":"Point"}
+}

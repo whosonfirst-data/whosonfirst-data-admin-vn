@@ -1,0 +1,65 @@
+{
+  "id": 1209221025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52,9.94417,106.52,9.94417",
+    "geom:latitude":9.94417,
+    "geom:longitude":106.52,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thanh Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942005,
+    "gn:latitude":9.94417,
+    "gn:longitude":106.52,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Th\u1ea1nh H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00f2a",
+        "Th\u1ea1nh H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942005
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1b7fa6dfc0d0f44b03f2afdc8c4a6408",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209221025
+        }
+    ],
+    "wof:id":1209221025,
+    "wof:lastmodified":1537714213,
+    "wof:name":"Thanh Hoa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52,
+    9.94417,
+    106.52,
+    9.94417
+],
+  "geometry": {"coordinates":[106.52,9.94417],"type":"Point"}
+}

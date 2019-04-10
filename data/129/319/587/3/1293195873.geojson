@@ -1,0 +1,67 @@
+{
+  "id": 1293195873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,10.38333,105.55,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ap Binh Hoi",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593862,
+    "gn:latitude":10.38333,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p B\u00ecnh H\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593862
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1c0ab4266ae199f38b7b52696e1ae683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782187,
+            "locality_id":1293195873,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1293195873,
+    "wof:lastmodified":1536710823,
+    "wof:name":"Ap Binh Hoi",
+    "wof:parent_id":1108782187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    10.38333,
+    105.55,
+    10.38333
+],
+  "geometry": {"coordinates":[105.55,10.38333],"type":"Point"}
+}

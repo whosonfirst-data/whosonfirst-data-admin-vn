@@ -1,0 +1,70 @@
+{
+  "id": 1327442155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87795,21.83049,104.87795,21.83049",
+    "geom:latitude":21.83049,
+    "geom:longitude":104.87795,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Khuon La",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318400,
+    "gn:latitude":21.83049,
+    "gn:longitude":104.87795,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Khu\u00f4n L\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu\u00f4n L\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318400
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca7ed343060aa8410def9e9a9c103ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1327442155,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1327442155,
+    "wof:lastmodified":1537714698,
+    "wof:name":"Khuon La",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87795,
+    21.83049,
+    104.87795,
+    21.83049
+],
+  "geometry": {"coordinates":[104.87795,21.83049],"type":"Point"}
+}

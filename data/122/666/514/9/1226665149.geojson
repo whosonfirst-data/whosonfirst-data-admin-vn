@@ -1,0 +1,67 @@
+{
+  "id": 1226665149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45556,9.24333,105.45556,9.24333",
+    "geom:latitude":9.24333,
+    "geom:longitude":105.45556,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ap Kinh Ngang",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593195,
+    "gn:latitude":9.24333,
+    "gn:longitude":105.45556,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p Kinh Ngang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593195
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75dd2ae72136d4d88441f6230a2d669a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782319,
+            "locality_id":1226665149,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1226665149,
+    "wof:lastmodified":1536830579,
+    "wof:name":"Ap Kinh Ngang",
+    "wof:parent_id":1108782319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45556,
+    9.24333,
+    105.45556,
+    9.24333
+],
+  "geometry": {"coordinates":[105.45556000000001,9.24333],"type":"Point"}
+}

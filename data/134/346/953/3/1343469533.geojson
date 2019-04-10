@@ -1,0 +1,74 @@
+{
+  "id": 1343469533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66987,22.48655,103.66987,22.48655",
+    "geom:latitude":22.48655,
+    "geom:longitude":103.66987,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Po Ho",
+    "gn:country_code":"VN",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571147,
+    "gn:latitude":22.48655,
+    "gn:longitude":103.66987,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"P\u1edd H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peu Ha",
+        "Peu H\u00f4"
+    ],
+    "name:vie_x_preferred":[
+        "P\u1edd H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571147
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8298b3851626e0c2ab7e5d6dfa610067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1343469533,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343469533,
+    "wof:lastmodified":1537713841,
+    "wof:name":"Po Ho",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66987,
+    22.48655,
+    103.66987,
+    22.48655
+],
+  "geometry": {"coordinates":[103.66987,22.48655],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326771145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,19.41667,105.76667,19.41667",
+    "geom:latitude":19.41667,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Du Quan",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582090,
+    "gn:latitude":19.41667,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u1ef1 Qu\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582090
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd500d03919150b30b1b4830aec8f7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1326771145,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1326771145,
+    "wof:lastmodified":1536638494,
+    "wof:name":"Du Quan",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    19.41667,
+    105.76667,
+    19.41667
+],
+  "geometry": {"coordinates":[105.76667,19.41667],"type":"Point"}
+}

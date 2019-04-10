@@ -1,0 +1,70 @@
+{
+  "id": 1360103785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.24457,22.2184,106.24457,22.2184",
+    "geom:latitude":22.2184,
+    "geom:longitude":106.24457,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Sam Ngan",
+    "gn:country_code":"VN",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432422,
+    "gn:latitude":22.2184,
+    "gn:longitude":106.24457,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Sam Ngan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Sam Ngan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432422
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58f8e23625657aa539c29050202f5faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1360103785,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1360103785,
+    "wof:lastmodified":1537714311,
+    "wof:name":"Sam Ngan",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.24457,
+    22.2184,
+    106.24457,
+    22.2184
+],
+  "geometry": {"coordinates":[106.24457,22.2184],"type":"Point"}
+}

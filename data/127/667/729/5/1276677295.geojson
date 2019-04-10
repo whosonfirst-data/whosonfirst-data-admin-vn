@@ -1,0 +1,67 @@
+{
+  "id": 1276677295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57575,22.09582,106.57575,22.09582",
+    "geom:latitude":22.09582,
+    "geom:longitude":106.57575,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Pan Khinh",
+    "gn:country_code":"VN",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311001,
+    "gn:latitude":22.09582,
+    "gn:longitude":106.57575,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"P\u00e0n Khinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311001
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"38e1dd09c6b922649eb418c5c88fb0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1276677295,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1276677295,
+    "wof:lastmodified":1536814147,
+    "wof:name":"Pan Khinh",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57575,
+    22.09582,
+    106.57575,
+    22.09582
+],
+  "geometry": {"coordinates":[106.57575,22.09582],"type":"Point"}
+}

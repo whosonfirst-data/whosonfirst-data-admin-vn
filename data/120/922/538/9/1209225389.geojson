@@ -1,0 +1,65 @@
+{
+  "id": 1209225389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,20.98333,105.85,20.98333",
+    "geom:latitude":20.98333,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Lang Yen",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576362,
+    "gn:latitude":20.98333,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e3ng Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinh Yen",
+        "L\u00e3ng Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576362
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"98d05457f7321f32550d12e5d9d13aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225389
+        }
+    ],
+    "wof:id":1209225389,
+    "wof:lastmodified":1537713904,
+    "wof:name":"Lang Yen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    20.98333,
+    105.85,
+    20.98333
+],
+  "geometry": {"coordinates":[105.84999999999999,20.98333],"type":"Point"}
+}

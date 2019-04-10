@@ -1,0 +1,70 @@
+{
+  "id": 1210035341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.00168,21.42453,103.00168,21.42453",
+    "geom:latitude":21.42453,
+    "geom:longitude":103.00168,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Hong Lenh",
+    "gn:country_code":"VN",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425768,
+    "gn:latitude":21.42453,
+    "gn:longitude":103.00168,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"H\u1ed3ng L\u1ec7nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng L\u1ec7nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425768
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a1e8ff1d63877a6f0f4da43ca939f934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780969,
+            "locality_id":1210035341,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1210035341,
+    "wof:lastmodified":1537714311,
+    "wof:name":"Hong Lenh",
+    "wof:parent_id":1108780969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.00168,
+    21.42453,
+    103.00168,
+    21.42453
+],
+  "geometry": {"coordinates":[103.00167999999999,21.42453],"type":"Point"}
+}

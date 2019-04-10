@@ -1,0 +1,70 @@
+{
+  "id": 1309722647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.64926,18.34129,105.64926,18.34129",
+    "geom:latitude":18.34129,
+    "geom:longitude":105.64926,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Phuong Trach",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570017,
+    "gn:latitude":18.34129,
+    "gn:longitude":105.64926,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ph\u01b0\u01a1ng Tr\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u01a1ng Tr\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570017
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da032ad07efa1d2cb20a4161677b0461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1309722647,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309722647,
+    "wof:lastmodified":1537713823,
+    "wof:name":"Phuong Trach",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.64926,
+    18.34129,
+    105.64926,
+    18.34129
+],
+  "geometry": {"coordinates":[105.64926,18.34129],"type":"Point"}
+}

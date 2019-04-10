@@ -1,0 +1,76 @@
+{
+  "id": 1226253449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31552,23.36106,105.31552,23.36106",
+    "geom:latitude":23.36106,
+    "geom:longitude":105.31552,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lung Cu",
+    "gn:country_code":"VN",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575552,
+    "gn:latitude":23.36106,
+    "gn:longitude":105.31552,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"L\u0169ng C\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long Co",
+        "Lung Co",
+        "Loung Ca",
+        "Loung Co"
+    ],
+    "name:vie_x_preferred":[
+        "L\u0169ng C\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575552
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13afef2d7b22738f040856906a43fbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780851,
+            "locality_id":1226253449,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226253449,
+    "wof:lastmodified":1537713895,
+    "wof:name":"Lung Cu",
+    "wof:parent_id":1108780851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31552,
+    23.36106,
+    105.31552,
+    23.36106
+],
+  "geometry": {"coordinates":[105.31552000000001,23.36106],"type":"Point"}
+}

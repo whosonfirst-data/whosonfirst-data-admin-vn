@@ -1,0 +1,67 @@
+{
+  "id": 1344267911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,22.26667,106.5,22.26667",
+    "geom:latitude":22.26667,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"La Nien",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576339,
+    "gn:latitude":22.26667,
+    "gn:longitude":106.5,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"La Ni\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576339
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0dc781f3defdd1ca46f5012019b610e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1344267911,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1344267911,
+    "wof:lastmodified":1537070257,
+    "wof:name":"La Nien",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    22.26667,
+    106.5,
+    22.26667
+],
+  "geometry": {"coordinates":[106.5,22.26667],"type":"Point"}
+}

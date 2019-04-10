@@ -1,0 +1,66 @@
+{
+  "id": 1209425579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.36667,12.35,108.36667,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":108.36667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Tria",
+    "gn:country_code":"VN",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586793,
+    "gn:latitude":12.35,
+    "gn:longitude":108.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Tria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tria",
+        "Ban Tma",
+        "Bu\u00f4n Tria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586793
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"acaa2f32308c26af4b20a1319fd2ab48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425579
+        }
+    ],
+    "wof:id":1209425579,
+    "wof:lastmodified":1537714041,
+    "wof:name":"Buon Tria",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.36667,
+    12.35,
+    108.36667,
+    12.35
+],
+  "geometry": {"coordinates":[108.36667,12.35],"type":"Point"}
+}

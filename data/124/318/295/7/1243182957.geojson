@@ -1,0 +1,67 @@
+{
+  "id": 1243182957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08474,20.66579,105.08474,20.66579",
+    "geom:latitude":20.66579,
+    "geom:longitude":105.08474,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Mai Chau",
+    "gn:country_code":"VN",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575061,
+    "gn:latitude":20.66579,
+    "gn:longitude":105.08474,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Mai Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575061
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10e2187c67290dc3b09dcf81a052a268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781057,
+            "locality_id":1243182957,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1243182957,
+    "wof:lastmodified":1536688424,
+    "wof:name":"Mai Chau",
+    "wof:parent_id":1108781057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08474,
+    20.66579,
+    105.08474,
+    20.66579
+],
+  "geometry": {"coordinates":[105.08474,20.66579],"type":"Point"}
+}

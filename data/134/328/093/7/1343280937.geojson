@@ -1,0 +1,67 @@
+{
+  "id": 1343280937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95,21.75,106.95,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":106.95,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Tau",
+    "gn:country_code":"VN",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588658,
+    "gn:latitude":21.75,
+    "gn:longitude":106.95,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n T\u1ea5u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588658
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f64f79b40454183bcce2c837c57437b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1343280937,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343280937,
+    "wof:lastmodified":1537004626,
+    "wof:name":"Ban Tau",
+    "wof:parent_id":1108781105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95,
+    21.75,
+    106.95,
+    21.75
+],
+  "geometry": {"coordinates":[106.95,21.75],"type":"Point"}
+}

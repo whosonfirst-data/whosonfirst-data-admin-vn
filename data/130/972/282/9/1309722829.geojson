@@ -1,0 +1,73 @@
+{
+  "id": 1309722829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.91596,11.84984,106.91596,11.84984",
+    "geom:latitude":11.84984,
+    "geom:longitude":106.91596,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Son Ha Mot",
+    "gn:country_code":"VN",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9078130,
+    "gn:latitude":11.84984,
+    "gn:longitude":106.91596,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"S\u01a1n H\u00e0 M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u01a1n H\u00e0 M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "S\u01a1n H\u00e0 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9078130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c5cd2489a930cc45517edde2c74e701a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1309722829,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1309722829,
+    "wof:lastmodified":1537714439,
+    "wof:name":"Son Ha Mot",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.91596,
+    11.84984,
+    106.91596,
+    11.84984
+],
+  "geometry": {"coordinates":[106.91596,11.84984],"type":"Point"}
+}

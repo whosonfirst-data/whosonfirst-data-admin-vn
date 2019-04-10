@@ -1,0 +1,73 @@
+{
+  "id": 1293902565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85385,21.57264,104.85385,21.57264",
+    "geom:latitude":21.57264,
+    "geom:longitude":104.85385,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Van",
+    "gn:country_code":"VN",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576417,
+    "gn:latitude":21.57264,
+    "gn:longitude":104.85385,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"L\u00e0ng V\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng V\u00e2n"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng V\u1ea7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576417
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f2789d94940e34513e3aebac99ec2165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1293902565,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1293902565,
+    "wof:lastmodified":1537713905,
+    "wof:name":"Lang Van",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85385,
+    21.57264,
+    104.85385,
+    21.57264
+],
+  "geometry": {"coordinates":[104.85384999999999,21.57264],"type":"Point"}
+}

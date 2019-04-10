@@ -1,0 +1,74 @@
+{
+  "id": 1226690671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5059,20.51562,104.5059,20.51562",
+    "geom:latitude":20.51562,
+    "geom:longitude":104.5059,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Sop Sim",
+    "gn:country_code":"VN",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567598,
+    "gn:latitude":20.51562,
+    "gn:longitude":104.5059,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"S\u1ed1p Sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Sop Xiem",
+        "Sop Sim"
+    ],
+    "name:vie_x_preferred":[
+        "S\u1ed1p Sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567598
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41731f8876b8795efc0c35d8e4dc95b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781393,
+            "locality_id":1226690671,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1226690671,
+    "wof:lastmodified":1537713790,
+    "wof:name":"Sop Sim",
+    "wof:parent_id":1108781393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5059,
+    20.51562,
+    104.5059,
+    20.51562
+],
+  "geometry": {"coordinates":[104.5059,20.51562],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310260739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,11.81667,108.45,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Klong B",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578773,
+    "gn:latitude":11.81667,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Klong B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krean",
+        "Klong B",
+        "Klong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578773
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7e18c5c7a495f61a79f173f729f1c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781897,
+            "locality_id":1310260739,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1310260739,
+    "wof:lastmodified":1537713944,
+    "wof:name":"Klong B",
+    "wof:parent_id":1108781897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    11.81667,
+    108.45,
+    11.81667
+],
+  "geometry": {"coordinates":[108.45,11.81667],"type":"Point"}
+}

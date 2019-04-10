@@ -1,0 +1,70 @@
+{
+  "id": 1209730971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18747,22.55608,104.18747,22.55608",
+    "geom:latitude":22.55608,
+    "geom:longitude":104.18747,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ta Thang",
+    "gn:country_code":"VN",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464879,
+    "gn:latitude":22.55608,
+    "gn:longitude":104.18747,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"T\u1ea3 Thang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ea3 Thang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464879
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dce848b40e0f644358bb74a58d436a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1209730971,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1209730971,
+    "wof:lastmodified":1537714318,
+    "wof:name":"Ta Thang",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18747,
+    22.55608,
+    104.18747,
+    22.55608
+],
+  "geometry": {"coordinates":[104.18747,22.55608],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243610101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.9,11.51667,107.9,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":107.9,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Buon Boko",
+    "gn:country_code":"VN",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587148,
+    "gn:latitude":11.51667,
+    "gn:longitude":107.9,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu\u00f4n Boko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587148
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8d8b175017fe25910552b944c4288a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781903,
+            "locality_id":1243610101,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1243610101,
+    "wof:lastmodified":1537063952,
+    "wof:name":"Buon Boko",
+    "wof:parent_id":1108781903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.9,
+    11.51667,
+    107.9,
+    11.51667
+],
+  "geometry": {"coordinates":[107.90000000000001,11.51667],"type":"Point"}
+}

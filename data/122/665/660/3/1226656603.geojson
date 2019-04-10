@@ -1,0 +1,70 @@
+{
+  "id": 1226656603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42061,21.18332,105.42061,21.18332",
+    "geom:latitude":21.18332,
+    "geom:longitude":105.42061,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kim Bi",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201615,
+    "gn:latitude":21.18332,
+    "gn:longitude":105.42061,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kim B\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kim B\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201615
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"57ea02fa67db7143ff208fefceb49ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1226656603,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1226656603,
+    "wof:lastmodified":1537714243,
+    "wof:name":"Kim Bi",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42061,
+    21.18332,
+    105.42061,
+    21.18332
+],
+  "geometry": {"coordinates":[105.42061,21.18332],"type":"Point"}
+}

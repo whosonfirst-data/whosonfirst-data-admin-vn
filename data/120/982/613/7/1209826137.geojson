@@ -1,0 +1,70 @@
+{
+  "id": 1209826137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42139,21.27902,105.42139,21.27902",
+    "geom:latitude":21.27902,
+    "geom:longitude":105.42139,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"La Thien",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201695,
+    "gn:latitude":21.27902,
+    "gn:longitude":105.42139,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"La Thi\u1ec7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "La Thi\u1ec7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201695
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b26379fbd452ae7f55e730a3c1de0237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1209826137,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1209826137,
+    "wof:lastmodified":1537714244,
+    "wof:name":"La Thien",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42139,
+    21.27902000000001,
+    105.42139,
+    21.27902000000001
+],
+  "geometry": {"coordinates":[105.42139,21.27902000000001],"type":"Point"}
+}

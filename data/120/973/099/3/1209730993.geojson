@@ -1,0 +1,70 @@
+{
+  "id": 1209730993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1619,22.08327,103.1619,22.08327",
+    "geom:latitude":22.08327,
+    "geom:longitude":103.1619,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Na",
+    "gn:country_code":"VN",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456832,
+    "gn:latitude":22.08327,
+    "gn:longitude":103.1619,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"N\u1eadm Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456832
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2fc6b615ed449fe69956af6a0eed85e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780993,
+            "locality_id":1209730993,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1209730993,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Nam Na",
+    "wof:parent_id":1108780993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1619,
+    22.08327,
+    103.1619,
+    22.08327
+],
+  "geometry": {"coordinates":[103.1619,22.08327],"type":"Point"}
+}

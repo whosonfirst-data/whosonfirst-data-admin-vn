@@ -1,0 +1,67 @@
+{
+  "id": 1360045181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.7,21.41667,107.7,21.41667",
+    "geom:latitude":21.41667,
+    "geom:longitude":107.7,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Pao Lao",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571244,
+    "gn:latitude":21.41667,
+    "gn:longitude":107.7,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Pao Lao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571244
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"676b05c5bec3a80bb3c7124b75dd6475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781125,
+            "locality_id":1360045181,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1360045181,
+    "wof:lastmodified":1537002610,
+    "wof:name":"Pao Lao",
+    "wof:parent_id":1108781125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.7,
+    21.41667,
+    107.7,
+    21.41667
+],
+  "geometry": {"coordinates":[107.7,21.41667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310712425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9441,9.51295,105.9441,9.51295",
+    "geom:latitude":9.51295,
+    "geom:longitude":105.9441,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Tac Gong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592338,
+    "gn:latitude":9.51295,
+    "gn:longitude":105.9441,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"T\u1eafc G\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Tac Dong",
+        "\u1ea4p T\u1eafc G\u00f2ng"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1eafc G\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592338
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a58c5d95e1c90d98eb5c37e32df8aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782301,
+            "locality_id":1310712425,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1310712425,
+    "wof:lastmodified":1537714156,
+    "wof:name":"Tac Gong",
+    "wof:parent_id":1108782301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9441,
+    9.51295,
+    105.9441,
+    9.51295
+],
+  "geometry": {"coordinates":[105.94410000000001,9.51295],"type":"Point"}
+}

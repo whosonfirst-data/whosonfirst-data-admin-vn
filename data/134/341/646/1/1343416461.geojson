@@ -1,0 +1,67 @@
+{
+  "id": 1343416461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51667,10.61667,106.51667,10.61667",
+    "geom:latitude":10.61667,
+    "geom:longitude":106.51667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phuoc Van",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570110,
+    "gn:latitude":10.61667,
+    "gn:longitude":106.51667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ph\u01b0\u1edbc V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570110
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9aa103b294189b20e94474c7e99db4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782087,
+            "locality_id":1343416461,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1343416461,
+    "wof:lastmodified":1536809476,
+    "wof:name":"Phuoc Van",
+    "wof:parent_id":1108782087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51667,
+    10.61667,
+    106.51667,
+    10.61667
+],
+  "geometry": {"coordinates":[106.51667,10.61667],"type":"Point"}
+}

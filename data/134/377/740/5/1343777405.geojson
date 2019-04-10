@@ -1,0 +1,70 @@
+{
+  "id": 1343777405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83984,21.33699,105.83984,21.33699",
+    "geom:latitude":21.33699,
+    "geom:longitude":105.83984,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Quang Lac",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616145,
+    "gn:latitude":21.33699,
+    "gn:longitude":105.83984,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Qu\u1ea3ng L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Qu\u1ea3ng L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bc5ba25233339f0ebdf451557153783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780805,
+            "locality_id":1343777405,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1343777405,
+    "wof:lastmodified":1537714375,
+    "wof:name":"Quang Lac",
+    "wof:parent_id":1108780805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83984,
+    21.33699,
+    105.83984,
+    21.33699
+],
+  "geometry": {"coordinates":[105.83984,21.33699],"type":"Point"}
+}

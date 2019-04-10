@@ -1,0 +1,73 @@
+{
+  "id": 1310717235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.64811,9.29336,105.64811,9.29336",
+    "geom:latitude":9.29336,
+    "geom:longitude":105.64811,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Cai Tram",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593700,
+    "gn:latitude":9.29336,
+    "gn:longitude":105.64811,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"C\u00e1i Tr\u00e0m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p C\u00e1i Tr\u00e0m"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e1i Tr\u00e0m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ee3648129e154e32c3531c15f0002cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782323,
+            "locality_id":1310717235,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1310717235,
+    "wof:lastmodified":1537714192,
+    "wof:name":"Cai Tram",
+    "wof:parent_id":1108782323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.64811,
+    9.29336,
+    105.64811,
+    9.29336
+],
+  "geometry": {"coordinates":[105.64811,9.29336],"type":"Point"}
+}

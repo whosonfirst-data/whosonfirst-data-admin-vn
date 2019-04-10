@@ -1,0 +1,73 @@
+{
+  "id": 1243065817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41174,22.95897,105.41174,22.95897",
+    "geom:latitude":22.95897,
+    "geom:longitude":105.41174,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Pac Ken",
+    "gn:country_code":"VN",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309675,
+    "gn:latitude":22.95897,
+    "gn:longitude":105.41174,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n P\u00e1c K\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00e1o K\u00e9n"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n P\u00e1c K\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309675
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7e901fa06ba4107458f9dd5beb883458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1243065817,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243065817,
+    "wof:lastmodified":1537714262,
+    "wof:name":"Ban Pac Ken",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41174,
+    22.95897,
+    105.41174,
+    22.95897
+],
+  "geometry": {"coordinates":[105.41173999999999,22.95897],"type":"Point"}
+}

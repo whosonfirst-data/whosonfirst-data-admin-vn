@@ -1,0 +1,71 @@
+{
+  "id": 1260095583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33333,21.21667,106.33333,21.21667",
+    "geom:latitude":21.21667,
+    "geom:longitude":106.33333,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Hoang Lat Ha",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580704,
+    "gn:latitude":21.21667,
+    "gn:longitude":106.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ho\u00e0ng Lat Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lat Ha",
+        "Ho\u00e0ng Lat Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580704
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd0e2628c99f75db5ad935ee768bae39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781151,
+            "locality_id":1260095583,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1260095583,
+    "wof:lastmodified":1537713968,
+    "wof:name":"Hoang Lat Ha",
+    "wof:parent_id":1108781151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33333,
+    21.21667,
+    106.33333,
+    21.21667
+],
+  "geometry": {"coordinates":[106.33333,21.21667],"type":"Point"}
+}

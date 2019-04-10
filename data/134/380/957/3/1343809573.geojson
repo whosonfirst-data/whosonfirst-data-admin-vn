@@ -1,0 +1,72 @@
+{
+  "id": 1343809573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73333,10.28333,106.73333,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":106.73333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Vam Kinh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563203,
+    "gn:latitude":10.28333,
+    "gn:longitude":106.73333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u00e0m Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Kinh",
+        "V\u00e0m Kinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563203
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c49f8ae033b7365d2ef10a05e152356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782109,
+            "locality_id":1343809573,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1343809573,
+    "wof:lastmodified":1537713718,
+    "wof:name":"Vam Kinh",
+    "wof:parent_id":1108782109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73333,
+    10.28333,
+    106.73333,
+    10.28333
+],
+  "geometry": {"coordinates":[106.73333,10.28333],"type":"Point"}
+}

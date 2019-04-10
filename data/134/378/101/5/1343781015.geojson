@@ -1,0 +1,71 @@
+{
+  "id": 1343781015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31667,18.73333,105.31667,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":105.31667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Bao Duc",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588288,
+    "gn:latitude":18.73333,
+    "gn:longitude":105.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e3o D\u1ee9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bao Due",
+        "B\u00e3o D\u1ee9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588288
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b36d0298d67b5d820b06ad8083f58a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781483,
+            "locality_id":1343781015,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343781015,
+    "wof:lastmodified":1537714075,
+    "wof:name":"Bao Duc",
+    "wof:parent_id":1108781483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31667,
+    18.73333,
+    105.31667,
+    18.73333
+],
+  "geometry": {"coordinates":[105.31667,18.73333],"type":"Point"}
+}

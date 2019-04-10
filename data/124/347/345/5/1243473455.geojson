@@ -1,0 +1,70 @@
+{
+  "id": 1243473455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30685,21.48075,105.30685,21.48075",
+    "geom:latitude":21.48075,
+    "geom:longitude":105.30685,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Yen Lung",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200855,
+    "gn:latitude":21.48075,
+    "gn:longitude":105.30685,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Y\u00ean L\u0169ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean L\u0169ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200855
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"47e2c759ed957763fa8bb751681ad1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781177,
+            "locality_id":1243473455,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1243473455,
+    "wof:lastmodified":1537714241,
+    "wof:name":"Yen Lung",
+    "wof:parent_id":1108781177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30685,
+    21.48075,
+    105.30685,
+    21.48075
+],
+  "geometry": {"coordinates":[105.30685,21.48075],"type":"Point"}
+}

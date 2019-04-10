@@ -1,0 +1,74 @@
+{
+  "id": 1327145317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3775,22.73916,103.3775,22.73916",
+    "geom:latitude":22.73916,
+    "geom:longitude":103.3775,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pa Vay Su",
+    "gn:country_code":"VN",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571191,
+    "gn:latitude":22.73916,
+    "gn:longitude":103.3775,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Pa V\u00e2y S\u1eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa Yui Su",
+        "Pa V\u00f9i S\u1ee7"
+    ],
+    "name:vie_x_preferred":[
+        "Pa V\u00e2y S\u1eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571191
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1b6a967081ceec2d41580321a008cfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1327145317,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1327145317,
+    "wof:lastmodified":1537713842,
+    "wof:name":"Pa Vay Su",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3775,
+    22.73916,
+    103.3775,
+    22.73916
+],
+  "geometry": {"coordinates":[103.3775,22.73916],"type":"Point"}
+}

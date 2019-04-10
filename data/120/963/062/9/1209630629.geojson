@@ -1,0 +1,65 @@
+{
+  "id": 1209630629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.63333,11.2,106.63333,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":106.63333,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ap Ben Cau",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1593928,
+    "gn:latitude":11.2,
+    "gn:longitude":106.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p B\u1ebfn C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "X\u00f3m Dong So",
+        "\u1ea4p B\u1ebfn C\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593928
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0343c1db0de1ea4441c50a53834f4c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630629
+        }
+    ],
+    "wof:id":1209630629,
+    "wof:lastmodified":1537714198,
+    "wof:name":"Ap Ben Cau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.63333,
+    11.2,
+    106.63333,
+    11.2
+],
+  "geometry": {"coordinates":[106.63333,11.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193029121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,10.43333,105.55,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cai Tau Thuong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586501,
+    "gn:latitude":10.43333,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"C\u00e1i T\u1ea7u Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoi An",
+        "C\u00e1i T\u1ea7u Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586501
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68326e56970519cc1cb6d46744f3f4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782215,
+            "locality_id":1193029121,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1193029121,
+    "wof:lastmodified":1537714037,
+    "wof:name":"Cai Tau Thuong",
+    "wof:parent_id":1108782215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    10.43333,
+    105.55,
+    10.43333
+],
+  "geometry": {"coordinates":[105.55,10.43333],"type":"Point"}
+}

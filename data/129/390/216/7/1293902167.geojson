@@ -1,0 +1,67 @@
+{
+  "id": 1293902167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,20.81667,106.13333,20.81667",
+    "geom:latitude":20.81667,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Van Nhue",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563007,
+    "gn:latitude":20.81667,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"V\u0103n Nhu\u1ec7",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563007
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3d172cea1b7b075ac167ede778e496cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781303,
+            "locality_id":1293902167,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1293902167,
+    "wof:lastmodified":1536686448,
+    "wof:name":"Van Nhue",
+    "wof:parent_id":1108781303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    20.81667,
+    106.13333,
+    20.81667
+],
+  "geometry": {"coordinates":[106.13333,20.81667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259694493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.02222,14.43534,109.02222,14.43534",
+    "geom:latitude":14.43534,
+    "geom:longitude":109.02222,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Khoi Mot",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10026241,
+    "gn:latitude":14.43534,
+    "gn:longitude":109.02222,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kh\u1ed1i M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10026241
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d9768b543ac29b2e912ff268bd34a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781671,
+            "locality_id":1259694493,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1259694493,
+    "wof:lastmodified":1537714576,
+    "wof:name":"Khoi Mot",
+    "wof:parent_id":1108781671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.02222,
+    14.43534,
+    109.02222,
+    14.43534
+],
+  "geometry": {"coordinates":[109.02222,14.43534],"type":"Point"}
+}

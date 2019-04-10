@@ -1,0 +1,73 @@
+{
+  "id": 1276996787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.15785,10.94258,107.15785,10.94258",
+    "geom:latitude":10.94258,
+    "geom:longitude":107.15785,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Tran Hung Dao",
+    "gn:country_code":"VN",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591887,
+    "gn:latitude":10.94258,
+    "gn:longitude":107.15785,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591887
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eb477335d706f490ee2e6854ce1653fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781981,
+            "locality_id":1276996787,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1276996787,
+    "wof:lastmodified":1537714145,
+    "wof:name":"Tran Hung Dao",
+    "wof:parent_id":1108781981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.15785,
+    10.94258,
+    107.15785,
+    10.94258
+],
+  "geometry": {"coordinates":[107.15785,10.94258],"type":"Point"}
+}

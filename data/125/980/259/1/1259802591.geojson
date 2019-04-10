@@ -1,0 +1,70 @@
+{
+  "id": 1259802591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45474,21.1319,105.45474,21.1319",
+    "geom:latitude":21.1319,
+    "geom:longitude":105.45474,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Van Khe",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201536,
+    "gn:latitude":21.1319,
+    "gn:longitude":105.45474,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"V\u0103n Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0103n Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201536
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61ef1e0a8b1e0f7d2eecf00bc0b27406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780819,
+            "locality_id":1259802591,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1259802591,
+    "wof:lastmodified":1537714243,
+    "wof:name":"Van Khe",
+    "wof:parent_id":1108780819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45474,
+    21.1319,
+    105.45474,
+    21.1319
+],
+  "geometry": {"coordinates":[105.45474,21.1319],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242889223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18333,13.0,108.18333,13.0",
+    "geom:latitude":13.0,
+    "geom:longitude":108.18333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Bor",
+    "gn:country_code":"VN",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587143,
+    "gn:latitude":13.0,
+    "gn:longitude":108.18333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Bu\u00f4n Bor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587143
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66ca6d362446c79eb79130ed1f2fa867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781845,
+            "locality_id":1242889223,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1242889223,
+    "wof:lastmodified":1536612241,
+    "wof:name":"Buon Bor",
+    "wof:parent_id":1108781845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18333,
+    13.0,
+    108.18333,
+    13.0
+],
+  "geometry": {"coordinates":[108.18333,13.0],"type":"Point"}
+}

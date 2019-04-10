@@ -1,0 +1,72 @@
+{
+  "id": 1360296281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,11.13333,108.15,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ap An Lam",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594102,
+    "gn:latitude":11.13333,
+    "gn:longitude":108.15,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p An L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Lam",
+        "An Lan",
+        "\u1ea4p An L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594102
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b75edbe542fe9b7a17baa256b1e4246b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1360296281,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1360296281,
+    "wof:lastmodified":1537714202,
+    "wof:name":"Ap An Lam",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    11.13333,
+    108.15,
+    11.13333
+],
+  "geometry": {"coordinates":[108.15000000000001,11.13333],"type":"Point"}
+}

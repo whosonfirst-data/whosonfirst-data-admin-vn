@@ -1,0 +1,71 @@
+{
+  "id": 1343677195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.2,16.2,107.2,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":107.2,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Bou Aie Ha",
+    "gn:country_code":"VN",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587402,
+    "gn:latitude":16.2,
+    "gn:longitude":107.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bou Aie Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bau Ale Ha",
+        "Bou Aie Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587402
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9a7986e5ae720683e6508af8b3cb4a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781571,
+            "locality_id":1343677195,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1343677195,
+    "wof:lastmodified":1537714063,
+    "wof:name":"Bou Aie Ha",
+    "wof:parent_id":1108781571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.2,
+    16.2,
+    107.2,
+    16.2
+],
+  "geometry": {"coordinates":[107.2,16.2],"type":"Point"}
+}

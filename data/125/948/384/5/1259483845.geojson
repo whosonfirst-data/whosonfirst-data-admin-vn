@@ -1,0 +1,70 @@
+{
+  "id": 1259483845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37082,10.03382,106.37082,10.03382",
+    "geom:latitude":10.03382,
+    "geom:longitude":106.37082,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Binh Dong",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531932,
+    "gn:latitude":10.03382,
+    "gn:longitude":106.37082,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531932
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7232f55cff569bdc610a4b40432d6f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782119,
+            "locality_id":1259483845,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1259483845,
+    "wof:lastmodified":1537714474,
+    "wof:name":"Binh Dong",
+    "wof:parent_id":1108782119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37082,
+    10.03382,
+    106.37082,
+    10.03382
+],
+  "geometry": {"coordinates":[106.37081999999999,10.03382],"type":"Point"}
+}

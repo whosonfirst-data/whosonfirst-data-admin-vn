@@ -1,0 +1,67 @@
+{
+  "id": 1276883503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,21.28333,105.93333,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Thon Ca",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565696,
+    "gn:latitude":21.28333,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Th\u00f4n Ca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd87bb7c7ee07634dc4cdecff25a41dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781161,
+            "locality_id":1276883503,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1276883503,
+    "wof:lastmodified":1537034649,
+    "wof:name":"Thon Ca",
+    "wof:parent_id":1108781161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    21.28333,
+    105.93333,
+    21.28333
+],
+  "geometry": {"coordinates":[105.93333,21.28333],"type":"Point"}
+}

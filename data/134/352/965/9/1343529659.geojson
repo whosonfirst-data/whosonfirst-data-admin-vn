@@ -1,0 +1,71 @@
+{
+  "id": 1343529659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,11.85,108.15,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"B'sar Deung",
+    "gn:country_code":"VN",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587343,
+    "gn:latitude":11.85,
+    "gn:longitude":108.15,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"B\u2019sar Deung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u2019Sar Dong",
+        "B\u2019sar Deung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587343
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c2b6dfab32ace4bca844e09eeb330b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781893,
+            "locality_id":1343529659,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343529659,
+    "wof:lastmodified":1537714062,
+    "wof:name":"B'sar Deung",
+    "wof:parent_id":1108781893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    11.85,
+    108.15,
+    11.85
+],
+  "geometry": {"coordinates":[108.15000000000001,11.85],"type":"Point"}
+}

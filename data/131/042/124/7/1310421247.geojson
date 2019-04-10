@@ -1,0 +1,67 @@
+{
+  "id": 1310421247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,18.25,105.65,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Van Dong",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563130,
+    "gn:latitude":18.25,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"V\u0103n \u0110\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79ea04ba923edcb0b89bfe2f60780a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1310421247,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310421247,
+    "wof:lastmodified":1537036891,
+    "wof:name":"Van Dong",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    18.25,
+    105.65,
+    18.25
+],
+  "geometry": {"coordinates":[105.65000000000001,18.25],"type":"Point"}
+}

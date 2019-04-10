@@ -1,0 +1,71 @@
+{
+  "id": 1242989745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82297,22.36178,105.82297,22.36178",
+    "geom:latitude":22.36178,
+    "geom:longitude":105.82297,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Lung",
+    "gn:country_code":"VN",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589875,
+    "gn:latitude":22.36178,
+    "gn:longitude":105.82297,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n L\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n L\u00f9ng",
+        "B\u1ea3n Loung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589875
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"687e88122ce93b8760b2504b3927876c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1242989745,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242989745,
+    "wof:lastmodified":1537714105,
+    "wof:name":"Ban Lung",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82297,
+    22.36178,
+    105.82297,
+    22.36178
+],
+  "geometry": {"coordinates":[105.82297,22.36178],"type":"Point"}
+}

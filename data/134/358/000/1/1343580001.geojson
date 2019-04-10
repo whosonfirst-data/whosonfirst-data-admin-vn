@@ -1,0 +1,70 @@
+{
+  "id": 1343580001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06369,20.26505,106.06369,20.26505",
+    "geom:latitude":20.26505,
+    "geom:longitude":106.06369,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"An Trung",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554671,
+    "gn:latitude":20.26505,
+    "gn:longitude":106.06369,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"An Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554671
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f75486d1394300d49c4fa43accfd93f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781353,
+            "locality_id":1343580001,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1343580001,
+    "wof:lastmodified":1537714352,
+    "wof:name":"An Trung",
+    "wof:parent_id":1108781353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06369,
+    20.26505,
+    106.06369,
+    20.26505
+],
+  "geometry": {"coordinates":[106.06368999999999,20.26505],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344072379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6,21.66667,105.6,21.66667",
+    "geom:latitude":21.66667,
+    "geom:longitude":105.6,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Ban Ngoai",
+    "gn:country_code":"VN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589364,
+    "gn:latitude":21.66667,
+    "gn:longitude":105.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Ngo\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"776eb2b0a6058ba458696f36286ca0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1344072379,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1344072379,
+    "wof:lastmodified":1536857035,
+    "wof:name":"Ban Ngoai",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6,
+    21.66667,
+    105.6,
+    21.66667
+],
+  "geometry": {"coordinates":[105.59999999999999,21.66667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226153771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.20681,12.33144,108.20681,12.33144",
+    "geom:latitude":12.33144,
+    "geom:longitude":108.20681,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Du Mach",
+    "gn:country_code":"VN",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587053,
+    "gn:latitude":12.33144,
+    "gn:longitude":108.20681,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n Du M\u00e1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n Dur Mah"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Du M\u00e1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587053
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50b4c0008652fdbd8607c153f4685aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1226153771,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1226153771,
+    "wof:lastmodified":1537714053,
+    "wof:name":"Buon Du Mach",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.20681,
+    12.33144,
+    108.20681,
+    12.33144
+],
+  "geometry": {"coordinates":[108.20681,12.33144],"type":"Point"}
+}

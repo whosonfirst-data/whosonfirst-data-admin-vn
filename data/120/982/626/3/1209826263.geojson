@@ -1,0 +1,73 @@
+{
+  "id": 1209826263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65479,22.37702,102.65479,22.37702",
+    "geom:latitude":22.37702,
+    "geom:longitude":102.65479,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ta Tong",
+    "gn:country_code":"VN",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588664,
+    "gn:latitude":22.37702,
+    "gn:longitude":102.65479,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"T\u1ea3 T\u1ed5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n T\u1ea3 T\u1ed5ng"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ea3 T\u1ed5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588664
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5d98e3ca9d09c44c2955cac37bdf8043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1209826263,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1209826263,
+    "wof:lastmodified":1537714082,
+    "wof:name":"Ta Tong",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65479,
+    22.37702,
+    102.65479,
+    22.37702
+],
+  "geometry": {"coordinates":[102.65479000000001,22.37702],"type":"Point"}
+}

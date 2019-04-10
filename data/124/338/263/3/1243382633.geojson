@@ -1,0 +1,71 @@
+{
+  "id": 1243382633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.9,12.0,108.9,12.0",
+    "geom:latitude":12.0,
+    "geom:longitude":108.9,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Cam Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586333,
+    "gn:latitude":12.0,
+    "gn:longitude":108.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Cam Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La To Hap",
+        "Cam Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586333
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b164bda6009a9e02c7d6cf7a8043bd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781733,
+            "locality_id":1243382633,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1243382633,
+    "wof:lastmodified":1537714034,
+    "wof:name":"Cam Thuong",
+    "wof:parent_id":1108781733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.9,
+    12.0,
+    108.9,
+    12.0
+],
+  "geometry": {"coordinates":[108.90000000000001,12.0],"type":"Point"}
+}

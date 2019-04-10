@@ -1,0 +1,67 @@
+{
+  "id": 1343873949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73333,22.05,104.73333,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":104.73333,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kham Kia",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579661,
+    "gn:latitude":22.05,
+    "gn:longitude":104.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kh\u00e2m K\u00eca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579661
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fb7a09d7bc8f9a0ac1bf41234353d1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1343873949,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1343873949,
+    "wof:lastmodified":1536646599,
+    "wof:name":"Kham Kia",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73333,
+    22.05,
+    104.73333,
+    22.05
+],
+  "geometry": {"coordinates":[104.73333,22.05],"type":"Point"}
+}

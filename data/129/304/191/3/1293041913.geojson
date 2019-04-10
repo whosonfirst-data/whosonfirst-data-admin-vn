@@ -1,0 +1,73 @@
+{
+  "id": 1293041913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,11.25,106.13333,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Truong Hue",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591836,
+    "gn:latitude":11.25,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Tr\u01b0\u1eddng Hu\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Binh",
+        "Ap Hoa Binh",
+        "\u1ea4p Tr\u01b0\u1eddng Hu\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591836
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f332054de03fbe9c0dbc79632308217e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781943,
+            "locality_id":1293041913,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1293041913,
+    "wof:lastmodified":1537714143,
+    "wof:name":"Ap Truong Hue",
+    "wof:parent_id":1108781943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    11.25,
+    106.13333,
+    11.25
+],
+  "geometry": {"coordinates":[106.13333,11.25],"type":"Point"}
+}

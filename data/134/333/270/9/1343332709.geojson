@@ -1,0 +1,67 @@
+{
+  "id": 1343332709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,20.98333,106.66667,20.98333",
+    "geom:latitude":20.98333,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vien Khe",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562835,
+    "gn:latitude":20.98333,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Vi\u00ean Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562835
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ce88de6c7e313760832a4b4d4de5409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781277,
+            "locality_id":1343332709,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1343332709,
+    "wof:lastmodified":1536931500,
+    "wof:name":"Vien Khe",
+    "wof:parent_id":1108781277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    20.98333,
+    106.66667,
+    20.98333
+],
+  "geometry": {"coordinates":[106.66667,20.98333],"type":"Point"}
+}

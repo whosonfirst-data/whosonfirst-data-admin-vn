@@ -1,0 +1,73 @@
+{
+  "id": 1343730459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.56293,12.10542,108.56293,12.10542",
+    "geom:latitude":12.10542,
+    "geom:longitude":108.56293,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Da Chay",
+    "gn:country_code":"VN",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991458,
+    "gn:latitude":12.10542,
+    "gn:longitude":108.56293,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n \u0110a Chay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1 Chay"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n \u0110a Chay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991458
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"885790f1ad36dd8ea717e8f5afbf19fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781891,
+            "locality_id":1343730459,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343730459,
+    "wof:lastmodified":1537714419,
+    "wof:name":"Ban Da Chay",
+    "wof:parent_id":1108781891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.56293,
+    12.10542,
+    108.56293,
+    12.10542
+],
+  "geometry": {"coordinates":[108.56292999999999,12.10542],"type":"Point"}
+}

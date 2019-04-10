@@ -1,0 +1,67 @@
+{
+  "id": 1226257679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,20.66667,105.66667,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ba Lam",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591284,
+    "gn:latitude":20.66667,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u00e1 Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591284
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd1f10318e67b03f1e6a453ef68d5479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1226257679,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226257679,
+    "wof:lastmodified":1536916875,
+    "wof:name":"Ba Lam",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    20.66667,
+    105.66667,
+    20.66667
+],
+  "geometry": {"coordinates":[105.66667,20.66667],"type":"Point"}
+}

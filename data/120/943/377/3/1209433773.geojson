@@ -1,0 +1,64 @@
+{
+  "id": 1209433773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.61395,13.27062,108.61395,13.27062",
+    "geom:latitude":13.27062,
+    "geom:longitude":108.61395,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ngo",
+    "gn:country_code":"VN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8701432,
+    "gn:latitude":13.27062,
+    "gn:longitude":108.61395,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Ng\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8701432
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"340a1c697ad888adf25085c8076e1a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433773
+        }
+    ],
+    "wof:id":1209433773,
+    "wof:lastmodified":1537714408,
+    "wof:name":"Ngo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.61395,
+    13.27062,
+    108.61395,
+    13.27062
+],
+  "geometry": {"coordinates":[108.61395,13.27062],"type":"Point"}
+}

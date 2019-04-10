@@ -1,0 +1,67 @@
+{
+  "id": 1276948857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,20.81667,106.65,20.81667",
+    "geom:latitude":20.81667,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tru Khe",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563765,
+    "gn:latitude":20.81667,
+    "gn:longitude":106.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u00f9 Khe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563765
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f53ba08a99e1662520467e98a67dcc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781283,
+            "locality_id":1276948857,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1276948857,
+    "wof:lastmodified":1536949259,
+    "wof:name":"Tru Khe",
+    "wof:parent_id":1108781283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    20.81667,
+    106.65,
+    20.81667
+],
+  "geometry": {"coordinates":[106.65000000000001,20.81667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309924631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56785,18.44503,105.56785,18.44503",
+    "geom:latitude":18.44503,
+    "geom:longitude":105.56785,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hung Quang",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354100,
+    "gn:latitude":18.44503,
+    "gn:longitude":105.56785,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u01b0ng Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u01b0ng Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354100
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4baaf9d6c0195064a15ed9743329975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1309924631,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309924631,
+    "wof:lastmodified":1537714708,
+    "wof:name":"Hung Quang",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56785,
+    18.44503,
+    105.56785,
+    18.44503
+],
+  "geometry": {"coordinates":[105.56785000000001,18.44503],"type":"Point"}
+}

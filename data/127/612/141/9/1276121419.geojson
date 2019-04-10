@@ -1,0 +1,71 @@
+{
+  "id": 1276121419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23887,10.79832,105.23887,10.79832",
+    "geom:latitude":10.79832,
+    "geom:longitude":105.23887,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tan Chau",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1567032,
+    "gn:latitude":10.79832,
+    "gn:longitude":105.23887,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"T\u00e2n Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e2n Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567032,
+        "wk:page":"T%C3%A2n_Ch%C3%A2u"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"67ccd251f3ab947b5fb7f582bbbf89d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782201,
+            "locality_id":1276121419,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1276121419,
+    "wof:lastmodified":1537713784,
+    "wof:name":"Tan Chau",
+    "wof:parent_id":1108782201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23887,
+    10.79832,
+    105.23887,
+    10.79832
+],
+  "geometry": {"coordinates":[105.23887000000001,10.79832],"type":"Point"}
+}

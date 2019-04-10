@@ -1,0 +1,71 @@
+{
+  "id": 1326749253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11139,9.34056,106.11139,9.34056",
+    "geom:latitude":9.34056,
+    "geom:longitude":106.11139,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Giong Dai Bai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581648,
+    "gn:latitude":9.34056,
+    "gn:longitude":106.11139,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Gi\u1ed3ng \u0110\u1ea1i B\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ea1i B\u1ea1i",
+        "Gi\u1ed3ng \u0110\u1ea1i B\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581648
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea91f47c83c8b947c734cd62d6868f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782307,
+            "locality_id":1326749253,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1326749253,
+    "wof:lastmodified":1537713978,
+    "wof:name":"Giong Dai Bai",
+    "wof:parent_id":1108782307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11139,
+    9.34056,
+    106.11139,
+    9.34056
+],
+  "geometry": {"coordinates":[106.11139,9.34056],"type":"Point"}
+}

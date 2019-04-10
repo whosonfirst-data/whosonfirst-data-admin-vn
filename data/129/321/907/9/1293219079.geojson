@@ -1,0 +1,67 @@
+{
+  "id": 1293219079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05,21.9,104.05,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":104.05,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Son Van Chay",
+    "gn:country_code":"VN",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567672,
+    "gn:latitude":21.9,
+    "gn:longitude":104.05,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Son Van Chay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567672
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb3c40863be6eb3b4ff2cf558a64a049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1293219079,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1293219079,
+    "wof:lastmodified":1536676970,
+    "wof:name":"Son Van Chay",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05,
+    21.9,
+    104.05,
+    21.9
+],
+  "geometry": {"coordinates":[104.05,21.9],"type":"Point"}
+}

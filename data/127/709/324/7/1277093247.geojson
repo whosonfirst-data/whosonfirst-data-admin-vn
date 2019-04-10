@@ -1,0 +1,67 @@
+{
+  "id": 1277093247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.45,11.9,107.45,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":107.45,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Bu Sre",
+    "gn:country_code":"VN",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586722,
+    "gn:latitude":11.9,
+    "gn:longitude":107.45,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Bu Sr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d7bea530b6b48d0ae4ed75b87d7c2b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781879,
+            "locality_id":1277093247,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1277093247,
+    "wof:lastmodified":1536752436,
+    "wof:name":"Bu Sre",
+    "wof:parent_id":1108781879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.45,
+    11.9,
+    107.45,
+    11.9
+],
+  "geometry": {"coordinates":[107.45,11.9],"type":"Point"}
+}

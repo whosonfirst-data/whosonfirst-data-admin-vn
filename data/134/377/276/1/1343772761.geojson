@@ -1,0 +1,71 @@
+{
+  "id": 1343772761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01667,21.4,105.01667,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":105.01667,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Xom Dong Liem",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561621,
+    "gn:latitude":21.4,
+    "gn:longitude":105.01667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"X\u00f3m \u0110\u1ed3ng Li\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Liem",
+        "X\u00f3m \u0110\u1ed3ng Li\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561621
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eaf54531387503fb3c1c4d9c9f0d6441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781179,
+            "locality_id":1343772761,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343772761,
+    "wof:lastmodified":1537713689,
+    "wof:name":"Xom Dong Liem",
+    "wof:parent_id":1108781179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01667,
+    21.4,
+    105.01667,
+    21.4
+],
+  "geometry": {"coordinates":[105.01667,21.4],"type":"Point"}
+}

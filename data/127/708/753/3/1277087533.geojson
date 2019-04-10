@@ -1,0 +1,72 @@
+{
+  "id": 1277087533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53333,10.53333,105.53333,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":105.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ap Nhan Chau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592790,
+    "gn:latitude":10.53333,
+    "gn:longitude":105.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Nh\u1ea1n Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Nan Chau",
+        "\u1ea4p Nh\u1ea1n Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592790
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"317cbc0ec36df3f5ed29e5e06172e437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782185,
+            "locality_id":1277087533,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1277087533,
+    "wof:lastmodified":1537714169,
+    "wof:name":"Ap Nhan Chau",
+    "wof:parent_id":1108782185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53333,
+    10.53333,
+    105.53333,
+    10.53333
+],
+  "geometry": {"coordinates":[105.53333000000001,10.53333],"type":"Point"}
+}

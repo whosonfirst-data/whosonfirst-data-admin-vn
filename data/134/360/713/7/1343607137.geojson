@@ -1,0 +1,67 @@
+{
+  "id": 1343607137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48333,20.83333,107.48333,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":107.48333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ro Ngoi",
+    "gn:country_code":"VN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568297,
+    "gn:latitude":20.83333,
+    "gn:longitude":107.48333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ro Ngoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568297
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1664a1b68f458087335809ee5a71e938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781131,
+            "locality_id":1343607137,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1343607137,
+    "wof:lastmodified":1537030691,
+    "wof:name":"Ro Ngoi",
+    "wof:parent_id":1108781131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48333,
+    20.83333,
+    107.48333,
+    20.83333
+],
+  "geometry": {"coordinates":[107.48333,20.83333],"type":"Point"}
+}

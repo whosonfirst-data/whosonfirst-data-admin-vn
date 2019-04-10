@@ -1,0 +1,65 @@
+{
+  "id": 1209425727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23333,21.51667,103.23333,21.51667",
+    "geom:latitude":21.51667,
+    "geom:longitude":103.23333,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Lou",
+    "gn:country_code":"VN",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589882,
+    "gn:latitude":21.51667,
+    "gn:longitude":103.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Lou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Louk",
+        "B\u1ea3n Lou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589882
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"074c4d1581683e2b031927d757ddfe6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425727
+        }
+    ],
+    "wof:id":1209425727,
+    "wof:lastmodified":1537714105,
+    "wof:name":"Ban Lou",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23333,
+    21.51667,
+    103.23333,
+    21.51667
+],
+  "geometry": {"coordinates":[103.23333,21.51667],"type":"Point"}
+}

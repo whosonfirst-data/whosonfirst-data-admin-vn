@@ -1,0 +1,65 @@
+{
+  "id": 1209457209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.06667,15.71667,108.06667,15.71667",
+    "geom:latitude":15.71667,
+    "geom:longitude":108.06667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Khuong Trung",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579051,
+    "gn:latitude":15.71667,
+    "gn:longitude":108.06667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Kh\u01b0\u01a1ng Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trung Phuoc",
+        "Kh\u01b0\u01a1ng Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579051
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52a91d6de44b990c6296d60f9140e857",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209457209
+        }
+    ],
+    "wof:id":1209457209,
+    "wof:lastmodified":1537713947,
+    "wof:name":"Khuong Trung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.06667,
+    15.71667,
+    108.06667,
+    15.71667
+],
+  "geometry": {"coordinates":[108.06667,15.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226353097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,18.0,106.16667,18.0",
+    "geom:latitude":18.0,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Rao Moc Xom",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568468,
+    "gn:latitude":18.0,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"R\u00e0o M\u00f4c X\u00f3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rao Mon Xom",
+        "Rao M\u00f4 X\u00f3m",
+        "R\u00e0o M\u00f4c X\u00f3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568468
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1a6cab550c0774d279d734b4aa9597e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781517,
+            "locality_id":1226353097,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1226353097,
+    "wof:lastmodified":1537713798,
+    "wof:name":"Rao Moc Xom",
+    "wof:parent_id":1108781517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    18.0,
+    106.16667,
+    18.0
+],
+  "geometry": {"coordinates":[106.16667,18.0],"type":"Point"}
+}

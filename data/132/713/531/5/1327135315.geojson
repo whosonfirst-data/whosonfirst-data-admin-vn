@@ -1,0 +1,73 @@
+{
+  "id": 1327135315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26734,10.30076,106.26734,10.30076",
+    "geom:latitude":10.30076,
+    "geom:longitude":106.26734,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Phu Thanh Mot",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337632,
+    "gn:latitude":10.30076,
+    "gn:longitude":106.26734,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ph\u00fa Th\u00e0nh M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Th\u00e0nh M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00fa Th\u00e0nh 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337632
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44bed6aec61a1c80d60117c53613830d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1327135315,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1327135315,
+    "wof:lastmodified":1537714280,
+    "wof:name":"Phu Thanh Mot",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26734,
+    10.30076,
+    106.26734,
+    10.30076
+],
+  "geometry": {"coordinates":[106.26734,10.30076],"type":"Point"}
+}

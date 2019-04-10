@@ -1,0 +1,64 @@
+{
+  "id": 1209626101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37781,22.71506,103.37781,22.71506",
+    "geom:latitude":22.71506,
+    "geom:longitude":103.37781,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ngai Thau",
+    "gn:country_code":"VN",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572681,
+    "gn:latitude":22.71506,
+    "gn:longitude":103.37781,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ng\u00e0i Th\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u00e0i Th\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572681
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"341f7e9a668d0d989bc241a1f930dbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209626101
+        }
+    ],
+    "wof:id":1209626101,
+    "wof:lastmodified":1537713859,
+    "wof:name":"Ngai Thau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37781,
+    22.71506,
+    103.37781,
+    22.71506
+],
+  "geometry": {"coordinates":[103.37781,22.71506],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293408753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.20756,12.69723,108.20756,12.69723",
+    "geom:latitude":12.69723,
+    "geom:longitude":108.20756,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ea Nai",
+    "gn:country_code":"VN",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587029,
+    "gn:latitude":12.69723,
+    "gn:longitude":108.20756,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ea N\u00e3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Ea Niach",
+        "Bu\u00f4n Ea Nia\u00eah"
+    ],
+    "name:vie_x_preferred":[
+        "Ea N\u00e3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587029
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef66cc4cf46107c10bf203d4f5a98324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781857,
+            "locality_id":1293408753,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293408753,
+    "wof:lastmodified":1537714052,
+    "wof:name":"Ea Nai",
+    "wof:parent_id":1108781857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.20756000000002,
+    12.69723,
+    108.20756000000002,
+    12.69723
+],
+  "geometry": {"coordinates":[108.20756000000002,12.69723],"type":"Point"}
+}

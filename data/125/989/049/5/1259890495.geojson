@@ -1,0 +1,70 @@
+{
+  "id": 1259890495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89041,20.54617,105.89041,20.54617",
+    "geom:latitude":20.54617,
+    "geom:longitude":105.89041,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Phu Vien",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564116,
+    "gn:latitude":20.54617,
+    "gn:longitude":105.89041,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Ph\u00fa Vi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Vi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564116
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5188a067f3410bf630cab7f6478b299d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781337,
+            "locality_id":1259890495,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1259890495,
+    "wof:lastmodified":1537714355,
+    "wof:name":"Phu Vien",
+    "wof:parent_id":1108781337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89041,
+    20.54617,
+    105.89041,
+    20.54617
+],
+  "geometry": {"coordinates":[105.89041,20.54617],"type":"Point"}
+}

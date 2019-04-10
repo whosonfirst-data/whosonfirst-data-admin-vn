@@ -1,0 +1,65 @@
+{
+  "id": 1209019845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53333,21.35,105.53333,21.35",
+    "geom:latitude":21.35,
+    "geom:longitude":105.53333,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Hoang Van",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580670,
+    "gn:latitude":21.35,
+    "gn:longitude":105.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ho\u00e0ng V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho\u00e0ng V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580670,
+        "wk:page":"Ho%C3%A0ng_V%C3%A2n"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"771ec3282d7a51f81b1a8970ede80152",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019845
+        }
+    ],
+    "wof:id":1209019845,
+    "wof:lastmodified":1537713967,
+    "wof:name":"Hoang Van",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53333,
+    21.35,
+    105.53333,
+    21.35
+],
+  "geometry": {"coordinates":[105.53333000000001,21.35],"type":"Point"}
+}

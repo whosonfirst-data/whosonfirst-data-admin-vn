@@ -1,0 +1,73 @@
+{
+  "id": 1293647853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94339,10.25684,103.94339,10.25684",
+    "geom:latitude":10.25684,
+    "geom:longitude":103.94339,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ong Lang",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592683,
+    "gn:latitude":10.25684,
+    "gn:longitude":103.94339,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"\u00d4ng Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p \u00d4ng Lang"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4ng Lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592683
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f236b483cf76690f4494dd5740da12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782245,
+            "locality_id":1293647853,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1293647853,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Ong Lang",
+    "wof:parent_id":1108782245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94339,
+    10.25684,
+    103.94339,
+    10.25684
+],
+  "geometry": {"coordinates":[103.94338999999999,10.25684],"type":"Point"}
+}

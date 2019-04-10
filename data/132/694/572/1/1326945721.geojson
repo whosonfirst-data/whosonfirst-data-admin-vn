@@ -1,0 +1,67 @@
+{
+  "id": 1326945721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99036,22.3348,105.99036,22.3348",
+    "geom:latitude":22.3348,
+    "geom:longitude":105.99036,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuan Dooc",
+    "gn:country_code":"VN",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311820,
+    "gn:latitude":22.3348,
+    "gn:longitude":105.99036,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Khu\u00e2n \u0110o\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311820
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62b229d388651992f5eda3ed0334cb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1326945721,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1326945721,
+    "wof:lastmodified":1536884776,
+    "wof:name":"Khuan Dooc",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99036,
+    22.3348,
+    105.99036,
+    22.3348
+],
+  "geometry": {"coordinates":[105.99036,22.3348],"type":"Point"}
+}

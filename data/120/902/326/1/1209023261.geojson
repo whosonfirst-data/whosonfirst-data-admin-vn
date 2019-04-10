@@ -1,0 +1,61 @@
+{
+  "id": 1209023261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.29279,13.87802,109.29279,13.87802",
+    "geom:latitude":13.87802,
+    "geom:longitude":109.29279,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Xuong Ly",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560458,
+    "gn:latitude":13.87802,
+    "gn:longitude":109.29279,
+    "gn:modification_date":"2017-09-20",
+    "gn:name":"X\u01b0\u01a1ng L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560458
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"82a3c2b39aa2de35f3b987ab3b9b9766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023261
+        }
+    ],
+    "wof:id":1209023261,
+    "wof:lastmodified":1536300080,
+    "wof:name":"Xuong Ly",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.29279,
+    13.87802,
+    109.29279,
+    13.87802
+],
+  "geometry": {"coordinates":[109.29279,13.87802],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360100427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50436,19.11097,105.50436,19.11097",
+    "geom:latitude":19.11097,
+    "geom:longitude":105.50436,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Tan Son",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178474,
+    "gn:latitude":19.11097,
+    "gn:longitude":105.50436,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"T\u00e2n S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178474
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b726bc5f8ec61b4d21a37fe2ab4fe4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1360100427,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1360100427,
+    "wof:lastmodified":1537714603,
+    "wof:name":"Tan Son",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50436,
+    19.11097,
+    105.50436,
+    19.11097
+],
+  "geometry": {"coordinates":[105.50436000000001,19.11097],"type":"Point"}
+}

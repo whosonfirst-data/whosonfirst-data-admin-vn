@@ -1,0 +1,71 @@
+{
+  "id": 1343772671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,9.28333,105.7,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Ap Giong Me",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593433,
+    "gn:latitude":9.28333,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Gi\u1ed3ng Me",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giong Me",
+        "\u1ea4p Gi\u1ed3ng Me"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593433
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc28b02a83a03dbeb0056425b2ed17f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782311,
+            "locality_id":1343772671,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1343772671,
+    "wof:lastmodified":1537714185,
+    "wof:name":"Ap Giong Me",
+    "wof:parent_id":1108782311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    9.28333,
+    105.7,
+    9.28333
+],
+  "geometry": {"coordinates":[105.7,9.28333],"type":"Point"}
+}

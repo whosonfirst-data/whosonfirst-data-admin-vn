@@ -1,0 +1,71 @@
+{
+  "id": 1293016003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,16.45,107.53333,16.45",
+    "geom:latitude":16.45,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon An Van Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565734,
+    "gn:latitude":16.45,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n An V\u00e2n Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Van Thuong",
+        "Th\u00f4n An V\u00e2n Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565734
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"377138ca8c3ab829ac06d4680df44082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781557,
+            "locality_id":1293016003,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1293016003,
+    "wof:lastmodified":1537713766,
+    "wof:name":"Thon An Van Thuong",
+    "wof:parent_id":1108781557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    16.45,
+    107.53333,
+    16.45
+],
+  "geometry": {"coordinates":[107.53333000000001,16.45],"type":"Point"}
+}

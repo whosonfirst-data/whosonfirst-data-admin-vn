@@ -1,0 +1,73 @@
+{
+  "id": 1226538001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95985,22.64995,105.95985,22.64995",
+    "geom:latitude":22.64995,
+    "geom:longitude":105.95985,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Thi Tran Nguyen Binh",
+    "gn:country_code":"VN",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1572274,
+    "gn:latitude":22.64995,
+    "gn:longitude":105.95985,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Th\u1ecb Tr\u1ea5n Nguy\u00ean B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguy\u00ean B\u00ecnh"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n Nguy\u00ean B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572274
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1baf5d25c1cd679a013bd42473ee6d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780899,
+            "locality_id":1226538001,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1226538001,
+    "wof:lastmodified":1537713853,
+    "wof:name":"Thi Tran Nguyen Binh",
+    "wof:parent_id":1108780899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95985,
+    22.64995,
+    105.95985,
+    22.64995
+],
+  "geometry": {"coordinates":[105.95985,22.64995],"type":"Point"}
+}

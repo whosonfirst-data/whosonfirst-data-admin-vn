@@ -1,0 +1,70 @@
+{
+  "id": 1209730873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4665,21.38251,104.4665,21.38251",
+    "geom:latitude":21.38251,
+    "geom:longitude":104.4665,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Tang Ghenh",
+    "gn:country_code":"VN",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526494,
+    "gn:latitude":21.38251,
+    "gn:longitude":104.4665,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"T\u00e0ng Gh\u1ec1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e0ng Gh\u1ec1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526494
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc02917c5800ef4114d395e3dba3edfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781033,
+            "locality_id":1209730873,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1209730873,
+    "wof:lastmodified":1537714333,
+    "wof:name":"Tang Ghenh",
+    "wof:parent_id":1108781033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4665,
+    21.38251,
+    104.4665,
+    21.38251
+],
+  "geometry": {"coordinates":[104.4665,21.38251],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276454165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5,20.86667,105.5,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":105.5,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Nuoc Bai",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571743,
+    "gn:latitude":20.86667,
+    "gn:longitude":105.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u01b0\u1edbc B\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571743
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8279bbc3b36e2323775fc2228ba6a354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1276454165,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1276454165,
+    "wof:lastmodified":1536614335,
+    "wof:name":"Nuoc Bai",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5,
+    20.86667000000001,
+    105.5,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[105.5,20.86667000000001],"type":"Point"}
+}

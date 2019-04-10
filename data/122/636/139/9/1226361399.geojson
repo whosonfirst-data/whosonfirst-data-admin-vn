@@ -1,0 +1,77 @@
+{
+  "id": 1226361399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00852,11.33033,107.00852,11.33033",
+    "geom:latitude":11.33033,
+    "geom:longitude":107.00852,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"An Trang Hai",
+    "gn:country_code":"VN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594135,
+    "gn:latitude":11.33033,
+    "gn:longitude":107.00852,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"An Trang Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ang Tang",
+        "\u1ea4p Ang Trang S\u1ed1"
+    ],
+    "name:vie_x_preferred":[
+        "An Trang Hai"
+    ],
+    "name:vie_x_variant":[
+        "An Trang 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594135
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae5c73806eeb54a5995f14d306657a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1226361399,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1226361399,
+    "wof:lastmodified":1537714203,
+    "wof:name":"An Trang Hai",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00852,
+    11.33033,
+    107.00852,
+    11.33033
+],
+  "geometry": {"coordinates":[107.00852,11.33033],"type":"Point"}
+}

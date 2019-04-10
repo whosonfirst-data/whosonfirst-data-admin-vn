@@ -1,0 +1,70 @@
+{
+  "id": 1242696821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11586,21.45586,105.11586,21.45586",
+    "geom:latitude":21.45586,
+    "geom:longitude":105.11586,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Lien Ha",
+    "gn:country_code":"VN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200042,
+    "gn:latitude":21.45586,
+    "gn:longitude":105.11586,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Li\u00ean Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200042
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4de44afd3ab9624716376f50cc6382ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781175,
+            "locality_id":1242696821,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1242696821,
+    "wof:lastmodified":1537714228,
+    "wof:name":"Lien Ha",
+    "wof:parent_id":1108781175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11586,
+    21.45586,
+    105.11586,
+    21.45586
+],
+  "geometry": {"coordinates":[105.11586,21.45586],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259694525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86667,21.35,106.86667,21.35",
+    "geom:latitude":21.35,
+    "geom:longitude":106.86667,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Phu Hung",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570572,
+    "gn:latitude":21.35,
+    "gn:longitude":106.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00fa H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Hang",
+        "Ph\u00fa H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570572
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"af3af27e7e61dc24e94ff0bd6e237f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781155,
+            "locality_id":1259694525,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1259694525,
+    "wof:lastmodified":1537713831,
+    "wof:name":"Phu Hung",
+    "wof:parent_id":1108781155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86667,
+    21.35,
+    106.86667,
+    21.35
+],
+  "geometry": {"coordinates":[106.86667,21.35],"type":"Point"}
+}

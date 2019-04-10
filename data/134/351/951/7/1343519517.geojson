@@ -1,0 +1,71 @@
+{
+  "id": 1343519517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,11.6,108.1,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"N'dong Dor",
+    "gn:country_code":"VN",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572757,
+    "gn:latitude":11.6,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"N\u2019dong Dor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Dong Dar",
+        "N\u2019dong Dor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572757
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44bf98f8a36c525d13ad5f08da266378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1343519517,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343519517,
+    "wof:lastmodified":1537713860,
+    "wof:name":"N'dong Dor",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    11.6,
+    108.1,
+    11.6
+],
+  "geometry": {"coordinates":[108.09999999999999,11.6],"type":"Point"}
+}

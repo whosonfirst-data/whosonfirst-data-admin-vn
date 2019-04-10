@@ -1,0 +1,70 @@
+{
+  "id": 1343780967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39033,22.64449,104.39033,22.64449",
+    "geom:latitude":22.64449,
+    "geom:longitude":104.39033,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Hoang Phi Pho",
+    "gn:country_code":"VN",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869221,
+    "gn:latitude":22.64449,
+    "gn:longitude":104.39033,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n Ho\u00e0ng Ph\u00ec Ph\u1ed1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ho\u00e0ng Ph\u00ec Ph\u1ed1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869221
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bb0a8c232479df0a7baa029d5a102d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1343780967,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343780967,
+    "wof:lastmodified":1537714526,
+    "wof:name":"Ban Hoang Phi Pho",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39033,
+    22.64449,
+    104.39033,
+    22.64449
+],
+  "geometry": {"coordinates":[104.39033000000001,22.64449],"type":"Point"}
+}

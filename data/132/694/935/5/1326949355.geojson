@@ -1,0 +1,67 @@
+{
+  "id": 1326949355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43333,21.85,105.43333,21.85",
+    "geom:latitude":21.85,
+    "geom:longitude":105.43333,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kim Quan Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578877,
+    "gn:latitude":21.85,
+    "gn:longitude":105.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kim Quan Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578877
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bd02af204cacba15e4a3a73ec456a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1326949355,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1326949355,
+    "wof:lastmodified":1536879408,
+    "wof:name":"Kim Quan Thuong",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43333,
+    21.85,
+    105.43333,
+    21.85
+],
+  "geometry": {"coordinates":[105.43333,21.85],"type":"Point"}
+}

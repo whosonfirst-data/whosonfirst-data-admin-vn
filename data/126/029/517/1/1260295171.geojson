@@ -1,0 +1,71 @@
+{
+  "id": 1260295171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,10.15,105.71667,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ap Tan Hung",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592241,
+    "gn:latitude":10.15,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e2n H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan Hung",
+        "\u1ea4p T\u00e2n H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592241
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c4ff39c1fa8da601d1c0cd4f16b380d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782165,
+            "locality_id":1260295171,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1260295171,
+    "wof:lastmodified":1537714154,
+    "wof:name":"Ap Tan Hung",
+    "wof:parent_id":1108782165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    10.15,
+    105.71667,
+    10.15
+],
+  "geometry": {"coordinates":[105.71666999999999,10.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226766529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.98333,12.05,108.98333,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":108.98333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"O Kha",
+    "gn:country_code":"VN",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571654,
+    "gn:latitude":12.05,
+    "gn:longitude":108.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u00d4 Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571654
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bce33912ac300e6c8616f07c4de7946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781733,
+            "locality_id":1226766529,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1226766529,
+    "wof:lastmodified":1536685620,
+    "wof:name":"O Kha",
+    "wof:parent_id":1108781733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.98333,
+    12.05,
+    108.98333,
+    12.05
+],
+  "geometry": {"coordinates":[108.98333,12.05],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243465051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,22.55,103.8,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Na Kin",
+    "gn:country_code":"VN",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573721,
+    "gn:latitude":22.55,
+    "gn:longitude":103.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Na Kin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ri",
+        "Na Kin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573721
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8fc7aa4725297327168da226635d4b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1243465051,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243465051,
+    "wof:lastmodified":1537713872,
+    "wof:name":"Na Kin",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    22.55,
+    103.8,
+    22.55
+],
+  "geometry": {"coordinates":[103.8,22.55],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243473305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21548,21.51895,103.21548,21.51895",
+    "geom:latitude":21.51895,
+    "geom:longitude":103.21548,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Khoi Bon",
+    "gn:country_code":"VN",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944524,
+    "gn:latitude":21.51895,
+    "gn:longitude":103.21548,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kh\u1ed1i B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944524
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f756a13dda6be937f149a30e870bdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780973,
+            "locality_id":1243473305,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1243473305,
+    "wof:lastmodified":1537714738,
+    "wof:name":"Khoi Bon",
+    "wof:parent_id":1108780973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21548,
+    21.51895,
+    103.21548,
+    21.51895
+],
+  "geometry": {"coordinates":[103.21548,21.51895],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293211343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14159,23.11792,105.14159,23.11792",
+    "geom:latitude":23.11792,
+    "geom:longitude":105.14159,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Thi Tran Yen Minh",
+    "gn:country_code":"VN",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1560166,
+    "gn:latitude":23.11792,
+    "gn:longitude":105.14159,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Th\u1ecb Tr\u1ea5n Y\u00ean Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00ean Minh"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n Y\u00ean Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560166
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44609de0ec969656d40d4d1941931f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1293211343,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293211343,
+    "wof:lastmodified":1537713660,
+    "wof:name":"Thi Tran Yen Minh",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14159,
+    23.11792,
+    105.14159,
+    23.11792
+],
+  "geometry": {"coordinates":[105.14158999999999,23.11792],"type":"Point"}
+}

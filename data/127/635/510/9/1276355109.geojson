@@ -1,0 +1,67 @@
+{
+  "id": 1276355109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,20.5,105.93333,20.5",
+    "geom:latitude":20.5,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Hoa Ngai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580739,
+    "gn:latitude":20.5,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u00f2a Ng\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580739
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f2e39b5c67f99cde0bfda9acfd0a59be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781339,
+            "locality_id":1276355109,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1276355109,
+    "wof:lastmodified":1536749229,
+    "wof:name":"Hoa Ngai",
+    "wof:parent_id":1108781339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    20.5,
+    105.93333,
+    20.5
+],
+  "geometry": {"coordinates":[105.93333,20.5],"type":"Point"}
+}

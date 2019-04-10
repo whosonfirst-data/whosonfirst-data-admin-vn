@@ -1,0 +1,71 @@
+{
+  "id": 1309924725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86667,18.45,105.86667,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":105.86667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Mau Vien",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574775,
+    "gn:latitude":18.45,
+    "gn:longitude":105.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u00e2u Vien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May Vien",
+        "M\u00e2u Vien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574775
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"42fe9fad0a9357badb8d6dd1b2522b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1309924725,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309924725,
+    "wof:lastmodified":1537713886,
+    "wof:name":"Mau Vien",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86667,
+    18.45,
+    105.86667,
+    18.45
+],
+  "geometry": {"coordinates":[105.86667,18.45],"type":"Point"}
+}

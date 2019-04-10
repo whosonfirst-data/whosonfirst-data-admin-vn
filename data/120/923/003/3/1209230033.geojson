@@ -1,0 +1,64 @@
+{
+  "id": 1209230033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.3,13.25,109.3,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":109.3,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Tan",
+    "gn:country_code":"VN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570227,
+    "gn:latitude":13.25,
+    "gn:longitude":109.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Phu Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1edbc \u0110\u1ed5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570227
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4a36caeb06f4da70c02c07445060cbd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209230033
+        }
+    ],
+    "wof:id":1209230033,
+    "wof:lastmodified":1537713826,
+    "wof:name":"Phu Tan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.3,
+    13.25,
+    109.3,
+    13.25
+],
+  "geometry": {"coordinates":[109.3,13.25],"type":"Point"}
+}

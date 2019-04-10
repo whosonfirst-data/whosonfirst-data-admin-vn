@@ -1,0 +1,67 @@
+{
+  "id": 1327212665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.98333,20.75,106.98333,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":106.98333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Xuan Dam",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560628,
+    "gn:latitude":20.75,
+    "gn:longitude":106.98333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Xu\u00e2n \u0110\u00e0m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560628
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a288e0584d4b32511bcf4bf8b9d5944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781291,
+            "locality_id":1327212665,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1327212665,
+    "wof:lastmodified":1536997425,
+    "wof:name":"Xuan Dam",
+    "wof:parent_id":1108781291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.98333,
+    20.75,
+    106.98333,
+    20.75
+],
+  "geometry": {"coordinates":[106.98333,20.75],"type":"Point"}
+}

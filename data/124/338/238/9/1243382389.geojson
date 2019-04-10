@@ -1,0 +1,67 @@
+{
+  "id": 1243382389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82276,22.3528,105.82276,22.3528",
+    "geom:latitude":22.3528,
+    "geom:longitude":105.82276,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Pu Mat",
+    "gn:country_code":"VN",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311530,
+    "gn:latitude":22.3528,
+    "gn:longitude":105.82276,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"P\u00f9 M\u1eaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311530
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1c26802e1ad67cb98ded72ffad56f42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1243382389,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1243382389,
+    "wof:lastmodified":1536897862,
+    "wof:name":"Pu Mat",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82276,
+    22.3528,
+    105.82276,
+    22.3528
+],
+  "geometry": {"coordinates":[105.82276,22.3528],"type":"Point"}
+}

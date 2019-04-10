@@ -1,0 +1,72 @@
+{
+  "id": 1242793099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4,22.25,103.4,22.25",
+    "geom:latitude":22.25,
+    "geom:longitude":103.4,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Lac",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573398,
+    "gn:latitude":22.25,
+    "gn:longitude":103.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam L\u00e2c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Lae",
+        "Nam L\u00e2c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573398
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e7574a2f21f4e95b8a6fd2f8a0e52c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1242793099,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1242793099,
+    "wof:lastmodified":1537713868,
+    "wof:name":"Nam Lac",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4,
+    22.25,
+    103.4,
+    22.25
+],
+  "geometry": {"coordinates":[103.40000000000001,22.25],"type":"Point"}
+}

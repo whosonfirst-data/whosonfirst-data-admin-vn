@@ -1,0 +1,74 @@
+{
+  "id": 1260025481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.83333,21.61667,107.83333,21.61667",
+    "geom:latitude":21.61667,
+    "geom:longitude":107.83333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tai Moc Can",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567293,
+    "gn:latitude":21.61667,
+    "gn:longitude":107.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tai Moc C\u1eb1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gan Xuong",
+        "Can Xuong",
+        "Tar Moc Can",
+        "Tai Moc C\u1eb1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cfba18eda1c98e02afa2b0f91e95f24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781113,
+            "locality_id":1260025481,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1260025481,
+    "wof:lastmodified":1537713787,
+    "wof:name":"Tai Moc Can",
+    "wof:parent_id":1108781113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.83333,
+    21.61667000000001,
+    107.83333,
+    21.61667000000001
+],
+  "geometry": {"coordinates":[107.83333,21.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243413299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68431,21.64502,103.68431,21.64502",
+    "geom:latitude":21.64502,
+    "geom:longitude":103.68431,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Phieng Luong",
+    "gn:country_code":"VN",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631009,
+    "gn:latitude":21.64502,
+    "gn:longitude":103.68431,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ea3n Phi\u00eang Lu\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Phi\u00eang Lu\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631009
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"38a2118af3cdbedeaec048c9dd2942b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780997,
+            "locality_id":1243413299,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1243413299,
+    "wof:lastmodified":1537714725,
+    "wof:name":"Ban Phieng Luong",
+    "wof:parent_id":1108780997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68431,
+    21.64502,
+    103.68431,
+    21.64502
+],
+  "geometry": {"coordinates":[103.68431,21.64502],"type":"Point"}
+}

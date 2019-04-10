@@ -1,0 +1,64 @@
+{
+  "id": 1209023081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37373,22.68874,103.37373,22.68874",
+    "geom:latitude":22.68874,
+    "geom:longitude":103.37373,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ho Meo",
+    "gn:country_code":"VN",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356469,
+    "gn:latitude":22.68874,
+    "gn:longitude":103.37373,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u1edd M\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1edd M\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356469
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"94d758494613e4b84214a34f30006f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023081
+        }
+    ],
+    "wof:id":1209023081,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Ho Meo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37373,
+    22.68874,
+    103.37373,
+    22.68874
+],
+  "geometry": {"coordinates":[103.37372999999999,22.68874],"type":"Point"}
+}

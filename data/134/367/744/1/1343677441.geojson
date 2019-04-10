@@ -1,0 +1,67 @@
+{
+  "id": 1343677441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,21.25,106.25,21.25",
+    "geom:latitude":21.25,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lu Phu",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575163,
+    "gn:latitude":21.25,
+    "gn:longitude":106.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u0169 Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575163
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ab40ed1c110b69b1b9e00428172a177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781157,
+            "locality_id":1343677441,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343677441,
+    "wof:lastmodified":1536931245,
+    "wof:name":"Lu Phu",
+    "wof:parent_id":1108781157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    21.25,
+    106.25,
+    21.25
+],
+  "geometry": {"coordinates":[106.25,21.25],"type":"Point"}
+}

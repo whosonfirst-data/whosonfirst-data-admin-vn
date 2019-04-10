@@ -1,0 +1,70 @@
+{
+  "id": 1360296291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99141,18.25751,105.99141,18.25751",
+    "geom:latitude":18.25751,
+    "geom:longitude":105.99141,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Tay Thi",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275540,
+    "gn:latitude":18.25751,
+    "gn:longitude":105.99141,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"T\u00e2y Th\u1ecb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2y Th\u1ecb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275540
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65701f41f9265c2735461ff73b4a4f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781515,
+            "locality_id":1360296291,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360296291,
+    "wof:lastmodified":1537714684,
+    "wof:name":"Tay Thi",
+    "wof:parent_id":1108781515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99141000000002,
+    18.25751,
+    105.99141000000002,
+    18.25751
+],
+  "geometry": {"coordinates":[105.99141000000002,18.25751],"type":"Point"}
+}

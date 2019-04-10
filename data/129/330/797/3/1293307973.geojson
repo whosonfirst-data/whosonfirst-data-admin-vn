@@ -1,0 +1,67 @@
+{
+  "id": 1293307973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,22.05,105.75,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Ben",
+    "gn:country_code":"VN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573956,
+    "gn:latitude":22.05,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Na Ben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573956
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"683efa54f267f89a584e1ddfc27f7801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1293307973,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293307973,
+    "wof:lastmodified":1537043941,
+    "wof:name":"Na Ben",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    22.05,
+    105.75,
+    22.05
+],
+  "geometry": {"coordinates":[105.75,22.05],"type":"Point"}
+}

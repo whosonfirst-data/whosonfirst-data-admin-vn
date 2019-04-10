@@ -1,0 +1,67 @@
+{
+  "id": 1225863921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65,21.55,104.65,21.55",
+    "geom:latitude":21.55,
+    "geom:longitude":104.65,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Coc Bang",
+    "gn:country_code":"VN",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585130,
+    "gn:latitude":21.55,
+    "gn:longitude":104.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ed1c Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cf04103baf8eb148599860f34ca4353a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1225863921,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1225863921,
+    "wof:lastmodified":1536986690,
+    "wof:name":"Coc Bang",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65,
+    21.55,
+    104.65,
+    21.55
+],
+  "geometry": {"coordinates":[104.65000000000001,21.55],"type":"Point"}
+}

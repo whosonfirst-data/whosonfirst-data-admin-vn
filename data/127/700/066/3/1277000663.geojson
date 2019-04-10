@@ -1,0 +1,72 @@
+{
+  "id": 1277000663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3,22.71667,103.3,22.71667",
+    "geom:latitude":22.71667,
+    "geom:longitude":103.3,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Gio Sui Thang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581586,
+    "gn:latitude":22.71667,
+    "gn:longitude":103.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gi\u01a1 Sui Th\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia Sui Thang",
+        "Gi\u01a1 Sui Th\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581586
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"642002e5e78d7e2e925c5c76a57f581a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1277000663,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1277000663,
+    "wof:lastmodified":1537713977,
+    "wof:name":"Gio Sui Thang",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3,
+    22.71667,
+    103.3,
+    22.71667
+],
+  "geometry": {"coordinates":[103.3,22.71667],"type":"Point"}
+}

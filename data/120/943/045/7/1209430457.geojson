@@ -1,0 +1,61 @@
+{
+  "id": 1209430457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71667,16.46667,106.71667,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":106.71667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Lang Lio",
+    "gn:country_code":"VN",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577089,
+    "gn:latitude":16.46667,
+    "gn:longitude":106.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Lio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577089
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c00a5d3cfe9293d3c4ec85bf958e226",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430457
+        }
+    ],
+    "wof:id":1209430457,
+    "wof:lastmodified":1536287251,
+    "wof:name":"Lang Lio",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71667,
+    16.46667,
+    106.71667,
+    16.46667
+],
+  "geometry": {"coordinates":[106.71666999999999,16.46667],"type":"Point"}
+}

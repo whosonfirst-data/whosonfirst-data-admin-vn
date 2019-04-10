@@ -1,0 +1,70 @@
+{
+  "id": 1343877253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39232,21.49091,105.39232,21.49091",
+    "geom:latitude":21.49091,
+    "geom:longitude":105.39232,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Thanh Cong",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200876,
+    "gn:latitude":21.49091,
+    "gn:longitude":105.39232,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Th\u00e0nh C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e0nh C\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200876
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a463df5b6f4be4d1b9aa1d2ba0d1b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1343877253,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1343877253,
+    "wof:lastmodified":1537714241,
+    "wof:name":"Thanh Cong",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39232,
+    21.49091,
+    105.39232,
+    21.49091
+],
+  "geometry": {"coordinates":[105.39232,21.49091],"type":"Point"}
+}

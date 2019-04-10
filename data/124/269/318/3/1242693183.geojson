@@ -1,0 +1,70 @@
+{
+  "id": 1242693183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86973,22.044,105.86973,22.044",
+    "geom:latitude":22.044,
+    "geom:longitude":105.86973,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Tan Khang",
+    "gn:country_code":"VN",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9870018,
+    "gn:latitude":22.044,
+    "gn:longitude":105.86973,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u00e2n Khang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Khang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9870018
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4986b3936a8f432ed7dcec5d48cd9b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1242693183,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242693183,
+    "wof:lastmodified":1537714534,
+    "wof:name":"Tan Khang",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86973,
+    22.044,
+    105.86973,
+    22.044
+],
+  "geometry": {"coordinates":[105.86973,22.044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209826095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.38333,16.71667,107.38333,16.71667",
+    "geom:latitude":16.71667,
+    "geom:longitude":107.38333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon An Nhon",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565747,
+    "gn:latitude":16.71667,
+    "gn:longitude":107.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n An Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nhon",
+        "Th\u00f4n An Nh\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565747
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"97baef56312b6631681138e0d43294ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1209826095,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1209826095,
+    "wof:lastmodified":1537713767,
+    "wof:name":"Thon An Nhon",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.38333,
+    16.71667,
+    107.38333,
+    16.71667
+],
+  "geometry": {"coordinates":[107.38333,16.71667],"type":"Point"}
+}

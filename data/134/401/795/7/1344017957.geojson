@@ -1,0 +1,72 @@
+{
+  "id": 1344017957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,21.06667,106.53333,21.06667",
+    "geom:latitude":21.06667,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Van Que",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562982,
+    "gn:latitude":21.06667,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u00e0n Qu\u1ebf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Oue",
+        "V\u00e0n Qu\u1ebf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562982
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7babc861f1a438e4615cbb576e9342bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781135,
+            "locality_id":1344017957,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1344017957,
+    "wof:lastmodified":1537713714,
+    "wof:name":"Van Que",
+    "wof:parent_id":1108781135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    21.06667,
+    106.53333,
+    21.06667
+],
+  "geometry": {"coordinates":[106.53333000000001,21.06667],"type":"Point"}
+}

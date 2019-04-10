@@ -1,0 +1,67 @@
+{
+  "id": 1293902605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,12.96667,109.28333,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Tuy Binh",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563297,
+    "gn:latitude":12.96667,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Tuy B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563297
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7159270ad768784eff1bca759d8b3ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781713,
+            "locality_id":1293902605,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1293902605,
+    "wof:lastmodified":1536685820,
+    "wof:name":"Tuy Binh",
+    "wof:parent_id":1108781713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    12.96667,
+    109.28333,
+    12.96667
+],
+  "geometry": {"coordinates":[109.28333000000001,12.96667],"type":"Point"}
+}

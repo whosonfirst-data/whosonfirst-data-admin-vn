@@ -1,0 +1,72 @@
+{
+  "id": 1225855469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.97895,13.04998,108.97895,13.04998",
+    "geom:latitude":13.04998,
+    "geom:longitude":108.97895,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Cung Son",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1584613,
+    "gn:latitude":13.04998,
+    "gn:longitude":108.97895,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"C\u1ee7ng S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u01a1n H\u00f2a",
+        "C\u1ee7ng S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584613,
+        "wk:page":"S%C6%A1n_H%C3%B3a"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f58cfcc06cc17b95fe73c929a9b889f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1225855469,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1225855469,
+    "wof:lastmodified":1537714016,
+    "wof:name":"Cung Son",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.97895,
+    13.04998,
+    108.97895,
+    13.04998
+],
+  "geometry": {"coordinates":[108.97895,13.04998],"type":"Point"}
+}

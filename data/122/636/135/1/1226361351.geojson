@@ -1,0 +1,75 @@
+{
+  "id": 1226361351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68095,11.08421,107.68095,11.08421",
+    "geom:latitude":11.08421,
+    "geom:longitude":107.68095,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tanh Linh",
+    "gn:country_code":"VN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1566958,
+    "gn:latitude":11.08421,
+    "gn:longitude":107.68095,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"T\u00e1nh Linh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e3 L\u1ea1c T\u00e1nh",
+        "Thanh Linh",
+        "T\u00e1nh Linh"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ea1c T\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566958
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f3242eca675c7f00f7a4e98588fee01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781765,
+            "locality_id":1226361351,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1226361351,
+    "wof:lastmodified":1537713783,
+    "wof:name":"Tanh Linh",
+    "wof:parent_id":1108781765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68095,
+    11.08421,
+    107.68095,
+    11.08421
+],
+  "geometry": {"coordinates":[107.68095,11.08421],"type":"Point"}
+}

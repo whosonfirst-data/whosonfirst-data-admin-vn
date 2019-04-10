@@ -1,0 +1,72 @@
+{
+  "id": 1293506491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15,13.36667,109.15,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":109.15,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ha Binh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581398,
+    "gn:latitude":13.36667,
+    "gn:longitude":109.15,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"H\u00e0 B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Boi",
+        "H\u00e0 B\u1eb1ng",
+        "H\u00e0 B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581398
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44a7f057e67e164255c1fc67650192b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1293506491,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1293506491,
+    "wof:lastmodified":1537713975,
+    "wof:name":"Ha Binh",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15,
+    13.36667,
+    109.15,
+    13.36667
+],
+  "geometry": {"coordinates":[109.15000000000001,13.36667],"type":"Point"}
+}

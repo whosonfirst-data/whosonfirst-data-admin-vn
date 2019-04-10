@@ -1,0 +1,72 @@
+{
+  "id": 1310611901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.02639,22.61667,104.02639,22.61667",
+    "geom:latitude":22.61667,
+    "geom:longitude":104.02639,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Coc Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585046,
+    "gn:latitude":22.61667,
+    "gn:longitude":104.02639,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u00f4c Ph\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coc Thoung",
+        "Coc Fang",
+        "C\u00f4c Ph\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9a2a0970e21d74d407664d054dd02d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1310611901,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310611901,
+    "wof:lastmodified":1537714020,
+    "wof:name":"Coc Phuong",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.02639,
+    22.61667000000001,
+    104.02639,
+    22.61667000000001
+],
+  "geometry": {"coordinates":[104.02639000000001,22.61667000000001],"type":"Point"}
+}

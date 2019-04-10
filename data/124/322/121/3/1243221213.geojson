@@ -1,0 +1,67 @@
+{
+  "id": 1243221213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,10.98333,105.66667,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Can Den",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586298,
+    "gn:latitude":10.98333,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"C\u1ea7n \u0110en",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586298
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5660f20d39e837244a812f8f6131973c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782067,
+            "locality_id":1243221213,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1243221213,
+    "wof:lastmodified":1536631862,
+    "wof:name":"Can Den",
+    "wof:parent_id":1108782067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    10.98333,
+    105.66667,
+    10.98333
+],
+  "geometry": {"coordinates":[105.66667,10.98333],"type":"Point"}
+}

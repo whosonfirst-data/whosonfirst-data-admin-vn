@@ -1,0 +1,70 @@
+{
+  "id": 1327153281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48893,20.28472,106.48893,20.28472",
+    "geom:latitude":20.28472,
+    "geom:longitude":106.48893,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Hong Hai",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554722,
+    "gn:latitude":20.28472,
+    "gn:longitude":106.48893,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"H\u1ed3ng H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"22f67f3aadaa3c4988705297567f5211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781365,
+            "locality_id":1327153281,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1327153281,
+    "wof:lastmodified":1537714353,
+    "wof:name":"Hong Hai",
+    "wof:parent_id":1108781365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48893,
+    20.28472,
+    106.48893,
+    20.28472
+],
+  "geometry": {"coordinates":[106.48893,20.28472],"type":"Point"}
+}

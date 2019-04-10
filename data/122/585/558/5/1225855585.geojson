@@ -1,0 +1,71 @@
+{
+  "id": 1225855585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.63333,16.5,107.63333,16.5",
+    "geom:latitude":16.5,
+    "geom:longitude":107.63333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon An Truyen",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565735,
+    "gn:latitude":16.5,
+    "gn:longitude":107.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n An Truy\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Truyen",
+        "Th\u00f4n An Truy\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565735
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1dd36d0d7cac3efe425bd2f7b3dfca0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1225855585,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1225855585,
+    "wof:lastmodified":1537713766,
+    "wof:name":"Thon An Truyen",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.63333,
+    16.5,
+    107.63333,
+    16.5
+],
+  "geometry": {"coordinates":[107.63333,16.5],"type":"Point"}
+}

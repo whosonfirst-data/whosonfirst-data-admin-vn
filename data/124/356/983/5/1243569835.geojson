@@ -1,0 +1,70 @@
+{
+  "id": 1243569835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.50926,13.88965,108.50926,13.88965",
+    "geom:latitude":13.88965,
+    "geom:longitude":108.50926,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Lang Sieu",
+    "gn:country_code":"VN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865417,
+    "gn:latitude":13.88965,
+    "gn:longitude":108.50926,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e0ng Si\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Si\u00eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865417
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c127d82c4379511313f3ae02c056e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781819,
+            "locality_id":1243569835,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1243569835,
+    "wof:lastmodified":1537714500,
+    "wof:name":"Lang Sieu",
+    "wof:parent_id":1108781819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.50926,
+    13.88965,
+    108.50926,
+    13.88965
+],
+  "geometry": {"coordinates":[108.50926,13.88965],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209121571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,21.73333,106.16667,21.73333",
+    "geom:latitude":21.73333,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Phu Tri",
+    "gn:country_code":"VN",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569867,
+    "gn:latitude":21.73333,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00f9 Tr\u00ec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Ti",
+        "Ph\u00f9 Tr\u00ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569867
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e3d174088fb76cfe91b305ab70c8327c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121571
+        }
+    ],
+    "wof:id":1209121571,
+    "wof:lastmodified":1537713820,
+    "wof:name":"Phu Tri",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    21.73333,
+    106.16667,
+    21.73333
+],
+  "geometry": {"coordinates":[106.16667,21.73333],"type":"Point"}
+}

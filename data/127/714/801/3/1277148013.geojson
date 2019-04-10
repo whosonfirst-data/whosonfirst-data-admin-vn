@@ -1,0 +1,67 @@
+{
+  "id": 1277148013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,21.01667,106.66667,21.01667",
+    "geom:latitude":21.01667,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dao Tu",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583819,
+    "gn:latitude":21.01667,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"D\u1ea1o Tu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583819
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f9d6549c077556590c3ca6a600ede2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781117,
+            "locality_id":1277148013,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1277148013,
+    "wof:lastmodified":1536673603,
+    "wof:name":"Dao Tu",
+    "wof:parent_id":1108781117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    21.01667,
+    106.66667,
+    21.01667
+],
+  "geometry": {"coordinates":[106.66667,21.01667],"type":"Point"}
+}

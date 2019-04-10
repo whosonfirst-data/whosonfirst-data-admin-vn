@@ -1,0 +1,72 @@
+{
+  "id": 1343877281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32056,9.76306,106.32056,9.76306",
+    "geom:latitude":9.76306,
+    "geom:longitude":106.32056,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Tram",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591899,
+    "gn:latitude":9.76306,
+    "gn:longitude":106.32056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Tr\u1ea1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u1ea1m",
+        "\u1ea4p Tr\u1ea1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591899
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89df7791503a40417e430eb3cf59ef09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1343877281,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1343877281,
+    "wof:lastmodified":1537714145,
+    "wof:name":"Ap Tram",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32056,
+    9.76306,
+    106.32056,
+    9.76306
+],
+  "geometry": {"coordinates":[106.32056,9.76306],"type":"Point"}
+}

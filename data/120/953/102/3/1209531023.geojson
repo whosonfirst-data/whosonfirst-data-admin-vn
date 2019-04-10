@@ -1,0 +1,64 @@
+{
+  "id": 1209531023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.98643,16.51841,106.98643,16.51841",
+    "geom:latitude":16.51841,
+    "geom:longitude":106.98643,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Huc Nghi",
+    "gn:country_code":"VN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650912,
+    "gn:latitude":16.51841,
+    "gn:longitude":106.98643,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00fac Nghi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00fac Nghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650912
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a939cff5c8489ea0f1a1b3441510a5cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531023
+        }
+    ],
+    "wof:id":1209531023,
+    "wof:lastmodified":1537714391,
+    "wof:name":"Huc Nghi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.98643,
+    16.51841,
+    106.98643,
+    16.51841
+],
+  "geometry": {"coordinates":[106.98643,16.51841],"type":"Point"}
+}

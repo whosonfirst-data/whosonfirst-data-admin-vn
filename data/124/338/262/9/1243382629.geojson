@@ -1,0 +1,70 @@
+{
+  "id": 1243382629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.88872,16.35615,107.88872,16.35615",
+    "geom:latitude":16.35615,
+    "geom:longitude":107.88872,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Hien An",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656252,
+    "gn:latitude":16.35615,
+    "gn:longitude":107.88872,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hi\u1ec1n An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hi\u1ec1n An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656252
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"45bc007ca513fa92f92d66b2ebd7dd30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1243382629,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1243382629,
+    "wof:lastmodified":1537714394,
+    "wof:name":"Hien An",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.88872,
+    16.35615,
+    107.88872,
+    16.35615
+],
+  "geometry": {"coordinates":[107.88872000000001,16.35615],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293427851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43333,15.71667,108.43333,15.71667",
+    "geom:latitude":15.71667,
+    "geom:longitude":108.43333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Chau Khe",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585651,
+    "gn:latitude":15.71667,
+    "gn:longitude":108.43333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ch\u00e2u Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tien Chau",
+        "Ch\u00e2u Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585651
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5079d1b2332c7ce30cab7ee46814be9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1293427851,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293427851,
+    "wof:lastmodified":1537714026,
+    "wof:name":"Chau Khe",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43333,
+    15.71667,
+    108.43333,
+    15.71667
+],
+  "geometry": {"coordinates":[108.43333,15.71667],"type":"Point"}
+}

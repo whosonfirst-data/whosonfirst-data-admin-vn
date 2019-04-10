@@ -1,0 +1,67 @@
+{
+  "id": 1293600045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6,22.51667,104.6,22.51667",
+    "geom:latitude":22.51667,
+    "geom:longitude":104.6,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Nam Ke Dong",
+    "gn:country_code":"VN",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573431,
+    "gn:latitude":22.51667,
+    "gn:longitude":104.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e0m K\u00e9 D\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573431
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"64405e19404a39f4121de1cd74943ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780871,
+            "locality_id":1293600045,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293600045,
+    "wof:lastmodified":1536622767,
+    "wof:name":"Nam Ke Dong",
+    "wof:parent_id":1108780871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6,
+    22.51667,
+    104.6,
+    22.51667
+],
+  "geometry": {"coordinates":[104.59999999999999,22.51667],"type":"Point"}
+}

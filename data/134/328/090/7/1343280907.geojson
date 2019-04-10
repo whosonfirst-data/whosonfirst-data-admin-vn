@@ -1,0 +1,73 @@
+{
+  "id": 1343280907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.60758,10.01762,105.60758,10.01762",
+    "geom:latitude":10.01762,
+    "geom:longitude":105.60758,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Truong Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591828,
+    "gn:latitude":10.01762,
+    "gn:longitude":105.60758,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Tr\u01b0\u1eddng Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Tr\u01b0\u1eddng Th\u1ea1nh"
+    ],
+    "name:vie_x_preferred":[
+        "Tr\u01b0\u1eddng Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591828
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c778f7202f91e03dacec0873492c112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782269,
+            "locality_id":1343280907,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1343280907,
+    "wof:lastmodified":1537714143,
+    "wof:name":"Truong Thanh",
+    "wof:parent_id":1108782269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.60758,
+    10.01762,
+    105.60758,
+    10.01762
+],
+  "geometry": {"coordinates":[105.60758,10.01762],"type":"Point"}
+}

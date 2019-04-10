@@ -1,0 +1,73 @@
+{
+  "id": 1326849279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81199,8.85707,104.81199,8.85707",
+    "geom:latitude":8.85707,
+    "geom:longitude":104.81199,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Cai Doi Vam",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1561914,
+    "gn:latitude":8.85707,
+    "gn:longitude":104.81199,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Cai Doi Vam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m C\u00e1i \u0110\u00f4i V\u00e0m"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e1i \u0110\u00f4i V\u00e0m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561914
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8625a5adb15993f2c14089383fa1f306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782341,
+            "locality_id":1326849279,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1326849279,
+    "wof:lastmodified":1537713695,
+    "wof:name":"Cai Doi Vam",
+    "wof:parent_id":1108782341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81199,
+    8.85707,
+    104.81199,
+    8.85707
+],
+  "geometry": {"coordinates":[104.81198999999999,8.85707],"type":"Point"}
+}

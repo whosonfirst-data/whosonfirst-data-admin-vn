@@ -1,0 +1,67 @@
+{
+  "id": 1259724153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8,19.48333,105.8,19.48333",
+    "geom:latitude":19.48333,
+    "geom:longitude":105.8,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hau Thach",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581009,
+    "gn:latitude":19.48333,
+    "gn:longitude":105.8,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"H\u1eadu Th\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581009
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4112d5e6a074717bf21a57e844c030bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1259724153,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259724153,
+    "wof:lastmodified":1537007739,
+    "wof:name":"Hau Thach",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8,
+    19.48333,
+    105.8,
+    19.48333
+],
+  "geometry": {"coordinates":[105.8,19.48333],"type":"Point"}
+}

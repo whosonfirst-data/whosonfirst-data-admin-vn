@@ -1,0 +1,70 @@
+{
+  "id": 1243082899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.85995,10.71514,107.85995,10.71514",
+    "geom:latitude":10.71514,
+    "geom:longitude":107.85995,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Hiep Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8998573,
+    "gn:latitude":10.71514,
+    "gn:longitude":107.85995,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hi\u1ec7p Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hi\u1ec7p Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8998573
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ce73ae0baf0f35dca33b8541bf7166bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781753,
+            "locality_id":1243082899,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1243082899,
+    "wof:lastmodified":1537714430,
+    "wof:name":"Hiep Thanh",
+    "wof:parent_id":1108781753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.85995,
+    10.71514,
+    107.85995,
+    10.71514
+],
+  "geometry": {"coordinates":[107.85995,10.71514],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309730951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8732,21.41546,105.8732,21.41546",
+    "geom:latitude":21.41546,
+    "geom:longitude":105.8732,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Thi Tran Ba Hang",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941661,
+    "gn:latitude":21.41546,
+    "gn:longitude":105.8732,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Th\u1ecb Tr\u1ea5n Ba H\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba H\u00e0ng"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n Ba H\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941661
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"253cf53279a136d97eb333b062e7059d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781081,
+            "locality_id":1309730951,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1309730951,
+    "wof:lastmodified":1537714211,
+    "wof:name":"Thi Tran Ba Hang",
+    "wof:parent_id":1108781081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8732,
+    21.41546,
+    105.8732,
+    21.41546
+],
+  "geometry": {"coordinates":[105.8732,21.41546],"type":"Point"}
+}

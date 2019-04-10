@@ -1,0 +1,73 @@
+{
+  "id": 1243086469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44081,21.88921,105.44081,21.88921",
+    "geom:latitude":21.88921,
+    "geom:longitude":105.44081,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Chap",
+    "gn:country_code":"VN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577630,
+    "gn:latitude":21.88921,
+    "gn:longitude":105.44081,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng Ch\u1ea1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chap"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Ch\u1ea1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577630
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89c0c99f3f013031065e24c08ced28e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1243086469,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243086469,
+    "wof:lastmodified":1537713927,
+    "wof:name":"Lang Chap",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44081,
+    21.88921,
+    105.44081,
+    21.88921
+],
+  "geometry": {"coordinates":[105.44081,21.88921],"type":"Point"}
+}

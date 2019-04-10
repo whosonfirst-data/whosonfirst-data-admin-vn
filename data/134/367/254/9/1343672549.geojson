@@ -1,0 +1,70 @@
+{
+  "id": 1343672549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.44434,21.90323,106.44434,21.90323",
+    "geom:latitude":21.90323,
+    "geom:longitude":106.44434,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Dai",
+    "gn:country_code":"VN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889722,
+    "gn:latitude":21.90323,
+    "gn:longitude":106.44434,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"N\u00e0 D\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 D\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fca119eb1f95e091154af4e6b8de71ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1343672549,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343672549,
+    "wof:lastmodified":1537714547,
+    "wof:name":"Na Dai",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.44434,
+    21.90323,
+    106.44434,
+    21.90323
+],
+  "geometry": {"coordinates":[106.44434,21.90323],"type":"Point"}
+}

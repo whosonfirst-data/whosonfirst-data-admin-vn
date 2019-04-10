@@ -1,0 +1,72 @@
+{
+  "id": 1309850725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,19.9,105.55,19.9",
+    "geom:latitude":19.9,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Qua Nhue Ha",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568704,
+    "gn:latitude":19.9,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qu\u1ea3 Nhu\u1ec7 H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Que Nhue Ha",
+        "Qu\u1ea3 Nhu\u1ec7 H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568704
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"03f5c46187d87827ac0556127318a5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781419,
+            "locality_id":1309850725,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1309850725,
+    "wof:lastmodified":1537713802,
+    "wof:name":"Qua Nhue Ha",
+    "wof:parent_id":1108781419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    19.9,
+    105.55,
+    19.9
+],
+  "geometry": {"coordinates":[105.55,19.9],"type":"Point"}
+}

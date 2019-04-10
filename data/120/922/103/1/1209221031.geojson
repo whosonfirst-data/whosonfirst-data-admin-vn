@@ -1,0 +1,64 @@
+{
+  "id": 1209221031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29023,10.27783,106.29023,10.27783",
+    "geom:latitude":10.27783,
+    "geom:longitude":106.29023,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thuan Dien",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337858,
+    "gn:latitude":10.27783,
+    "gn:longitude":106.29023,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Thu\u1eadn \u0110i\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thu\u1eadn \u0110i\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337858
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5fbf1d3a79d47077e55a6f16a4244afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209221031
+        }
+    ],
+    "wof:id":1209221031,
+    "wof:lastmodified":1537714284,
+    "wof:name":"Thuan Dien",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29023,
+    10.27783,
+    106.29023,
+    10.27783
+],
+  "geometry": {"coordinates":[106.29022999999999,10.27783],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343277221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,21.25,106.16667,21.25",
+    "geom:latitude":21.25,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Yeu Khe",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560019,
+    "gn:latitude":21.25,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00eau Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c994238478e29c007821005d432a56d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781157,
+            "locality_id":1343277221,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343277221,
+    "wof:lastmodified":1537009964,
+    "wof:name":"Yeu Khe",
+    "wof:parent_id":1108781157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    21.25,
+    106.16667,
+    21.25
+],
+  "geometry": {"coordinates":[106.16667,21.25],"type":"Point"}
+}

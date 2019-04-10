@@ -1,0 +1,64 @@
+{
+  "id": 1209470839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3049,11.63219,108.3049,11.63219",
+    "geom:latitude":11.63219,
+    "geom:longitude":108.3049,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dai Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584282,
+    "gn:latitude":11.63219,
+    "gn:longitude":108.3049,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"\u0110\u1ea1i Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584282
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1456df050858be6a448e8272c2a54c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209470839
+        }
+    ],
+    "wof:id":1209470839,
+    "wof:lastmodified":1537714013,
+    "wof:name":"Dai Ninh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3049,
+    11.63219,
+    108.3049,
+    11.63219
+],
+  "geometry": {"coordinates":[108.3049,11.63219],"type":"Point"}
+}

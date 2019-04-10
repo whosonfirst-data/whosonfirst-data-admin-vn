@@ -1,0 +1,64 @@
+{
+  "id": 1209526069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40093,22.70691,105.40093,22.70691",
+    "geom:latitude":22.70691,
+    "geom:longitude":105.40093,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Tra",
+    "gn:country_code":"VN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540614,
+    "gn:latitude":22.70691,
+    "gn:longitude":105.40093,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"B\u1ea3n Tr\u1ea3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Tr\u1ea3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540614
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"748a95cdf18660eda9369b3865faa2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526069
+        }
+    ],
+    "wof:id":1209526069,
+    "wof:lastmodified":1537714336,
+    "wof:name":"Ban Tra",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40093,
+    22.70691,
+    105.40093,
+    22.70691
+],
+  "geometry": {"coordinates":[105.40093,22.70691],"type":"Point"}
+}

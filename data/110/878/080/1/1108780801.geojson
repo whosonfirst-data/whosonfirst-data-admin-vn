@@ -1,0 +1,100 @@
+{
+  "id": 1108780801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000671,
+    "geom:area_square_m":7743269.807313,
+    "geom:bbox":"105.785583946,20.9848441259,105.831369762,21.008615204",
+    "geom:latitude":20.997271,
+    "geom:longitude":105.808697,
+    "iso:country":"VN",
+    "lbl:latitude":20.996822,
+    "lbl:longitude":105.810986,
+    "meso:admin_1":"Ha Noi",
+    "meso:gadm_admin":"Thanh Xu\u00e2n",
+    "meso:gadm_hasc2":"VN.HN.TX",
+    "meso:gaul_adm2":"Thanh Xuan",
+    "meso:local_id":"1009",
+    "meso:mps_x":105.810986,
+    "meso:mps_y":20.996822,
+    "meso:name_en":"Thanh Xuan",
+    "meso:source":"AOTM",
+    "mps:latitude":20.996822,
+    "mps:longitude":105.810986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9752\u6625\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Thanh Xuan"
+    ],
+    "name:fre_x_preferred":[
+        "District de Thanh Xuan"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c4\uc464\uc5b8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0430\u043d\u044c\u0441\u0443\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Thanh Xu\u00e2n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"9",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ha Noi",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HI",
+    "statoids:name":"Thanh Xuan",
+    "statoids:population":"190212",
+    "statoids:statoid":"VN.HI.TX",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q864779"
+    },
+    "wof:country":"VN",
+    "wof:created":1481740895,
+    "wof:geomhash":"3bac7b6ddfee8c518fc4171101d57464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780801,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1108780801,
+    "wof:lastmodified":1514502833,
+    "wof:name":"Thanh Xuan",
+    "wof:parent_id":85680653,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":190212,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78558394562626,
+    20.98484412585228,
+    105.8313697620952,
+    21.00861520400018
+],
+  "geometry": {"coordinates":[[[105.80818910190796,21.00861520400018],[105.81956108343797,21.00551514642616],[105.82117315371107,21.00596309847944],[105.82289268519764,21.00546439972521],[105.83136976209521,20.99694952372686],[105.83040397277269,20.99309379932562],[105.81634218671186,20.98818915014269],[105.81509079272163,20.98574604661407],[105.81421236189608,20.98484412585228],[105.80285108888287,20.98817576799964],[105.80140528210799,20.99009599149035],[105.79664263959016,20.99234518606431],[105.78912833185393,20.99153036922736],[105.78647091650819,20.99340496365134],[105.78558394562626,20.9983256584135],[105.79347343076134,21.00652909040628],[105.80082704150817,21.00439049825928],[105.80545848511649,21.00521319823332],[105.80818910190796,21.00861520400018]]],"type":"Polygon"}
+}

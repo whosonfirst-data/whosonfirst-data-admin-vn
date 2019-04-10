@@ -1,0 +1,71 @@
+{
+  "id": 1225955069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08333,10.51667,107.08333,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":107.08333,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Lang Phuoc Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576756,
+    "gn:latitude":10.51667,
+    "gn:longitude":107.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Ph\u01b0\u1edbc H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuoc Hoa",
+        "L\u00e0ng Ph\u01b0\u1edbc H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576756
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c7d86b86f12dbb6771a9bcb2058e72b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782003,
+            "locality_id":1225955069,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1225955069,
+    "wof:lastmodified":1537713911,
+    "wof:name":"Lang Phuoc Hoa",
+    "wof:parent_id":1108782003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08333,
+    10.51667,
+    107.08333,
+    10.51667
+],
+  "geometry": {"coordinates":[107.08333,10.51667],"type":"Point"}
+}

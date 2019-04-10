@@ -1,0 +1,73 @@
+{
+  "id": 1260090885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06821,17.04382,107.06821,17.04382",
+    "geom:latitude":17.04382,
+    "geom:longitude":107.06821,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Liem Cong Dong",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576022,
+    "gn:latitude":17.04382,
+    "gn:longitude":107.06821,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Li\u00eam C\u00f4ng \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li\u00eam C\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "Li\u00eam C\u00f4ng \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576022
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2d06bf58a80127eaf31db9f2883318fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1260090885,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1260090885,
+    "wof:lastmodified":1537713901,
+    "wof:name":"Liem Cong Dong",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06821,
+    17.04382,
+    107.06821,
+    17.04382
+],
+  "geometry": {"coordinates":[107.06820999999999,17.04382],"type":"Point"}
+}

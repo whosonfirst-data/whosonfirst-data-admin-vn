@@ -1,0 +1,70 @@
+{
+  "id": 1243191185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6751,21.48172,105.6751,21.48172",
+    "geom:latitude":21.48172,
+    "geom:longitude":105.6751,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Da Den",
+    "gn:country_code":"VN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608019,
+    "gn:latitude":21.48172,
+    "gn:longitude":105.6751,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"\u0110a \u0110en",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110a \u0110en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0239f38ada55cd93798527a0684a6c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1243191185,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1243191185,
+    "wof:lastmodified":1537714366,
+    "wof:name":"Da Den",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6751,
+    21.48172000000001,
+    105.6751,
+    21.48172000000001
+],
+  "geometry": {"coordinates":[105.6751,21.48172000000001],"type":"Point"}
+}

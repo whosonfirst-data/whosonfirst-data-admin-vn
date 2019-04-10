@@ -1,0 +1,70 @@
+{
+  "id": 1243086485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3299,18.49648,105.3299,18.49648",
+    "geom:latitude":18.49648,
+    "geom:longitude":105.3299,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Cay Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8637605,
+    "gn:latitude":18.49648,
+    "gn:longitude":105.3299,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"C\u00e2y Chanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y Chanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637605
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"16adba39d1d47bd829ce83f5689577b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781499,
+            "locality_id":1243086485,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243086485,
+    "wof:lastmodified":1537714385,
+    "wof:name":"Cay Chanh",
+    "wof:parent_id":1108781499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3299,
+    18.49648,
+    105.3299,
+    18.49648
+],
+  "geometry": {"coordinates":[105.32989999999999,18.49648],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276138317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.27187,17.64934,106.27187,17.64934",
+    "geom:latitude":17.64934,
+    "geom:longitude":106.27187,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Dong Bai",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583116,
+    "gn:latitude":17.64934,
+    "gn:longitude":106.27187,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u0110\u00f4ng B\u00e3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ed3ng B\u00e3i"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng B\u00e3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583116
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3671a6a8e0c6d8a93f53832d9a1f578a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1276138317,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1276138317,
+    "wof:lastmodified":1537713996,
+    "wof:name":"Dong Bai",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.27187,
+    17.64934,
+    106.27187,
+    17.64934
+],
+  "geometry": {"coordinates":[106.27187000000001,17.64934],"type":"Point"}
+}

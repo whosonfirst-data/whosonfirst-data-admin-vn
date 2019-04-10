@@ -1,0 +1,73 @@
+{
+  "id": 1259654757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5338,20.80242,106.5338,20.80242",
+    "geom:latitude":20.80242,
+    "geom:longitude":106.5338,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Can Van",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586321,
+    "gn:latitude":20.80242,
+    "gn:longitude":106.5338,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"C\u1ea9n V\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u1ea9m V\u0103n"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea9n V\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586321
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23a498e86b6c1b689e31b22a1824f050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781281,
+            "locality_id":1259654757,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1259654757,
+    "wof:lastmodified":1537714033,
+    "wof:name":"Can Van",
+    "wof:parent_id":1108781281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5338,
+    20.80242,
+    106.5338,
+    20.80242
+],
+  "geometry": {"coordinates":[106.5338,20.80242],"type":"Point"}
+}

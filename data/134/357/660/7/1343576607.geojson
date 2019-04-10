@@ -1,0 +1,63 @@
+{
+  "id": 1343576607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.3,12.75,109.3,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":109.3,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Diem Dien",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583499,
+    "gn:latitude":12.75,
+    "gn:longitude":109.3,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Di\u00eam \u0110i\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"86eeac0e144d9839c5981ab3e0f416d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343576607,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343576607,
+    "wof:lastmodified":1537073009,
+    "wof:name":"Diem Dien",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.3,
+    12.75,
+    109.3,
+    12.75
+],
+  "geometry": {"coordinates":[109.3,12.75],"type":"Point"}
+}

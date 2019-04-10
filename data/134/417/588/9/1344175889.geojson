@@ -1,0 +1,67 @@
+{
+  "id": 1344175889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,13.98333,108.1,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Klok",
+    "gn:country_code":"VN",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569475,
+    "gn:latitude":13.98333,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Plei Klok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569475
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d25110ae06a79754f75ff71df43332f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781801,
+            "locality_id":1344175889,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1344175889,
+    "wof:lastmodified":1536709322,
+    "wof:name":"Plei Klok",
+    "wof:parent_id":1108781801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    13.98333,
+    108.1,
+    13.98333
+],
+  "geometry": {"coordinates":[108.09999999999999,13.98333],"type":"Point"}
+}

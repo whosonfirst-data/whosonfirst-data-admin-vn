@@ -1,0 +1,65 @@
+{
+  "id": 1209430271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58953,22.09727,106.58953,22.09727",
+    "geom:latitude":22.09727,
+    "geom:longitude":106.58953,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Liet Noc",
+    "gn:country_code":"VN",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572742,
+    "gn:latitude":22.09727,
+    "gn:longitude":106.58953,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Li\u1ec7t N\u1ecdc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li\u1ec7t N\u1ecdc",
+        "N\u00e8 Li\u1ec7t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572742
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23d1ce4c7b79ad44e169c1efa00a7ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430271
+        }
+    ],
+    "wof:id":1209430271,
+    "wof:lastmodified":1537713860,
+    "wof:name":"Liet Noc",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58953,
+    22.09727,
+    106.58953,
+    22.09727
+],
+  "geometry": {"coordinates":[106.58953,22.09727],"type":"Point"}
+}

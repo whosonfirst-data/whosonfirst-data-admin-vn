@@ -1,0 +1,67 @@
+{
+  "id": 1243469851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,13.21667,109.28333,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Hoa Da",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580820,
+    "gn:latitude":13.21667,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"H\u00f2a \u0110a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580820
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3da1b57a3c74296bae01c430a602b353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781699,
+            "locality_id":1243469851,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1243469851,
+    "wof:lastmodified":1536772324,
+    "wof:name":"Hoa Da",
+    "wof:parent_id":1108781699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    13.21667,
+    109.28333,
+    13.21667
+],
+  "geometry": {"coordinates":[109.28333000000001,13.21667],"type":"Point"}
+}

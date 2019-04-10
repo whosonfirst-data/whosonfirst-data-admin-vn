@@ -1,0 +1,74 @@
+{
+  "id": 1343672431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.32915,22.55602,103.32915,22.55602",
+    "geom:latitude":22.55602,
+    "geom:longitude":103.32915,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Huoi Luong",
+    "gn:country_code":"VN",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580763,
+    "gn:latitude":22.55602,
+    "gn:longitude":103.32915,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Hu\u1ed5i Lu\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoe Long",
+        "Hoa Long"
+    ],
+    "name:vie_x_preferred":[
+        "Hu\u1ed5i Lu\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580763
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9cc1391582326aebcd6488f576bf36cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1343672431,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1343672431,
+    "wof:lastmodified":1537713968,
+    "wof:name":"Huoi Luong",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.32915,
+    22.55602,
+    103.32915,
+    22.55602
+],
+  "geometry": {"coordinates":[103.32915,22.55602],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259802669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27608,22.98105,105.27608,22.98105",
+    "geom:latitude":22.98105,
+    "geom:longitude":105.27608,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Tong Ngao",
+    "gn:country_code":"VN",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309513,
+    "gn:latitude":22.98105,
+    "gn:longitude":105.27608,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n T\u1ed5ng Ng\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u0169ng Ng\u00e0o"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n T\u1ed5ng Ng\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309513
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58977e0d35c808c0c463ff7f5b3c1d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1259802669,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1259802669,
+    "wof:lastmodified":1537714257,
+    "wof:name":"Ban Tong Ngao",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27608,
+    22.98105,
+    105.27608,
+    22.98105
+],
+  "geometry": {"coordinates":[105.27607999999999,22.98105],"type":"Point"}
+}

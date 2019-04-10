@@ -1,0 +1,72 @@
+{
+  "id": 1310712623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05,16.63333,107.05,16.63333",
+    "geom:latitude":16.63333,
+    "geom:longitude":107.05,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Thanh Tra",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565291,
+    "gn:latitude":16.63333,
+    "gn:longitude":107.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Thanh Tr\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thanh Tra",
+        "Th\u00f4n T\u00e2n Tr\u00e0",
+        "Th\u00f4n Thanh Tr\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565291
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"21780f8fdc7177504dfa3c06c59ba09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781549,
+            "locality_id":1310712623,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1310712623,
+    "wof:lastmodified":1537713747,
+    "wof:name":"Thon Thanh Tra",
+    "wof:parent_id":1108781549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05,
+    16.63332999999999,
+    107.05,
+    16.63332999999999
+],
+  "geometry": {"coordinates":[107.05,16.63332999999999],"type":"Point"}
+}

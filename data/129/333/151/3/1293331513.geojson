@@ -1,0 +1,74 @@
+{
+  "id": 1293331513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39898,11.16956,106.39898,11.16956",
+    "geom:latitude":11.16956,
+    "geom:longitude":106.39898,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Soc Lao",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592374,
+    "gn:latitude":11.16956,
+    "gn:longitude":106.39898,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"S\u00f3c L\u00e0o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Soc Lao",
+        "\u1ea4p S\u1ed1c L\u00e0o"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f3c L\u00e0o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592374
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"678ae3e3a72ede839640ebfadae25172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781949,
+            "locality_id":1293331513,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1293331513,
+    "wof:lastmodified":1537714157,
+    "wof:name":"Soc Lao",
+    "wof:parent_id":1108781949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39898,
+    11.16956,
+    106.39898,
+    11.16956
+],
+  "geometry": {"coordinates":[106.39897999999999,11.16956],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226535045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4,22.83333,106.4,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":106.4,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Ngan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589380,
+    "gn:latitude":22.83333,
+    "gn:longitude":106.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Ng\u1eb3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Ngan",
+        "B\u1ea3n Ng\u1eb3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589380
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ac4061cb6f2115c2d77267ee8ec61496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780885,
+            "locality_id":1226535045,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1226535045,
+    "wof:lastmodified":1537714095,
+    "wof:name":"Ban Ngan",
+    "wof:parent_id":1108780885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4,
+    22.83333,
+    106.4,
+    22.83333
+],
+  "geometry": {"coordinates":[106.40000000000001,22.83333],"type":"Point"}
+}

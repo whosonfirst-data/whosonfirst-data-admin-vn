@@ -1,0 +1,67 @@
+{
+  "id": 1276383747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,21.23333,107.16667,21.23333",
+    "geom:latitude":21.23333,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Khe Tre",
+    "gn:country_code":"VN",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579335,
+    "gn:latitude":21.23333,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kh\u00ea Tre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9ea8bc941b278e7bcbcb003012c7e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781133,
+            "locality_id":1276383747,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1276383747,
+    "wof:lastmodified":1536711336,
+    "wof:name":"Khe Tre",
+    "wof:parent_id":1108781133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    21.23333,
+    107.16667,
+    21.23333
+],
+  "geometry": {"coordinates":[107.16667,21.23333],"type":"Point"}
+}

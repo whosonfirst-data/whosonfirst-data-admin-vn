@@ -1,0 +1,97 @@
+{
+  "id": 1108781023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002361,
+    "geom:area_square_m":27145708.450562,
+    "geom:bbox":"104.450957128,21.5684751793,104.529533348,21.6252977509",
+    "geom:latitude":21.59658,
+    "geom:longitude":104.494195,
+    "iso:country":"VN",
+    "lbl:latitude":21.60194,
+    "lbl:longitude":104.503384,
+    "meso:admin_1":"Yen Bai",
+    "meso:gadm_admin":"Ngh\u0129a L\u1ed9",
+    "meso:gadm_hasc2":"VN.YB.NL",
+    "meso:gaul_adm2":"Nghia Lo Township",
+    "meso:local_id":"15133",
+    "meso:mps_x":104.503384,
+    "meso:mps_y":21.60194,
+    "meso:name_en":"Nghia Lo",
+    "meso:source":"AOTM",
+    "mps:latitude":21.60194,
+    "mps:longitude":104.503384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7fa9\u8def\u5e02\u793e"
+    ],
+    "name:eng_x_preferred":[
+        "Nghia Lo"
+    ],
+    "name:por_x_preferred":[
+        "Nghia Lo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0438\u0430\u043b\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Ngh\u0129a L\u1ed9"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"29",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Nghia Lo",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.YB",
+    "statoids:name":"Nghia Lo",
+    "statoids:population":"25256",
+    "statoids:statoid":"VN.YB.NL",
+    "statoids:timezone":"7",
+    "statoids:type":"township",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7022345"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741038,
+    "wof:geomhash":"0c8d975a8e619d2e23d46ba041442b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781023,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1108781023,
+    "wof:lastmodified":1514502715,
+    "wof:name":"Nghia Lo",
+    "wof:parent_id":85680629,
+    "wof:placetype":"county",
+    "wof:placetype_local":"township",
+    "wof:population":25256,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45095712773049,
+    21.56847517929232,
+    104.52953334820165,
+    21.62529775090206
+],
+  "geometry": {"coordinates":[[[104.46731148192123,21.56847517929232],[104.45436182739545,21.57794407021142],[104.45344649384629,21.57816783388245],[104.45095712773049,21.58705010197983],[104.46286302821828,21.59307128997402],[104.47104874606393,21.59275673638397],[104.47252377642209,21.59569516118684],[104.47240661998752,21.60081327758236],[104.47343846698431,21.60307598973891],[104.48271393278803,21.60737757294805],[104.48345843159575,21.61244130629915],[104.48152049274478,21.61693084966962],[104.48440559981692,21.62343800764928],[104.49021931361658,21.62407584536991],[104.49962701847603,21.61906905795404],[104.50176777082454,21.62166670625662],[104.51574751754897,21.62529775090206],[104.51514705387271,21.61455036689234],[104.51967343557709,21.60948239929089],[104.52565431527304,21.60996897697245],[104.52953334820165,21.60367135898367],[104.52463929376573,21.59051238153431],[104.52719431164049,21.58614814102713],[104.52712248951097,21.5858361913976],[104.50430343232064,21.57419500797898],[104.50305457139785,21.57481372062065],[104.49847923394064,21.58555449086379],[104.49813805687066,21.58572268609078],[104.47787177461736,21.57872260064932],[104.47785243588778,21.57873030921042],[104.46731148192123,21.56847517929232]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343972903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,18.65,105.7,18.65",
+    "geom:latitude":18.65,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ben Thuy",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587985,
+    "gn:latitude":18.65,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ebfn Th\u1ee7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benhuy",
+        "B\u1ebfn Th\u1ee7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587985
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"300ab26b30030d0bb67880346246f353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781447,
+            "locality_id":1343972903,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343972903,
+    "wof:lastmodified":1537714071,
+    "wof:name":"Ben Thuy",
+    "wof:parent_id":1108781447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    18.65,
+    105.7,
+    18.65
+],
+  "geometry": {"coordinates":[105.7,18.65],"type":"Point"}
+}

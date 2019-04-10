@@ -1,0 +1,67 @@
+{
+  "id": 1343280979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08333,22.63333,104.08333,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":104.08333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Tha San",
+    "gn:country_code":"VN",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565973,
+    "gn:latitude":22.63333,
+    "gn:longitude":104.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tha San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565973
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e914ea95e89e44e7bf89c046059cdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1343280979,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343280979,
+    "wof:lastmodified":1537004568,
+    "wof:name":"Tha San",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08333,
+    22.63333,
+    104.08333,
+    22.63333
+],
+  "geometry": {"coordinates":[104.08333,22.63333],"type":"Point"}
+}

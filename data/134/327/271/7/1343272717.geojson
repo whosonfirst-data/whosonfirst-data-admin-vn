@@ -1,0 +1,67 @@
+{
+  "id": 1343272717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.26667,13.23333,109.26667,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":109.26667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phong Phu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570831,
+    "gn:latitude":13.23333,
+    "gn:longitude":109.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Phong Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fe6fba5292ebc4ca47bb10adab743c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781699,
+            "locality_id":1343272717,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1343272717,
+    "wof:lastmodified":1537016429,
+    "wof:name":"Phong Phu",
+    "wof:parent_id":1108781699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.26667,
+    13.23333,
+    109.26667,
+    13.23333
+],
+  "geometry": {"coordinates":[109.26667,13.23333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209023125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45,18.81667,105.45,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":105.45,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Cu Phu",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584549,
+    "gn:latitude":18.81667,
+    "gn:longitude":105.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u01b0 Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584549
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"81bd809a8c51e46f79d25eff1928f0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023125
+        }
+    ],
+    "wof:id":1209023125,
+    "wof:lastmodified":1536300084,
+    "wof:name":"Cu Phu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45,
+    18.81667,
+    105.45,
+    18.81667
+],
+  "geometry": {"coordinates":[105.45,18.81667],"type":"Point"}
+}

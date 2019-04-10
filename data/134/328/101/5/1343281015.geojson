@@ -1,0 +1,71 @@
+{
+  "id": 1343281015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.06667,12.21667,109.06667,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":109.06667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Hoi Xuong",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565534,
+    "gn:latitude":12.21667,
+    "gn:longitude":109.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n H\u00f4i X\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoi Xuong",
+        "Th\u00f4n H\u00f4i X\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565534
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"925505c16eee06bbe875b17c70200d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781731,
+            "locality_id":1343281015,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1343281015,
+    "wof:lastmodified":1537713759,
+    "wof:name":"Thon Hoi Xuong",
+    "wof:parent_id":1108781731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.06667,
+    12.21667,
+    109.06667,
+    12.21667
+],
+  "geometry": {"coordinates":[109.06667,12.21667],"type":"Point"}
+}

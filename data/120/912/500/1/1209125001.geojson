@@ -1,0 +1,61 @@
+{
+  "id": 1209125001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15,14.11667,109.15,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":109.15,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Gia Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581748,
+    "gn:latitude":14.11667,
+    "gn:longitude":109.15,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Gia Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581748
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85a7160b9b644b54273fc7cf4df7fe59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125001
+        }
+    ],
+    "wof:id":1209125001,
+    "wof:lastmodified":1536296981,
+    "wof:name":"Gia Thanh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15,
+    14.11667,
+    109.15,
+    14.11667
+],
+  "geometry": {"coordinates":[109.15000000000001,14.11667],"type":"Point"}
+}

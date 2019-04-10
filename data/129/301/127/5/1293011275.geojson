@@ -1,0 +1,73 @@
+{
+  "id": 1293011275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92155,22.18121,105.92155,22.18121",
+    "geom:latitude":22.18121,
+    "geom:longitude":105.92155,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Muong",
+    "gn:country_code":"VN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573281,
+    "gn:latitude":22.18121,
+    "gn:longitude":105.92155,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"N\u00e0 Mu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Mouong"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 Mu\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573281
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34a6a5c71ee1cdf4ce515a14c2b2a609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1293011275,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293011275,
+    "wof:lastmodified":1537713867,
+    "wof:name":"Na Muong",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92155,
+    22.18121,
+    105.92155,
+    22.18121
+],
+  "geometry": {"coordinates":[105.92155,22.18121],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259694141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,20.98333,106.56667,20.98333",
+    "geom:latitude":20.98333,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"An Ninh Noi",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594300,
+    "gn:latitude":20.98333,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"An Ninh N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594300
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b9e09257bbae74d0b5e801de92a5425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781277,
+            "locality_id":1259694141,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1259694141,
+    "wof:lastmodified":1537049491,
+    "wof:name":"An Ninh Noi",
+    "wof:parent_id":1108781277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    20.98333,
+    106.56667,
+    20.98333
+],
+  "geometry": {"coordinates":[106.56667,20.98333],"type":"Point"}
+}

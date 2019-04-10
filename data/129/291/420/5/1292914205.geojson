@@ -1,0 +1,71 @@
+{
+  "id": 1292914205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83333,22.4,104.83333,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":104.83333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Khiem",
+    "gn:country_code":"VN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577195,
+    "gn:latitude":22.4,
+    "gn:longitude":104.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Khi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Kiem",
+        "L\u00e0ng Khi\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577195
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02222e96c6dee16ac0db65d07215958c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1292914205,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1292914205,
+    "wof:lastmodified":1537713919,
+    "wof:name":"Lang Khiem",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83333,
+    22.4,
+    104.83333,
+    22.4
+],
+  "geometry": {"coordinates":[104.83333,22.4],"type":"Point"}
+}

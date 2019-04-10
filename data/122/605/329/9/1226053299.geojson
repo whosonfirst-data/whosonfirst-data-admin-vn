@@ -1,0 +1,73 @@
+{
+  "id": 1226053299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50247,10.12544,105.50247,10.12544",
+    "geom:latitude":10.12544,
+    "geom:longitude":105.50247,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Khu Bay",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533321,
+    "gn:latitude":10.12544,
+    "gn:longitude":105.50247,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Khu B\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu B\u1ea3y"
+    ],
+    "name:vie_x_variant":[
+        "Khu 7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533321
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fb4dd9edbba94852f733f6e057fa441e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782265,
+            "locality_id":1226053299,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1226053299,
+    "wof:lastmodified":1537714476,
+    "wof:name":"Khu Bay",
+    "wof:parent_id":1108782265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50247,
+    10.12544,
+    105.50247,
+    10.12544
+],
+  "geometry": {"coordinates":[105.50247,10.12544],"type":"Point"}
+}

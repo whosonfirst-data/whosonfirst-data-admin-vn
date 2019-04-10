@@ -1,0 +1,73 @@
+{
+  "id": 1310611763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87744,22.17335,105.87744,22.17335",
+    "geom:latitude":22.17335,
+    "geom:longitude":105.87744,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Phap Thien",
+    "gn:country_code":"VN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571196,
+    "gn:latitude":22.17335,
+    "gn:longitude":105.87744,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ph\u00e1p Thi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa Tien"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00e1p Thi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571196
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a13b14f54b788a360a9ec57a76864532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1310611763,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1310611763,
+    "wof:lastmodified":1537713842,
+    "wof:name":"Phap Thien",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87744,
+    22.17335,
+    105.87744,
+    22.17335
+],
+  "geometry": {"coordinates":[105.87744000000001,22.17335],"type":"Point"}
+}

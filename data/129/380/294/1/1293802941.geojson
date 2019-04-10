@@ -1,0 +1,67 @@
+{
+  "id": 1293802941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,20.48333,105.61667,20.48333",
+    "geom:latitude":20.48333,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Ben",
+    "gn:country_code":"VN",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561997,
+    "gn:latitude":20.48333,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m B\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561997
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc286d7dfd472dd74229fb1b685c0177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781061,
+            "locality_id":1293802941,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1293802941,
+    "wof:lastmodified":1536828450,
+    "wof:name":"Xom Ben",
+    "wof:parent_id":1108781061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    20.48333,
+    105.61667,
+    20.48333
+],
+  "geometry": {"coordinates":[105.61667,20.48333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421195237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,22.95,106.08333,22.95",
+    "geom:latitude":22.95,
+    "geom:longitude":106.08333,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1573310,
+    "qs:gn_pop":0,
+    "qs:name":"Nam Nhung",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Cao Bang",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":133490,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252516,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573310,
+        "gp:id":1252516,
+        "qs:id":133490
+    },
+    "wof:country":"VN",
+    "wof:created":1459009837,
+    "wof:geomhash":"79d061edf371d425ea36b7822d3ee15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780883,
+            "locality_id":421195237,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":421195237,
+    "wof:lastmodified":1496498089,
+    "wof:name":"Nam Nhung",
+    "wof:parent_id":1108780883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    22.95,
+    106.08333,
+    22.95
+],
+  "geometry": {"coordinates":[106.08333,22.95],"type":"Point"}
+}

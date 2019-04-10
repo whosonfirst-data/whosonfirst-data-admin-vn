@@ -1,0 +1,73 @@
+{
+  "id": 1210031679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35264,21.81292,105.35264,21.81292",
+    "geom:latitude":21.81292,
+    "geom:longitude":105.35264,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Khuon Tro",
+    "gn:country_code":"VN",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579237,
+    "gn:latitude":21.81292,
+    "gn:longitude":105.35264,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khu\u00f4n Tro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khon Chu"
+    ],
+    "name:vie_x_preferred":[
+        "Khu\u00f4n Tro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579237
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b44a7379998d945dbc61149e2655e174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1210031679,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1210031679,
+    "wof:lastmodified":1537713950,
+    "wof:name":"Khuon Tro",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35264,
+    21.81292,
+    105.35264,
+    21.81292
+],
+  "geometry": {"coordinates":[105.35263999999999,21.81292],"type":"Point"}
+}

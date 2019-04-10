@@ -1,0 +1,73 @@
+{
+  "id": 1309916481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8147,21.84474,104.8147,21.84474",
+    "geom:latitude":21.84474,
+    "geom:longitude":104.8147,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Sai Luong Hai",
+    "gn:country_code":"VN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318409,
+    "gn:latitude":21.84474,
+    "gn:longitude":104.8147,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"S\u00e0i L\u01b0\u01a1ng Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u00e0i L\u01b0\u01a1ng Hai"
+    ],
+    "name:vie_x_variant":[
+        "S\u00e0i L\u01b0\u01a1ng 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318409
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5dd5ab33496ea96c0b2fa6e3527b78f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1309916481,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1309916481,
+    "wof:lastmodified":1537714698,
+    "wof:name":"Sai Luong Hai",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8147,
+    21.84474,
+    104.8147,
+    21.84474
+],
+  "geometry": {"coordinates":[104.8147,21.84474],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259401615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98486,20.98167,105.98486,20.98167",
+    "geom:latitude":20.98167,
+    "geom:longitude":105.98486,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Nhu Quynh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1572018,
+    "gn:latitude":20.98167,
+    "gn:longitude":105.98486,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Nh\u01b0 Qu\u1ef3nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Quynh",
+        "Nh\u01b0 Qu\u1ef3nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572018
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f47c0b6db3287b7c845a7101a274d19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781295,
+            "locality_id":1259401615,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1259401615,
+    "wof:lastmodified":1537713850,
+    "wof:name":"Nhu Quynh",
+    "wof:parent_id":1108781295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98486,
+    20.98167,
+    105.98486,
+    20.98167
+],
+  "geometry": {"coordinates":[105.98486,20.98167],"type":"Point"}
+}

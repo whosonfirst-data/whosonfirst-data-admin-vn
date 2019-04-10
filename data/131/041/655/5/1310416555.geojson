@@ -1,0 +1,74 @@
+{
+  "id": 1310416555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87822,21.86361,104.87822,21.86361",
+    "geom:latitude":21.86361,
+    "geom:longitude":104.87822,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Hoi Dau",
+    "gn:country_code":"VN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580532,
+    "gn:latitude":21.86361,
+    "gn:longitude":104.87822,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"H\u1ed9i D\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110oi Hoi",
+        "Hoi \u0110\u00e2u"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed9i D\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580532
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f2a529f0c0ad42c96c5c3e84c0eac60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1310416555,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1310416555,
+    "wof:lastmodified":1537713965,
+    "wof:name":"Hoi Dau",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87822,
+    21.86361,
+    104.87822,
+    21.86361
+],
+  "geometry": {"coordinates":[104.87822,21.86361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310320555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55,22.43333,104.55,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":104.55,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Nam Chuong",
+    "gn:country_code":"VN",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573549,
+    "gn:latitude":22.43333,
+    "gn:longitude":104.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e0m Chu\u00f3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Chuang",
+        "N\u00e0m Chu\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573549
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a1eeec9d3a1c00c4306a35673196b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780871,
+            "locality_id":1310320555,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1310320555,
+    "wof:lastmodified":1537713870,
+    "wof:name":"Nam Chuong",
+    "wof:parent_id":1108780871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55,
+    22.43333,
+    104.55,
+    22.43333
+],
+  "geometry": {"coordinates":[104.55,22.43333],"type":"Point"}
+}

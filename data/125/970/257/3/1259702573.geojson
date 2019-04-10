@@ -1,0 +1,73 @@
+{
+  "id": 1259702573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13512,21.3284,106.13512,21.3284",
+    "geom:latitude":21.3284,
+    "geom:longitude":106.13512,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Thon Trai",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564130,
+    "gn:latitude":21.3284,
+    "gn:longitude":106.13512,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Th\u00f4n Tr\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u1ea1i Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n Tr\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5648639736c3292b8d45f2f2115988c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781159,
+            "locality_id":1259702573,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1259702573,
+    "wof:lastmodified":1537713729,
+    "wof:name":"Thon Trai",
+    "wof:parent_id":1108781159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13512,
+    21.3284,
+    106.13512,
+    21.3284
+],
+  "geometry": {"coordinates":[106.13512,21.3284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243465283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2842,22.21672,105.2842,22.21672",
+    "geom:latitude":22.21672,
+    "geom:longitude":105.2842,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Tham",
+    "gn:country_code":"VN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576579,
+    "gn:latitude":22.21672,
+    "gn:longitude":105.2842,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Th\u1eafm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Th\u1eafm",
+        "L\u00e0ng Tham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576579
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10069dd25ca261639bf46fee7c6e6c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1243465283,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243465283,
+    "wof:lastmodified":1537713908,
+    "wof:name":"Lang Tham",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2842,
+    22.21672,
+    105.2842,
+    22.21672
+],
+  "geometry": {"coordinates":[105.2842,22.21672],"type":"Point"}
+}

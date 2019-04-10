@@ -1,0 +1,67 @@
+{
+  "id": 1259898855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,17.55,106.53333,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Nam Phuc Tran",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573256,
+    "gn:latitude":17.55,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Ph\u00fac Tran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573256
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"498b943ecd1f57bb9bfd4eefcefb82e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1259898855,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1259898855,
+    "wof:lastmodified":1536757091,
+    "wof:name":"Nam Phuc Tran",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    17.55,
+    106.53333,
+    17.55
+],
+  "geometry": {"coordinates":[106.53333000000001,17.55],"type":"Point"}
+}

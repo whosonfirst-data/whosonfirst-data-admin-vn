@@ -1,0 +1,71 @@
+{
+  "id": 1343873933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73333,11.38333,106.73333,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":106.73333,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ap Phom Mit",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1592668,
+    "gn:latitude":11.38333,
+    "gn:longitude":106.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u1ed3m M\u00edt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "X\u00f3m Phom Mit",
+        "\u1ea4p Ph\u1ed3m M\u00edt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592668
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d51f393406131f553cc0b4ab9a0b0d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1343873933,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1343873933,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Ap Phom Mit",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73333,
+    11.38333,
+    106.73333,
+    11.38333
+],
+  "geometry": {"coordinates":[106.73333,11.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226491033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6,20.93333,104.6,20.93333",
+    "geom:latitude":20.93333,
+    "geom:longitude":104.6,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nam Top",
+    "gn:country_code":"VN",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573140,
+    "gn:latitude":20.93333,
+    "gn:longitude":104.6,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nam Top",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573140
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b8834909024a677fc93d28877e16c5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1226491033,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226491033,
+    "wof:lastmodified":1537073925,
+    "wof:name":"Nam Top",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6,
+    20.93333,
+    104.6,
+    20.93333
+],
+  "geometry": {"coordinates":[104.59999999999999,20.93333],"type":"Point"}
+}

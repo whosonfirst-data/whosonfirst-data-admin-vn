@@ -1,0 +1,70 @@
+{
+  "id": 1344072353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87538,18.34603,105.87538,18.34603",
+    "geom:latitude":18.34603,
+    "geom:longitude":105.87538,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nam Tien",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275290,
+    "gn:latitude":18.34603,
+    "gn:longitude":105.87538,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Nam Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275290
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"59b15f5cf27cd805eab50dfe20cc70d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1344072353,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1344072353,
+    "wof:lastmodified":1537714674,
+    "wof:name":"Nam Tien",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87538,
+    18.34603,
+    105.87538,
+    18.34603
+],
+  "geometry": {"coordinates":[105.87538000000001,18.34603],"type":"Point"}
+}

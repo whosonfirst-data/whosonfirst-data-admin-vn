@@ -1,0 +1,72 @@
+{
+  "id": 1193231737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,20.0,105.91667,20.0",
+    "geom:latitude":20.0,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ca Phach",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586090,
+    "gn:latitude":20.0,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ca Ph\u00e0ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cu Phach",
+        "Ca Ph\u00e0ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586090
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"977b1b1f77e82bf58c2d5758fef84c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781411,
+            "locality_id":1193231737,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193231737,
+    "wof:lastmodified":1537714031,
+    "wof:name":"Ca Phach",
+    "wof:parent_id":1108781411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    20.0,
+    105.91667,
+    20.0
+],
+  "geometry": {"coordinates":[105.91667,20.0],"type":"Point"}
+}

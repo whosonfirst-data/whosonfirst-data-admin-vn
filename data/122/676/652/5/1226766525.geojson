@@ -1,0 +1,71 @@
+{
+  "id": 1226766525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.61667,16.5,107.61667,16.5",
+    "geom:latitude":16.5,
+    "geom:longitude":107.61667,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Pho Tri",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565398,
+    "gn:latitude":16.5,
+    "gn:longitude":107.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ph\u1ed5 Tr\u00ec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pho Tri",
+        "Th\u00f4n Ph\u1ed5 Tr\u00ec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565398
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2361d688247def00bb22ea68eecc98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1226766525,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1226766525,
+    "wof:lastmodified":1537713752,
+    "wof:name":"Thon Pho Tri",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.61667,
+    16.5,
+    107.61667,
+    16.5
+],
+  "geometry": {"coordinates":[107.61667,16.5],"type":"Point"}
+}

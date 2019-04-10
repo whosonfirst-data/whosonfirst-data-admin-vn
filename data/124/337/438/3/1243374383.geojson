@@ -1,0 +1,70 @@
+{
+  "id": 1243374383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19538,22.7569,105.19538,22.7569",
+    "geom:latitude":22.7569,
+    "geom:longitude":105.19538,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kim Thach",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309451,
+    "gn:latitude":22.7569,
+    "gn:longitude":105.19538,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kim Th\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kim Th\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309451
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c19cd305e973f7b9e4ab1922808a36c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1243374383,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1243374383,
+    "wof:lastmodified":1537714256,
+    "wof:name":"Kim Thach",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19538,
+    22.7569,
+    105.19538,
+    22.7569
+],
+  "geometry": {"coordinates":[105.19538,22.7569],"type":"Point"}
+}

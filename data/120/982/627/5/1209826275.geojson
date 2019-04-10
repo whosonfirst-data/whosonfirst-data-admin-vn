@@ -1,0 +1,73 @@
+{
+  "id": 1209826275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33412,22.69794,105.33412,22.69794",
+    "geom:latitude":22.69794,
+    "geom:longitude":105.33412,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ta Lung",
+    "gn:country_code":"VN",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309580,
+    "gn:latitude":22.69794,
+    "gn:longitude":105.33412,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"T\u1ea3 L\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ea3 L\u00f9ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n T\u1ea3 L\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309580
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd0bd1bf680377b8b21df8c7436f52b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1209826275,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1209826275,
+    "wof:lastmodified":1537714259,
+    "wof:name":"Ta Lung",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33412,
+    22.69794,
+    105.33412,
+    22.69794
+],
+  "geometry": {"coordinates":[105.33412,22.69794],"type":"Point"}
+}

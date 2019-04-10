@@ -1,0 +1,70 @@
+{
+  "id": 1242588505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03333,11.65,109.03333,11.65",
+    "geom:latitude":11.65,
+    "geom:longitude":109.03333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Go Ba Thao",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581521,
+    "gn:latitude":11.65,
+    "gn:longitude":109.03333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Go Ba Thao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f2 \u0110\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581521
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71939ba42827f0ddf86f45908c380005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1242588505,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1242588505,
+    "wof:lastmodified":1537713976,
+    "wof:name":"Go Ba Thao",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03333,
+    11.65,
+    109.03333,
+    11.65
+],
+  "geometry": {"coordinates":[109.03333000000001,11.65],"type":"Point"}
+}

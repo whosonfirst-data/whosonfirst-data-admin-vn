@@ -1,0 +1,71 @@
+{
+  "id": 1226261639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.75,12.0,108.75,12.0",
+    "geom:latitude":12.0,
+    "geom:longitude":108.75,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Gia Bo",
+    "gn:country_code":"VN",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581946,
+    "gn:latitude":12.0,
+    "gn:longitude":108.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gia Bo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia Ba",
+        "Gia Bo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581946
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9d2b4a8297f01371b4d9ab6aefb5b6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781737,
+            "locality_id":1226261639,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1226261639,
+    "wof:lastmodified":1537713982,
+    "wof:name":"Gia Bo",
+    "wof:parent_id":1108781737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.75,
+    12.0,
+    108.75,
+    12.0
+],
+  "geometry": {"coordinates":[108.75,12.0],"type":"Point"}
+}

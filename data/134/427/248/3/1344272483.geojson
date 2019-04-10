@@ -1,0 +1,67 @@
+{
+  "id": 1344272483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.16667,14.06667,109.16667,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":109.16667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Chanh Thang",
+    "gn:country_code":"VN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585727,
+    "gn:latitude":14.06667,
+    "gn:longitude":109.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u00e1nh Th\u1eafng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585727
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e199386a18de20f1ba604503b49ecca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781681,
+            "locality_id":1344272483,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1344272483,
+    "wof:lastmodified":1537063868,
+    "wof:name":"Chanh Thang",
+    "wof:parent_id":1108781681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.16667,
+    14.06667,
+    109.16667,
+    14.06667
+],
+  "geometry": {"coordinates":[109.16667,14.06667],"type":"Point"}
+}

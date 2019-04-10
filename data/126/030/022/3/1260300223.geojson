@@ -1,0 +1,67 @@
+{
+  "id": 1260300223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,18.55,105.55,18.55",
+    "geom:latitude":18.55,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Nam Kim",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573410,
+    "gn:latitude":18.55,
+    "gn:longitude":105.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nam Kim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573410
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"37fb4df180cabee1a8ccb9cae59acde6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1260300223,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1260300223,
+    "wof:lastmodified":1536689462,
+    "wof:name":"Nam Kim",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    18.55,
+    105.55,
+    18.55
+],
+  "geometry": {"coordinates":[105.55,18.55],"type":"Point"}
+}

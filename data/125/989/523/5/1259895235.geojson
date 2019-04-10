@@ -1,0 +1,73 @@
+{
+  "id": 1259895235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22105,21.7076,104.22105,21.7076",
+    "geom:latitude":21.7076,
+    "geom:longitude":104.22105,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Nam Khat",
+    "gn:country_code":"VN",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526482,
+    "gn:latitude":21.7076,
+    "gn:longitude":104.22105,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n N\u1eadm Kh\u1eaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Kh\u1eaft"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u1eadm Kh\u1eaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526482
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b2b0dce320b6dced4f4f5b0888956ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1259895235,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1259895235,
+    "wof:lastmodified":1537714333,
+    "wof:name":"Ban Nam Khat",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22105,
+    21.7076,
+    104.22105,
+    21.7076
+],
+  "geometry": {"coordinates":[104.22105000000001,21.7076],"type":"Point"}
+}

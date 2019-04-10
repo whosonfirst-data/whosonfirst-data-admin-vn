@@ -1,0 +1,73 @@
+{
+  "id": 1310215925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18916,21.76689,105.18916,21.76689",
+    "geom:latitude":21.76689,
+    "geom:longitude":105.18916,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Yen Loc",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560187,
+    "gn:latitude":21.76689,
+    "gn:longitude":105.18916,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Y\u00ean L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen Lac"
+    ],
+    "name:vie_x_preferred":[
+        "Y\u00ean L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560187
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f02fb07e57f8138d770db739f26067c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1310215925,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310215925,
+    "wof:lastmodified":1537713660,
+    "wof:name":"Yen Loc",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18916000000002,
+    21.76689,
+    105.18916000000002,
+    21.76689
+],
+  "geometry": {"coordinates":[105.18916000000002,21.76689],"type":"Point"}
+}

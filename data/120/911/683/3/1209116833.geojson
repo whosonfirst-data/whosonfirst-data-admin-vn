@@ -1,0 +1,64 @@
+{
+  "id": 1209116833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00914,21.20556,106.00914,21.20556",
+    "geom:latitude":21.20556,
+    "geom:longitude":106.00914,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Lac Nhue",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340744,
+    "gn:latitude":21.20556,
+    "gn:longitude":106.00914,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u1ea1c Nhu\u1ebf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ea1c Nhu\u1ebf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340744
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d19259823d10da0337b95fd2337b3a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116833
+        }
+    ],
+    "wof:id":1209116833,
+    "wof:lastmodified":1537714291,
+    "wof:name":"Lac Nhue",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00914,
+    21.20556,
+    106.00914,
+    21.20556
+],
+  "geometry": {"coordinates":[106.00914,21.20556],"type":"Point"}
+}

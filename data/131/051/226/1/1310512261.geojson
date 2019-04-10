@@ -1,0 +1,70 @@
+{
+  "id": 1310512261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.611,22.69543,103.611,22.69543",
+    "geom:latitude":22.69543,
+    "geom:longitude":103.611,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Cho Cau",
+    "gn:country_code":"VN",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464792,
+    "gn:latitude":22.69543,
+    "gn:longitude":103.611,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Ch\u1ed3 C\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u1ed3 C\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464792
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8abc90ff1a2499d98da4e6b13678ce5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1310512261,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310512261,
+    "wof:lastmodified":1537714317,
+    "wof:name":"Cho Cau",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.611,
+    22.69543,
+    103.611,
+    22.69543
+],
+  "geometry": {"coordinates":[103.611,22.69543],"type":"Point"}
+}

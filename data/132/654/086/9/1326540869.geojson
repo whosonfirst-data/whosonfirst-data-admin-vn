@@ -1,0 +1,70 @@
+{
+  "id": 1326540869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36499,18.85902,105.36499,18.85902",
+    "geom:latitude":18.85902,
+    "geom:longitude":105.36499,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Quang Minh",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201077,
+    "gn:latitude":18.85902,
+    "gn:longitude":105.36499,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Quang Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Quang Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201077
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1cae303b6a665aca09a60c2bd8a5738c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781481,
+            "locality_id":1326540869,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1326540869,
+    "wof:lastmodified":1537714636,
+    "wof:name":"Quang Minh",
+    "wof:parent_id":1108781481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36499,
+    18.85902,
+    105.36499,
+    18.85902
+],
+  "geometry": {"coordinates":[105.36499000000001,18.85902],"type":"Point"}
+}

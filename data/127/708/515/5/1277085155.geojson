@@ -1,0 +1,73 @@
+{
+  "id": 1277085155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22907,22.23747,105.22907,22.23747",
+    "geom:latitude":22.23747,
+    "geom:longitude":105.22907,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dam Tao",
+    "gn:country_code":"VN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309160,
+    "gn:latitude":22.23747,
+    "gn:longitude":105.22907,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"D\u00e3m Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Na Tao"
+    ],
+    "name:vie_x_variant":[
+        "D\u00e3m Tao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309160
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6d401c687c3ffd60370517cb72af86e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1277085155,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1277085155,
+    "wof:lastmodified":1537714249,
+    "wof:name":"Dam Tao",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22907,
+    22.23747,
+    105.22907,
+    22.23747
+],
+  "geometry": {"coordinates":[105.22906999999999,22.23747],"type":"Point"}
+}

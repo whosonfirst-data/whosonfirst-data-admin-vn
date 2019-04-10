@@ -1,0 +1,73 @@
+{
+  "id": 1343977091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62999,18.26943,105.62999,18.26943",
+    "geom:latitude":18.26943,
+    "geom:longitude":105.62999,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hot Dot",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561603,
+    "gn:latitude":18.26943,
+    "gn:longitude":105.62999,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"H\u00f3t \u0110\u00f3t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m \u0110\u1ecdt"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00f3t \u0110\u00f3t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561603
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"949aa6e1d20992ca42532e809a8220bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1343977091,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343977091,
+    "wof:lastmodified":1537713688,
+    "wof:name":"Hot Dot",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62999,
+    18.26943,
+    105.62999,
+    18.26943
+],
+  "geometry": {"coordinates":[105.62999000000001,18.26943],"type":"Point"}
+}

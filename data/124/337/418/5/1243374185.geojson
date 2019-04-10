@@ -1,0 +1,67 @@
+{
+  "id": 1243374185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,20.86667,105.63333,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thuan Luong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565066,
+    "gn:latitude":20.86667,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thu\u1eadn L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565066
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"df9dbf7752735a1a69212cc02a0132f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780835,
+            "locality_id":1243374185,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1243374185,
+    "wof:lastmodified":1536910026,
+    "wof:name":"Thuan Luong",
+    "wof:parent_id":1108780835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    20.86667000000001,
+    105.63333,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[105.63333,20.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327232325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33519,10.13312,106.33519,10.13312",
+    "geom:latitude":10.13312,
+    "geom:longitude":106.33519,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mo Cay",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1574568,
+    "gn:latitude":10.13312,
+    "gn:longitude":106.33519,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"M\u1ecf C\u00e0y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ecf C\u00e0y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574568
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a55151dc56a4f204d5e273364931721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782119,
+            "locality_id":1327232325,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1327232325,
+    "wof:lastmodified":1537713884,
+    "wof:name":"Mo Cay",
+    "wof:parent_id":1108782119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33519,
+    10.13312,
+    106.33519,
+    10.13312
+],
+  "geometry": {"coordinates":[106.33519,10.13312],"type":"Point"}
+}

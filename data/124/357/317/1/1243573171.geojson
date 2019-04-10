@@ -1,0 +1,71 @@
+{
+  "id": 1243573171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41667,17.63333,106.41667,17.63333",
+    "geom:latitude":17.63333,
+    "geom:longitude":106.41667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Cu Nam",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584564,
+    "gn:latitude":17.63333,
+    "gn:longitude":106.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1eeb Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dun Nam",
+        "C\u1eeb Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584564
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eaf9c1b5463aec5d1bd8a8dcc529c0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1243573171,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1243573171,
+    "wof:lastmodified":1537714015,
+    "wof:name":"Cu Nam",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41667,
+    17.63332999999999,
+    106.41667,
+    17.63332999999999
+],
+  "geometry": {"coordinates":[106.41667,17.63332999999999],"type":"Point"}
+}

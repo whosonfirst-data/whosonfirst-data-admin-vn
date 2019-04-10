@@ -1,0 +1,70 @@
+{
+  "id": 1209933271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45641,21.57593,105.45641,21.57593",
+    "geom:latitude":21.57593,
+    "geom:longitude":105.45641,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Sinh",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138988,
+    "gn:latitude":21.57593,
+    "gn:longitude":105.45641,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"L\u00e0ng Sinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Sinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138988
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"178d941dcb553fd02e656b312befe5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1209933271,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1209933271,
+    "wof:lastmodified":1537714226,
+    "wof:name":"Lang Sinh",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45641,
+    21.57593,
+    105.45641,
+    21.57593
+],
+  "geometry": {"coordinates":[105.45641000000001,21.57593],"type":"Point"}
+}

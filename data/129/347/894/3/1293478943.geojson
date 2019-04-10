@@ -1,0 +1,72 @@
+{
+  "id": 1293478943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87044,10.25973,105.87044,10.25973",
+    "geom:latitude":10.25973,
+    "geom:longitude":105.87044,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cai Tau Ha",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1586502,
+    "gn:latitude":10.25973,
+    "gn:longitude":105.87044,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"C\u00e1i T\u00e0u H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ai Tau Ha",
+        "Cao Tao Ha",
+        "C\u00e1i T\u00e0u H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a374e85f09cf60bdce083095aa109e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782193,
+            "locality_id":1293478943,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1293478943,
+    "wof:lastmodified":1537714037,
+    "wof:name":"Cai Tau Ha",
+    "wof:parent_id":1108782193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87044,
+    10.25973,
+    105.87044,
+    10.25973
+],
+  "geometry": {"coordinates":[105.87044,10.25973],"type":"Point"}
+}

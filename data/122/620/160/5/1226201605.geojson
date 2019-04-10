@@ -1,0 +1,67 @@
+{
+  "id": 1226201605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,21.51667,103.8,21.51667",
+    "geom:latitude":21.51667,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Xat",
+    "gn:country_code":"VN",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588373,
+    "gn:latitude":21.51667,
+    "gn:longitude":103.8,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n X\u1eaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588373
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e6038dbb1816242cab9edc15efd3f31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1226201605,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226201605,
+    "wof:lastmodified":1536996600,
+    "wof:name":"Ban Xat",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    21.51667,
+    103.8,
+    21.51667
+],
+  "geometry": {"coordinates":[103.8,21.51667],"type":"Point"}
+}

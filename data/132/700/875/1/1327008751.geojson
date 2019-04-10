@@ -1,0 +1,70 @@
+{
+  "id": 1327008751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.50273,20.74296,106.50273,20.74296",
+    "geom:latitude":20.74296,
+    "geom:longitude":106.50273,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Thon Lac",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595039,
+    "gn:latitude":20.74296,
+    "gn:longitude":106.50273,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Th\u00f4n L\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n L\u00e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595039
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a432aeaff292579175f9fac9ac2cf5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781287,
+            "locality_id":1327008751,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1327008751,
+    "wof:lastmodified":1537714361,
+    "wof:name":"Thon Lac",
+    "wof:parent_id":1108781287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.50273,
+    20.74296,
+    106.50273,
+    20.74296
+],
+  "geometry": {"coordinates":[106.50273,20.74296],"type":"Point"}
+}

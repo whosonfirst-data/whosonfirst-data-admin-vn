@@ -1,0 +1,61 @@
+{
+  "id": 1209019895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93333,22.43333,104.93333,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":104.93333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Bac Xao",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591423,
+    "gn:latitude":22.43333,
+    "gn:longitude":104.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1eafc X\u1ea3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591423
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"337e3bdbb859c1708e2114d98353cd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019895
+        }
+    ],
+    "wof:id":1209019895,
+    "wof:lastmodified":1536300176,
+    "wof:name":"Bac Xao",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93333,
+    22.43333,
+    104.93333,
+    22.43333
+],
+  "geometry": {"coordinates":[104.93333,22.43333],"type":"Point"}
+}

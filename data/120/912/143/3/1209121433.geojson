@@ -1,0 +1,64 @@
+{
+  "id": 1209121433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.04555,16.95768,107.04555,16.95768",
+    "geom:latitude":16.95768,
+    "geom:longitude":107.04555,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"An Xa",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650845,
+    "gn:latitude":16.95768,
+    "gn:longitude":107.04555,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"An X\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An X\u00e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650845
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8a5e8c3a857125afeecc5d9fca37a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121433
+        }
+    ],
+    "wof:id":1209121433,
+    "wof:lastmodified":1537714391,
+    "wof:name":"An Xa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.04555,
+    16.95768,
+    107.04555,
+    16.95768
+],
+  "geometry": {"coordinates":[107.04555000000001,16.95768],"type":"Point"}
+}

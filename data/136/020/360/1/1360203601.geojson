@@ -1,0 +1,67 @@
+{
+  "id": 1360203601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.0,13.95,109.0,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":109.0,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Tra Son",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563952,
+    "gn:latitude":13.95,
+    "gn:longitude":109.0,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Tr\u00e0 S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563952
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5d9b4e7d1cda00f7ad44d4c849e114ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781679,
+            "locality_id":1360203601,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1360203601,
+    "wof:lastmodified":1536775341,
+    "wof:name":"Tra Son",
+    "wof:parent_id":1108781679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.0,
+    13.95,
+    109.0,
+    13.95
+],
+  "geometry": {"coordinates":[109.0,13.95],"type":"Point"}
+}

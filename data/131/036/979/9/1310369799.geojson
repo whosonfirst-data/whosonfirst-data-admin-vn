@@ -1,0 +1,73 @@
+{
+  "id": 1310369799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55202,10.77346,106.55202,10.77346",
+    "geom:latitude":10.77346,
+    "geom:longitude":106.55202,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ap Mot",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335759,
+    "gn:latitude":10.77346,
+    "gn:longitude":106.55202,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"\u1ea4p M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335759
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"921c59d35a6d289e448cae56173eaddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782053,
+            "locality_id":1310369799,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1310369799,
+    "wof:lastmodified":1537714271,
+    "wof:name":"Ap Mot",
+    "wof:parent_id":1108782053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55202,
+    10.77346,
+    106.55202,
+    10.77346
+],
+  "geometry": {"coordinates":[106.55202,10.77346],"type":"Point"}
+}

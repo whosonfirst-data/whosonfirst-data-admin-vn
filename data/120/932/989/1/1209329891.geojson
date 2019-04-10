@@ -1,0 +1,64 @@
+{
+  "id": 1209329891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66804,22.62156,102.66804,22.62156",
+    "geom:latitude":22.62156,
+    "geom:longitude":102.66804,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pa Mu",
+    "gn:country_code":"VN",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456787,
+    "gn:latitude":22.62156,
+    "gn:longitude":102.66804,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Pa Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pa Mu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456787
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e575f69504270b10a45007ccdd9e2d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329891
+        }
+    ],
+    "wof:id":1209329891,
+    "wof:lastmodified":1537714315,
+    "wof:name":"Pa Mu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66804,
+    22.62156,
+    102.66804,
+    22.62156
+],
+  "geometry": {"coordinates":[102.66804,22.62156],"type":"Point"}
+}

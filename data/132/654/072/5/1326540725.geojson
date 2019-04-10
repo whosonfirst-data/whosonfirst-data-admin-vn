@@ -1,0 +1,77 @@
+{
+  "id": 1326540725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44456,22.51332,105.44456,22.51332",
+    "geom:latitude":22.51332,
+    "geom:longitude":105.44456,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Phu Bao",
+    "gn:country_code":"VN",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570770,
+    "gn:latitude":22.51332,
+    "gn:longitude":105.44456,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u1ea3n Phu B\u1ea3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Ban",
+        "Ph\u00f9 Bao"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa B\u1ea3o"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Phu B\u1ea3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570770
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b93f46a71726fe258ae224ea32c07694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1326540725,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1326540725,
+    "wof:lastmodified":1537713835,
+    "wof:name":"Ban Phu Bao",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44456,
+    22.51332,
+    105.44456,
+    22.51332
+],
+  "geometry": {"coordinates":[105.44456,22.51332],"type":"Point"}
+}

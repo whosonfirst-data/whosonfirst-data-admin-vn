@@ -1,0 +1,72 @@
+{
+  "id": 1226053245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.10889,9.57444,106.10889,9.57444",
+    "geom:latitude":9.57444,
+    "geom:longitude":106.10889,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Bung Thom",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593733,
+    "gn:latitude":9.57444,
+    "gn:longitude":106.10889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p B\u01b0ng Th\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u01b0ng Th\u00f4m",
+        "\u1ea4p B\u01b0ng Th\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593733
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1d47bab26d3686fcfa0ef82ce3a74010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782299,
+            "locality_id":1226053245,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1226053245,
+    "wof:lastmodified":1537714193,
+    "wof:name":"Ap Bung Thom",
+    "wof:parent_id":1108782299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.10889,
+    9.57444,
+    106.10889,
+    9.57444
+],
+  "geometry": {"coordinates":[106.10889,9.57444],"type":"Point"}
+}

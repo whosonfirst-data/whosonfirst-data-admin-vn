@@ -1,0 +1,73 @@
+{
+  "id": 1226353151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9625,21.00565,104.9625,21.00565",
+    "geom:latitude":21.00565,
+    "geom:longitude":104.9625,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Chieng Cang",
+    "gn:country_code":"VN",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585536,
+    "gn:latitude":21.00565,
+    "gn:longitude":104.9625,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Chi\u1ec1ng Cang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi\u00eang Cang"
+    ],
+    "name:vie_x_preferred":[
+        "Chi\u1ec1ng Cang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585536
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"04c6ee209d36cf4433dea2578329685d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1226353151,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226353151,
+    "wof:lastmodified":1537714025,
+    "wof:name":"Chieng Cang",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9625,
+    21.00565,
+    104.9625,
+    21.00565
+],
+  "geometry": {"coordinates":[104.96250000000001,21.00565],"type":"Point"}
+}

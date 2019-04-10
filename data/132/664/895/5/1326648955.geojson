@@ -1,0 +1,71 @@
+{
+  "id": 1326648955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,10.0,105.71667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Ap My Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592896,
+    "gn:latitude":10.0,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p M\u1ef9 Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Khanh",
+        "\u1ea4p M\u1ef9 Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592896
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"822b0aacfc188e167f29ae00ea9bbeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782267,
+            "locality_id":1326648955,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1326648955,
+    "wof:lastmodified":1537714172,
+    "wof:name":"Ap My Phuoc",
+    "wof:parent_id":1108782267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    10.0,
+    105.71667,
+    10.0
+],
+  "geometry": {"coordinates":[105.71666999999999,10.0],"type":"Point"}
+}

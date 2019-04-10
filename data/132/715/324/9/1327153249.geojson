@@ -1,0 +1,67 @@
+{
+  "id": 1327153249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.01667,21.58333,107.01667,21.58333",
+    "geom:latitude":21.58333,
+    "geom:longitude":107.01667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Kong Tang",
+    "gn:country_code":"VN",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578647,
+    "gn:latitude":21.58333,
+    "gn:longitude":107.01667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"K\u1ed5ng Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578647
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"72832b671618dcd372f7a48fb586e556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1327153249,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1327153249,
+    "wof:lastmodified":1537080720,
+    "wof:name":"Kong Tang",
+    "wof:parent_id":1108781105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.01667,
+    21.58333,
+    107.01667,
+    21.58333
+],
+  "geometry": {"coordinates":[107.01667,21.58333],"type":"Point"}
+}

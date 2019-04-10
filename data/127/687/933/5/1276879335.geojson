@@ -1,0 +1,72 @@
+{
+  "id": 1276879335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.50606,10.15021,106.50606,10.15021",
+    "geom:latitude":10.15021,
+    "geom:longitude":106.50606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giong Trom",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1585343,
+    "gn:latitude":10.15021,
+    "gn:longitude":106.50606,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Gi\u1ed3ng Tr\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giomtrom",
+        "Gi\u1ed3ng Tr\u00f4m",
+        "Ch\u1ee3 Gi\u1ed3ng Tr\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585343
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3c9835fac1a4f5934e14291803033b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782121,
+            "locality_id":1276879335,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1276879335,
+    "wof:lastmodified":1537714023,
+    "wof:name":"Giong Trom",
+    "wof:parent_id":1108782121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.50606,
+    10.15021,
+    106.50606,
+    10.15021
+],
+  "geometry": {"coordinates":[106.50606000000001,10.15021],"type":"Point"}
+}

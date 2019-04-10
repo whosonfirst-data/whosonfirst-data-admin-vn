@@ -1,0 +1,70 @@
+{
+  "id": 1209924889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71626,16.43656,106.71626,16.43656",
+    "geom:latitude":16.43656,
+    "geom:longitude":106.71626,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ra Man",
+    "gn:country_code":"VN",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650927,
+    "gn:latitude":16.43656,
+    "gn:longitude":106.71626,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ra Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ra Man"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650927
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b6bf1f04daa87206b4b44a27e4abdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1209924889,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1209924889,
+    "wof:lastmodified":1537714392,
+    "wof:name":"Ra Man",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71626,
+    16.43656,
+    106.71626,
+    16.43656
+],
+  "geometry": {"coordinates":[106.71626000000001,16.43656],"type":"Point"}
+}

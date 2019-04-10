@@ -1,0 +1,70 @@
+{
+  "id": 1242981479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13115,9.77009,106.13115,9.77009",
+    "geom:latitude":9.77009,
+    "geom:longitude":106.13115,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Cau Quan",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9292265,
+    "gn:latitude":9.77009,
+    "gn:longitude":106.13115,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"C\u1ea7u Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ea7u Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9292265
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"15f2582af5a883988dd1eb55ebae5561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782139,
+            "locality_id":1242981479,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1242981479,
+    "wof:lastmodified":1537714468,
+    "wof:name":"Cau Quan",
+    "wof:parent_id":1108782139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13115,
+    9.77009,
+    106.13115,
+    9.77009
+],
+  "geometry": {"coordinates":[106.13115000000001,9.77009],"type":"Point"}
+}

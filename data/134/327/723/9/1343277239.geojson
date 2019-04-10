@@ -1,0 +1,73 @@
+{
+  "id": 1343277239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62854,18.86756,105.62854,18.86756",
+    "geom:latitude":18.86756,
+    "geom:longitude":105.62854,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Doi Muoi Ba",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182007,
+    "gn:latitude":18.86756,
+    "gn:longitude":105.62854,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u0110\u1ed9i M\u01b0\u1eddi Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed9i M\u01b0\u1eddi Ba"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ed9i 13"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182007
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0be1eb21c0e8ae12d461167a1aa54e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781485,
+            "locality_id":1343277239,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343277239,
+    "wof:lastmodified":1537714611,
+    "wof:name":"Doi Muoi Ba",
+    "wof:parent_id":1108781485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62854,
+    18.86756,
+    105.62854,
+    18.86756
+],
+  "geometry": {"coordinates":[105.62854,18.86756],"type":"Point"}
+}

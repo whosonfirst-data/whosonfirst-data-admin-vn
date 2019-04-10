@@ -1,0 +1,67 @@
+{
+  "id": 1343869013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96667,21.9,103.96667,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":103.96667,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lan Mu Chay",
+    "gn:country_code":"VN",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576335,
+    "gn:latitude":21.9,
+    "gn:longitude":103.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lan Mu Chay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"861c9c7b87d8e5acb7805037f0618cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1343869013,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1343869013,
+    "wof:lastmodified":1536654148,
+    "wof:name":"Lan Mu Chay",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96667,
+    21.9,
+    103.96667,
+    21.9
+],
+  "geometry": {"coordinates":[103.96666999999999,21.9],"type":"Point"}
+}

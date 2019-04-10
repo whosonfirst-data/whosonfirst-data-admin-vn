@@ -1,0 +1,73 @@
+{
+  "id": 1225963331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.51722,15.25569,108.51722,15.25569",
+    "geom:latitude":15.25569,
+    "geom:longitude":108.51722,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Tra Bong",
+    "gn:country_code":"VN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1564257,
+    "gn:latitude":15.25569,
+    "gn:longitude":108.51722,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Tr\u00e0 B\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u00e0 B\u1ed3ng"
+    ],
+    "name:vie_x_variant":[
+        "Tr\u00e0 Xu\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564257
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"edf79c82a33c36adee2202d57ca530d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781639,
+            "locality_id":1225963331,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1225963331,
+    "wof:lastmodified":1537713731,
+    "wof:name":"Tra Bong",
+    "wof:parent_id":1108781639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.51722,
+    15.25569,
+    108.51722,
+    15.25569
+],
+  "geometry": {"coordinates":[108.51721999999999,15.25569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310215793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31667,10.91667,107.31667,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":107.31667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ap Tan Phu",
+    "gn:country_code":"VN",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592198,
+    "gn:latitude":10.91667,
+    "gn:longitude":107.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p T\u00e2n Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Binh Ph\u00fa",
+        "\u1ea4p T\u00e2n Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592198
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7504dd56d50e2a48b680b3d77653c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781985,
+            "locality_id":1310215793,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1310215793,
+    "wof:lastmodified":1537714153,
+    "wof:name":"Ap Tan Phu",
+    "wof:parent_id":1108781985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31667,
+    10.91667,
+    107.31667,
+    10.91667
+],
+  "geometry": {"coordinates":[107.31667,10.91667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259917987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68333,15.8,107.68333,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":107.68333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Giao",
+    "gn:country_code":"VN",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581814,
+    "gn:latitude":15.8,
+    "gn:longitude":107.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gi\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gi\u00e1c",
+        "Gi\u00e1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581814
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43d4abf0548071f691c5a8304ef0681e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781601,
+            "locality_id":1259917987,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1259917987,
+    "wof:lastmodified":1537713981,
+    "wof:name":"Giao",
+    "wof:parent_id":1108781601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68333,
+    15.8,
+    107.68333,
+    15.8
+],
+  "geometry": {"coordinates":[107.68333,15.8],"type":"Point"}
+}

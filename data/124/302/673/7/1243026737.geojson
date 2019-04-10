@@ -1,0 +1,72 @@
+{
+  "id": 1243026737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26111,9.61667,105.26111,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":105.26111,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Nuoc Chay",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592694,
+    "gn:latitude":9.61667,
+    "gn:longitude":105.26111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p N\u01b0\u1edbc Ch\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Nuoc Chay",
+        "\u1ea4p N\u01b0\u1edbc Ch\u1ea3y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592694
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3fa7d80c08754d01cd3bcd078b8e83b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782241,
+            "locality_id":1243026737,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1243026737,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Ap Nuoc Chay",
+    "wof:parent_id":1108782241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26111000000002,
+    9.61667,
+    105.26111000000002,
+    9.61667
+],
+  "geometry": {"coordinates":[105.26111000000002,9.61667],"type":"Point"}
+}

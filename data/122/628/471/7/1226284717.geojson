@@ -1,0 +1,67 @@
+{
+  "id": 1226284717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,15.2,108.08333,15.2",
+    "geom:latitude":15.2,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tu Nac",
+    "gn:country_code":"VN",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563451,
+    "gn:latitude":15.2,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tu Nac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563451
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"47db122eb988e0fa651b8d8e6403593c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781625,
+            "locality_id":1226284717,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1226284717,
+    "wof:lastmodified":1536876665,
+    "wof:name":"Tu Nac",
+    "wof:parent_id":1108781625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    15.2,
+    108.08333,
+    15.2
+],
+  "geometry": {"coordinates":[108.08333,15.2],"type":"Point"}
+}

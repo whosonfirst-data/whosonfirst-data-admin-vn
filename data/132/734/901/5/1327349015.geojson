@@ -1,0 +1,67 @@
+{
+  "id": 1327349015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86667,18.43333,105.86667,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":105.86667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Phu Luu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570457,
+    "gn:latitude":18.43333,
+    "gn:longitude":105.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Phu L\u01b0u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570457
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4634c9e40beed7beeeffa10c1a16965f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1327349015,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1327349015,
+    "wof:lastmodified":1536801198,
+    "wof:name":"Phu Luu",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86667,
+    18.43333,
+    105.86667,
+    18.43333
+],
+  "geometry": {"coordinates":[105.86667,18.43333],"type":"Point"}
+}

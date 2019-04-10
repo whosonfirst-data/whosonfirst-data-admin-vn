@@ -1,0 +1,64 @@
+{
+  "id": 1209634129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96315,21.05709,105.96315,21.05709",
+    "geom:latitude":21.05709,
+    "geom:longitude":105.96315,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Phu Dong",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570639,
+    "gn:latitude":21.05709,
+    "gn:longitude":105.96315,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ph\u00f9 \u0110\u1ed5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00f9 \u0110\u1ed5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570639
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8cb4a745382828ba9aa97fc9e969128a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634129
+        }
+    ],
+    "wof:id":1209634129,
+    "wof:lastmodified":1537713833,
+    "wof:name":"Phu Dong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96315,
+    21.05709,
+    105.96315,
+    21.05709
+],
+  "geometry": {"coordinates":[105.96315,21.05709],"type":"Point"}
+}

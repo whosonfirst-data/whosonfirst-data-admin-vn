@@ -1,0 +1,70 @@
+{
+  "id": 1277049779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57648,10.90139,106.57648,10.90139",
+    "geom:latitude":10.90139,
+    "geom:longitude":106.57648,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tan Thoi",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566777,
+    "gn:latitude":10.90139,
+    "gn:longitude":106.57648,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"T\u00e2n Th\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Th\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566777
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1507107e2c79a343ce50d8573f1ca183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782051,
+            "locality_id":1277049779,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1277049779,
+    "wof:lastmodified":1537713780,
+    "wof:name":"Tan Thoi",
+    "wof:parent_id":1108782051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57648,
+    10.90139,
+    106.57648,
+    10.90139
+],
+  "geometry": {"coordinates":[106.57648,10.90139],"type":"Point"}
+}

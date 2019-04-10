@@ -1,0 +1,67 @@
+{
+  "id": 1226695255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,11.25,106.16667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Tan Cam",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592285,
+    "gn:latitude":11.25,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e2n Cam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592285
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cae6719984c87467d1b4183998276d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781943,
+            "locality_id":1226695255,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1226695255,
+    "wof:lastmodified":1536788796,
+    "wof:name":"Ap Tan Cam",
+    "wof:parent_id":1108781943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    11.25,
+    106.16667,
+    11.25
+],
+  "geometry": {"coordinates":[106.16667,11.25],"type":"Point"}
+}

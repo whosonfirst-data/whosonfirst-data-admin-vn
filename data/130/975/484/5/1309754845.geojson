@@ -1,0 +1,73 @@
+{
+  "id": 1309754845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.09677,21.1977,104.09677,21.1977",
+    "geom:latitude":21.1977,
+    "geom:longitude":104.09677,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tieu Khu Bay",
+    "gn:country_code":"VN",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314621,
+    "gn:latitude":21.1977,
+    "gn:longitude":104.09677,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ti\u1ec3u Khu B\u1ea3y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ec3u Khu B\u1ea3y"
+    ],
+    "name:vie_x_variant":[
+        "Ti\u1ec3u Khu 7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314621
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e29ed388fdc9181c2e0f37c2160779b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1309754845,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1309754845,
+    "wof:lastmodified":1537714691,
+    "wof:name":"Tieu Khu Bay",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.09677,
+    21.1977,
+    104.09677,
+    21.1977
+],
+  "geometry": {"coordinates":[104.09677000000001,21.1977],"type":"Point"}
+}

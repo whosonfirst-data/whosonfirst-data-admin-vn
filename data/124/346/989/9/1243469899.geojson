@@ -1,0 +1,73 @@
+{
+  "id": 1243469899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08216,21.15318,106.08216,21.15318",
+    "geom:latitude":21.15318,
+    "geom:longitude":106.08216,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Thon Chieu",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563869,
+    "gn:latitude":21.15318,
+    "gn:longitude":106.08216,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Th\u00f4n Chi\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trieu Thon"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n Chi\u1ec1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563869
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1f165641ae33a9cc271da42ad271bc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781215,
+            "locality_id":1243469899,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1243469899,
+    "wof:lastmodified":1537713726,
+    "wof:name":"Thon Chieu",
+    "wof:parent_id":1108781215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08216000000002,
+    21.15318,
+    106.08216000000002,
+    21.15318
+],
+  "geometry": {"coordinates":[106.08216000000002,21.15318],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327349101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.11428,11.58721,109.11428,11.58721",
+    "geom:latitude":11.58721,
+    "geom:longitude":109.11428,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"My Tuong Mot",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565434,
+    "gn:latitude":11.58721,
+    "gn:longitude":109.11428,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"M\u1ef9 T\u01b0\u1eddng M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Tuong",
+        "Th\u00f4n M\u1ef9 T\u01b0\u1eddng"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ef9 T\u01b0\u1eddng M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "M\u1ef9 T\u01b0\u1eddng 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565434
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b00f109ef6f5015b64213ae5f4617a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1327349101,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1327349101,
+    "wof:lastmodified":1537713754,
+    "wof:name":"My Tuong Mot",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.11428,
+    11.58721,
+    109.11428,
+    11.58721
+],
+  "geometry": {"coordinates":[109.11427999999999,11.58721],"type":"Point"}
+}

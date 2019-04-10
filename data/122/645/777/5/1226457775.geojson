@@ -1,0 +1,67 @@
+{
+  "id": 1226457775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,20.78333,105.08333,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":105.08333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ho Hai",
+    "gn:country_code":"VN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580551,
+    "gn:latitude":20.78333,
+    "gn:longitude":105.08333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ho Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580551
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e34de6feced18fab327acc70e3268a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781057,
+            "locality_id":1226457775,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1226457775,
+    "wof:lastmodified":1536626234,
+    "wof:name":"Ho Hai",
+    "wof:parent_id":1108781057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    20.78333,
+    105.08333,
+    20.78333
+],
+  "geometry": {"coordinates":[105.08333,20.78333],"type":"Point"}
+}

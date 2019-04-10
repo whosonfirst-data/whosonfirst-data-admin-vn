@@ -1,0 +1,61 @@
+{
+  "id": 1209121463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96667,13.75,108.96667,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":108.96667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Sa Chien",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1568215,
+    "gn:latitude":13.75,
+    "gn:longitude":108.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sa Chi\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568215
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5aba5f6f48d7609361435cf5d4a5175f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121463
+        }
+    ],
+    "wof:id":1209121463,
+    "wof:lastmodified":1536297084,
+    "wof:name":"Sa Chien",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96667,
+    13.75,
+    108.96667,
+    13.75
+],
+  "geometry": {"coordinates":[108.96666999999999,13.75],"type":"Point"}
+}

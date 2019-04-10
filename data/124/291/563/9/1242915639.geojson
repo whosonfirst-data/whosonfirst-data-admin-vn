@@ -1,0 +1,67 @@
+{
+  "id": 1242915639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.51667,15.58333,108.51667,15.58333",
+    "geom:latitude":15.58333,
+    "geom:longitude":108.51667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Nui Cam",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571771,
+    "gn:latitude":15.58333,
+    "gn:longitude":108.51667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00fai Cam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571771
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b62a72f628f24a0d07a8c70d3fcfb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781593,
+            "locality_id":1242915639,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242915639,
+    "wof:lastmodified":1537070813,
+    "wof:name":"Nui Cam",
+    "wof:parent_id":1108781593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.51667,
+    15.58333,
+    108.51667,
+    15.58333
+],
+  "geometry": {"coordinates":[108.51667,15.58333],"type":"Point"}
+}

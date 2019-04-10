@@ -1,0 +1,67 @@
+{
+  "id": 1260037351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,10.83333,106.0,10.83333",
+    "geom:latitude":10.83333,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Tao Lot",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592140,
+    "gn:latitude":10.83333,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e0o L\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592140
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f6ede2d9aa318db2b532ebfa302bb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782069,
+            "locality_id":1260037351,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1260037351,
+    "wof:lastmodified":1537052394,
+    "wof:name":"Ap Tao Lot",
+    "wof:parent_id":1108782069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    10.83333,
+    106.0,
+    10.83333
+],
+  "geometry": {"coordinates":[106.0,10.83333],"type":"Point"}
+}

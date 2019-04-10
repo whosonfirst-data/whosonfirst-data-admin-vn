@@ -1,0 +1,70 @@
+{
+  "id": 1209730921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14072,21.87929,105.14072,21.87929",
+    "geom:latitude":21.87929,
+    "geom:longitude":105.14072,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Cau",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138142,
+    "gn:latitude":21.87929,
+    "gn:longitude":105.14072,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"D\u1ed3ng C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u1ed3ng C\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef85a011bb102dd2963a177bbc7e69f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1209730921,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1209730921,
+    "wof:lastmodified":1537714218,
+    "wof:name":"Dong Cau",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14072,
+    21.87929,
+    105.14072,
+    21.87929
+],
+  "geometry": {"coordinates":[105.14072,21.87929],"type":"Point"}
+}

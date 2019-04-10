@@ -1,0 +1,74 @@
+{
+  "id": 1343602047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36761,20.09189,105.36761,20.09189",
+    "geom:latitude":20.09189,
+    "geom:longitude":105.36761,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ngoc Lac",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1572446,
+    "gn:latitude":20.09189,
+    "gn:longitude":105.36761,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ng\u1ecdc L\u1eb7c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u1ecdc Lac",
+        "H\u01b0\u01a1ng Ng\u1ecdc Lac"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc L\u1eb7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"356ac3f369c99d806e952b5c48a0b935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781405,
+            "locality_id":1343602047,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1343602047,
+    "wof:lastmodified":1537713856,
+    "wof:name":"Ngoc Lac",
+    "wof:parent_id":1108781405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36761,
+    20.09189,
+    105.36761,
+    20.09189
+],
+  "geometry": {"coordinates":[105.36761,20.09189],"type":"Point"}
+}

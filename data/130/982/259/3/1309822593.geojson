@@ -1,0 +1,73 @@
+{
+  "id": 1309822593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21256,21.99205,103.21256,21.99205",
+    "geom:latitude":21.99205,
+    "geom:longitude":103.21256,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Xa Phinh Hai",
+    "gn:country_code":"VN",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965549,
+    "gn:latitude":21.99205,
+    "gn:longitude":103.21256,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"X\u00e0 Ph\u00ecnh Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00e0 Ph\u00ecnh Hai"
+    ],
+    "name:vie_x_variant":[
+        "X\u00e0 Ph\u00ecnh 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965549
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3dd6b93648a3251872e5f55ea3cd06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1309822593,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1309822593,
+    "wof:lastmodified":1537714739,
+    "wof:name":"Xa Phinh Hai",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21256,
+    21.99205,
+    103.21256,
+    21.99205
+],
+  "geometry": {"coordinates":[103.21256,21.99205],"type":"Point"}
+}

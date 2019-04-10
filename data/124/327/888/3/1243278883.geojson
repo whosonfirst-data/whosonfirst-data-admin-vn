@@ -1,0 +1,67 @@
+{
+  "id": 1243278883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68333,20.61667,105.68333,20.61667",
+    "geom:latitude":20.61667,
+    "geom:longitude":105.68333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Giap Noi",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581766,
+    "gn:latitude":20.61667,
+    "gn:longitude":105.68333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Gi\u00e1p N\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581766
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e3b3e226c55c3bbe141c7dda431face",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781063,
+            "locality_id":1243278883,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1243278883,
+    "wof:lastmodified":1537045126,
+    "wof:name":"Giap Noi",
+    "wof:parent_id":1108781063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68333,
+    20.61667000000001,
+    105.68333,
+    20.61667000000001
+],
+  "geometry": {"coordinates":[105.68333,20.61667000000001],"type":"Point"}
+}

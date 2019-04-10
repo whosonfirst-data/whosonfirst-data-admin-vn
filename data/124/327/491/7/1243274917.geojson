@@ -1,0 +1,73 @@
+{
+  "id": 1243274917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44188,21.80166,105.44188,21.80166",
+    "geom:latitude":21.80166,
+    "geom:longitude":105.44188,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Quan Ha",
+    "gn:country_code":"VN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578879,
+    "gn:latitude":21.80166,
+    "gn:longitude":105.44188,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Quan H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kim Quan H\u1ea1"
+    ],
+    "name:vie_x_preferred":[
+        "Quan H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578879
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c0711f24444403d7d47c6e5a47cf2524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1243274917,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243274917,
+    "wof:lastmodified":1537713945,
+    "wof:name":"Quan Ha",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44188,
+    21.80166,
+    105.44188,
+    21.80166
+],
+  "geometry": {"coordinates":[105.44188,21.80166],"type":"Point"}
+}

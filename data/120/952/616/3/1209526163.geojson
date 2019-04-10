@@ -1,0 +1,64 @@
+{
+  "id": 1209526163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.20277,16.8765,107.20277,16.8765",
+    "geom:latitude":16.8765,
+    "geom:longitude":107.20277,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Trung Nam",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650905,
+    "gn:latitude":16.8765,
+    "gn:longitude":107.20277,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Trung Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Trung Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"474e86b76b02179f9e7a45f2af43076a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526163
+        }
+    ],
+    "wof:id":1209526163,
+    "wof:lastmodified":1537714391,
+    "wof:name":"Trung Nam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.20277,
+    16.8765,
+    107.20277,
+    16.8765
+],
+  "geometry": {"coordinates":[107.20277,16.8765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259342079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08272,21.22779,104.08272,21.22779",
+    "geom:latitude":21.22779,
+    "geom:longitude":104.08272,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Na Vien",
+    "gn:country_code":"VN",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314504,
+    "gn:latitude":21.22779,
+    "gn:longitude":104.08272,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"N\u00e0 Vi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Vi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314504
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"84c5c551dfe2cf25382296e7d7cab29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1259342079,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1259342079,
+    "wof:lastmodified":1537714688,
+    "wof:name":"Na Vien",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08272,
+    21.22779,
+    104.08272,
+    21.22779
+],
+  "geometry": {"coordinates":[104.08271999999999,21.22779],"type":"Point"}
+}

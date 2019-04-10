@@ -1,0 +1,70 @@
+{
+  "id": 1243120999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.55124,21.53386,103.55124,21.53386",
+    "geom:latitude":21.53386,
+    "geom:longitude":103.55124,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tin Toc Tu",
+    "gn:country_code":"VN",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631157,
+    "gn:latitude":21.53386,
+    "gn:longitude":103.55124,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ea3n Tin T\u1ed1c T\u1eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Tin T\u1ed1c T\u1eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631157
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"780dc90a9bc1f54723b23b0d71723199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1243120999,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1243120999,
+    "wof:lastmodified":1537714727,
+    "wof:name":"Ban Tin Toc Tu",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.55124,
+    21.53386,
+    103.55124,
+    21.53386
+],
+  "geometry": {"coordinates":[103.55124000000001,21.53386],"type":"Point"}
+}

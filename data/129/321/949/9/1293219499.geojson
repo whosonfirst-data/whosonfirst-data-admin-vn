@@ -1,0 +1,76 @@
+{
+  "id": 1293219499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.74192,12.96723,108.74192,12.96723",
+    "geom:latitude":12.96723,
+    "geom:longitude":108.74192,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Hoong",
+    "gn:country_code":"VN",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590385,
+    "gn:latitude":12.96723,
+    "gn:longitude":108.74192,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"B\u1ea3n Hoong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hoang"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Hoong"
+    ],
+    "name:vie_x_variant":[
+        "Bu\u00f4n Hoong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590385
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3f880d712b2c584d84558614010a7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781705,
+            "locality_id":1293219499,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1293219499,
+    "wof:lastmodified":1537714116,
+    "wof:name":"Ban Hoong",
+    "wof:parent_id":1108781705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.74192,
+    12.96723,
+    108.74192,
+    12.96723
+],
+  "geometry": {"coordinates":[108.74191999999999,12.96723],"type":"Point"}
+}

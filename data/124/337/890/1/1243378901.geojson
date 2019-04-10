@@ -1,0 +1,67 @@
+{
+  "id": 1243378901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.76667,10.75,107.76667,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":107.76667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Cay Tung",
+    "gn:country_code":"VN",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585853,
+    "gn:latitude":10.75,
+    "gn:longitude":107.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u00e2y Tung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585853
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9de63189fbb1f1821d8054fde4cde976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781753,
+            "locality_id":1243378901,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1243378901,
+    "wof:lastmodified":1536903056,
+    "wof:name":"Cay Tung",
+    "wof:parent_id":1108781753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.76667,
+    10.75,
+    107.76667,
+    10.75
+],
+  "geometry": {"coordinates":[107.76667,10.75],"type":"Point"}
+}

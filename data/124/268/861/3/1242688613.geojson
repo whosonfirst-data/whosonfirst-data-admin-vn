@@ -1,0 +1,67 @@
+{
+  "id": 1242688613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93206,22.36367,104.93206,22.36367",
+    "geom:latitude":22.36367,
+    "geom:longitude":104.93206,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Lum",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577065,
+    "gn:latitude":22.36367,
+    "gn:longitude":104.93206,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"L\u00e0ng Lum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577065
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f96d814f632f615370247614f9844357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1242688613,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1242688613,
+    "wof:lastmodified":1536903955,
+    "wof:name":"Lang Lum",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93206,
+    22.36367000000001,
+    104.93206,
+    22.36367000000001
+],
+  "geometry": {"coordinates":[104.93206000000001,22.36367000000001],"type":"Point"}
+}

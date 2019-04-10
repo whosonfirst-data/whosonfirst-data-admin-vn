@@ -1,0 +1,70 @@
+{
+  "id": 1343680737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17067,21.29229,106.17067,21.29229",
+    "geom:latitude":21.29229,
+    "geom:longitude":106.17067,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Mai Cao",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868007,
+    "gn:latitude":21.29229,
+    "gn:longitude":106.17067,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Mai Cao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Mai Cao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868007
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c61f47db3c73333322834dacea8f272e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781141,
+            "locality_id":1343680737,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343680737,
+    "wof:lastmodified":1537714521,
+    "wof:name":"Mai Cao",
+    "wof:parent_id":1108781141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17067,
+    21.29229,
+    106.17067,
+    21.29229
+],
+  "geometry": {"coordinates":[106.17067,21.29229],"type":"Point"}
+}

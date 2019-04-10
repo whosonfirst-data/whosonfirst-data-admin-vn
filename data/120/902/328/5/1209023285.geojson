@@ -1,0 +1,64 @@
+{
+  "id": 1209023285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56352,18.41229,105.56352,18.41229",
+    "geom:latitude":18.41229,
+    "geom:longitude":105.56352,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Huong Tho",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354107,
+    "gn:latitude":18.41229,
+    "gn:longitude":105.56352,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u01b0\u01a1ng Th\u1ecd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u01b0\u01a1ng Th\u1ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354107
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"986d27d8cae546eccfeac7f94e033693",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023285
+        }
+    ],
+    "wof:id":1209023285,
+    "wof:lastmodified":1537714708,
+    "wof:name":"Huong Tho",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56352,
+    18.41229,
+    105.56352,
+    18.41229
+],
+  "geometry": {"coordinates":[105.56352,18.41229],"type":"Point"}
+}

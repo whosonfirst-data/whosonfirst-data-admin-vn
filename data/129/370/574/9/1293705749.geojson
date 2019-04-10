@@ -1,0 +1,70 @@
+{
+  "id": 1293705749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91486,9.68298,105.91486,9.68298",
+    "geom:latitude":9.68298,
+    "geom:longitude":105.91486,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Sa Bau",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534908,
+    "gn:latitude":9.68298,
+    "gn:longitude":105.91486,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Sa B\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Sa B\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534908
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca47b69c99b288f019df6ec2c3d583df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782289,
+            "locality_id":1293705749,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1293705749,
+    "wof:lastmodified":1537714491,
+    "wof:name":"Sa Bau",
+    "wof:parent_id":1108782289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91486,
+    9.68298,
+    105.91486,
+    9.68298
+],
+  "geometry": {"coordinates":[105.91486,9.68298],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343976537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58333,20.95,106.58333,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":106.58333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Luc Nong",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575277,
+    "gn:latitude":20.95,
+    "gn:longitude":106.58333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u01b0c N\u00f2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575277
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75d4b3d39dd6e40f9da55893f06d3b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781241,
+            "locality_id":1343976537,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1343976537,
+    "wof:lastmodified":1536996016,
+    "wof:name":"Luc Nong",
+    "wof:parent_id":1108781241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58333,
+    20.95,
+    106.58333,
+    20.95
+],
+  "geometry": {"coordinates":[106.58333,20.95],"type":"Point"}
+}

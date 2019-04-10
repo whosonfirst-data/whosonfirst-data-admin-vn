@@ -1,0 +1,67 @@
+{
+  "id": 1276991867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.61667,15.25,108.61667,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":108.61667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Nhan Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572206,
+    "gn:latitude":15.25,
+    "gn:longitude":108.61667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Nh\u00e2n H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572206
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b904f56780b85bf9eee6fc58e79c470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781639,
+            "locality_id":1276991867,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1276991867,
+    "wof:lastmodified":1536890520,
+    "wof:name":"Nhan Hoa",
+    "wof:parent_id":1108781639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.61667,
+    15.25,
+    108.61667,
+    15.25
+],
+  "geometry": {"coordinates":[108.61667,15.25],"type":"Point"}
+}

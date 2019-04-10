@@ -1,0 +1,70 @@
+{
+  "id": 1209830799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76289,21.98623,104.76289,21.98623",
+    "geom:latitude":21.98623,
+    "geom:longitude":104.76289,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lam Nghiep",
+    "gn:country_code":"VN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318329,
+    "gn:latitude":21.98623,
+    "gn:longitude":104.76289,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"L\u00e2m Nghi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e2m Nghi\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318329
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0813d3f3c852ba0af613040534810b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1209830799,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1209830799,
+    "wof:lastmodified":1537714696,
+    "wof:name":"Lam Nghiep",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76289,
+    21.98623,
+    104.76289,
+    21.98623
+],
+  "geometry": {"coordinates":[104.76289,21.98623],"type":"Point"}
+}

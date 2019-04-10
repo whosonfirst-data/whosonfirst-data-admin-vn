@@ -1,0 +1,67 @@
+{
+  "id": 1277022541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81667,21.55,103.81667,21.55",
+    "geom:latitude":21.55,
+    "geom:longitude":103.81667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Bac",
+    "gn:country_code":"VN",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591195,
+    "gn:latitude":21.55,
+    "gn:longitude":103.81667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n B\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591195
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c76dc71f19cb850d15bbf535950937ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1277022541,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1277022541,
+    "wof:lastmodified":1536848777,
+    "wof:name":"Ban Bac",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81667,
+    21.55,
+    103.81667,
+    21.55
+],
+  "geometry": {"coordinates":[103.81667,21.55],"type":"Point"}
+}

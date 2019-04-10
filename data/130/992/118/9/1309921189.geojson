@@ -1,0 +1,74 @@
+{
+  "id": 1309921189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.56001,12.48645,108.56001,12.48645",
+    "geom:latitude":12.48645,
+    "geom:longitude":108.56001,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Cham A",
+    "gn:country_code":"VN",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586808,
+    "gn:latitude":12.48645,
+    "gn:longitude":108.56001,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Bu\u00f4n Ch\u1ea3m A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tiam",
+        "Bu\u00f4n Tiam"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Ch\u1ea3m A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586808
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91256b3042909046c1d9976bf151ad6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781855,
+            "locality_id":1309921189,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1309921189,
+    "wof:lastmodified":1537714042,
+    "wof:name":"Buon Cham A",
+    "wof:parent_id":1108781855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.56001,
+    12.48645,
+    108.56001,
+    12.48645
+],
+  "geometry": {"coordinates":[108.56001000000001,12.48645],"type":"Point"}
+}

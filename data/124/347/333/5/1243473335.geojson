@@ -1,0 +1,70 @@
+{
+  "id": 1243473335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21129,22.92869,105.21129,22.92869",
+    "geom:latitude":22.92869,
+    "geom:longitude":105.21129,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Khao",
+    "gn:country_code":"VN",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309559,
+    "gn:latitude":22.92869,
+    "gn:longitude":105.21129,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u00e0ng Kh\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Kh\u00e1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309559
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fecbfd3a64e7be3dd91765473923a034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1243473335,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1243473335,
+    "wof:lastmodified":1537714259,
+    "wof:name":"Lang Khao",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21129,
+    22.92869,
+    105.21129,
+    22.92869
+],
+  "geometry": {"coordinates":[105.21129000000001,22.92869],"type":"Point"}
+}

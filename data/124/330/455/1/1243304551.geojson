@@ -1,0 +1,67 @@
+{
+  "id": 1243304551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23838,19.83319,105.23838,19.83319",
+    "geom:latitude":19.83319,
+    "geom:longitude":105.23838,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Nhon",
+    "gn:country_code":"VN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890489,
+    "gn:latitude":19.83319,
+    "gn:longitude":105.23838,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e0ng Nh\u1ed3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890489
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e41ae441cda189c1bf2510338f024f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1243304551,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1243304551,
+    "wof:lastmodified":1537009384,
+    "wof:name":"Lang Nhon",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23838,
+    19.83319,
+    105.23838,
+    19.83319
+],
+  "geometry": {"coordinates":[105.23838000000001,19.83319],"type":"Point"}
+}

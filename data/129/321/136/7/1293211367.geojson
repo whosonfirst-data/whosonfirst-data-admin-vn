@@ -1,0 +1,68 @@
+{
+  "id": 1293211367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18333,8.8,105.18333,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":105.18333,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Tam Giang",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567167,
+    "gn:latitude":8.8,
+    "gn:longitude":105.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tam Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567167,
+        "wk:page":"Tam_Giang"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a0229de60d79534f7551c875de1173bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782339,
+            "locality_id":1293211367,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1293211367,
+    "wof:lastmodified":1537575848,
+    "wof:name":"Tam Giang",
+    "wof:parent_id":1108782339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18333,
+    8.8,
+    105.18333,
+    8.8
+],
+  "geometry": {"coordinates":[105.18333,8.8],"type":"Point"}
+}

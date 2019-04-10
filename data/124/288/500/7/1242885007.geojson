@@ -1,0 +1,70 @@
+{
+  "id": 1242885007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13314,21.88809,103.13314,21.88809",
+    "geom:latitude":21.88809,
+    "geom:longitude":103.13314,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Chong Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965576,
+    "gn:latitude":21.88809,
+    "gn:longitude":103.13314,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Ch\u1ed1ng Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u1ed1ng Dinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965576
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f48b15b099b4c9fd9d0cc25084553806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1242885007,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1242885007,
+    "wof:lastmodified":1537714740,
+    "wof:name":"Chong Dinh",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13314,
+    21.88809,
+    103.13314,
+    21.88809
+],
+  "geometry": {"coordinates":[103.13314,21.88809],"type":"Point"}
+}

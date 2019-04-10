@@ -1,0 +1,67 @@
+{
+  "id": 1343814091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.55,11.86667,108.55,11.86667",
+    "geom:latitude":11.86667,
+    "geom:longitude":108.55,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ap Truong Son",
+    "gn:country_code":"VN",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591831,
+    "gn:latitude":11.86667,
+    "gn:longitude":108.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"\u1ea4p Tr\u01b0\u1eddng S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb286369aa4f81bddb883d38665bfdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781885,
+            "locality_id":1343814091,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343814091,
+    "wof:lastmodified":1536733866,
+    "wof:name":"Ap Truong Son",
+    "wof:parent_id":1108781885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.55,
+    11.86667,
+    108.55,
+    11.86667
+],
+  "geometry": {"coordinates":[108.55,11.86667],"type":"Point"}
+}

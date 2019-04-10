@@ -1,0 +1,67 @@
+{
+  "id": 1344067795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,16.65,106.65,16.65",
+    "geom:latitude":16.65,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Lang Hoan Tap",
+    "gn:country_code":"VN",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577274,
+    "gn:latitude":16.65,
+    "gn:longitude":106.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Ho\u00e0n T\u1eadp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577274
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db5320e51ea92dc61617747a6eeae0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1344067795,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1344067795,
+    "wof:lastmodified":1536863549,
+    "wof:name":"Lang Hoan Tap",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    16.65,
+    106.65,
+    16.65
+],
+  "geometry": {"coordinates":[106.65000000000001,16.65],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209474129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96667,21.43333,103.96667,21.43333",
+    "geom:latitude":21.43333,
+    "geom:longitude":103.96667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Phai Khon",
+    "gn:country_code":"VN",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571121,
+    "gn:latitude":21.43333,
+    "gn:longitude":103.96667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ph\u00e1i Kh\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571121
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9573f94cabe8e7170973166048d87a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209474129
+        }
+    ],
+    "wof:id":1209474129,
+    "wof:lastmodified":1536285990,
+    "wof:name":"Phai Khon",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96667,
+    21.43333,
+    103.96667,
+    21.43333
+],
+  "geometry": {"coordinates":[103.96666999999999,21.43333],"type":"Point"}
+}

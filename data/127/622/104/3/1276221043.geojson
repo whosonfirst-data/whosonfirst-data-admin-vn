@@ -1,0 +1,70 @@
+{
+  "id": 1276221043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49605,10.34379,105.49605,10.34379",
+    "geom:latitude":10.34379,
+    "geom:longitude":105.49605,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Binh An",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365604,
+    "gn:latitude":10.34379,
+    "gn:longitude":105.49605,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"B\u00ecnh An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365604
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65df220dc7b1153ad53e165419fecd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782187,
+            "locality_id":1276221043,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1276221043,
+    "wof:lastmodified":1537714298,
+    "wof:name":"Binh An",
+    "wof:parent_id":1108782187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49605,
+    10.34379,
+    105.49605,
+    10.34379
+],
+  "geometry": {"coordinates":[105.49605,10.34379],"type":"Point"}
+}

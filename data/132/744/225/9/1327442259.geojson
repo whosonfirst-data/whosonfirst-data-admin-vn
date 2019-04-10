@@ -1,0 +1,73 @@
+{
+  "id": 1327442259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65827,10.98341,106.65827,10.98341",
+    "geom:latitude":10.98341,
+    "geom:longitude":106.65827,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Khu Pho Mot",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335990,
+    "gn:latitude":10.98341,
+    "gn:longitude":106.65827,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khu Ph\u1ed1 M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu Ph\u1ed1 M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Khu Ph\u1ed1 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335990
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"985f481edd9bf9e0c5b61ed784f94036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781951,
+            "locality_id":1327442259,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1327442259,
+    "wof:lastmodified":1537714274,
+    "wof:name":"Khu Pho Mot",
+    "wof:parent_id":1108781951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65827,
+    10.98341,
+    106.65827,
+    10.98341
+],
+  "geometry": {"coordinates":[106.65827,10.98341],"type":"Point"}
+}

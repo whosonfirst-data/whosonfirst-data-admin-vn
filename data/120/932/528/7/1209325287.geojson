@@ -1,0 +1,64 @@
+{
+  "id": 1209325287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11487,21.97998,105.11487,21.97998",
+    "geom:latitude":21.97998,
+    "geom:longitude":105.11487,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Cay Vai",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523147,
+    "gn:latitude":21.97998,
+    "gn:longitude":105.11487,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"C\u00e2y V\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y V\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523147
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a813a0bcd9a88c3efbb8a3b0e767f108",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325287
+        }
+    ],
+    "wof:id":1209325287,
+    "wof:lastmodified":1537714331,
+    "wof:name":"Cay Vai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11487,
+    21.97998,
+    105.11487,
+    21.97998
+],
+  "geometry": {"coordinates":[105.11487,21.97998],"type":"Point"}
+}

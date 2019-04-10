@@ -1,0 +1,73 @@
+{
+  "id": 1343469431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55704,9.67359,106.55704,9.67359",
+    "geom:latitude":9.67359,
+    "geom:longitude":106.55704,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ba Don",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591401,
+    "gn:latitude":9.67359,
+    "gn:longitude":106.55704,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ba Don",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba \u0110\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "Ba \u0110\u1ed9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591401
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"96d9364b8b17f54d4952218db43f8bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782147,
+            "locality_id":1343469431,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1343469431,
+    "wof:lastmodified":1537714136,
+    "wof:name":"Ba Don",
+    "wof:parent_id":1108782147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55704,
+    9.67359,
+    106.55704,
+    9.67359
+],
+  "geometry": {"coordinates":[106.55704,9.67359],"type":"Point"}
+}

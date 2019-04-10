@@ -1,0 +1,67 @@
+{
+  "id": 1243086569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68333,10.91667,107.68333,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":107.68333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Song Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567718,
+    "gn:latitude":10.91667,
+    "gn:longitude":107.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00f4ng Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f378679acb782b98ed5421ffd83b57b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781769,
+            "locality_id":1243086569,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1243086569,
+    "wof:lastmodified":1536826376,
+    "wof:name":"Song Dinh",
+    "wof:parent_id":1108781769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68333,
+    10.91667,
+    107.68333,
+    10.91667
+],
+  "geometry": {"coordinates":[107.68333,10.91667],"type":"Point"}
+}

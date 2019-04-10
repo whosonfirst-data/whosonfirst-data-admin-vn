@@ -1,0 +1,72 @@
+{
+  "id": 1277000167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,21.46667,106.5,21.46667",
+    "geom:latitude":21.46667,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Thach Luong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566393,
+    "gn:latitude":21.46667,
+    "gn:longitude":106.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thach Luong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Muec",
+        "Thach Luong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566393
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c41743fa5af75a5a4d5668330d8d7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781153,
+            "locality_id":1277000167,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1277000167,
+    "wof:lastmodified":1537713776,
+    "wof:name":"Thach Luong",
+    "wof:parent_id":1108781153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    21.46667,
+    106.5,
+    21.46667
+],
+  "geometry": {"coordinates":[106.5,21.46667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344175927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14907,21.74627,105.14907,21.74627",
+    "geom:latitude":21.74627,
+    "geom:longitude":105.14907,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Xuan",
+    "gn:country_code":"VN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137892,
+    "gn:latitude":21.74627,
+    "gn:longitude":105.14907,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"\u0110\u00f4ng Xu\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u00f4ng Xu\u00e2n"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u00f4ng Xu\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137892
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1df10d28d1a2e1dd71c94f619c4c24aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1344175927,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1344175927,
+    "wof:lastmodified":1537714215,
+    "wof:name":"Dong Xuan",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14907,
+    21.74627000000001,
+    105.14907,
+    21.74627000000001
+],
+  "geometry": {"coordinates":[105.14906999999999,21.74627000000001],"type":"Point"}
+}

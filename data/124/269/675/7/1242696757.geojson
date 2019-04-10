@@ -1,0 +1,67 @@
+{
+  "id": 1242696757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.58333,12.3,107.58333,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":107.58333,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Tu Xoay",
+    "gn:country_code":"VN",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563304,
+    "gn:latitude":12.3,
+    "gn:longitude":107.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tu Xoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563304
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a89e3ba154416744a11a00c2374dbbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781877,
+            "locality_id":1242696757,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1242696757,
+    "wof:lastmodified":1536891819,
+    "wof:name":"Tu Xoay",
+    "wof:parent_id":1108781877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.58333,
+    12.3,
+    107.58333,
+    12.3
+],
+  "geometry": {"coordinates":[107.58333,12.3],"type":"Point"}
+}

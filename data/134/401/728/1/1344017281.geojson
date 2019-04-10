@@ -1,0 +1,70 @@
+{
+  "id": 1344017281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.58741,21.51146,103.58741,21.51146",
+    "geom:latitude":21.51146,
+    "geom:longitude":103.58741,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Kieng",
+    "gn:country_code":"VN",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630946,
+    "gn:latitude":21.51146,
+    "gn:longitude":103.58741,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ea3n Ki\u1ec3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ki\u1ec3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630946
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f80b13b4730a96da856bbceb6247bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1344017281,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1344017281,
+    "wof:lastmodified":1537714724,
+    "wof:name":"Ban Kieng",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.58741,
+    21.51146,
+    103.58741,
+    21.51146
+],
+  "geometry": {"coordinates":[103.58741000000001,21.51146],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343877409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,11.51667,106.66667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ap Nha Noi",
+    "gn:country_code":"VN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1592789,
+    "gn:latitude":11.51667,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Nh\u00e0 N\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nha Noi",
+        "\u1ea4p Nh\u00e0 N\u00f4i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592789
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"862682256f938e53613269493592e028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781921,
+            "locality_id":1343877409,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1343877409,
+    "wof:lastmodified":1537714169,
+    "wof:name":"Ap Nha Noi",
+    "wof:parent_id":1108781921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    11.51667,
+    106.66667,
+    11.51667
+],
+  "geometry": {"coordinates":[106.66667,11.51667],"type":"Point"}
+}

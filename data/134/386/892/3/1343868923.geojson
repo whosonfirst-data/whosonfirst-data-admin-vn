@@ -1,0 +1,73 @@
+{
+  "id": 1343868923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.09695,16.07606,108.09695,16.07606",
+    "geom:latitude":16.07606,
+    "geom:longitude":108.09695,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Huong Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593247,
+    "gn:latitude":16.07606,
+    "gn:longitude":108.09695,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"H\u01b0\u01a1ng Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p H\u01b0\u01a1ng Ph\u01b0\u1edbc"
+    ],
+    "name:vie_x_preferred":[
+        "H\u01b0\u01a1ng Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779,
+        1108781591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593247
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f6675f5fa8ecc5abc74256b9317e1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781591,
+            "locality_id":1343868923,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1343868923,
+    "wof:lastmodified":1537714181,
+    "wof:name":"Huong Phuoc",
+    "wof:parent_id":1108781591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.09695,
+    16.07606,
+    108.09695,
+    16.07606
+],
+  "geometry": {"coordinates":[108.09695000000001,16.07606],"type":"Point"}
+}

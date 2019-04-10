@@ -1,0 +1,74 @@
+{
+  "id": 1293400813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07201,19.37227,104.07201,19.37227",
+    "geom:latitude":19.37227,
+    "geom:longitude":104.07201,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ca Nhap",
+    "gn:country_code":"VN",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590278,
+    "gn:latitude":19.37227,
+    "gn:longitude":104.07201,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ca Nh\u1eafp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Ca Nhan",
+        "B\u1ea3n Hu\u00f4i Ca Nh\u0103n"
+    ],
+    "name:vie_x_preferred":[
+        "Ca Nh\u1eafp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590278
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba611c044e2f77a4ff34b93b61d63dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781459,
+            "locality_id":1293400813,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293400813,
+    "wof:lastmodified":1537714114,
+    "wof:name":"Ca Nhap",
+    "wof:parent_id":1108781459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07201,
+    19.37227,
+    104.07201,
+    19.37227
+],
+  "geometry": {"coordinates":[104.07201000000001,19.37227],"type":"Point"}
+}

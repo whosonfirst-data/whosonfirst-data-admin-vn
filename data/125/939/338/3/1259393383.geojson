@@ -1,0 +1,73 @@
+{
+  "id": 1259393383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.66667,11.3,107.66667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":107.66667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Me Pu Clong Du",
+    "gn:country_code":"VN",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574703,
+    "gn:latitude":11.3,
+    "gn:longitude":107.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Me Pu Clong Du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi Pou",
+        "Me-Pou",
+        "M\u00eapu Klong Du",
+        "Me Pu Clong Du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574703
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bafd74f301b414d9f9c7e2aed67eda65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781765,
+            "locality_id":1259393383,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1259393383,
+    "wof:lastmodified":1537713886,
+    "wof:name":"Me Pu Clong Du",
+    "wof:parent_id":1108781765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.66667,
+    11.3,
+    107.66667,
+    11.3
+],
+  "geometry": {"coordinates":[107.66667,11.3],"type":"Point"}
+}

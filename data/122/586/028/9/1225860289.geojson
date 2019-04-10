@@ -1,0 +1,70 @@
+{
+  "id": 1225860289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19449,22.57277,105.19449,22.57277",
+    "geom:latitude":22.57277,
+    "geom:longitude":105.19449,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Bon",
+    "gn:country_code":"VN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309446,
+    "gn:latitude":22.57277,
+    "gn:longitude":105.19449,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11e37eb635ca29d8732a3a059af7fcbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1225860289,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1225860289,
+    "wof:lastmodified":1537714255,
+    "wof:name":"Ban Bon",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19449,
+    22.57277,
+    105.19449,
+    22.57277
+],
+  "geometry": {"coordinates":[105.19449,22.57277],"type":"Point"}
+}

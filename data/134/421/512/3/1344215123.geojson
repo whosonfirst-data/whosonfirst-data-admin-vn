@@ -1,0 +1,72 @@
+{
+  "id": 1344215123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.63333,11.83333,108.63333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":108.63333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ap Phu Thuan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592456,
+    "gn:latitude":11.83333,
+    "gn:longitude":108.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Ph\u00fa Thu\u1eadn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bellevue",
+        "\u1ea4p Ph\u00fa Thu\u1eadn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592456
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9be2087908e6539adeaf83d637dbd349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781747,
+            "locality_id":1344215123,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1344215123,
+    "wof:lastmodified":1537714160,
+    "wof:name":"Ap Phu Thuan",
+    "wof:parent_id":1108781747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.63333,
+    11.83333,
+    108.63333,
+    11.83333
+],
+  "geometry": {"coordinates":[108.63333,11.83333],"type":"Point"}
+}

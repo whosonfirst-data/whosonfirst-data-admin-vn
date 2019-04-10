@@ -1,0 +1,64 @@
+{
+  "id": 1209325423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17778,22.07988,105.17778,22.07988",
+    "geom:latitude":22.07988,
+    "geom:longitude":105.17778,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Loi",
+    "gn:country_code":"VN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523128,
+    "gn:latitude":22.07988,
+    "gn:longitude":105.17778,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Lang L\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Lang L\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523128
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3eb77daebc9a51ee09b710434afb19a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325423
+        }
+    ],
+    "wof:id":1209325423,
+    "wof:lastmodified":1537714330,
+    "wof:name":"Lang Loi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17778,
+    22.07988,
+    105.17778,
+    22.07988
+],
+  "geometry": {"coordinates":[105.17778,22.07988],"type":"Point"}
+}

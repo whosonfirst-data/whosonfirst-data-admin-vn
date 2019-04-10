@@ -1,0 +1,76 @@
+{
+  "id": 1260083513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44763,10.4615,105.44763,10.4615",
+    "geom:latitude":10.4615,
+    "geom:longitude":105.44763,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Long My Hai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593074,
+    "gn:latitude":10.4615,
+    "gn:longitude":105.44763,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Long M\u1ef9 Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Long M\u1ef9"
+    ],
+    "name:vie_x_preferred":[
+        "Long M\u1ef9 Hai"
+    ],
+    "name:vie_x_variant":[
+        "Long M\u1ef9 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593074
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a9e7fd7debfdad087af4a27ae3f6ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782215,
+            "locality_id":1260083513,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1260083513,
+    "wof:lastmodified":1537714176,
+    "wof:name":"Long My Hai",
+    "wof:parent_id":1108782215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44763,
+    10.4615,
+    105.44763,
+    10.4615
+],
+  "geometry": {"coordinates":[105.44763,10.4615],"type":"Point"}
+}

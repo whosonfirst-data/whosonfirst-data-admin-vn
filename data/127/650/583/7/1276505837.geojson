@@ -1,0 +1,72 @@
+{
+  "id": 1276505837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,21.33333,103.8,21.33333",
+    "geom:latitude":21.33333,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Quang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588987,
+    "gn:latitude":21.33333,
+    "gn:longitude":103.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Duang",
+        "B\u1ea3n Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588987
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36566f31584966368b907f020b1cdcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1276505837,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1276505837,
+    "wof:lastmodified":1537714088,
+    "wof:name":"Ban Quang",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    21.33333,
+    103.8,
+    21.33333
+],
+  "geometry": {"coordinates":[103.8,21.33333],"type":"Point"}
+}

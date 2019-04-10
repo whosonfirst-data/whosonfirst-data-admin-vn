@@ -1,0 +1,71 @@
+{
+  "id": 1259694611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,22.41667,105.3,22.41667",
+    "geom:latitude":22.41667,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ha Tcha",
+    "gn:country_code":"VN",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581075,
+    "gn:latitude":22.41667,
+    "gn:longitude":105.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ha Tcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha Toha",
+        "Ha Tcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581075
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1293df5d4a72073596849414e19e0c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1259694611,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1259694611,
+    "wof:lastmodified":1537713972,
+    "wof:name":"Ha Tcha",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    22.41667,
+    105.3,
+    22.41667
+],
+  "geometry": {"coordinates":[105.3,22.41667],"type":"Point"}
+}

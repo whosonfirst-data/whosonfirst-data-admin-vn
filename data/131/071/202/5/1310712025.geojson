@@ -1,0 +1,72 @@
+{
+  "id": 1310712025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71667,11.4,106.71667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":106.71667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ap Bai Yen",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593997,
+    "gn:latitude":11.4,
+    "gn:longitude":106.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p B\u00e1i Y\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bai Yen",
+        "\u1ea4p B\u00e1i Y\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593997
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"606ffa0685d9b0ff97c4c98ccbb3ed22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1310712025,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1310712025,
+    "wof:lastmodified":1537714200,
+    "wof:name":"Ap Bai Yen",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71667,
+    11.4,
+    106.71667,
+    11.4
+],
+  "geometry": {"coordinates":[106.71666999999999,11.4],"type":"Point"}
+}

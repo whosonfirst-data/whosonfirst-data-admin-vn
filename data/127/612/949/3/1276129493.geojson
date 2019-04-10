@@ -1,0 +1,73 @@
+{
+  "id": 1276129493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59534,22.3409,103.59534,22.3409",
+    "geom:latitude":22.3409,
+    "geom:longitude":103.59534,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Doi Bon",
+    "gn:country_code":"VN",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9981461,
+    "gn:latitude":22.3409,
+    "gn:longitude":103.59534,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"\u0110\u1ed9i B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed9i B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ed9i 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9981461
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f9d53a281d02774961d61089add11179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780979,
+            "locality_id":1276129493,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1276129493,
+    "wof:lastmodified":1537714569,
+    "wof:name":"Doi Bon",
+    "wof:parent_id":1108780979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59534,
+    22.3409,
+    103.59534,
+    22.3409
+],
+  "geometry": {"coordinates":[103.59533999999999,22.3409],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293697653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22589,21.55507,103.22589,21.55507",
+    "geom:latitude":21.55507,
+    "geom:longitude":103.22589,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Pu Tiu",
+    "gn:country_code":"VN",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944520,
+    "gn:latitude":21.55507,
+    "gn:longitude":103.22589,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"P\u00fa T\u1ec9u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00fa T\u1ec9u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944520
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ec8be076bb475fef5361bec8689915e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780973,
+            "locality_id":1293697653,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1293697653,
+    "wof:lastmodified":1537714737,
+    "wof:name":"Pu Tiu",
+    "wof:parent_id":1108780973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22589,
+    21.55507,
+    103.22589,
+    21.55507
+],
+  "geometry": {"coordinates":[103.22589000000001,21.55507],"type":"Point"}
+}

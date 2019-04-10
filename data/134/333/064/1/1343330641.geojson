@@ -1,0 +1,67 @@
+{
+  "id": 1343330641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31083,9.75167,105.31083,9.75167",
+    "geom:latitude":9.75167,
+    "geom:longitude":105.31083,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Thu Ho",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591941,
+    "gn:latitude":9.75167,
+    "gn:longitude":105.31083,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p Thu H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591941
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18d604eb1dcadfbdd1a8e3f7efb48e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782235,
+            "locality_id":1343330641,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1343330641,
+    "wof:lastmodified":1536934521,
+    "wof:name":"Ap Thu Ho",
+    "wof:parent_id":1108782235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31083,
+    9.75167,
+    105.31083,
+    9.75167
+],
+  "geometry": {"coordinates":[105.31083,9.75167],"type":"Point"}
+}

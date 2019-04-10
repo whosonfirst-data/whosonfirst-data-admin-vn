@@ -1,0 +1,67 @@
+{
+  "id": 1226053321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.28333,15.0,108.28333,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":108.28333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ngor Ngiong",
+    "gn:country_code":"VN",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572317,
+    "gn:latitude":15.0,
+    "gn:longitude":108.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ngor Ngiong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572317
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"521893d526ab6a4e3e2550b3a4245696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781651,
+            "locality_id":1226053321,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1226053321,
+    "wof:lastmodified":1536714471,
+    "wof:name":"Ngor Ngiong",
+    "wof:parent_id":1108781651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.28333,
+    15.0,
+    108.28333,
+    15.0
+],
+  "geometry": {"coordinates":[108.28333000000001,15.0],"type":"Point"}
+}

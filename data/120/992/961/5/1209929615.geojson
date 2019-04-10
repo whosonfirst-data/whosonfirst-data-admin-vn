@@ -1,0 +1,70 @@
+{
+  "id": 1209929615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.22133,13.39724,109.22133,13.39724",
+    "geom:latitude":13.39724,
+    "geom:longitude":109.22133,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892757,
+    "gn:latitude":13.39724,
+    "gn:longitude":109.22133,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ph\u00fa Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Vinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892757
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ed8aff225d8f8de3895db473045dfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1209929615,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209929615,
+    "wof:lastmodified":1537714210,
+    "wof:name":"Phu Vinh",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.22133,
+    13.39724,
+    109.22133,
+    13.39724
+],
+  "geometry": {"coordinates":[109.22132999999999,13.39724],"type":"Point"}
+}

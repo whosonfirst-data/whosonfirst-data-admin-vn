@@ -1,0 +1,71 @@
+{
+  "id": 1293011365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.51667,13.9,108.51667,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":108.51667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Kron Kon",
+    "gn:country_code":"VN",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569442,
+    "gn:latitude":13.9,
+    "gn:longitude":108.51667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Plei Kron Kon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plei Kron",
+        "Plei Kron Kon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569442
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc94b2d08c7c13c8dfb52b769950f98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781819,
+            "locality_id":1293011365,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1293011365,
+    "wof:lastmodified":1537713814,
+    "wof:name":"Plei Kron Kon",
+    "wof:parent_id":1108781819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.51667,
+    13.9,
+    108.51667,
+    13.9
+],
+  "geometry": {"coordinates":[108.51667,13.9],"type":"Point"}
+}

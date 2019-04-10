@@ -1,0 +1,74 @@
+{
+  "id": 1226758315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85625,22.03656,103.85625,22.03656",
+    "geom:latitude":22.03656,
+    "geom:longitude":103.85625,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Hat Nam",
+    "gn:country_code":"VN",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581042,
+    "gn:latitude":22.03656,
+    "gn:longitude":103.85625,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n H\u00e1t Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e1t Nam",
+        "Ha Nam"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n H\u00e1t Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581042
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"353e7d4adcbc556f8b8cbc703ac5e6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780989,
+            "locality_id":1226758315,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226758315,
+    "wof:lastmodified":1537713971,
+    "wof:name":"Ban Hat Nam",
+    "wof:parent_id":1108780989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85625,
+    22.03656,
+    103.85625,
+    22.03656
+],
+  "geometry": {"coordinates":[103.85625,22.03656],"type":"Point"}
+}

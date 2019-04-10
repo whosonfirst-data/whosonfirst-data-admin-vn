@@ -1,0 +1,74 @@
+{
+  "id": 1276779083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08159,23.11687,105.08159,23.11687",
+    "geom:latitude":23.11687,
+    "geom:longitude":105.08159,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lao Va Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576287,
+    "gn:latitude":23.11687,
+    "gn:longitude":105.08159,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Lao V\u00e0 Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lao Du Tchai",
+        "Lao Ou Tchai"
+    ],
+    "name:vie_x_preferred":[
+        "Lao V\u00e0 Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576287
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f9766b500dde013388fa98c8942a0cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1276779083,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1276779083,
+    "wof:lastmodified":1537713903,
+    "wof:name":"Lao Va Chai",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08159,
+    23.11687,
+    105.08159,
+    23.11687
+],
+  "geometry": {"coordinates":[105.08159000000001,23.11687],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226656715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.76014,11.79521,108.76014,11.79521",
+    "geom:latitude":11.79521,
+    "geom:longitude":108.76014,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Tra Giang",
+    "gn:country_code":"VN",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8994033,
+    "gn:latitude":11.79521,
+    "gn:longitude":108.76014,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tr\u00e0 Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u00e0 Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8994033
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f4f01d25798b7755fe0f9cb3dad20bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781747,
+            "locality_id":1226656715,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1226656715,
+    "wof:lastmodified":1537714427,
+    "wof:name":"Tra Giang",
+    "wof:parent_id":1108781747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.76014,
+    11.79521,
+    108.76014,
+    11.79521
+],
+  "geometry": {"coordinates":[108.76014000000001,11.79521],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327040835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9,22.51667,103.9,22.51667",
+    "geom:latitude":22.51667,
+    "geom:longitude":103.9,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nhat Son",
+    "gn:country_code":"VN",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572148,
+    "gn:latitude":22.51667,
+    "gn:longitude":103.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nhat Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "That Son",
+        "Nhat Son"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572148
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41b2d2293830a95f7331a4be5522360c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1327040835,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327040835,
+    "wof:lastmodified":1537713851,
+    "wof:name":"Nhat Son",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9,
+    22.51667,
+    103.9,
+    22.51667
+],
+  "geometry": {"coordinates":[103.90000000000001,22.51667],"type":"Point"}
+}

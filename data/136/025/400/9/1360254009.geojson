@@ -1,0 +1,72 @@
+{
+  "id": 1360254009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30944,9.8475,105.30944,9.8475",
+    "geom:latitude":9.8475,
+    "geom:longitude":105.30944,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Vinh Loi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591743,
+    "gn:latitude":9.8475,
+    "gn:longitude":105.30944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p V\u0129nh L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Cay Dua",
+        "\u1ea4p V\u0129nh L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591743
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"058390d2b91dadf71d236b1249d7fa4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782233,
+            "locality_id":1360254009,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1360254009,
+    "wof:lastmodified":1537714141,
+    "wof:name":"Ap Vinh Loi",
+    "wof:parent_id":1108782233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30944,
+    9.8475,
+    105.30944,
+    9.8475
+],
+  "geometry": {"coordinates":[105.30944,9.8475],"type":"Point"}
+}

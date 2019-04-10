@@ -1,0 +1,70 @@
+{
+  "id": 1343868959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80965,22.13373,105.80965,22.13373",
+    "geom:latitude":22.13373,
+    "geom:longitude":105.80965,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Dieu",
+    "gn:country_code":"VN",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869942,
+    "gn:latitude":22.13373,
+    "gn:longitude":105.80965,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"N\u00e0 Di\u1ec3u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Di\u1ec3u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869942
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4dc6e31ce4b3f0dac7b0aa6b891db52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780903,
+            "locality_id":1343868959,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343868959,
+    "wof:lastmodified":1537714533,
+    "wof:name":"Na Dieu",
+    "wof:parent_id":1108780903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80965,
+    22.13373,
+    105.80965,
+    22.13373
+],
+  "geometry": {"coordinates":[105.80965,22.13373],"type":"Point"}
+}

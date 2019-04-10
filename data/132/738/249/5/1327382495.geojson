@@ -1,0 +1,67 @@
+{
+  "id": 1327382495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.25,15.4,108.25,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":108.25,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tien Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564699,
+    "gn:latitude":15.4,
+    "gn:longitude":108.25,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ti\u00ean Ch\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564699
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a40e5f96a84caab76d7835c47e145a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781623,
+            "locality_id":1327382495,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1327382495,
+    "wof:lastmodified":1536752940,
+    "wof:name":"Tien Chanh",
+    "wof:parent_id":1108781623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.25,
+    15.4,
+    108.25,
+    15.4
+],
+  "geometry": {"coordinates":[108.25,15.4],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327149789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30321,22.52148,104.30321,22.52148",
+    "geom:latitude":22.52148,
+    "geom:longitude":104.30321,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Chiu Cai",
+    "gn:country_code":"VN",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464896,
+    "gn:latitude":22.52148,
+    "gn:longitude":104.30321,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ch\u00ecu C\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u00fai C\u00e1i"
+    ],
+    "name:vie_x_variant":[
+        "Ch\u00ecu C\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464896
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50c50b7d55cb298438b7a14eded7cf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1327149789,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327149789,
+    "wof:lastmodified":1537714319,
+    "wof:name":"Chiu Cai",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30321,
+    22.52148,
+    104.30321,
+    22.52148
+],
+  "geometry": {"coordinates":[104.30321000000001,22.52148],"type":"Point"}
+}

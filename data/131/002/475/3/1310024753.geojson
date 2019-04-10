@@ -1,0 +1,67 @@
+{
+  "id": 1310024753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38333,20.76667,105.38333,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":105.38333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Que Thieu",
+    "gn:country_code":"VN",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568612,
+    "gn:latitude":20.76667,
+    "gn:longitude":105.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qu\u00ea Thi\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568612
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a00cc5e4c428b282c5f5dbb6bc4a5d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781045,
+            "locality_id":1310024753,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1310024753,
+    "wof:lastmodified":1536613135,
+    "wof:name":"Que Thieu",
+    "wof:parent_id":1108781045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38333,
+    20.76667,
+    105.38333,
+    20.76667
+],
+  "geometry": {"coordinates":[105.38333,20.76667],"type":"Point"}
+}

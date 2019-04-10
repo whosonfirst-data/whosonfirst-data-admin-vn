@@ -1,0 +1,67 @@
+{
+  "id": 1242619575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4,15.58333,108.4,15.58333",
+    "geom:latitude":15.58333,
+    "geom:longitude":108.4,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Qui Xuan",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568556,
+    "gn:latitude":15.58333,
+    "gn:longitude":108.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Qui Xu\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568556
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e536f9ec3a915c4ecd4c93d80fe45660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781629,
+            "locality_id":1242619575,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242619575,
+    "wof:lastmodified":1537002548,
+    "wof:name":"Qui Xuan",
+    "wof:parent_id":1108781629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4,
+    15.58333,
+    108.4,
+    15.58333
+],
+  "geometry": {"coordinates":[108.40000000000001,15.58333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243078469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.19371,10.65836,107.19371,10.65836",
+    "geom:latitude":10.65836,
+    "geom:longitude":107.19371,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Tan Giao",
+    "gn:country_code":"VN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421412,
+    "gn:latitude":10.65836,
+    "gn:longitude":107.19371,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"T\u00e2n Giao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Giao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421412
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50353d99a88970618fdcbee105d3a0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781995,
+            "locality_id":1243078469,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1243078469,
+    "wof:lastmodified":1537714306,
+    "wof:name":"Tan Giao",
+    "wof:parent_id":1108781995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.19371,
+    10.65836,
+    107.19371,
+    10.65836
+],
+  "geometry": {"coordinates":[107.19371,10.65836],"type":"Point"}
+}

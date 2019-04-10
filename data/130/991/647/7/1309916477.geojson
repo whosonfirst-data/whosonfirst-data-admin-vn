@@ -1,0 +1,67 @@
+{
+  "id": 1309916477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,17.78333,106.08333,17.78333",
+    "geom:latitude":17.78333,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"La Ken",
+    "gn:country_code":"VN",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577913,
+    "gn:latitude":17.78333,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"La Ken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577913
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f0a44e78b4859c0db78e14ad1c8cd96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1309916477,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1309916477,
+    "wof:lastmodified":1536772038,
+    "wof:name":"La Ken",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    17.78333,
+    106.08333,
+    17.78333
+],
+  "geometry": {"coordinates":[106.08333,17.78333],"type":"Point"}
+}

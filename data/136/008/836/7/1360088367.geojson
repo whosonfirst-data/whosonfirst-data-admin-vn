@@ -1,0 +1,70 @@
+{
+  "id": 1360088367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35811,10.26194,105.35811,10.26194",
+    "geom:latitude":10.26194,
+    "geom:longitude":105.35811,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vinh Loi",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336796,
+    "gn:latitude":10.26194,
+    "gn:longitude":105.35811,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"V\u0129nh L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336796
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab2db68403e794df2d17676a454dd4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782217,
+            "locality_id":1360088367,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1360088367,
+    "wof:lastmodified":1537714276,
+    "wof:name":"Vinh Loi",
+    "wof:parent_id":1108782217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35811,
+    10.26194,
+    105.35811,
+    10.26194
+],
+  "geometry": {"coordinates":[105.35811,10.26194],"type":"Point"}
+}

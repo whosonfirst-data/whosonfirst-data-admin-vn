@@ -1,0 +1,70 @@
+{
+  "id": 1276138351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14,9.16339,105.14,9.16339",
+    "geom:latitude":9.16339,
+    "geom:longitude":105.14,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ap Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643300,
+    "gn:latitude":9.16339,
+    "gn:longitude":105.14,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p Ch\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p Ch\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643300
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"93a95c8f02e6dd29d477f3d6d722e826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782325,
+            "locality_id":1276138351,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1276138351,
+    "wof:lastmodified":1537714493,
+    "wof:name":"Ap Chanh",
+    "wof:parent_id":1108782325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14,
+    9.16339,
+    105.14,
+    9.16339
+],
+  "geometry": {"coordinates":[105.14,9.16339],"type":"Point"}
+}

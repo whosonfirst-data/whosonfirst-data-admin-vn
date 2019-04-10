@@ -1,0 +1,70 @@
+{
+  "id": 1209834713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15211,13.01405,109.15211,13.01405",
+    "geom:latitude":13.01405,
+    "geom:longitude":109.15211,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Cam Thach",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586340,
+    "gn:latitude":13.01405,
+    "gn:longitude":109.15211,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"C\u1ea9m Th\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ea9m Th\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586340
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d4b725df73434b2cdb756a5148738698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781711,
+            "locality_id":1209834713,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209834713,
+    "wof:lastmodified":1537714034,
+    "wof:name":"Cam Thach",
+    "wof:parent_id":1108781711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15211,
+    13.01405,
+    109.15211,
+    13.01405
+],
+  "geometry": {"coordinates":[109.15210999999999,13.01405],"type":"Point"}
+}

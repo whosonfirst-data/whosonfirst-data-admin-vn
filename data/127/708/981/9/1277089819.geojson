@@ -1,0 +1,71 @@
+{
+  "id": 1277089819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.9,11.4,108.9,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":108.9,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ngoc Tinh",
+    "gn:country_code":"VN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572385,
+    "gn:latitude":11.4,
+    "gn:longitude":108.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ng\u1ecdc T\u0129nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoc Thinh",
+        "Ng\u1ecdc T\u0129nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572385
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"33733dc64b30977e1ee0c561ae4d7517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1277089819,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1277089819,
+    "wof:lastmodified":1537713855,
+    "wof:name":"Ngoc Tinh",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.9,
+    11.4,
+    108.9,
+    11.4
+],
+  "geometry": {"coordinates":[108.90000000000001,11.4],"type":"Point"}
+}

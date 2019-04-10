@@ -1,0 +1,67 @@
+{
+  "id": 1260091057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.2,12.3,108.2,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":108.2,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Dou R'ma",
+    "gn:country_code":"VN",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1587069,
+    "gn:latitude":12.3,
+    "gn:longitude":108.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Dou R\u2019ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587069
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89ff44241f3f76b77083a7ebcd720fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1260091057,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1260091057,
+    "wof:lastmodified":1536976483,
+    "wof:name":"Buon Dou R'ma",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.2,
+    12.3,
+    108.2,
+    12.3
+],
+  "geometry": {"coordinates":[108.2,12.3],"type":"Point"}
+}

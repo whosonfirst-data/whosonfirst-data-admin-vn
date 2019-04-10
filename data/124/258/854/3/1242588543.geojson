@@ -1,0 +1,73 @@
+{
+  "id": 1242588543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.0109,14.46182,109.0109,14.46182",
+    "geom:latitude":14.46182,
+    "geom:longitude":109.0109,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Giao Hoi Hai",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10026206,
+    "gn:latitude":14.46182,
+    "gn:longitude":109.0109,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Giao H\u1ed9i Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Giao H\u1ed9i Hai"
+    ],
+    "name:vie_x_variant":[
+        "Giao H\u1ed9i 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10026206
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6385e81ec49cb3abbe9fa12b075611f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781671,
+            "locality_id":1242588543,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1242588543,
+    "wof:lastmodified":1537714575,
+    "wof:name":"Giao Hoi Hai",
+    "wof:parent_id":1108781671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.0109,
+    14.46182,
+    109.0109,
+    14.46182
+],
+  "geometry": {"coordinates":[109.01090000000001,14.46182],"type":"Point"}
+}

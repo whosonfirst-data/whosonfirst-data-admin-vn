@@ -1,0 +1,74 @@
+{
+  "id": 1326849259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93872,22.28209,103.93872,22.28209",
+    "geom:latitude":22.28209,
+    "geom:longitude":103.93872,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Van Gieng Su",
+    "gn:country_code":"VN",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563106,
+    "gn:latitude":22.28209,
+    "gn:longitude":103.93872,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"V\u1ea1n Gi\u1ec3ng S\u1eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang Neu Sou",
+        "Vang Neu Sou"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ea1n Gi\u1ec3ng S\u1eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563106
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dea922265a0a632cad2627075e9d7c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1326849259,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1326849259,
+    "wof:lastmodified":1537713716,
+    "wof:name":"Van Gieng Su",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93872,
+    22.28209,
+    103.93872,
+    22.28209
+],
+  "geometry": {"coordinates":[103.93872,22.28209],"type":"Point"}
+}

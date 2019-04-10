@@ -1,0 +1,67 @@
+{
+  "id": 1259694599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05,10.51667,107.05,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":107.05,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ap Hoi Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593293,
+    "gn:latitude":10.51667,
+    "gn:longitude":107.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p H\u1ed9i Thanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd50a4b7ac73cc95b147bda75e7a9fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782003,
+            "locality_id":1259694599,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1259694599,
+    "wof:lastmodified":1537048859,
+    "wof:name":"Ap Hoi Thanh",
+    "wof:parent_id":1108782003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05,
+    10.51667,
+    107.05,
+    10.51667
+],
+  "geometry": {"coordinates":[107.05,10.51667],"type":"Point"}
+}

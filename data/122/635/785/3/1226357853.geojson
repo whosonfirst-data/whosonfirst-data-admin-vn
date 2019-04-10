@@ -1,0 +1,67 @@
+{
+  "id": 1226357853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.3,11.86667,107.3,11.86667",
+    "geom:latitude":11.86667,
+    "geom:longitude":107.3,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu Lo",
+    "gn:country_code":"VN",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587228,
+    "gn:latitude":11.86667,
+    "gn:longitude":107.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu L\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587228
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9bf8c3e2ad102e371a4d2388e1188bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1226357853,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1226357853,
+    "wof:lastmodified":1536772594,
+    "wof:name":"Bu Lo",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.3,
+    11.86667,
+    107.3,
+    11.86667
+],
+  "geometry": {"coordinates":[107.3,11.86667],"type":"Point"}
+}

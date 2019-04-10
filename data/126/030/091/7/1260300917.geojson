@@ -1,0 +1,72 @@
+{
+  "id": 1260300917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83937,18.05166,105.83937,18.05166",
+    "geom:latitude":18.05166,
+    "geom:longitude":105.83937,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bai Due Thon",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591338,
+    "gn:latitude":18.05166,
+    "gn:longitude":105.83937,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Bai Due Thon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1i \u0110\u1ee9c",
+        "Bai Due Thon",
+        "B\u00e1i \u0110\u1ee9c Th\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591338
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bce432cb47c359e4d3c3ca0198d4dc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781527,
+            "locality_id":1260300917,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1260300917,
+    "wof:lastmodified":1537714136,
+    "wof:name":"Bai Due Thon",
+    "wof:parent_id":1108781527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83937,
+    18.05166,
+    105.83937,
+    18.05166
+],
+  "geometry": {"coordinates":[105.83937,18.05166],"type":"Point"}
+}

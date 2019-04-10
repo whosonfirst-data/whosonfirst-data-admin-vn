@@ -1,0 +1,67 @@
+{
+  "id": 1243234759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.03333,20.73333,107.03333,20.73333",
+    "geom:latitude":20.73333,
+    "geom:longitude":107.03333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hang Suoi",
+    "gn:country_code":"VN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581156,
+    "gn:latitude":20.73333,
+    "gn:longitude":107.03333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Hang Su\u1ed1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581156
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eee1a53e6d3a7f3bb0dbc91487ca460c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781291,
+            "locality_id":1243234759,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1243234759,
+    "wof:lastmodified":1536611284,
+    "wof:name":"Hang Suoi",
+    "wof:parent_id":1108781291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.03333,
+    20.73333,
+    107.03333,
+    20.73333
+],
+  "geometry": {"coordinates":[107.03333000000001,20.73333],"type":"Point"}
+}

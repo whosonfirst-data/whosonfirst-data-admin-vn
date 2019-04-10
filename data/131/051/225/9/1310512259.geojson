@@ -1,0 +1,74 @@
+{
+  "id": 1310512259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70866,22.25516,103.70866,22.25516",
+    "geom:latitude":22.25516,
+    "geom:longitude":103.70866,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Nam Bon",
+    "gn:country_code":"VN",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573578,
+    "gn:latitude":22.25516,
+    "gn:longitude":103.70866,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n N\u1eadm Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Bom",
+        "Nam B\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u1eadm Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573578
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"352142c3bb1c43d77721365e0d56ee23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1310512259,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310512259,
+    "wof:lastmodified":1537713870,
+    "wof:name":"Ban Nam Bon",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70866,
+    22.25516,
+    103.70866,
+    22.25516
+],
+  "geometry": {"coordinates":[103.70865999999999,22.25516],"type":"Point"}
+}

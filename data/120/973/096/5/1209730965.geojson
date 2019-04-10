@@ -1,0 +1,73 @@
+{
+  "id": 1209730965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0947,10.50414,107.0947,10.50414",
+    "geom:latitude":10.50414,
+    "geom:longitude":107.0947,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Lang Cat",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593115,
+    "gn:latitude":10.50414,
+    "gn:longitude":107.0947,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"L\u00e1ng C\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Long C\u00e1t"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e1ng C\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593115
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ed5d871bd0e11e9ed7e47d2ecf48e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782003,
+            "locality_id":1209730965,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1209730965,
+    "wof:lastmodified":1537714177,
+    "wof:name":"Lang Cat",
+    "wof:parent_id":1108782003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0947,
+    10.50414,
+    107.0947,
+    10.50414
+],
+  "geometry": {"coordinates":[107.0947,10.50414],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209920545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66848,10.1464,106.66848,10.1464",
+    "geom:latitude":10.1464,
+    "geom:longitude":106.66848,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Binh Loc",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531817,
+    "gn:latitude":10.1464,
+    "gn:longitude":106.66848,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531817
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f64a5524535aab1191ab2b3e9eabaf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782123,
+            "locality_id":1209920545,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1209920545,
+    "wof:lastmodified":1537714473,
+    "wof:name":"Binh Loc",
+    "wof:parent_id":1108782123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66848,
+    10.1464,
+    106.66848,
+    10.1464
+],
+  "geometry": {"coordinates":[106.66848,10.1464],"type":"Point"}
+}

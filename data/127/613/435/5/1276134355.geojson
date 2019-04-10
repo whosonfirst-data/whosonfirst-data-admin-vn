@@ -1,0 +1,73 @@
+{
+  "id": 1276134355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66119,21.89361,104.66119,21.89361",
+    "geom:latitude":21.89361,
+    "geom:longitude":104.66119,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Quach Ngoai",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576742,
+    "gn:latitude":21.89361,
+    "gn:longitude":104.66119,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Qu\u1ea1ch Ngo\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Qu\u1ea1ch Ngo\u00e0i"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea1ch Ngo\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576742
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48ff6a0b021fec84ae9c194697aa0ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1276134355,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1276134355,
+    "wof:lastmodified":1537713911,
+    "wof:name":"Quach Ngoai",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66119,
+    21.89361,
+    104.66119,
+    21.89361
+],
+  "geometry": {"coordinates":[104.66119,21.89361],"type":"Point"}
+}

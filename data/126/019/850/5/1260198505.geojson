@@ -1,0 +1,71 @@
+{
+  "id": 1260198505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43713,21.43864,105.43713,21.43864",
+    "geom:latitude":21.43864,
+    "geom:longitude":105.43713,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Song Van",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201847,
+    "gn:latitude":21.43864,
+    "gn:longitude":105.43713,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Song V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Song V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201847,
+        "wk:page":"Song_V%C3%A2n"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91ee88e8243d8aed2c12bbd285a7b356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781201,
+            "locality_id":1260198505,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1260198505,
+    "wof:lastmodified":1537714245,
+    "wof:name":"Song Van",
+    "wof:parent_id":1108781201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43713,
+    21.43864,
+    105.43713,
+    21.43864
+],
+  "geometry": {"coordinates":[105.43713,21.43864],"type":"Point"}
+}

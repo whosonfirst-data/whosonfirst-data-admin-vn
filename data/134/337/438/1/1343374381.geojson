@@ -1,0 +1,67 @@
+{
+  "id": 1343374381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.3,13.56667,109.3,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":109.3,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Vinh Cuu An",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562769,
+    "gn:latitude":13.56667,
+    "gn:longitude":109.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0129nh C\u1eedu An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuy Lang",
+        "V\u0129nh C\u1eedu An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562769
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc76603e3d73a435be0170d212a290e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343374381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343374381,
+    "wof:lastmodified":1537713712,
+    "wof:name":"Vinh Cuu An",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.3,
+    13.56667,
+    109.3,
+    13.56667
+],
+  "geometry": {"coordinates":[109.3,13.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209726381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83333,21.08333,105.83333,21.08333",
+    "geom:latitude":21.08333,
+    "geom:longitude":105.83333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Do Nhat",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582402,
+    "gn:latitude":21.08333,
+    "gn:longitude":105.83333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f3 Nh\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582402
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f0cf42bf1598fcb31cad708fa7c8fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780807,
+            "locality_id":1209726381,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1209726381,
+    "wof:lastmodified":1536383345,
+    "wof:name":"Do Nhat",
+    "wof:parent_id":1108780807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83333,
+    21.08333,
+    105.83333,
+    21.08333
+],
+  "geometry": {"coordinates":[105.83333,21.08333],"type":"Point"}
+}

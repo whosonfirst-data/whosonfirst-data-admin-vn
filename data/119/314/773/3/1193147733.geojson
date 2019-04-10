@@ -1,0 +1,70 @@
+{
+  "id": 1193147733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81973,22.35876,104.81973,22.35876",
+    "geom:latitude":22.35876,
+    "geom:longitude":104.81973,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Viet An",
+    "gn:country_code":"VN",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474135,
+    "gn:latitude":22.35876,
+    "gn:longitude":104.81973,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Vi\u1ec7t An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vi\u1ec7t An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474135
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5d24b697f2c5cede3c661666cb4d019e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1193147733,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1193147733,
+    "wof:lastmodified":1537714323,
+    "wof:name":"Viet An",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81973,
+    22.35876,
+    104.81973,
+    22.35876
+],
+  "geometry": {"coordinates":[104.81973000000001,22.35876],"type":"Point"}
+}

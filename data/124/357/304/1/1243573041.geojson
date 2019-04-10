@@ -1,0 +1,72 @@
+{
+  "id": 1243573041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45,17.71667,106.45,17.71667",
+    "geom:latitude":17.71667,
+    "geom:longitude":106.45,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"My Hoa Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574130,
+    "gn:latitude":17.71667,
+    "gn:longitude":106.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u1ef9 H\u00f2a Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Hoa",
+        "My Tho Thuong",
+        "M\u1ef9 H\u00f2a Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574130
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d27a529c3d7b902e539180e5624395b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781529,
+            "locality_id":1243573041,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1243573041,
+    "wof:lastmodified":1537713879,
+    "wof:name":"My Hoa Thuong",
+    "wof:parent_id":1108781529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45,
+    17.71667,
+    106.45,
+    17.71667
+],
+  "geometry": {"coordinates":[106.45,17.71667],"type":"Point"}
+}

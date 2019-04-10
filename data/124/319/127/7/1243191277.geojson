@@ -1,0 +1,70 @@
+{
+  "id": 1243191277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29725,21.15685,105.29725,21.15685",
+    "geom:latitude":21.15685,
+    "geom:longitude":105.29725,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Luong Khe",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200764,
+    "gn:latitude":21.15685,
+    "gn:longitude":105.29725,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u01b0\u01a1ng Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u01b0\u01a1ng Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200764
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"955fabcd7102024a3d46824257a9db03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1243191277,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1243191277,
+    "wof:lastmodified":1537714239,
+    "wof:name":"Luong Khe",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29725,
+    21.15685,
+    105.29725,
+    21.15685
+],
+  "geometry": {"coordinates":[105.29725000000001,21.15685],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327391913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.48333,11.83333,108.48333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":108.48333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ta Houet",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567310,
+    "gn:latitude":11.83333,
+    "gn:longitude":108.48333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ta Houet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Houei",
+        "Ta Houet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567310
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"30a84425a860b1de7dff236924bfd37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781885,
+            "locality_id":1327391913,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1327391913,
+    "wof:lastmodified":1537713787,
+    "wof:name":"Ta Houet",
+    "wof:parent_id":1108781885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.48333,
+    11.83333,
+    108.48333,
+    11.83333
+],
+  "geometry": {"coordinates":[108.48333,11.83333],"type":"Point"}
+}

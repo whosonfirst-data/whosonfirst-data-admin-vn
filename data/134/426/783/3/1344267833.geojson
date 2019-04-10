@@ -1,0 +1,73 @@
+{
+  "id": 1344267833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62825,19.50887,104.62825,19.50887",
+    "geom:latitude":19.50887,
+    "geom:longitude":104.62825,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Xieng Lam",
+    "gn:country_code":"VN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574260,
+    "gn:latitude":19.50887,
+    "gn:longitude":104.62825,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Xi\u1ec1ng L\u1eb1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u01b0\u1eddng Lam"
+    ],
+    "name:vie_x_preferred":[
+        "Xi\u1ec1ng L\u1eb1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574260
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a7d292c73f65deee1395e112d32f7717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781461,
+            "locality_id":1344267833,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1344267833,
+    "wof:lastmodified":1537713881,
+    "wof:name":"Xieng Lam",
+    "wof:parent_id":1108781461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62825,
+    19.50887,
+    104.62825,
+    19.50887
+],
+  "geometry": {"coordinates":[104.62824999999999,19.50887],"type":"Point"}
+}

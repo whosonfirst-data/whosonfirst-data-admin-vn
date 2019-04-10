@@ -1,0 +1,67 @@
+{
+  "id": 1309814311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75,21.65,104.75,21.65",
+    "geom:latitude":21.65,
+    "geom:longitude":104.75,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dong Song",
+    "gn:country_code":"VN",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582617,
+    "gn:latitude":21.65,
+    "gn:longitude":104.75,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4ng Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582617
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e6716c94295b41ab40d74fbd56a1e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1309814311,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1309814311,
+    "wof:lastmodified":1536919323,
+    "wof:name":"Dong Song",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75,
+    21.65,
+    104.75,
+    21.65
+],
+  "geometry": {"coordinates":[104.75,21.65],"type":"Point"}
+}

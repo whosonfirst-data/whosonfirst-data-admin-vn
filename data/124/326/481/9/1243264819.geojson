@@ -1,0 +1,72 @@
+{
+  "id": 1243264819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.60972,9.90306,106.60972,9.90306",
+    "geom:latitude":9.90306,
+    "geom:longitude":106.60972,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xom Giong Chua",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561524,
+    "gn:latitude":9.90306,
+    "gn:longitude":106.60972,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m Gi\u1ed3ng Ch\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gi\u1ed3ng Ch\u00f9a",
+        "X\u00f3m Gi\u1ed3ng Ch\u00f9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561524
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9cd5547080ca356e744c6a05583b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1243264819,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1243264819,
+    "wof:lastmodified":1537713687,
+    "wof:name":"Xom Giong Chua",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60972,
+    9.90306,
+    106.60972,
+    9.90306
+],
+  "geometry": {"coordinates":[106.60972,9.90306],"type":"Point"}
+}

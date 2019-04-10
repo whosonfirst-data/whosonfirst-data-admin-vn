@@ -1,0 +1,67 @@
+{
+  "id": 1226361347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2,12.05,109.2,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":109.2,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Mieu Ong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574666,
+    "gn:latitude":12.05,
+    "gn:longitude":109.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mi\u1ebfu \u00d4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574666
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e624993e5343045ede75eca6390abf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781723,
+            "locality_id":1226361347,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1226361347,
+    "wof:lastmodified":1536767493,
+    "wof:name":"Mieu Ong",
+    "wof:parent_id":1108781723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2,
+    12.05,
+    109.2,
+    12.05
+],
+  "geometry": {"coordinates":[109.2,12.05],"type":"Point"}
+}

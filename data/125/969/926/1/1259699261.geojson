@@ -1,0 +1,71 @@
+{
+  "id": 1259699261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.05,11.08333,108.05,11.08333",
+    "geom:latitude":11.08333,
+    "geom:longitude":108.05,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Xa Song Trao",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562206,
+    "gn:latitude":11.08333,
+    "gn:longitude":108.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00e3 S\u00f4ng Trao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f4ng Trao",
+        "X\u00e3 S\u00f4ng Trao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562206
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bcf855b41819a0ebc31264c24446e876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1259699261,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1259699261,
+    "wof:lastmodified":1537713702,
+    "wof:name":"Xa Song Trao",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.05,
+    11.08333,
+    108.05,
+    11.08333
+],
+  "geometry": {"coordinates":[108.05,11.08333],"type":"Point"}
+}

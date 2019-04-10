@@ -1,0 +1,70 @@
+{
+  "id": 1343677433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49302,21.30951,105.49302,21.30951",
+    "geom:latitude":21.30951,
+    "geom:longitude":105.49302,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Hoang Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201821,
+    "gn:latitude":21.30951,
+    "gn:longitude":105.49302,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Ho\u00e0ng Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201821
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"071b7fefa6232ad1fd851a2cac4e916a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781211,
+            "locality_id":1343677433,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1343677433,
+    "wof:lastmodified":1537714245,
+    "wof:name":"Hoang Thuong",
+    "wof:parent_id":1108781211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49302,
+    21.30951,
+    105.49302,
+    21.30951
+],
+  "geometry": {"coordinates":[105.49302,21.30951],"type":"Point"}
+}

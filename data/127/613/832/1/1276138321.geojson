@@ -1,0 +1,73 @@
+{
+  "id": 1276138321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.14112,21.9873,105.14112,21.9873",
+    "geom:latitude":21.9873,
+    "geom:longitude":105.14112,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ba Luong",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591256,
+    "gn:latitude":21.9873,
+    "gn:longitude":105.14112,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ba Lu\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba L\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "Ba Lu\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591256
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ab5da6988c1fd3822a7791766c966e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1276138321,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1276138321,
+    "wof:lastmodified":1537714135,
+    "wof:name":"Ba Luong",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.14112,
+    21.9873,
+    105.14112,
+    21.9873
+],
+  "geometry": {"coordinates":[105.14112,21.9873],"type":"Point"}
+}

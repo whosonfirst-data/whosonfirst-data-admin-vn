@@ -1,0 +1,71 @@
+{
+  "id": 1343519519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.91667,11.76667,107.91667,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":107.91667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"B'kor",
+    "gn:country_code":"VN",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587710,
+    "gn:latitude":11.76667,
+    "gn:longitude":107.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u2019k\u00f2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u2019Kour",
+        "B\u2019k\u00f2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11ac82d4bc1f2fc590347344ae6d0479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1343519519,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343519519,
+    "wof:lastmodified":1537714068,
+    "wof:name":"B'kor",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.91667,
+    11.76667,
+    107.91667,
+    11.76667
+],
+  "geometry": {"coordinates":[107.91667,11.76667],"type":"Point"}
+}

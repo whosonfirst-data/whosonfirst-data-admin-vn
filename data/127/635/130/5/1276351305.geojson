@@ -1,0 +1,71 @@
+{
+  "id": 1276351305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,21.05,105.88333,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Gia Lam Pho",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581881,
+    "gn:latitude":21.05,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gia L\u00e2m Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia Lam",
+        "Gia L\u00e2m Pho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581881
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a8dc08778b7b33c315cd5c33c42f6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780791,
+            "locality_id":1276351305,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1276351305,
+    "wof:lastmodified":1537713982,
+    "wof:name":"Gia Lam Pho",
+    "wof:parent_id":1108780791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    21.05,
+    105.88333,
+    21.05
+],
+  "geometry": {"coordinates":[105.88333,21.05],"type":"Point"}
+}

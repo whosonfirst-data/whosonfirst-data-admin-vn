@@ -1,0 +1,73 @@
+{
+  "id": 1293828797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43609,20.33569,105.43609,20.33569",
+    "geom:latitude":20.33569,
+    "geom:longitude":105.43609,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tuong Son Hai",
+    "gn:country_code":"VN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550251,
+    "gn:latitude":20.33569,
+    "gn:longitude":105.43609,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"T\u01b0\u01a1ng S\u01a1n Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u01b0\u01a1ng S\u01a1n Hai"
+    ],
+    "name:vie_x_variant":[
+        "T\u01b0\u01a1ng S\u01a1n 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550251
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17ead1e1aa430bf0cd89d50cf1a69af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781409,
+            "locality_id":1293828797,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293828797,
+    "wof:lastmodified":1537714346,
+    "wof:name":"Tuong Son Hai",
+    "wof:parent_id":1108781409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43609,
+    20.33569,
+    105.43609,
+    20.33569
+],
+  "geometry": {"coordinates":[105.43608999999999,20.33569],"type":"Point"}
+}

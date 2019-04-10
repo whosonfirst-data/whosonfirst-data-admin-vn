@@ -1,0 +1,64 @@
+{
+  "id": 1209589699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95306,10.51908,106.95306,10.51908",
+    "geom:latitude":10.51908,
+    "geom:longitude":106.95306,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Thanh Binh",
+    "gn:country_code":"VN",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645097,
+    "gn:latitude":10.51908,
+    "gn:longitude":106.95306,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u1ea1nh B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1nh B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645097
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8cdb79fa337fcdb98f744809926b7186",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209589699
+        }
+    ],
+    "wof:id":1209589699,
+    "wof:lastmodified":1537714496,
+    "wof:name":"Thanh Binh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95306,
+    10.51908,
+    106.95306,
+    10.51908
+],
+  "geometry": {"coordinates":[106.95305999999999,10.51908],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293732393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.2,15.68333,108.2,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":108.2,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Lanh An",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576348,
+    "gn:latitude":15.68333,
+    "gn:longitude":108.2,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"L\u1ea3nh An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ea3nh An",
+        "Linh An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576348
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b8643a3058810fc98a69a6ec40f00bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781609,
+            "locality_id":1293732393,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293732393,
+    "wof:lastmodified":1537713904,
+    "wof:name":"Lanh An",
+    "wof:parent_id":1108781609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.2,
+    15.68333,
+    108.2,
+    15.68333
+],
+  "geometry": {"coordinates":[108.2,15.68333],"type":"Point"}
+}

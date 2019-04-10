@@ -1,0 +1,73 @@
+{
+  "id": 1293311643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37654,22.71731,105.37654,22.71731",
+    "geom:latitude":22.71731,
+    "geom:longitude":105.37654,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Coc Phat",
+    "gn:country_code":"VN",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309587,
+    "gn:latitude":22.71731,
+    "gn:longitude":105.37654,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n C\u1ed1c Ph\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed1c Ph\u00e1t"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n C\u1ed1c Ph\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309587
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ce40c7198b07249eff7786b984ce46f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1293311643,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293311643,
+    "wof:lastmodified":1537714260,
+    "wof:name":"Ban Coc Phat",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37654,
+    22.71731,
+    105.37654,
+    22.71731
+],
+  "geometry": {"coordinates":[105.37654000000001,22.71731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309924671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96253,13.02705,108.96253,13.02705",
+    "geom:latitude":13.02705,
+    "geom:longitude":108.96253,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Chi Than",
+    "gn:country_code":"VN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585458,
+    "gn:latitude":13.02705,
+    "gn:longitude":108.96253,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ch\u00ed Th\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thi Thang",
+        "Ch\u00ed Th\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585458
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"98e6a7b0d51d978fbe048fd3fd21e5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781705,
+            "locality_id":1309924671,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1309924671,
+    "wof:lastmodified":1537714024,
+    "wof:name":"Chi Than",
+    "wof:parent_id":1108781705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96253,
+    13.02705,
+    108.96253,
+    13.02705
+],
+  "geometry": {"coordinates":[108.96253,13.02705],"type":"Point"}
+}

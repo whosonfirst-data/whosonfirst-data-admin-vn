@@ -1,0 +1,73 @@
+{
+  "id": 1276563539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90877,10.83691,106.90877,10.83691",
+    "geom:latitude":10.83691,
+    "geom:longitude":106.90877,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Long Khanh Hai",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075929,
+    "gn:latitude":10.83691,
+    "gn:longitude":106.90877,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Long Kh\u00e1nh Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long Kh\u00e1nh Hai"
+    ],
+    "name:vie_x_variant":[
+        "Long Kh\u00e1nh 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075929
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"38609eb17d38007e2716fed0b4cde444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781967,
+            "locality_id":1276563539,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1276563539,
+    "wof:lastmodified":1537714438,
+    "wof:name":"Long Khanh Hai",
+    "wof:parent_id":1108781967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90877,
+    10.83691,
+    106.90877,
+    10.83691
+],
+  "geometry": {"coordinates":[106.90877,10.83691],"type":"Point"}
+}

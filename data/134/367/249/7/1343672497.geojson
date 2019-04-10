@@ -1,0 +1,67 @@
+{
+  "id": 1343672497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.50739,22.03106,106.50739,22.03106",
+    "geom:latitude":22.03106,
+    "geom:longitude":106.50739,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Cap",
+    "gn:country_code":"VN",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310902,
+    "gn:latitude":22.03106,
+    "gn:longitude":106.50739,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n C\u00e1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310902
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c21aeb639a4baaccd067b755ba27e58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1343672497,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343672497,
+    "wof:lastmodified":1536938348,
+    "wof:name":"Ban Cap",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.50739,
+    22.03106,
+    106.50739,
+    22.03106
+],
+  "geometry": {"coordinates":[106.50739,22.03106],"type":"Point"}
+}

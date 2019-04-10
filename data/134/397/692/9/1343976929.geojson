@@ -1,0 +1,73 @@
+{
+  "id": 1343976929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.267,22.51106,105.267,22.51106",
+    "geom:latitude":22.51106,
+    "geom:longitude":105.267,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Na Vang",
+    "gn:country_code":"VN",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309656,
+    "gn:latitude":22.51106,
+    "gn:longitude":105.267,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n N\u00e0 V\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 V\u00e3ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u00e0 V\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309656
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7cfb2a494fb3bc712390a37ae83b10e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1343976929,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343976929,
+    "wof:lastmodified":1537714261,
+    "wof:name":"Ban Na Vang",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.267,
+    22.51106,
+    105.267,
+    22.51106
+],
+  "geometry": {"coordinates":[105.267,22.51106],"type":"Point"}
+}

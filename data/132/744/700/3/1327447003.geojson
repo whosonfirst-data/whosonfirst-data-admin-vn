@@ -1,0 +1,71 @@
+{
+  "id": 1327447003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.01667,11.9,108.01667,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":108.01667,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Xom Pang Ra",
+    "gn:country_code":"VN",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561105,
+    "gn:latitude":11.9,
+    "gn:longitude":108.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Pang Ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pang Ra",
+        "X\u00f3m Pang Ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561105
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad55cea23ad7aa7d7a56e58c2b53651a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781869,
+            "locality_id":1327447003,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1327447003,
+    "wof:lastmodified":1537713678,
+    "wof:name":"Xom Pang Ra",
+    "wof:parent_id":1108781869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.01667,
+    11.9,
+    108.01667,
+    11.9
+],
+  "geometry": {"coordinates":[108.01667,11.9],"type":"Point"}
+}

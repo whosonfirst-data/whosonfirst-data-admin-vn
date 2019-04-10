@@ -1,0 +1,70 @@
+{
+  "id": 1242827809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74743,19.43753,105.74743,19.43753",
+    "geom:latitude":19.43753,
+    "geom:longitude":105.74743,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xuan Nguyen",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372293,
+    "gn:latitude":19.43753,
+    "gn:longitude":105.74743,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Xu\u00e2n Nguy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Xu\u00e2n Nguy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65c292d7390d6a85576c51758dc63a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1242827809,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242827809,
+    "wof:lastmodified":1537714716,
+    "wof:name":"Xuan Nguyen",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74743,
+    19.43753,
+    105.74743,
+    19.43753
+],
+  "geometry": {"coordinates":[105.74742999999999,19.43753],"type":"Point"}
+}

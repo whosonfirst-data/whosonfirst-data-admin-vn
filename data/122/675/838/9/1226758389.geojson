@@ -1,0 +1,67 @@
+{
+  "id": 1226758389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0,19.85,105.0,19.85",
+    "geom:latitude":19.85,
+    "geom:longitude":105.0,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Kim Diem",
+    "gn:country_code":"VN",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578925,
+    "gn:latitude":19.85,
+    "gn:longitude":105.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kim Diem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41b72d32b5830f0fb356486c934bdcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781455,
+            "locality_id":1226758389,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1226758389,
+    "wof:lastmodified":1536697488,
+    "wof:name":"Kim Diem",
+    "wof:parent_id":1108781455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0,
+    19.85,
+    105.0,
+    19.85
+],
+  "geometry": {"coordinates":[105.0,19.85],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360095807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.11667,13.63333,108.11667,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":108.11667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Potao Kla",
+    "gn:country_code":"VN",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569330,
+    "gn:latitude":13.63333,
+    "gn:longitude":108.11667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Plei P\u01a1tao Kla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plei P\u2019Tao K\u2019la",
+        "Plei P\u2019Tao K\u2019lai",
+        "Plei P\u01a1tao Kla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569330
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66f86a0351cca09ee2dd847046113663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781831,
+            "locality_id":1360095807,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1360095807,
+    "wof:lastmodified":1537713813,
+    "wof:name":"Plei Potao Kla",
+    "wof:parent_id":1108781831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.11667,
+    13.63333,
+    108.11667,
+    13.63333
+],
+  "geometry": {"coordinates":[108.11667,13.63333],"type":"Point"}
+}

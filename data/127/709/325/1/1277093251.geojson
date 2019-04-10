@@ -1,0 +1,74 @@
+{
+  "id": 1277093251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.60599,21.80724,106.60599,21.80724",
+    "geom:latitude":21.80724,
+    "geom:longitude":106.60599,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khon Cai",
+    "gn:country_code":"VN",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588124,
+    "gn:latitude":21.80724,
+    "gn:longitude":106.60599,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Khon C\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khon Xay",
+        "Ba X\u00e3"
+    ],
+    "name:vie_x_preferred":[
+        "Khon C\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588124
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f61acda1657705d3473a02f7998bf1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781097,
+            "locality_id":1277093251,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1277093251,
+    "wof:lastmodified":1537714073,
+    "wof:name":"Khon Cai",
+    "wof:parent_id":1108781097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60599,
+    21.80724,
+    106.60599,
+    21.80724
+],
+  "geometry": {"coordinates":[106.60599000000001,21.80724],"type":"Point"}
+}

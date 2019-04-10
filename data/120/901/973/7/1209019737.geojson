@@ -1,0 +1,65 @@
+{
+  "id": 1209019737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53333,12.4,108.53333,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":108.53333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Mnang",
+    "gn:country_code":"VN",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586885,
+    "gn:latitude":12.4,
+    "gn:longitude":108.53333,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Bu\u00f4n Mnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u00f4n Mnang",
+        "Ban Mnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586885
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8b5d3f082e2901000ce5e4144c57c369",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019737
+        }
+    ],
+    "wof:id":1209019737,
+    "wof:lastmodified":1537714045,
+    "wof:name":"Buon Mnang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53333,
+    12.4,
+    108.53333,
+    12.4
+],
+  "geometry": {"coordinates":[108.53333000000001,12.4],"type":"Point"}
+}

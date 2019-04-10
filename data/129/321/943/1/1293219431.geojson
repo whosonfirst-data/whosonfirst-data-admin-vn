@@ -1,0 +1,67 @@
+{
+  "id": 1293219431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.18333,12.25,109.18333,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":109.18333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Dien Ha",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565654,
+    "gn:latitude":12.25,
+    "gn:longitude":109.18333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u00f4n \u0110i\u1ec1n H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565654
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41636ed1a668a7a7c4beabcc43546a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781715,
+            "locality_id":1293219431,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1293219431,
+    "wof:lastmodified":1536676474,
+    "wof:name":"Thon Dien Ha",
+    "wof:parent_id":1108781715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.18333,
+    12.25,
+    109.18333,
+    12.25
+],
+  "geometry": {"coordinates":[109.18333,12.25],"type":"Point"}
+}

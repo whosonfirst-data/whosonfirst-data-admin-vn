@@ -1,0 +1,67 @@
+{
+  "id": 1327045597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.85,11.21667,107.85,11.21667",
+    "geom:latitude":11.21667,
+    "geom:longitude":107.85,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Be Koit",
+    "gn:country_code":"VN",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1588074,
+    "gn:latitude":11.21667,
+    "gn:longitude":107.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e9 Koit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588074
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7fdbfc8633ff2b72a72b2dec78ae7ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1327045597,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1327045597,
+    "wof:lastmodified":1536741145,
+    "wof:name":"Be Koit",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.85,
+    11.21667,
+    107.85,
+    11.21667
+],
+  "geometry": {"coordinates":[107.84999999999999,11.21667],"type":"Point"}
+}

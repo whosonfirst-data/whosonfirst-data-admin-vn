@@ -1,0 +1,70 @@
+{
+  "id": 1276210165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51967,20.63314,106.51967,20.63314",
+    "geom:latitude":20.63314,
+    "geom:longitude":106.51967,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tay Am",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566579,
+    "gn:latitude":20.63314,
+    "gn:longitude":106.51967,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"T\u00e2y Am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2y Am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566579
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"205fc051d6208763c0bc66221050262a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781287,
+            "locality_id":1276210165,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1276210165,
+    "wof:lastmodified":1537713778,
+    "wof:name":"Tay Am",
+    "wof:parent_id":1108781287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51967,
+    20.63314,
+    106.51967,
+    20.63314
+],
+  "geometry": {"coordinates":[106.51967,20.63314],"type":"Point"}
+}

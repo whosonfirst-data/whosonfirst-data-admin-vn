@@ -1,0 +1,72 @@
+{
+  "id": 1310512299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.1,11.58333,109.1,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":109.1,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Khanh Nhon",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565515,
+    "gn:latitude":11.58333,
+    "gn:longitude":109.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Kh\u00e1nh Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u00e1nh Nh\u01a1n",
+        "Kh\u00e1nh L\u1ed9c",
+        "Th\u00f4n Kh\u00e1nh Nh\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5aeaa54c25ea3d10e907c8d81c23d6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1310512299,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310512299,
+    "wof:lastmodified":1537713758,
+    "wof:name":"Thon Khanh Nhon",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.1,
+    11.58333,
+    109.1,
+    11.58333
+],
+  "geometry": {"coordinates":[109.09999999999999,11.58333],"type":"Point"}
+}

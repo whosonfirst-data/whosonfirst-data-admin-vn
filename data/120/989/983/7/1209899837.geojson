@@ -1,0 +1,63 @@
+{
+  "id": 1209899837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,20.75,106.56667,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kim Con",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578931,
+    "gn:latitude":20.75,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kim C\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578931
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f26a7591c1d69d19a66f6ed5f8149eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209899837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209899837,
+    "wof:lastmodified":1536386941,
+    "wof:name":"Kim Con",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    20.75,
+    106.56667,
+    20.75
+],
+  "geometry": {"coordinates":[106.56667,20.75],"type":"Point"}
+}

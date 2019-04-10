@@ -1,0 +1,70 @@
+{
+  "id": 1276459141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57941,16.73858,106.57941,16.73858",
+    "geom:latitude":16.73858,
+    "geom:longitude":106.57941,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ca Nhoi",
+    "gn:country_code":"VN",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650940,
+    "gn:latitude":16.73858,
+    "gn:longitude":106.57941,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"C\u00e0 Nh\u1ed5i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e0 Nh\u1ed5i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650940
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e44e36146721c830a9442e1c4f5ad9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1276459141,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1276459141,
+    "wof:lastmodified":1537714392,
+    "wof:name":"Ca Nhoi",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57941,
+    16.73858,
+    106.57941,
+    16.73858
+],
+  "geometry": {"coordinates":[106.57941,16.73858],"type":"Point"}
+}

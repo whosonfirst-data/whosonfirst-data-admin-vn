@@ -1,0 +1,72 @@
+{
+  "id": 1310641687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,11.53333,106.38333,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Bau Tram",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588137,
+    "gn:latitude":11.53333,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u00e0u Tr\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bau Cham",
+        "B\u00e0u Tr\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588137
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b97697862a1b4d4c76a1a644b98360d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781935,
+            "locality_id":1310641687,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1310641687,
+    "wof:lastmodified":1537714073,
+    "wof:name":"Bau Tram",
+    "wof:parent_id":1108781935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    11.53333,
+    106.38333,
+    11.53333
+],
+  "geometry": {"coordinates":[106.38333,11.53333],"type":"Point"}
+}

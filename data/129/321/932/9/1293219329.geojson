@@ -1,0 +1,67 @@
+{
+  "id": 1293219329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48333,17.91667,106.48333,17.91667",
+    "geom:latitude":17.91667,
+    "geom:longitude":106.48333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Chuc Mac",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585245,
+    "gn:latitude":17.91667,
+    "gn:longitude":106.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u00fac Mac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585245
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"496436c31b506c5a6917a28ac76b9013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781529,
+            "locality_id":1293219329,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1293219329,
+    "wof:lastmodified":1536676614,
+    "wof:name":"Chuc Mac",
+    "wof:parent_id":1108781529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48333,
+    17.91667,
+    106.48333,
+    17.91667
+],
+  "geometry": {"coordinates":[106.48333,17.91667],"type":"Point"}
+}

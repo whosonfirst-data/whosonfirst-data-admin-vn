@@ -1,0 +1,67 @@
+{
+  "id": 1344211089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,11.48333,105.93333,11.48333",
+    "geom:latitude":11.48333,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Cha Ruot",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585677,
+    "gn:latitude":11.48333,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ch\u00e0 Ru\u1ed1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585677
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75db513b0477cb8364e166144a3ba611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781933,
+            "locality_id":1344211089,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1344211089,
+    "wof:lastmodified":1536658492,
+    "wof:name":"Cha Ruot",
+    "wof:parent_id":1108781933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    11.48333,
+    105.93333,
+    11.48333
+],
+  "geometry": {"coordinates":[105.93333,11.48333],"type":"Point"}
+}

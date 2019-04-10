@@ -1,0 +1,71 @@
+{
+  "id": 1276453857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92979,22.31576,105.92979,22.31576",
+    "geom:latitude":22.31576,
+    "geom:longitude":105.92979,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Nam Nau",
+    "gn:country_code":"VN",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573326,
+    "gn:latitude":22.31576,
+    "gn:longitude":105.92979,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u1eadm N\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u1eadm N\u1ea7u",
+        "Nam Nao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573326
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ff2f2ed0fd4876799cf84b7302b24d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1276453857,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1276453857,
+    "wof:lastmodified":1537713867,
+    "wof:name":"Nam Nau",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92979,
+    22.31576,
+    105.92979,
+    22.31576
+],
+  "geometry": {"coordinates":[105.92979,22.31576],"type":"Point"}
+}

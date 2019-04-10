@@ -1,0 +1,71 @@
+{
+  "id": 1259498865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,11.8,107.16667,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu Rham",
+    "gn:country_code":"VN",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586743,
+    "gn:latitude":11.8,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Rham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bourham",
+        "Bu Rham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586743
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8d6ffec41113b34d004df6f9c7908fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1259498865,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1259498865,
+    "wof:lastmodified":1537714039,
+    "wof:name":"Bu Rham",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    11.8,
+    107.16667,
+    11.8
+],
+  "geometry": {"coordinates":[107.16667,11.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242884911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79959,21.91482,105.79959,21.91482",
+    "geom:latitude":21.91482,
+    "geom:longitude":105.79959,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Quang",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381986,
+    "gn:latitude":21.91482,
+    "gn:longitude":105.79959,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"N\u00e0 Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381986
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"531f1693d019182c9b628fd30140eef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1242884911,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242884911,
+    "wof:lastmodified":1537714305,
+    "wof:name":"Na Quang",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79959,
+    21.91482,
+    105.79959,
+    21.91482
+],
+  "geometry": {"coordinates":[105.79958999999999,21.91482],"type":"Point"}
+}

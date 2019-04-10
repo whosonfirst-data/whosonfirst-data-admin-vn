@@ -1,0 +1,74 @@
+{
+  "id": 1327045397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8507,22.53286,103.8507,22.53286",
+    "geom:latitude":22.53286,
+    "geom:longitude":103.8507,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lung Thang",
+    "gn:country_code":"VN",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575499,
+    "gn:latitude":22.53286,
+    "gn:longitude":103.8507,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"L\u00f9ng Th\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toung Tang",
+        "Loung Tang"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f9ng Th\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61bd848560935dd319f706213e73cf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1327045397,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327045397,
+    "wof:lastmodified":1537713894,
+    "wof:name":"Lung Thang",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8507,
+    22.53286,
+    103.8507,
+    22.53286
+],
+  "geometry": {"coordinates":[103.8507,22.53286],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209826181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38375,22.35135,105.38375,22.35135",
+    "geom:latitude":22.35135,
+    "geom:longitude":105.38375,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Goc Sau",
+    "gn:country_code":"VN",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309245,
+    "gn:latitude":22.35135,
+    "gn:longitude":105.38375,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"G\u1ed1c S\u1ea5u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "G\u1ed1c S\u1ea5u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309245
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7d8ee1911707eb891923bbff6b0176a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1209826181,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1209826181,
+    "wof:lastmodified":1537714251,
+    "wof:name":"Goc Sau",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38375,
+    22.35135,
+    105.38375,
+    22.35135
+],
+  "geometry": {"coordinates":[105.38375000000001,22.35135],"type":"Point"}
+}

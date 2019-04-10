@@ -1,0 +1,67 @@
+{
+  "id": 1309750831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,20.01667,105.98333,20.01667",
+    "geom:latitude":20.01667,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dong Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582852,
+    "gn:latitude":20.01667,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582852
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e355d9f8fb9a0dda9fe2cbb259415db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781431,
+            "locality_id":1309750831,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1309750831,
+    "wof:lastmodified":1537009596,
+    "wof:name":"Dong Kinh",
+    "wof:parent_id":1108781431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    20.01667,
+    105.98333,
+    20.01667
+],
+  "geometry": {"coordinates":[105.98333,20.01667],"type":"Point"}
+}

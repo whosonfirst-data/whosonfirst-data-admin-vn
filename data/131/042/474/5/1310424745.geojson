@@ -1,0 +1,70 @@
+{
+  "id": 1310424745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83346,10.08115,105.83346,10.08115",
+    "geom:latitude":10.08115,
+    "geom:longitude":105.83346,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Thuan Tien",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290499,
+    "gn:latitude":10.08115,
+    "gn:longitude":105.83346,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Thu\u1eadn Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thu\u1eadn Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea63a732c9891893be50083d43b1b10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782161,
+            "locality_id":1310424745,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1310424745,
+    "wof:lastmodified":1537714466,
+    "wof:name":"Thuan Tien",
+    "wof:parent_id":1108782161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83346,
+    10.08115,
+    105.83346,
+    10.08115
+],
+  "geometry": {"coordinates":[105.83346,10.08115],"type":"Point"}
+}

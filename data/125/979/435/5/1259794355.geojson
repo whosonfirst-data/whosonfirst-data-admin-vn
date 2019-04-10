@@ -1,0 +1,72 @@
+{
+  "id": 1259794355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,18.73333,105.66667,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Xom Yan Lac Hau",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560678,
+    "gn:latitude":18.73333,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Y\u00e2n L\u1ea1c H\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Lac Hau",
+        "Xom Yen Lac Hau",
+        "X\u00f3m Y\u00e2n L\u1ea1c H\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560678
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7db5dbbadcc6ba65f24c13b7fd8f30bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781485,
+            "locality_id":1259794355,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1259794355,
+    "wof:lastmodified":1537713667,
+    "wof:name":"Xom Yan Lac Hau",
+    "wof:parent_id":1108781485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    18.73333,
+    105.66667,
+    18.73333
+],
+  "geometry": {"coordinates":[105.66667,18.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327305013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,20.75,106.7,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Coc Lien",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585093,
+    "gn:latitude":20.75,
+    "gn:longitude":106.7,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"C\u1ed1c Li\u1ec5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585093
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6f879eb660506ee0f982d2f4f195ab7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781275,
+            "locality_id":1327305013,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1327305013,
+    "wof:lastmodified":1536863519,
+    "wof:name":"Coc Lien",
+    "wof:parent_id":1108781275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    20.75,
+    106.7,
+    20.75
+],
+  "geometry": {"coordinates":[106.7,20.75],"type":"Point"}
+}

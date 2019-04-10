@@ -1,0 +1,67 @@
+{
+  "id": 1343672445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.93333,13.46667,108.93333,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":108.93333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Lang Nung",
+    "gn:country_code":"VN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1576817,
+    "gn:latitude":13.46667,
+    "gn:longitude":108.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Nung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576817
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"54d96e56e283e5a5cddc505aba690598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1343672445,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1343672445,
+    "wof:lastmodified":1536938419,
+    "wof:name":"Lang Nung",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.93333,
+    13.46667,
+    108.93333,
+    13.46667
+],
+  "geometry": {"coordinates":[108.93333,13.46667],"type":"Point"}
+}

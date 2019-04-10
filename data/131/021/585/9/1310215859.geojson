@@ -1,0 +1,73 @@
+{
+  "id": 1310215859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.884,11.42131,108.884,11.42131",
+    "geom:latitude":11.42131,
+    "geom:longitude":108.884,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Quan The Hai",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8994014,
+    "gn:latitude":11.42131,
+    "gn:longitude":108.884,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Qu\u00e1n Th\u1ebb Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Qu\u00e1n Th\u1ebb Hai"
+    ],
+    "name:vie_x_variant":[
+        "Qu\u00e1n Th\u1ebb 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8994014
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b72ef3ae014c9ef27d88a12e813ebaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1310215859,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310215859,
+    "wof:lastmodified":1537714427,
+    "wof:name":"Quan The Hai",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.884,
+    11.42131,
+    108.884,
+    11.42131
+],
+  "geometry": {"coordinates":[108.884,11.42131],"type":"Point"}
+}

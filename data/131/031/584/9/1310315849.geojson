@@ -1,0 +1,71 @@
+{
+  "id": 1310315849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.18333,10.61667,107.18333,10.61667",
+    "geom:latitude":10.61667,
+    "geom:longitude":107.18333,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Xom La Van",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561335,
+    "gn:latitude":10.61667,
+    "gn:longitude":107.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m La V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La V\u00e2n",
+        "X\u00f3m La V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1de90809d142b7448e71741750193776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781995,
+            "locality_id":1310315849,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1310315849,
+    "wof:lastmodified":1537713683,
+    "wof:name":"Xom La Van",
+    "wof:parent_id":1108781995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.18333,
+    10.61667,
+    107.18333,
+    10.61667
+],
+  "geometry": {"coordinates":[107.18333,10.61667],"type":"Point"}
+}

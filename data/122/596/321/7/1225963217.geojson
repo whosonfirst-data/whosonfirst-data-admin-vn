@@ -1,0 +1,70 @@
+{
+  "id": 1225963217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53568,19.10009,105.53568,19.10009",
+    "geom:latitude":19.10009,
+    "geom:longitude":105.53568,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Tho Canh",
+    "gn:country_code":"VN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178463,
+    "gn:latitude":19.10009,
+    "gn:longitude":105.53568,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Th\u1ecd Canh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ecd Canh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178463
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f2fd7dd9e90818693f713bb4f45b9404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1225963217,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1225963217,
+    "wof:lastmodified":1537714603,
+    "wof:name":"Tho Canh",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53568,
+    19.10009,
+    105.53568,
+    19.10009
+],
+  "geometry": {"coordinates":[105.53568,19.10009],"type":"Point"}
+}

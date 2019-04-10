@@ -1,0 +1,70 @@
+{
+  "id": 1326836553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.70315,10.1669,106.70315,10.1669",
+    "geom:latitude":10.1669,
+    "geom:longitude":106.70315,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Binh Chien",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531816,
+    "gn:latitude":10.1669,
+    "gn:longitude":106.70315,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh Chi\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Chi\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531816
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e99521fcd7ffcefcf4c72ed5b32e8f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782123,
+            "locality_id":1326836553,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1326836553,
+    "wof:lastmodified":1537714473,
+    "wof:name":"Binh Chien",
+    "wof:parent_id":1108782123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.70315,
+    10.1669,
+    106.70315,
+    10.1669
+],
+  "geometry": {"coordinates":[106.70314999999999,10.1669],"type":"Point"}
+}

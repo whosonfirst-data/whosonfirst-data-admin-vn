@@ -1,0 +1,72 @@
+{
+  "id": 1293019981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,18.53333,105.85,18.53333",
+    "geom:latitude":18.53333,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nghi Loc",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572537,
+    "gn:latitude":18.53333,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nghi L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Ken",
+        "Nohi Loc",
+        "Nghi L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572537
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"21ba6354e5da673edaa03508ce6c145a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781507,
+            "locality_id":1293019981,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1293019981,
+    "wof:lastmodified":1537713857,
+    "wof:name":"Nghi Loc",
+    "wof:parent_id":1108781507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    18.53333,
+    105.85,
+    18.53333
+],
+  "geometry": {"coordinates":[105.84999999999999,18.53333],"type":"Point"}
+}

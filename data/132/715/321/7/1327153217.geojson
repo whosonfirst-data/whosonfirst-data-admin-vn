@@ -1,0 +1,67 @@
+{
+  "id": 1327153217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70556,9.625,105.70556,9.625",
+    "geom:latitude":9.625,
+    "geom:longitude":105.70556,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Long Qui",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593060,
+    "gn:latitude":9.625,
+    "gn:longitude":105.70556,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p Long Q\u1ee9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593060
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"93737952baff724e9c8d985d1f299b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782293,
+            "locality_id":1327153217,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1327153217,
+    "wof:lastmodified":1537080765,
+    "wof:name":"Ap Long Qui",
+    "wof:parent_id":1108782293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70556,
+    9.625,
+    105.70556,
+    9.625
+],
+  "geometry": {"coordinates":[105.70556000000001,9.625],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226261791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55243,21.40366,105.55243,21.40366",
+    "geom:latitude":21.40366,
+    "geom:longitude":105.55243,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Lung Hoang",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609240,
+    "gn:latitude":21.40366,
+    "gn:longitude":105.55243,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Lung Ho\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Lung Ho\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609240
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fe299625c963bcb56b806a1b0a460e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781203,
+            "locality_id":1226261791,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1226261791,
+    "wof:lastmodified":1537714369,
+    "wof:name":"Lung Hoang",
+    "wof:parent_id":1108781203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55243,
+    21.40366,
+    105.55243,
+    21.40366
+],
+  "geometry": {"coordinates":[105.55243,21.40366],"type":"Point"}
+}

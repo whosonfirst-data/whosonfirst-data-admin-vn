@@ -1,0 +1,67 @@
+{
+  "id": 1260193611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8405,22.46031,105.8405,22.46031",
+    "geom:latitude":22.46031,
+    "geom:longitude":105.8405,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Keo Ten",
+    "gn:country_code":"VN",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311590,
+    "gn:latitude":22.46031,
+    "gn:longitude":105.8405,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Keo T\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311590
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"622715ea1c21efd8a81c4e4add308fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1260193611,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1260193611,
+    "wof:lastmodified":1536832958,
+    "wof:name":"Keo Ten",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8405,
+    22.46031,
+    105.8405,
+    22.46031
+],
+  "geometry": {"coordinates":[105.84050000000001,22.46031],"type":"Point"}
+}

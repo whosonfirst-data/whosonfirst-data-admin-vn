@@ -1,0 +1,71 @@
+{
+  "id": 1326733689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,10.51667,105.55,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"My Hiep",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574151,
+    "gn:latitude":10.51667,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"M\u1ef9 Hi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u1ef9 Hi\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574151,
+        "wk:page":"M%E1%BB%B9_Hi%E1%BB%87p"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f91149b209d7a32c909326b1c0893ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782183,
+            "locality_id":1326733689,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1326733689,
+    "wof:lastmodified":1537713879,
+    "wof:name":"My Hiep",
+    "wof:parent_id":1108782183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    10.51667,
+    105.55,
+    10.51667
+],
+  "geometry": {"coordinates":[105.55,10.51667],"type":"Point"}
+}

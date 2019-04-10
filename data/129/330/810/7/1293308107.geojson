@@ -1,0 +1,67 @@
+{
+  "id": 1293308107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.55,15.08333,108.55,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":108.55,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Wi Baise",
+    "gn:country_code":"VN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562382,
+    "gn:latitude":15.08333,
+    "gn:longitude":108.55,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Wi Baise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562382
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"246c02217064bbc639c09e29e6c31b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1293308107,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1293308107,
+    "wof:lastmodified":1537043762,
+    "wof:name":"Wi Baise",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.55,
+    15.08333,
+    108.55,
+    15.08333
+],
+  "geometry": {"coordinates":[108.55,15.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343873707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70483,21.23695,105.70483,21.23695",
+    "geom:latitude":21.23695,
+    "geom:longitude":105.70483,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Phuc Yen",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1570656,
+    "gn:latitude":21.23695,
+    "gn:longitude":105.70483,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Ph\u00fac Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fac Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570656,
+        "wk:page":"Ph%C3%BAc_Y%C3%AAn"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b79ae062c010b938bd848dd095093d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781197,
+            "locality_id":1343873707,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1343873707,
+    "wof:lastmodified":1537713833,
+    "wof:name":"Phuc Yen",
+    "wof:parent_id":1108781197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70483,
+    21.23695,
+    105.70483,
+    21.23695
+],
+  "geometry": {"coordinates":[105.70483,21.23695],"type":"Point"}
+}

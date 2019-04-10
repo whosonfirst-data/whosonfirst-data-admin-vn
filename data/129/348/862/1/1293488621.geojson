@@ -1,0 +1,73 @@
+{
+  "id": 1293488621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29672,10.25063,106.29672,10.25063",
+    "geom:latitude":10.25063,
+    "geom:longitude":106.29672,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thanh Xuan Mot",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337654,
+    "gn:latitude":10.25063,
+    "gn:longitude":106.29672,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Thanh Xu\u00e2n M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh Xu\u00e2n M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Thanh Xu\u00e2n 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337654
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b6a42e61d479ab2f0116e93c5cc8dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1293488621,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293488621,
+    "wof:lastmodified":1537714280,
+    "wof:name":"Thanh Xuan Mot",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29672,
+    10.25063,
+    106.29672,
+    10.25063
+],
+  "geometry": {"coordinates":[106.29671999999999,10.25063],"type":"Point"}
+}

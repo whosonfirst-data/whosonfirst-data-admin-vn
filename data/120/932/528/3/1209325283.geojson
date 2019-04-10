@@ -1,0 +1,64 @@
+{
+  "id": 1209325283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.58745,15.17825,108.58745,15.17825",
+    "geom:latitude":15.17825,
+    "geom:longitude":108.58745,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ta Ngon",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8673464,
+    "gn:latitude":15.17825,
+    "gn:longitude":108.58745,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u00e0 Ngon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e0 Ngon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8673464
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"758d801442a09b25ea137ebf960396f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325283
+        }
+    ],
+    "wof:id":1209325283,
+    "wof:lastmodified":1537714401,
+    "wof:name":"Ta Ngon",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.58745,
+    15.17825,
+    108.58745,
+    15.17825
+],
+  "geometry": {"coordinates":[108.58745,15.17825],"type":"Point"}
+}

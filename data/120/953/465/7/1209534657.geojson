@@ -1,0 +1,61 @@
+{
+  "id": 1209534657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05661,21.21122,103.05661,21.21122",
+    "geom:latitude":21.21122,
+    "geom:longitude":103.05661,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Pa Hua",
+    "gn:country_code":"VN",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232155,
+    "gn:latitude":21.21122,
+    "gn:longitude":103.05661,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"P\u00e1 Hua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232155
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c7a7368c2bae73882b8ab67362e87aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534657
+        }
+    ],
+    "wof:id":1209534657,
+    "wof:lastmodified":1536284177,
+    "wof:name":"Pa Hua",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05661,
+    21.21122,
+    103.05661,
+    21.21122
+],
+  "geometry": {"coordinates":[103.05661000000001,21.21122],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276888955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3114,12.83386,108.3114,12.83386",
+    "geom:latitude":12.83386,
+    "geom:longitude":108.3114,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Lung Hai",
+    "gn:country_code":"VN",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262582,
+    "gn:latitude":12.83386,
+    "gn:longitude":108.3114,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Bu\u00f4n L\u00f9ng Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Bu\u00f4n L\u00f9ng Hai"
+    ],
+    "name:vie_x_variant":[
+        "Bu\u00f4n L\u00f9ng 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262582
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a2879d7d515fa33d822cec38cc4c1a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781835,
+            "locality_id":1276888955,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1276888955,
+    "wof:lastmodified":1537714657,
+    "wof:name":"Buon Lung Hai",
+    "wof:parent_id":1108781835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3114,
+    12.83386,
+    108.3114,
+    12.83386
+],
+  "geometry": {"coordinates":[108.31140000000001,12.83386],"type":"Point"}
+}

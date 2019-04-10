@@ -1,0 +1,67 @@
+{
+  "id": 1225963281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,20.91667,105.63333,20.91667",
+    "geom:latitude":20.91667,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Phuong Hai",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570063,
+    "gn:latitude":20.91667,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u01b0\u01a1ng H\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570063
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab70e62f41acec7d24ede0ca527c5e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780835,
+            "locality_id":1225963281,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1225963281,
+    "wof:lastmodified":1536842974,
+    "wof:name":"Phuong Hai",
+    "wof:parent_id":1108780835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    20.91667,
+    105.63333,
+    20.91667
+],
+  "geometry": {"coordinates":[105.63333,20.91667],"type":"Point"}
+}

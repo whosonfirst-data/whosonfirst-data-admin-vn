@@ -1,0 +1,71 @@
+{
+  "id": 1343680953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,13.48333,109.28333,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Duong",
+    "gn:country_code":"VN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570630,
+    "gn:latitude":13.48333,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u00fa D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binh Dong",
+        "Ph\u00fa D\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570630
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3bdb06d6f98dc5cc655d7aeb78ec231c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1343680953,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1343680953,
+    "wof:lastmodified":1537713832,
+    "wof:name":"Phu Duong",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    13.48333,
+    109.28333,
+    13.48333
+],
+  "geometry": {"coordinates":[109.28333000000001,13.48333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360240791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,12.25,108.45,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bon Lo Hir",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587466,
+    "gn:latitude":12.25,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bon L\u01a1 Hir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon La Hirr",
+        "Bon L\u01a1 Hir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587466
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c7cccab7e88d391fb3bfe607b772730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781891,
+            "locality_id":1360240791,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1360240791,
+    "wof:lastmodified":1537714064,
+    "wof:name":"Bon Lo Hir",
+    "wof:parent_id":1108781891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    12.25,
+    108.45,
+    12.25
+],
+  "geometry": {"coordinates":[108.45,12.25],"type":"Point"}
+}

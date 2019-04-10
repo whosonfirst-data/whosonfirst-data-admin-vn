@@ -1,0 +1,67 @@
+{
+  "id": 1259895367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,21.53333,106.25,21.53333",
+    "geom:latitude":21.53333,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Cho Phong",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585314,
+    "gn:latitude":21.53333,
+    "gn:longitude":106.25,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ch\u1ee3 Ph\u1ed5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585314
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"682154c9feaad19dd30a001954bed61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781101,
+            "locality_id":1259895367,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1259895367,
+    "wof:lastmodified":1536762227,
+    "wof:name":"Cho Phong",
+    "wof:parent_id":1108781101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    21.53333,
+    106.25,
+    21.53333
+],
+  "geometry": {"coordinates":[106.25,21.53333],"type":"Point"}
+}

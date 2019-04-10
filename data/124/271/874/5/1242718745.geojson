@@ -1,0 +1,70 @@
+{
+  "id": 1242718745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04299,20.53745,105.04299,20.53745",
+    "geom:latitude":20.53745,
+    "geom:longitude":105.04299,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thon Sai",
+    "gn:country_code":"VN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549705,
+    "gn:latitude":20.53745,
+    "gn:longitude":105.04299,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Th\u00f4n Sai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n Sai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549705
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc01a26be7a7628e9aa1dcc477f58e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781395,
+            "locality_id":1242718745,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242718745,
+    "wof:lastmodified":1537714343,
+    "wof:name":"Thon Sai",
+    "wof:parent_id":1108781395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04299,
+    20.53745,
+    105.04299,
+    20.53745
+],
+  "geometry": {"coordinates":[105.04299,20.53745],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193034931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.58333,14.18333,108.58333,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":108.58333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Van Cong",
+    "gn:country_code":"VN",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563152,
+    "gn:latitude":14.18333,
+    "gn:longitude":108.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0103n C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563152
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a564f7ba1db81edd06873624c3da76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781799,
+            "locality_id":1193034931,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1193034931,
+    "wof:lastmodified":1536382059,
+    "wof:name":"Van Cong",
+    "wof:parent_id":1108781799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.58333,
+    14.18333,
+    108.58333,
+    14.18333
+],
+  "geometry": {"coordinates":[108.58333,14.18333],"type":"Point"}
+}

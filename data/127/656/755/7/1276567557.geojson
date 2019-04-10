@@ -1,0 +1,75 @@
+{
+  "id": 1276567557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.38678,12.87778,108.38678,12.87778",
+    "geom:latitude":12.87778,
+    "geom:longitude":108.38678,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ho Sing",
+    "gn:country_code":"VN",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586988,
+    "gn:latitude":12.87778,
+    "gn:longitude":108.38678,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"H\u1ed3 Sing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sing",
+        "Buon Sing",
+        "Bu\u00f4n H\u00f4 Sing"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3 Sing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586988
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10b75052a638a7793b0dff2a71cfe3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781849,
+            "locality_id":1276567557,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1276567557,
+    "wof:lastmodified":1537714051,
+    "wof:name":"Ho Sing",
+    "wof:parent_id":1108781849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.38678,
+    12.87778,
+    108.38678,
+    12.87778
+],
+  "geometry": {"coordinates":[108.38678,12.87778],"type":"Point"}
+}

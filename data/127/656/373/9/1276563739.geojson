@@ -1,0 +1,74 @@
+{
+  "id": 1276563739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00416,21.17447,106.00416,21.17447",
+    "geom:latitude":21.17447,
+    "geom:longitude":106.00416,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Vinh Phuc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562649,
+    "gn:latitude":21.17447,
+    "gn:longitude":106.00416,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"V\u0129nh Ph\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinh Phu",
+        "V\u0129nh Ph\u1ee5c"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0129nh Ph\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562649
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8ed15d12b8b44c2a088816e55421be65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781223,
+            "locality_id":1276563739,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1276563739,
+    "wof:lastmodified":1537713710,
+    "wof:name":"Vinh Phuc",
+    "wof:parent_id":1108781223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00416,
+    21.17447,
+    106.00416,
+    21.17447
+],
+  "geometry": {"coordinates":[106.00416,21.17447],"type":"Point"}
+}

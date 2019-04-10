@@ -1,0 +1,71 @@
+{
+  "id": 1276398363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56667,21.33333,104.56667,21.33333",
+    "geom:latitude":21.33333,
+    "geom:longitude":104.56667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"San Ho",
+    "gn:country_code":"VN",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568094,
+    "gn:latitude":21.33333,
+    "gn:longitude":104.56667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"San Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ha",
+        "San Ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568094
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8bb284d60eb339c191cbcb99f32bed40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1276398363,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1276398363,
+    "wof:lastmodified":1537713795,
+    "wof:name":"San Ho",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56667,
+    21.33333,
+    104.56667,
+    21.33333
+],
+  "geometry": {"coordinates":[104.56667,21.33333],"type":"Point"}
+}

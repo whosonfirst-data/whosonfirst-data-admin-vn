@@ -1,0 +1,71 @@
+{
+  "id": 1343777529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.91667,11.58333,108.91667,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":108.91667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Chat Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565685,
+    "gn:latitude":11.58333,
+    "gn:longitude":108.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ch\u1ea5t Th\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chat Thuong",
+        "Th\u00f4n Ch\u1ea5t Th\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565685
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13456964fcd660fffd7c7bea920f9292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781735,
+            "locality_id":1343777529,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1343777529,
+    "wof:lastmodified":1537713764,
+    "wof:name":"Thon Chat Thuong",
+    "wof:parent_id":1108781735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.91667,
+    11.58333,
+    108.91667,
+    11.58333
+],
+  "geometry": {"coordinates":[108.91667,11.58333],"type":"Point"}
+}

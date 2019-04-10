@@ -1,0 +1,70 @@
+{
+  "id": 1193081703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01556,20.04987,105.01556,20.04987",
+    "geom:latitude":20.04987,
+    "geom:longitude":105.01556,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Chom Chieng",
+    "gn:country_code":"VN",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549793,
+    "gn:latitude":20.04987,
+    "gn:longitude":105.01556,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ch\u00f2m Chi\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u00f2m Chi\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549793
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34997cf1e559a28ad084d43969fd6eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1193081703,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193081703,
+    "wof:lastmodified":1537714344,
+    "wof:name":"Chom Chieng",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01556,
+    20.04987,
+    105.01556,
+    20.04987
+],
+  "geometry": {"coordinates":[105.01555999999999,20.04987],"type":"Point"}
+}

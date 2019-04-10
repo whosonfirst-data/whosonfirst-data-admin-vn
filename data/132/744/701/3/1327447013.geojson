@@ -1,0 +1,71 @@
+{
+  "id": 1327447013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.78333,12.31667,108.78333,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":108.78333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Nu Lan",
+    "gn:country_code":"VN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571760,
+    "gn:latitude":12.31667,
+    "gn:longitude":108.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nu Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nui Lao",
+        "Nu Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea0b47df20bc8d640bd0f82be8d97c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781729,
+            "locality_id":1327447013,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1327447013,
+    "wof:lastmodified":1537713847,
+    "wof:name":"Nu Lan",
+    "wof:parent_id":1108781729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.78333,
+    12.31667,
+    108.78333,
+    12.31667
+],
+  "geometry": {"coordinates":[108.78333000000001,12.31667],"type":"Point"}
+}

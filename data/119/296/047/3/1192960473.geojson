@@ -1,0 +1,67 @@
+{
+  "id": 1192960473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.75,15.8,107.75,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":107.75,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Londho",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575797,
+    "gn:latitude":15.8,
+    "gn:longitude":107.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Londho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575797
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c39f91716701c32997835cc92b17d859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781611,
+            "locality_id":1192960473,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1192960473,
+    "wof:lastmodified":1536366308,
+    "wof:name":"Londho",
+    "wof:parent_id":1108781611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.75,
+    15.8,
+    107.75,
+    15.8
+],
+  "geometry": {"coordinates":[107.75,15.8],"type":"Point"}
+}

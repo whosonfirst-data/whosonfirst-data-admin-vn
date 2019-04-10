@@ -1,0 +1,71 @@
+{
+  "id": 1343868927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03671,21.21282,106.03671,21.21282",
+    "geom:latitude":21.21282,
+    "geom:longitude":106.03671,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Yen Vien",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560039,
+    "gn:latitude":21.21282,
+    "gn:longitude":106.03671,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Y\u00ean Vi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Van",
+        "Y\u00ean Vi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560039
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79bb07c31ea9f6ff6848100e7180f226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781215,
+            "locality_id":1343868927,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1343868927,
+    "wof:lastmodified":1537713658,
+    "wof:name":"Yen Vien",
+    "wof:parent_id":1108781215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03671,
+    21.21282,
+    106.03671,
+    21.21282
+],
+  "geometry": {"coordinates":[106.03671,21.21282],"type":"Point"}
+}

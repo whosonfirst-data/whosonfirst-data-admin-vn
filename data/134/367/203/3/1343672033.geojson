@@ -1,0 +1,67 @@
+{
+  "id": 1343672033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71667,22.18333,104.71667,22.18333",
+    "geom:latitude":22.18333,
+    "geom:longitude":104.71667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tham Bac",
+    "gn:country_code":"VN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566289,
+    "gn:latitude":22.18333,
+    "gn:longitude":104.71667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Th\u1ea9m B\u1ea5c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566289
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55099aa461ed8a4f7833d0b889aab5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1343672033,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1343672033,
+    "wof:lastmodified":1536939008,
+    "wof:name":"Tham Bac",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71667,
+    22.18333,
+    104.71667,
+    22.18333
+],
+  "geometry": {"coordinates":[104.71666999999999,22.18333],"type":"Point"}
+}

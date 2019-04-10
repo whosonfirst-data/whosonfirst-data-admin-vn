@@ -1,0 +1,73 @@
+{
+  "id": 1260202249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77272,22.04491,105.77272,22.04491",
+    "geom:latitude":22.04491,
+    "geom:longitude":105.77272,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Keo",
+    "gn:country_code":"VN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590188,
+    "gn:latitude":22.04491,
+    "gn:longitude":105.77272,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u1ea3n K\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Keo"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n K\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590188
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c80a41fbec7d5402b71b99b0cd6e9eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1260202249,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1260202249,
+    "wof:lastmodified":1537714111,
+    "wof:name":"Ban Keo",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77272,
+    22.04491,
+    105.77272,
+    22.04491
+],
+  "geometry": {"coordinates":[105.77272000000001,22.04491],"type":"Point"}
+}

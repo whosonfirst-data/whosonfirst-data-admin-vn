@@ -1,0 +1,67 @@
+{
+  "id": 1343976933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71667,21.8,104.71667,21.8",
+    "geom:latitude":21.8,
+    "geom:longitude":104.71667,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Don Giao",
+    "gn:country_code":"VN",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582878,
+    "gn:latitude":21.8,
+    "gn:longitude":104.71667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00f4n Gi\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582878
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48ba6c3d6fea68a9835c4a62ecc50e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1343976933,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1343976933,
+    "wof:lastmodified":1536995450,
+    "wof:name":"Don Giao",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71667,
+    21.8,
+    104.71667,
+    21.8
+],
+  "geometry": {"coordinates":[104.71666999999999,21.8],"type":"Point"}
+}

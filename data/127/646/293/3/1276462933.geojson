@@ -1,0 +1,74 @@
+{
+  "id": 1276462933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97636,22.50008,105.97636,22.50008",
+    "geom:latitude":22.50008,
+    "geom:longitude":105.97636,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Hoang Phai",
+    "gn:country_code":"VN",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563000,
+    "gn:latitude":22.50008,
+    "gn:longitude":105.97636,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"Ho\u00e0ng Ph\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho\u00e0ng Phai",
+        "Van Phai"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng Ph\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563000
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e3551b868b0c358c5e61611913f9daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1276462933,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1276462933,
+    "wof:lastmodified":1537713715,
+    "wof:name":"Hoang Phai",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97636,
+    22.50008,
+    105.97636,
+    22.50008
+],
+  "geometry": {"coordinates":[105.97636,22.50008],"type":"Point"}
+}

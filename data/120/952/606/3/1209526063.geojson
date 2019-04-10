@@ -1,0 +1,64 @@
+{
+  "id": 1209526063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76747,21.83265,104.76747,21.83265",
+    "geom:latitude":21.83265,
+    "geom:longitude":104.76747,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Gat",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577387,
+    "gn:latitude":21.83265,
+    "gn:longitude":104.76747,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"L\u00e0ng G\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng G\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577387
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc607d0760f132dcd434a2d088fe80e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526063
+        }
+    ],
+    "wof:id":1209526063,
+    "wof:lastmodified":1537713923,
+    "wof:name":"Lang Gat",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76747,
+    21.83265,
+    104.76747,
+    21.83265
+],
+  "geometry": {"coordinates":[104.76747,21.83265],"type":"Point"}
+}

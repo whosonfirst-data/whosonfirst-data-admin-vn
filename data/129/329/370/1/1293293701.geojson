@@ -1,0 +1,73 @@
+{
+  "id": 1293293701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42284,9.96266,106.42284,9.96266",
+    "geom:latitude":9.96266,
+    "geom:longitude":106.42284,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xuong Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591657,
+    "gn:latitude":9.96266,
+    "gn:longitude":106.42284,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"X\u01b0\u01a1ng H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u01b0\u01a1ng H\u00f2a"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p X\u01b0\u01a1ng H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591657
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"80cc976096b78216b9c7d8425bb60ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1293293701,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293293701,
+    "wof:lastmodified":1537714139,
+    "wof:name":"Xuong Hoa",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42284,
+    9.96266,
+    106.42284,
+    9.96266
+],
+  "geometry": {"coordinates":[106.42283999999999,9.96266],"type":"Point"}
+}

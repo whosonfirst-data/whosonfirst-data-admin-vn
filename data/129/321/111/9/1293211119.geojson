@@ -1,0 +1,67 @@
+{
+  "id": 1293211119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03333,22.13333,105.03333,22.13333",
+    "geom:latitude":22.13333,
+    "geom:longitude":105.03333,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Bieu",
+    "gn:country_code":"VN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577750,
+    "gn:latitude":22.13333,
+    "gn:longitude":105.03333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Bi\u1ec3u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577750
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4fa7da52e1e6b203978ee8823d629968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780931,
+            "locality_id":1293211119,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293211119,
+    "wof:lastmodified":1536688463,
+    "wof:name":"Lang Bieu",
+    "wof:parent_id":1108780931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03333,
+    22.13333,
+    105.03333,
+    22.13333
+],
+  "geometry": {"coordinates":[105.03333000000001,22.13333],"type":"Point"}
+}

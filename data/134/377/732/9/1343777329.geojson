@@ -1,0 +1,67 @@
+{
+  "id": 1343777329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86667,17.15,106.86667,17.15",
+    "geom:latitude":17.15,
+    "geom:longitude":106.86667,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Nang Doan",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573057,
+    "gn:latitude":17.15,
+    "gn:longitude":106.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nang Do\u00e3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573057
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e694d6cc5ac8b722be44d1a8bb35c812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781535,
+            "locality_id":1343777329,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1343777329,
+    "wof:lastmodified":1536787016,
+    "wof:name":"Nang Doan",
+    "wof:parent_id":1108781535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86667,
+    17.15,
+    106.86667,
+    17.15
+],
+  "geometry": {"coordinates":[106.86667,17.15],"type":"Point"}
+}

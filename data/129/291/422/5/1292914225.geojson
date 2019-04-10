@@ -1,0 +1,67 @@
+{
+  "id": 1292914225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,21.15,105.9,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ha Vi",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580998,
+    "gn:latitude":21.15,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ha V\u0129",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580998
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"117ceede63d7023bd14cad94f11dd705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780807,
+            "locality_id":1292914225,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1292914225,
+    "wof:lastmodified":1536617103,
+    "wof:name":"Ha Vi",
+    "wof:parent_id":1108780807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    21.15,
+    105.9,
+    21.15
+],
+  "geometry": {"coordinates":[105.90000000000001,21.15],"type":"Point"}
+}

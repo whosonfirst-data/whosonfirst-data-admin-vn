@@ -1,0 +1,70 @@
+{
+  "id": 1243565305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21773,21.00257,106.21773,21.00257",
+    "geom:latitude":21.00257,
+    "geom:longitude":106.21773,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Thien Loc",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871760,
+    "gn:latitude":21.00257,
+    "gn:longitude":106.21773,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Thi\u00ean L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thi\u00ean L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0222952920c7485949172076628af1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1243565305,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1243565305,
+    "wof:lastmodified":1537714545,
+    "wof:name":"Thien Loc",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21773,
+    21.00257,
+    106.21773,
+    21.00257
+],
+  "geometry": {"coordinates":[106.21773,21.00257],"type":"Point"}
+}

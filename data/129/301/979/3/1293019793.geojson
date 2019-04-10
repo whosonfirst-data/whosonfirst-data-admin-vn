@@ -1,0 +1,73 @@
+{
+  "id": 1293019793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.01953,17.10485,107.01953,17.10485",
+    "geom:latitude":17.10485,
+    "geom:longitude":107.01953,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Tay Hai",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321465,
+    "gn:latitude":17.10485,
+    "gn:longitude":107.01953,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"T\u00e2y Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2y Hai"
+    ],
+    "name:vie_x_variant":[
+        "T\u00e2y 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321465
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd14bd828b737d7a9ed97713e2ba995b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1293019793,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1293019793,
+    "wof:lastmodified":1537714700,
+    "wof:name":"Tay Hai",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.01953,
+    17.10485,
+    107.01953,
+    17.10485
+],
+  "geometry": {"coordinates":[107.01953,17.10485],"type":"Point"}
+}

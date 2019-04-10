@@ -1,0 +1,73 @@
+{
+  "id": 1360004881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79654,21.88726,102.79654,21.88726",
+    "geom:latitude":21.88726,
+    "geom:longitude":102.79654,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Nam Tin Ba",
+    "gn:country_code":"VN",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425719,
+    "gn:latitude":21.88726,
+    "gn:longitude":102.79654,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"N\u1eadm Tin Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Tin Ba"
+    ],
+    "name:vie_x_variant":[
+        "N\u1eadm Tin 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9906b8c38ece0ba09bb3d8700dee3238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780975,
+            "locality_id":1360004881,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1360004881,
+    "wof:lastmodified":1537714309,
+    "wof:name":"Nam Tin Ba",
+    "wof:parent_id":1108780975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79654,
+    21.88726,
+    102.79654,
+    21.88726
+],
+  "geometry": {"coordinates":[102.79653999999999,21.88726],"type":"Point"}
+}

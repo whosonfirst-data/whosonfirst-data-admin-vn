@@ -1,0 +1,71 @@
+{
+  "id": 1343777341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,19.35,105.28333,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Mo Ap",
+    "gn:country_code":"VN",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574576,
+    "gn:latitude":19.35,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u00f4 \u1ea4p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ke Mo Ap",
+        "M\u00f4 \u1ea4p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574576
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"035e2e2cc666e5f048aefdc8da6bb63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781465,
+            "locality_id":1343777341,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343777341,
+    "wof:lastmodified":1537713885,
+    "wof:name":"Mo Ap",
+    "wof:parent_id":1108781465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    19.35,
+    105.28333,
+    19.35
+],
+  "geometry": {"coordinates":[105.28333000000001,19.35],"type":"Point"}
+}

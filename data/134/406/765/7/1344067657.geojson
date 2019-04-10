@@ -1,0 +1,71 @@
+{
+  "id": 1344067657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.55,16.5,107.55,16.5",
+    "geom:latitude":16.5,
+    "geom:longitude":107.55,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Trieu Son Trung",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565255,
+    "gn:latitude":16.5,
+    "gn:longitude":107.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Tri\u1ec1u S\u01a1n Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trieu Son Trung",
+        "Th\u00f4n Tri\u1ec1u S\u01a1n Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565255
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d424b6e05068d8434eb3865cb8b77f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781557,
+            "locality_id":1344067657,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1344067657,
+    "wof:lastmodified":1537713745,
+    "wof:name":"Thon Trieu Son Trung",
+    "wof:parent_id":1108781557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.55,
+    16.5,
+    107.55,
+    16.5
+],
+  "geometry": {"coordinates":[107.55,16.5],"type":"Point"}
+}

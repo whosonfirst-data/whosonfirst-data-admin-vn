@@ -1,0 +1,70 @@
+{
+  "id": 1243356287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41864,22.80404,105.41864,22.80404",
+    "geom:latitude":22.80404,
+    "geom:longitude":105.41864,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Na Luong",
+    "gn:country_code":"VN",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538284,
+    "gn:latitude":22.80404,
+    "gn:longitude":105.41864,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"N\u00e0 Lu\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Lu\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538284
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d7fc3489d72266bdab3ccf54221a610f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1243356287,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1243356287,
+    "wof:lastmodified":1537714335,
+    "wof:name":"Na Luong",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41864,
+    22.80404,
+    105.41864,
+    22.80404
+],
+  "geometry": {"coordinates":[105.41864,22.80404],"type":"Point"}
+}

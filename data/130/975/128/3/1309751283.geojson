@@ -1,0 +1,70 @@
+{
+  "id": 1309751283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11274,11.70351,106.11274,11.70351",
+    "geom:latitude":11.70351,
+    "geom:longitude":106.11274,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Tan Lam",
+    "gn:country_code":"VN",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9081378,
+    "gn:latitude":11.70351,
+    "gn:longitude":106.11274,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"T\u00e2n L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9081378
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89db6bc791cceb7c6ed15a4b050101d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781935,
+            "locality_id":1309751283,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1309751283,
+    "wof:lastmodified":1537714446,
+    "wof:name":"Tan Lam",
+    "wof:parent_id":1108781935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11274,
+    11.70351,
+    106.11274,
+    11.70351
+],
+  "geometry": {"coordinates":[106.11274,11.70351],"type":"Point"}
+}

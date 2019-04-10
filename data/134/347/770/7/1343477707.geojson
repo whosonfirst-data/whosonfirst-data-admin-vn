@@ -1,0 +1,70 @@
+{
+  "id": 1343477707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.14803,10.9753,107.14803,10.9753",
+    "geom:latitude":10.9753,
+    "geom:longitude":107.14803,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Le Loi",
+    "gn:country_code":"VN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075872,
+    "gn:latitude":10.9753,
+    "gn:longitude":107.14803,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00ea L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00ea L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075872
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea28438fe628656fbaa9bb5314c9023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781981,
+            "locality_id":1343477707,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1343477707,
+    "wof:lastmodified":1537714435,
+    "wof:name":"Le Loi",
+    "wof:parent_id":1108781981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.14803,
+    10.9753,
+    107.14803,
+    10.9753
+],
+  "geometry": {"coordinates":[107.14803000000001,10.9753],"type":"Point"}
+}

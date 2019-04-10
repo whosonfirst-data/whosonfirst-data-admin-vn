@@ -1,0 +1,67 @@
+{
+  "id": 1309924587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.01667,14.8,109.01667,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":109.01667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Thanh Gieng",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566180,
+    "gn:latitude":14.8,
+    "gn:longitude":109.01667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Thanh Gi\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566180
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"93154fcfeb892835491fc8856b71e50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781659,
+            "locality_id":1309924587,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1309924587,
+    "wof:lastmodified":1536760079,
+    "wof:name":"Thanh Gieng",
+    "wof:parent_id":1108781659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.01667,
+    14.8,
+    109.01667,
+    14.8
+],
+  "geometry": {"coordinates":[109.01667,14.8],"type":"Point"}
+}

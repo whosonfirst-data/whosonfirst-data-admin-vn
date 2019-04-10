@@ -1,0 +1,67 @@
+{
+  "id": 1326685847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.46667,11.71667,108.46667,11.71667",
+    "geom:latitude":11.71667,
+    "geom:longitude":108.46667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tarklette",
+    "gn:country_code":"VN",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566658,
+    "gn:latitude":11.71667,
+    "gn:longitude":108.46667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tarklette",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566658
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f443802cd2f8df2adfcda526ad736b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781895,
+            "locality_id":1326685847,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1326685847,
+    "wof:lastmodified":1536763039,
+    "wof:name":"Tarklette",
+    "wof:parent_id":1108781895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.46667,
+    11.71667,
+    108.46667,
+    11.71667
+],
+  "geometry": {"coordinates":[108.46666999999999,11.71667],"type":"Point"}
+}

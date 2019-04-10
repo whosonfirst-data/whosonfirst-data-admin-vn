@@ -1,0 +1,73 @@
+{
+  "id": 1343321191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0768,21.56501,104.0768,21.56501",
+    "geom:latitude":21.56501,
+    "geom:longitude":104.0768,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Huoi Hoc",
+    "gn:country_code":"VN",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590373,
+    "gn:latitude":21.56501,
+    "gn:longitude":104.0768,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Hu\u1ed5i H\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n H\u1ed1c"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Hu\u1ed5i H\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590373
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02244ddc563af06f3c9750ba602e0e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1343321191,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1343321191,
+    "wof:lastmodified":1537714116,
+    "wof:name":"Ban Huoi Hoc",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0768,
+    21.56501,
+    104.0768,
+    21.56501
+],
+  "geometry": {"coordinates":[104.07680000000001,21.56501],"type":"Point"}
+}

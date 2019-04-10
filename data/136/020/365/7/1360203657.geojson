@@ -1,0 +1,74 @@
+{
+  "id": 1360203657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.56719,11.17236,108.56719,11.17236",
+    "geom:latitude":11.17236,
+    "geom:longitude":108.56719,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Phan Ri Cua",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571065,
+    "gn:latitude":11.17236,
+    "gn:longitude":108.56719,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Phan R\u00ed C\u1eeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Long H\u00e0",
+        "Phan R\u00ed"
+    ],
+    "name:vie_x_preferred":[
+        "Phan R\u00ed C\u1eeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571065
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68b6a30751d0427dd00b4d5ee1078fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781755,
+            "locality_id":1360203657,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1360203657,
+    "wof:lastmodified":1537713840,
+    "wof:name":"Phan Ri Cua",
+    "wof:parent_id":1108781755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.56719,
+    11.17236,
+    108.56719,
+    11.17236
+],
+  "geometry": {"coordinates":[108.56719,11.17236],"type":"Point"}
+}

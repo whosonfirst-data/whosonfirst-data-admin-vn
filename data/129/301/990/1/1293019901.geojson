@@ -1,0 +1,71 @@
+{
+  "id": 1293019901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.68939,22.07627,106.68939,22.07627",
+    "geom:latitude":22.07627,
+    "geom:longitude":106.68939,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Pan Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589094,
+    "gn:latitude":22.07627,
+    "gn:longitude":106.68939,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n P\u00e0n Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n P\u00e0n Ph\u01b0\u1edbc",
+        "B\u1ea3n Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589094
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c89ee7479a1ba8c4280ad9761027fd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1293019901,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1293019901,
+    "wof:lastmodified":1537714090,
+    "wof:name":"Ban Pan Phuoc",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.68939,
+    22.07627,
+    106.68939,
+    22.07627
+],
+  "geometry": {"coordinates":[106.68939,22.07627],"type":"Point"}
+}

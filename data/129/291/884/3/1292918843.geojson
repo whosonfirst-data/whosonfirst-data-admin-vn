@@ -1,0 +1,70 @@
+{
+  "id": 1292918843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.67287,10.97572,106.67287,10.97572",
+    "geom:latitude":10.97572,
+    "geom:longitude":106.67287,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Vinh Son",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336001,
+    "gn:latitude":10.97572,
+    "gn:longitude":106.67287,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Vinh S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vinh S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336001
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c745792d6d269e7db44bf6e17342a750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781951,
+            "locality_id":1292918843,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1292918843,
+    "wof:lastmodified":1537714274,
+    "wof:name":"Vinh Son",
+    "wof:parent_id":1108781951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.67287,
+    10.97572,
+    106.67287,
+    10.97572
+],
+  "geometry": {"coordinates":[106.67287,10.97572],"type":"Point"}
+}

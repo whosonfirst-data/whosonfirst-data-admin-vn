@@ -1,0 +1,70 @@
+{
+  "id": 1226461555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89478,21.11824,105.89478,21.11824",
+    "geom:latitude":21.11824,
+    "geom:longitude":105.89478,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Duc Tu",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582274,
+    "gn:latitude":21.11824,
+    "gn:longitude":105.89478,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"D\u1ee5c T\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u1ee5c T\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582274
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bc1c27a2feb77dd6ad936a73064853a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780807,
+            "locality_id":1226461555,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1226461555,
+    "wof:lastmodified":1537713986,
+    "wof:name":"Duc Tu",
+    "wof:parent_id":1108780807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89478,
+    21.11824,
+    105.89478,
+    21.11824
+],
+  "geometry": {"coordinates":[105.89478,21.11824],"type":"Point"}
+}

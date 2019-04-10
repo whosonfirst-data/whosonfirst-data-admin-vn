@@ -1,0 +1,71 @@
+{
+  "id": 1360203733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,18.73333,105.78333,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Lang Song",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576639,
+    "gn:latitude":18.73333,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Sang",
+        "L\u00e0ng Song"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576639
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e6dddce9df0e62e491aff3398ff8d384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781507,
+            "locality_id":1360203733,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360203733,
+    "wof:lastmodified":1537713910,
+    "wof:name":"Lang Song",
+    "wof:parent_id":1108781507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    18.73333,
+    105.78333,
+    18.73333
+],
+  "geometry": {"coordinates":[105.78333000000001,18.73333],"type":"Point"}
+}

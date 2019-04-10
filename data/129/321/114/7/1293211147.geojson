@@ -1,0 +1,74 @@
+{
+  "id": 1293211147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52616,11.80374,106.52616,11.80374",
+    "geom:latitude":11.80374,
+    "geom:longitude":106.52616,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ta Te",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570375,
+    "gn:latitude":11.80374,
+    "gn:longitude":106.52616,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"T\u00e0 T\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Talee",
+        "Phum Tat\u00e9e"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e0 T\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570375
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0be2f62552a07f2dfabc7ba2a21cc78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781915,
+            "locality_id":1293211147,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1293211147,
+    "wof:lastmodified":1537713828,
+    "wof:name":"Ta Te",
+    "wof:parent_id":1108781915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52616,
+    11.80374,
+    106.52616,
+    11.80374
+],
+  "geometry": {"coordinates":[106.52616,11.80374],"type":"Point"}
+}

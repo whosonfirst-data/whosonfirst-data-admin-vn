@@ -1,0 +1,73 @@
+{
+  "id": 1326849261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.17142,11.66176,109.17142,11.66176",
+    "geom:latitude":11.66176,
+    "geom:longitude":109.17142,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thai An",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565307,
+    "gn:latitude":11.66176,
+    "gn:longitude":109.17142,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Th\u00e1i An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n Th\u00e1i An"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e1i An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565307
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bad4394a28a56f9c5246d173416854f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1326849261,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1326849261,
+    "wof:lastmodified":1537713748,
+    "wof:name":"Thai An",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.17142,
+    11.66176,
+    109.17142,
+    11.66176
+],
+  "geometry": {"coordinates":[109.17142,11.66176],"type":"Point"}
+}

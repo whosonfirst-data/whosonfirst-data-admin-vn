@@ -1,0 +1,64 @@
+{
+  "id": 1209015165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84692,17.92972,105.84692,17.92972",
+    "geom:latitude":17.92972,
+    "geom:longitude":105.84692,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Kien Trinh",
+    "gn:country_code":"VN",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646691,
+    "gn:latitude":17.92972,
+    "gn:longitude":105.84692,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"Ki\u00ean Trinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ki\u00ean Trinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646691
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"84be5d6b016259f40ef313c7204538ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015165
+        }
+    ],
+    "wof:id":1209015165,
+    "wof:lastmodified":1537714389,
+    "wof:name":"Kien Trinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84692,
+    17.92972,
+    105.84692,
+    17.92972
+],
+  "geometry": {"coordinates":[105.84692,17.92972],"type":"Point"}
+}

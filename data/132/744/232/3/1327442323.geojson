@@ -1,0 +1,67 @@
+{
+  "id": 1327442323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36667,21.8,106.36667,21.8",
+    "geom:latitude":21.8,
+    "geom:longitude":106.36667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Sa Lon",
+    "gn:country_code":"VN",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568178,
+    "gn:latitude":21.8,
+    "gn:longitude":106.36667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Sa Lon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568178
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"959d13f36167d93d713d7798277612a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1327442323,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1327442323,
+    "wof:lastmodified":1536666426,
+    "wof:name":"Sa Lon",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36667,
+    21.8,
+    106.36667,
+    21.8
+],
+  "geometry": {"coordinates":[106.36667,21.8],"type":"Point"}
+}

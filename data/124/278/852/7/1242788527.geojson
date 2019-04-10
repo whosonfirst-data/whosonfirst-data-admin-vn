@@ -1,0 +1,67 @@
+{
+  "id": 1242788527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83131,22.34301,105.83131,22.34301",
+    "geom:latitude":22.34301,
+    "geom:longitude":105.83131,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Coc Sau",
+    "gn:country_code":"VN",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311528,
+    "gn:latitude":22.34301,
+    "gn:longitude":105.83131,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u00f3c S\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311528
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb2c93701dff2e9c051ef1feeee3c204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1242788527,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242788527,
+    "wof:lastmodified":1536759950,
+    "wof:name":"Coc Sau",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83131000000002,
+    22.34301,
+    105.83131000000002,
+    22.34301
+],
+  "geometry": {"coordinates":[105.83131000000002,22.34301],"type":"Point"}
+}

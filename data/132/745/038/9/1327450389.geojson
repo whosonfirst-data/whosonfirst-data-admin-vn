@@ -1,0 +1,67 @@
+{
+  "id": 1327450389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66667,18.53333,105.66667,18.53333",
+    "geom:latitude":18.53333,
+    "geom:longitude":105.66667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Quang Chiem",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568833,
+    "gn:latitude":18.53333,
+    "gn:longitude":105.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Quang Chi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73283cd820b8d3ef9bc3540e8a44dea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1327450389,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1327450389,
+    "wof:lastmodified":1536654780,
+    "wof:name":"Quang Chiem",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66667,
+    18.53333,
+    105.66667,
+    18.53333
+],
+  "geometry": {"coordinates":[105.66667,18.53333],"type":"Point"}
+}

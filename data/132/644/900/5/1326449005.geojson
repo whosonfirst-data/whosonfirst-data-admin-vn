@@ -1,0 +1,67 @@
+{
+  "id": 1326449005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,18.68333,105.78333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tran Xa",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563984,
+    "gn:latitude":18.68333,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u1ea7n X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563984
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f32f5b76f35f352d5cc21b2896ffccf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781507,
+            "locality_id":1326449005,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1326449005,
+    "wof:lastmodified":1536603922,
+    "wof:name":"Tran Xa",
+    "wof:parent_id":1108781507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    18.68333,
+    105.78333,
+    18.68333
+],
+  "geometry": {"coordinates":[105.78333000000001,18.68333],"type":"Point"}
+}

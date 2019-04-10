@@ -1,0 +1,72 @@
+{
+  "id": 1226664991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06667,21.88333,106.06667,21.88333",
+    "geom:latitude":21.88333,
+    "geom:longitude":106.06667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Nghinh Tuong",
+    "gn:country_code":"VN",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572535,
+    "gn:latitude":21.88333,
+    "gn:longitude":106.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nghinh T\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nginh Thong",
+        "Nginh Tuong",
+        "Nghinh T\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572535
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f11d2f20c824fea8edb6f5f8e094a3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781077,
+            "locality_id":1226664991,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1226664991,
+    "wof:lastmodified":1537713857,
+    "wof:name":"Nghinh Tuong",
+    "wof:parent_id":1108781077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06667,
+    21.88333,
+    106.06667,
+    21.88333
+],
+  "geometry": {"coordinates":[106.06667,21.88333],"type":"Point"}
+}

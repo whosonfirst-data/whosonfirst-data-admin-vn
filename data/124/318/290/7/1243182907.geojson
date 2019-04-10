@@ -1,0 +1,74 @@
+{
+  "id": 1243182907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81136,22.58867,103.81136,22.58867",
+    "geom:latitude":22.58867,
+    "geom:longitude":103.81136,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban San Ta Ho",
+    "gn:country_code":"VN",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568081,
+    "gn:latitude":22.58867,
+    "gn:longitude":103.81136,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n San T\u1ea3 Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sen Tao Ho",
+        "San Tao H\u1ed3"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n San T\u1ea3 Ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568081
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"256c08345f5d22085885316b2aca51d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1243182907,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243182907,
+    "wof:lastmodified":1537713795,
+    "wof:name":"Ban San Ta Ho",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81136,
+    22.58867,
+    103.81136,
+    22.58867
+],
+  "geometry": {"coordinates":[103.81135999999999,22.58867],"type":"Point"}
+}

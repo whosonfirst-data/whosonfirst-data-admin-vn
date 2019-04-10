@@ -1,0 +1,70 @@
+{
+  "id": 1343780985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26027,21.29857,105.26027,21.29857",
+    "geom:latitude":21.29857,
+    "geom:longitude":105.26027,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Danh Huu",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200656,
+    "gn:latitude":21.29857,
+    "gn:longitude":105.26027,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Danh H\u1ef1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Danh H\u1ef1u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200656
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d0dcb8dfd24bd44ac9acfa7c2a59de1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781187,
+            "locality_id":1343780985,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343780985,
+    "wof:lastmodified":1537714236,
+    "wof:name":"Danh Huu",
+    "wof:parent_id":1108781187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26027,
+    21.29857,
+    105.26027,
+    21.29857
+],
+  "geometry": {"coordinates":[105.26027000000001,21.29857],"type":"Point"}
+}

@@ -1,0 +1,205 @@
+{
+  "id": 1108782093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005924,
+    "geom:area_square_m":72055643.696789,
+    "geom:bbox":"106.305303792,10.3298766146,106.41406195,10.4063280409",
+    "geom:latitude":10.36813,
+    "geom:longitude":106.356298,
+    "iso:country":"VN",
+    "lbl:latitude":10.368728,
+    "lbl:longitude":106.35629,
+    "meso:admin_1":"Tien Giang",
+    "meso:gadm_admin":"M\u1ef9 Tho",
+    "meso:gadm_hasc2":"VN.TG.MT",
+    "meso:gaul_adm2":"My Tho City",
+    "meso:local_id":"82815",
+    "meso:mps_x":106.35629,
+    "meso:mps_y":10.368728,
+    "meso:name_en":"My Tho",
+    "meso:source":"AOTM",
+    "mps:latitude":10.368728,
+    "mps:longitude":106.35629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a \u062b\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0987 \u09a4\u09cb\u0981"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f8e\u8429\u5e02"
+    ],
+    "name:dan_x_preferred":[
+        "My Tho"
+    ],
+    "name:dut_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:eng_x_preferred":[
+        "My Tho"
+    ],
+    "name:fin_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:fre_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:ger_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9 \u0398\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac0 \u0aa5\u0acb"
+    ],
+    "name:hak_x_preferred":[
+        "M\u00ee-tshiu-s\u1e73"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f \u0925\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:ita_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c8\u30fc"
+    ],
+    "name:kal_x_preferred":[
+        "My Tho"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc0\u0ca5\u0ccb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ud1a0"
+    ],
+    "name:lav_x_preferred":[
+        "Mita"
+    ],
+    "name:lit_x_preferred":[
+        "Mitas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u092e \u0925\u094b"
+    ],
+    "name:may_x_preferred":[
+        "My Tho"
+    ],
+    "name:nob_x_preferred":[
+        "My Tho"
+    ],
+    "name:oci_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc \u062a\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:por_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0445\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dba\u0dd2 \u0dad\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438 \u0422\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "My Tho"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc8 \u0ba4\u0bca"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c48 \u0c24\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e35\u0e17\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "My Tho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0442\u0445\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0626\u06cc \u062a\u06be\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ef9 Tho"
+    ],
+    "name:war_x_preferred":[
+        "My Tho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"48",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"My Tho",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.TG",
+    "statoids:name":"My Tho",
+    "statoids:population":"166960",
+    "statoids:statoid":"VN.TG.MT",
+    "statoids:timezone":"7",
+    "statoids:type":"city",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q33425"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741731,
+    "wof:geomhash":"9570e3458190a9e08563a925b2abbb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782093,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1108782093,
+    "wof:lastmodified":1514502711,
+    "wof:name":"My Tho",
+    "wof:parent_id":85680739,
+    "wof:placetype":"county",
+    "wof:placetype_local":"city",
+    "wof:population":166960,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30530379202983,
+    10.32987661460186,
+    106.414061950426,
+    10.40632804086811
+],
+  "geometry": {"coordinates":[[[106.3505868168604,10.40072259481886],[106.3535802872904,10.39987407247703],[106.36111054927618,10.40454522948021],[106.37143358079565,10.40029984764397],[106.3769794127445,10.40632804086811],[106.38547740708515,10.40277459887142],[106.3864884779353,10.39746467426077],[106.39339887811366,10.39085315449825],[106.40272072184307,10.39474168588102],[106.40503973017441,10.39397714849256],[106.40651686079816,10.38293852625865],[106.40344899692259,10.37838753874125],[106.40527804739074,10.3683170485985],[106.40557185535896,10.36814821678868],[106.40928780698162,10.36068969784033],[106.41094794989138,10.35982337955177],[106.414061950426,10.3550000067113],[106.4128670124451,10.34808132151397],[106.410377959608,10.34497597768783],[106.40371395345502,10.34436905752706],[106.39924452944005,10.33472920486418],[106.38159210480724,10.3444305812658],[106.38123478846283,10.34544091902059],[106.37093277668315,10.34910536734681],[106.35533579908912,10.33504125582649],[106.34999999999914,10.33449412869326],[106.33996351877025,10.34],[106.33748263010231,10.34],[106.32799286924268,10.32987661460186],[106.30888050427299,10.33777324422475],[106.30866599322566,10.34082289812114],[106.31088172260559,10.34894132530471],[106.30530379202983,10.35323294494],[106.3067550811198,10.37],[106.30678188200895,10.3700149125164],[106.30554934100647,10.38326749235365],[106.30793573003282,10.38906625827819],[106.31265845114123,10.39052329068748],[106.31508275607814,10.39935110502583],[106.32920897804311,10.4030395364069],[106.33211919910133,10.39077405352365],[106.34207198550217,10.39049367483177],[106.3505868168604,10.40072259481886]]],"type":"Polygon"}
+}

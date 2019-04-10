@@ -1,0 +1,70 @@
+{
+  "id": 1209929833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61105,18.49664,105.61105,18.49664",
+    "geom:latitude":18.49664,
+    "geom:longitude":105.61105,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hoa Ich",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353979,
+    "gn:latitude":18.49664,
+    "gn:longitude":105.61105,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Hoa Ich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hoa Ich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353979
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d0cbb63f18732b41b4158e7ed44e2d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1209929833,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1209929833,
+    "wof:lastmodified":1537714703,
+    "wof:name":"Hoa Ich",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61105,
+    18.49664,
+    105.61105,
+    18.49664
+],
+  "geometry": {"coordinates":[105.61105000000001,18.49664],"type":"Point"}
+}

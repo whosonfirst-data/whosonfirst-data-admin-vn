@@ -1,0 +1,70 @@
+{
+  "id": 1209933229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90515,16.78225,106.90515,16.78225",
+    "geom:latitude":16.78225,
+    "geom:longitude":106.90515,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Cam Phu",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650850,
+    "gn:latitude":16.78225,
+    "gn:longitude":106.90515,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Cam Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Cam Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650850
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"805c9aab9354f9a9c6de635127b68aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781551,
+            "locality_id":1209933229,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1209933229,
+    "wof:lastmodified":1537714391,
+    "wof:name":"Cam Phu",
+    "wof:parent_id":1108781551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90515,
+    16.78225,
+    106.90515,
+    16.78225
+],
+  "geometry": {"coordinates":[106.90515000000001,16.78225],"type":"Point"}
+}

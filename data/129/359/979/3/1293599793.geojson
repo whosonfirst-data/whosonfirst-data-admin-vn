@@ -1,0 +1,70 @@
+{
+  "id": 1293599793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.14495,12.6919,108.14495,12.6919",
+    "geom:latitude":12.6919,
+    "geom:longitude":108.14495,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Hoa Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177829,
+    "gn:latitude":12.6919,
+    "gn:longitude":108.14495,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"H\u00f2a Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177829
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"27ca00f319ef30193c360d83255b9946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781857,
+            "locality_id":1293599793,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293599793,
+    "wof:lastmodified":1537714584,
+    "wof:name":"Hoa Thanh",
+    "wof:parent_id":1108781857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.14495,
+    12.6919,
+    108.14495,
+    12.6919
+],
+  "geometry": {"coordinates":[108.14494999999999,12.6919],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310324029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71667,22.15,103.71667,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":103.71667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Louc",
+    "gn:country_code":"VN",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573370,
+    "gn:latitude":22.15,
+    "gn:longitude":103.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Louc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573370
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1cad4e9095577f57c7647cbd6b31c21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1310324029,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310324029,
+    "wof:lastmodified":1536681211,
+    "wof:name":"Nam Louc",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71667,
+    22.15,
+    103.71667,
+    22.15
+],
+  "geometry": {"coordinates":[103.71666999999999,22.15],"type":"Point"}
+}

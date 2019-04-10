@@ -1,0 +1,73 @@
+{
+  "id": 1310616483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97698,20.9206,104.97698,20.9206",
+    "geom:latitude":20.9206,
+    "geom:longitude":104.97698,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Nhap Ngoai",
+    "gn:country_code":"VN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576846,
+    "gn:latitude":20.9206,
+    "gn:longitude":104.97698,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nh\u00e1p Ngo\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Nhap Ngoai"
+    ],
+    "name:vie_x_preferred":[
+        "Nh\u00e1p Ngo\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576846
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db49079d38f665bd40f178d0b7f48ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1310616483,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1310616483,
+    "wof:lastmodified":1537713913,
+    "wof:name":"Nhap Ngoai",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97698,
+    20.9206,
+    104.97698,
+    20.9206
+],
+  "geometry": {"coordinates":[104.97698,20.9206],"type":"Point"}
+}

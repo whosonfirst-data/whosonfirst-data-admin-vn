@@ -1,0 +1,76 @@
+{
+  "id": 1225953233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33188,10.48584,105.33188,10.48584",
+    "geom:latitude":10.48584,
+    "geom:longitude":105.33188,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Binh An Hai",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593897,
+    "gn:latitude":10.48584,
+    "gn:longitude":105.33188,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"B\u00ecnh An Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00ecnh An"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh An Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh An 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593897
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e4d6d54a5e44766b13ecb3c3a3b77498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782213,
+            "locality_id":1225953233,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1225953233,
+    "wof:lastmodified":1537714197,
+    "wof:name":"Binh An Hai",
+    "wof:parent_id":1108782213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33188,
+    10.48584,
+    105.33188,
+    10.48584
+],
+  "geometry": {"coordinates":[105.33188,10.48584],"type":"Point"}
+}

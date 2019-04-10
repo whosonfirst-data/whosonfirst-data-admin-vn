@@ -1,0 +1,76 @@
+{
+  "id": 1259895197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.67821,10.98895,106.67821,10.98895",
+    "geom:latitude":10.98895,
+    "geom:longitude":106.67821,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Phu Loi Hai",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570471,
+    "gn:latitude":10.98895,
+    "gn:longitude":106.67821,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ph\u00fa L\u1ee3i Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa L\u1ee3i"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa L\u1ee3i Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00fa L\u1ee3i 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570471
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"455af2dacc40f11133adbc92325380ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781951,
+            "locality_id":1259895197,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1259895197,
+    "wof:lastmodified":1537713829,
+    "wof:name":"Phu Loi Hai",
+    "wof:parent_id":1108781951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.67821,
+    10.98895,
+    106.67821,
+    10.98895
+],
+  "geometry": {"coordinates":[106.67821000000001,10.98895],"type":"Point"}
+}

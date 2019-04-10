@@ -1,0 +1,67 @@
+{
+  "id": 1326475177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16667,20.3,105.16667,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":105.16667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Trong",
+    "gn:country_code":"VN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576446,
+    "gn:latitude":20.3,
+    "gn:longitude":105.16667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Trong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79960b4414ea51360f526f1c55a90772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1326475177,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1326475177,
+    "wof:lastmodified":1537063471,
+    "wof:name":"Lang Trong",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16667,
+    20.3,
+    105.16667,
+    20.3
+],
+  "geometry": {"coordinates":[105.16667,20.3],"type":"Point"}
+}

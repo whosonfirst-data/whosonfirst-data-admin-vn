@@ -1,0 +1,72 @@
+{
+  "id": 1310016571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.19806,9.62278,106.19806,9.62278",
+    "geom:latitude":9.62278,
+    "geom:longitude":106.19806,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Xom Rach Lon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561048,
+    "gn:latitude":9.62278,
+    "gn:longitude":106.19806,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m R\u1ea1ch L\u1edbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u1ea1ch L\u1edbn",
+        "X\u00f3m R\u1ea1ch L\u1edbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561048
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a2cf7b009f9281e2156f05b761bd8913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782295,
+            "locality_id":1310016571,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1310016571,
+    "wof:lastmodified":1537713676,
+    "wof:name":"Xom Rach Lon",
+    "wof:parent_id":1108782295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.19806,
+    9.62278,
+    106.19806,
+    9.62278
+],
+  "geometry": {"coordinates":[106.19806,9.62278],"type":"Point"}
+}

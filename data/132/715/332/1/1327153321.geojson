@@ -1,0 +1,73 @@
+{
+  "id": 1327153321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85985,8.88937,104.85985,8.88937",
+    "geom:latitude":8.88937,
+    "geom:longitude":104.85985,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Binh Hung",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583379,
+    "gn:latitude":8.88937,
+    "gn:longitude":104.85985,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u00ecnh H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinh \u0110i\u1ec1n Binh H\u01b0ng"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583379
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58bd8da941001016297563f93bbfcdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782341,
+            "locality_id":1327153321,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1327153321,
+    "wof:lastmodified":1537713999,
+    "wof:name":"Binh Hung",
+    "wof:parent_id":1108782341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85985,
+    8.88937,
+    104.85985,
+    8.88937
+],
+  "geometry": {"coordinates":[104.85984999999999,8.88937],"type":"Point"}
+}

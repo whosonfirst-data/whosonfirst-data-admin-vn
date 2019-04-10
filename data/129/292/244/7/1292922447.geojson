@@ -1,0 +1,67 @@
+{
+  "id": 1292922447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.86667,16.2,107.86667,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":107.86667,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Bach Ma",
+    "gn:country_code":"VN",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591496,
+    "gn:latitude":16.2,
+    "gn:longitude":107.86667,
+    "gn:modification_date":"1998-10-16",
+    "gn:name":"B\u1ea1ch M\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591496
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f40aa4b82075a0e7ee4b92bdef23836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1292922447,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1292922447,
+    "wof:lastmodified":1536604497,
+    "wof:name":"Bach Ma",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.86667,
+    16.2,
+    107.86667,
+    16.2
+],
+  "geometry": {"coordinates":[107.86667,16.2],"type":"Point"}
+}

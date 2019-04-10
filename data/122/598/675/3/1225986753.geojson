@@ -1,0 +1,74 @@
+{
+  "id": 1225986753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,15.6,108.45,15.6",
+    "geom:latitude":15.6,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dan Trung",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583862,
+    "gn:latitude":15.6,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Dan Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chien Dau",
+        "Thien Dang",
+        "Chien Dan",
+        "Chien Dang",
+        "Dan Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583862
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"922b1c133ce9820a606700cf5b0cc3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781629,
+            "locality_id":1225986753,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1225986753,
+    "wof:lastmodified":1537714006,
+    "wof:name":"Dan Trung",
+    "wof:parent_id":1108781629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    15.6,
+    108.45,
+    15.6
+],
+  "geometry": {"coordinates":[108.45,15.6],"type":"Point"}
+}

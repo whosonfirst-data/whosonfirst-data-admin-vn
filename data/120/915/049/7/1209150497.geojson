@@ -1,0 +1,61 @@
+{
+  "id": 1209150497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.36667,15.58333,108.36667,15.58333",
+    "geom:latitude":15.58333,
+    "geom:longitude":108.36667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Loc Son",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575860,
+    "gn:latitude":15.58333,
+    "gn:longitude":108.36667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"L\u1ed9c S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575860
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f383fdca0200f82e21888cc0d6cdcc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209150497
+        }
+    ],
+    "wof:id":1209150497,
+    "wof:lastmodified":1536296220,
+    "wof:name":"Loc Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.36667,
+    15.583329999999998,
+    108.36667,
+    15.583329999999998
+],
+  "geometry": {"coordinates":[108.36667,15.58333],"type":"Point"}
+}

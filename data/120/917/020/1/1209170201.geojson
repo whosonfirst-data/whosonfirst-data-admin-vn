@@ -1,0 +1,66 @@
+{
+  "id": 1209170201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.36667,11.51667,108.36667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":108.36667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sre Lac",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567557,
+    "gn:latitude":11.51667,
+    "gn:longitude":108.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sr\u00e9 Lac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sre Latch",
+        "Sr\u00e9 Lac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567557
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e867306626489934b96ae8c0657a9d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209170201
+        }
+    ],
+    "wof:id":1209170201,
+    "wof:lastmodified":1537713790,
+    "wof:name":"Sre Lac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.36667,
+    11.51667,
+    108.36667,
+    11.51667
+],
+  "geometry": {"coordinates":[108.36667,11.51667],"type":"Point"}
+}

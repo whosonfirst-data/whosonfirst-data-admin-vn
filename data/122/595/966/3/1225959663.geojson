@@ -1,0 +1,71 @@
+{
+  "id": 1225959663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13407,9.57925,106.13407,9.57925",
+    "geom:latitude":9.57925,
+    "geom:longitude":106.13407,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Nuoc Man",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592692,
+    "gn:latitude":9.57925,
+    "gn:longitude":106.13407,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"N\u01b0\u1edbc M\u1eb7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u01b0\u1edbc M\u1eb7n",
+        "\u1ea4p N\u01b0\u1edbc M\u1eb7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592692
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9bcc66311cfb62dde3ad9bdcd193d9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782299,
+            "locality_id":1225959663,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1225959663,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Nuoc Man",
+    "wof:parent_id":1108782299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13407,
+    9.57925,
+    106.13407,
+    9.57925
+],
+  "geometry": {"coordinates":[106.13406999999999,9.57925],"type":"Point"}
+}

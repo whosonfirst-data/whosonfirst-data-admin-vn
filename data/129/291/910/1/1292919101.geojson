@@ -1,0 +1,70 @@
+{
+  "id": 1292919101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03117,21.81685,105.03117,21.81685",
+    "geom:latitude":21.81685,
+    "geom:longitude":105.03117,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang May",
+    "gn:country_code":"VN",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577001,
+    "gn:latitude":21.81685,
+    "gn:longitude":105.03117,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng M\u1ea7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng M\u1ea7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577001
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b4277e1b7615b4165c96641fa4b01427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1292919101,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1292919101,
+    "wof:lastmodified":1537713916,
+    "wof:name":"Lang May",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03117,
+    21.81685,
+    105.03117,
+    21.81685
+],
+  "geometry": {"coordinates":[105.03117,21.81685],"type":"Point"}
+}

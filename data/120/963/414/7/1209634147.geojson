@@ -1,0 +1,61 @@
+{
+  "id": 1209634147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18528,9.34694,105.18528,9.34694",
+    "geom:latitude":9.34694,
+    "geom:longitude":105.18528,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ap Tan Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592260,
+    "gn:latitude":9.34694,
+    "gn:longitude":105.18528,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p T\u00e2n H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592260
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58609cb63d7713aed6d256223140441d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634147
+        }
+    ],
+    "wof:id":1209634147,
+    "wof:lastmodified":1536281096,
+    "wof:name":"Ap Tan Hoa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18528,
+    9.34694,
+    105.18528,
+    9.34694
+],
+  "geometry": {"coordinates":[105.18528000000001,9.34694],"type":"Point"}
+}

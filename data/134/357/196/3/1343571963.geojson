@@ -1,0 +1,75 @@
+{
+  "id": 1343571963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.85,21.81667,106.85,21.81667",
+    "geom:latitude":21.81667,
+    "geom:longitude":106.85,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Po Tay",
+    "gn:country_code":"VN",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569001,
+    "gn:latitude":21.81667,
+    "gn:longitude":106.85,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00f2 Tay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781095,
+        1108781105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569001
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c5205465ef87f13d01b2c40f12c6763e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781095,
+            "locality_id":1343571963,
+            "region_id":85680611
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781105,
+            "locality_id":1343571963,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343571963,
+    "wof:lastmodified":1537079623,
+    "wof:name":"Po Tay",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85,
+    21.81667,
+    106.85,
+    21.81667
+],
+  "geometry": {"coordinates":[106.84999999999999,21.81667],"type":"Point"}
+}

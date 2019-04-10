@@ -1,0 +1,73 @@
+{
+  "id": 1293902463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33329,10.71509,107.33329,10.71509",
+    "geom:latitude":10.71509,
+    "geom:longitude":107.33329,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Khu Tam",
+    "gn:country_code":"VN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075902,
+    "gn:latitude":10.71509,
+    "gn:longitude":107.33329,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Khu T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "Khu 8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        890423389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075902
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eb77b8e227f1e80203ca5ec8702fbe30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":890423389,
+            "locality_id":1293902463,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1293902463,
+    "wof:lastmodified":1537714437,
+    "wof:name":"Khu Tam",
+    "wof:parent_id":890423389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33329,
+    10.71509,
+    107.33329,
+    10.71509
+],
+  "geometry": {"coordinates":[107.33329000000001,10.71509],"type":"Point"}
+}

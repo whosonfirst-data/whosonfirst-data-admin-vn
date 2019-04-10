@@ -1,0 +1,61 @@
+{
+  "id": 1209657459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.28333,15.58333,108.28333,15.58333",
+    "geom:latitude":15.58333,
+    "geom:longitude":108.28333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Trung Lam",
+    "gn:country_code":"VN",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563696,
+    "gn:latitude":15.58333,
+    "gn:longitude":108.28333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Trung L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"40543f2ba9fdc21bb8bbf63bc9a82239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209657459
+        }
+    ],
+    "wof:id":1209657459,
+    "wof:lastmodified":1536280382,
+    "wof:name":"Trung Lam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.28333,
+    15.583329999999998,
+    108.28333,
+    15.583329999999998
+],
+  "geometry": {"coordinates":[108.28333000000001,15.58333],"type":"Point"}
+}

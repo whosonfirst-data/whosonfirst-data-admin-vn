@@ -1,0 +1,73 @@
+{
+  "id": 1343474187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04529,21.50769,103.04529,21.50769",
+    "geom:latitude":21.50769,
+    "geom:longitude":103.04529,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Na Pen Mot",
+    "gn:country_code":"VN",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944546,
+    "gn:latitude":21.50769,
+    "gn:longitude":103.04529,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"N\u00e0 P\u00e8n M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 P\u00e8n M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "N\u00e0 P\u00e8n 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944546
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"04a1641aa7ded2f8d93a07212ffb6a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780969,
+            "locality_id":1343474187,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343474187,
+    "wof:lastmodified":1537714738,
+    "wof:name":"Na Pen Mot",
+    "wof:parent_id":1108780969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04529,
+    21.50769,
+    103.04529,
+    21.50769
+],
+  "geometry": {"coordinates":[103.04528999999999,21.50769],"type":"Point"}
+}

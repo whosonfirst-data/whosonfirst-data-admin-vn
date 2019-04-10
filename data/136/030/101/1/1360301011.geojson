@@ -1,0 +1,70 @@
+{
+  "id": 1360301011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02948,22.84123,105.02948,22.84123",
+    "geom:latitude":22.84123,
+    "geom:longitude":105.02948,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Thai Ha",
+    "gn:country_code":"VN",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309421,
+    "gn:latitude":22.84123,
+    "gn:longitude":105.02948,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Th\u00e1i H\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e1i H\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309421
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"93a9b3edd279a155e2ef4798fe779b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780849,
+            "locality_id":1360301011,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1360301011,
+    "wof:lastmodified":1537714255,
+    "wof:name":"Thai Ha",
+    "wof:parent_id":1108780849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02948,
+    22.84123,
+    105.02948,
+    22.84123
+],
+  "geometry": {"coordinates":[105.02948000000001,22.84123],"type":"Point"}
+}

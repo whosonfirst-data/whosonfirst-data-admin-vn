@@ -1,0 +1,67 @@
+{
+  "id": 1343603585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13333,15.56667,108.13333,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":108.13333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Phu Toan",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569874,
+    "gn:latitude":15.56667,
+    "gn:longitude":108.13333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ph\u00fa To\u1ea3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569874
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8af3a084c5cbd91bcf114ffaef371695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781617,
+            "locality_id":1343603585,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1343603585,
+    "wof:lastmodified":1537035598,
+    "wof:name":"Phu Toan",
+    "wof:parent_id":1108781617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13333,
+    15.56667,
+    108.13333,
+    15.56667
+],
+  "geometry": {"coordinates":[108.13333,15.56667],"type":"Point"}
+}

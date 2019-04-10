@@ -1,0 +1,72 @@
+{
+  "id": 1326689189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45,21.45,103.45,21.45",
+    "geom:latitude":21.45,
+    "geom:longitude":103.45,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tam Fuk",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588717,
+    "gn:latitude":21.45,
+    "gn:longitude":103.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Tam Fuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam Fuk",
+        "B\u1ea3n Tam Fuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588717
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c35b913f3623b4214f001ce3ea806259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780967,
+            "locality_id":1326689189,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1326689189,
+    "wof:lastmodified":1537714083,
+    "wof:name":"Ban Tam Fuk",
+    "wof:parent_id":1108780967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45,
+    21.45,
+    103.45,
+    21.45
+],
+  "geometry": {"coordinates":[103.45,21.45],"type":"Point"}
+}

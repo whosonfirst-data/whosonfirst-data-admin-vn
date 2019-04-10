@@ -1,0 +1,67 @@
+{
+  "id": 1343403343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,15.43333,108.45,15.43333",
+    "geom:latitude":15.43333,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Thuan An Tuy",
+    "gn:country_code":"VN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565102,
+    "gn:latitude":15.43333,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Thu\u1eadn An Tuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565102
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"df22bf4605b0a9cfbb9f0ffd5075ef7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781627,
+            "locality_id":1343403343,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1343403343,
+    "wof:lastmodified":1536827742,
+    "wof:name":"Thuan An Tuy",
+    "wof:parent_id":1108781627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    15.43333,
+    108.45,
+    15.43333
+],
+  "geometry": {"coordinates":[108.45,15.43333],"type":"Point"}
+}

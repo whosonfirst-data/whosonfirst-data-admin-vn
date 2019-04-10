@@ -1,0 +1,70 @@
+{
+  "id": 1293705733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71827,19.11173,105.71827,19.11173",
+    "geom:latitude":19.11173,
+    "geom:longitude":105.71827,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Minh Son",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178234,
+    "gn:latitude":19.11173,
+    "gn:longitude":105.71827,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Minh S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Minh S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178234
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0434fa2fbad8b5dc1ba2772a5d123a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1293705733,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293705733,
+    "wof:lastmodified":1537714597,
+    "wof:name":"Minh Son",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71827,
+    19.11173,
+    105.71827,
+    19.11173
+],
+  "geometry": {"coordinates":[105.71827,19.11173],"type":"Point"}
+}

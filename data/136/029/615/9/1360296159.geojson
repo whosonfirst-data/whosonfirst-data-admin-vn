@@ -1,0 +1,70 @@
+{
+  "id": 1360296159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.75881,11.6832,108.75881,11.6832",
+    "geom:latitude":11.6832,
+    "geom:longitude":108.75881,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Tan Binh",
+    "gn:country_code":"VN",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8994026,
+    "gn:latitude":11.6832,
+    "gn:longitude":108.75881,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u00e2n B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8994026
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c5e6b81af52ee7107df856f2ae82030b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781747,
+            "locality_id":1360296159,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1360296159,
+    "wof:lastmodified":1537714427,
+    "wof:name":"Tan Binh",
+    "wof:parent_id":1108781747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.75881,
+    11.6832,
+    108.75881,
+    11.6832
+],
+  "geometry": {"coordinates":[108.75881,11.6832],"type":"Point"}
+}

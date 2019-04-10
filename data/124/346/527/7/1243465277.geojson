@@ -1,0 +1,70 @@
+{
+  "id": 1243465277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.27536,21.10728,103.27536,21.10728",
+    "geom:latitude":21.10728,
+    "geom:longitude":103.27536,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Na Su",
+    "gn:country_code":"VN",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425759,
+    "gn:latitude":21.10728,
+    "gn:longitude":103.27536,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Na Su",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Na Su"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425759
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4e431c769bfdc97f586d472aa0c6ca4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1243465277,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1243465277,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Na Su",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.27536,
+    21.10728,
+    103.27536,
+    21.10728
+],
+  "geometry": {"coordinates":[103.27536000000001,21.10728],"type":"Point"}
+}

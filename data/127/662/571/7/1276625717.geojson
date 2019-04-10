@@ -1,0 +1,67 @@
+{
+  "id": 1276625717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86,20.80472,106.86,20.80472",
+    "geom:latitude":20.80472,
+    "geom:longitude":106.86,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ninh Tiep",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571926,
+    "gn:latitude":20.80472,
+    "gn:longitude":106.86,
+    "gn:modification_date":"2002-06-11",
+    "gn:name":"Ninh Ti\u00eap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571926
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aefc57bcf866c81d113a050fe971acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781291,
+            "locality_id":1276625717,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1276625717,
+    "wof:lastmodified":1536883786,
+    "wof:name":"Ninh Tiep",
+    "wof:parent_id":1108781291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86,
+    20.80472,
+    106.86,
+    20.80472
+],
+  "geometry": {"coordinates":[106.86,20.80472],"type":"Point"}
+}

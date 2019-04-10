@@ -1,0 +1,72 @@
+{
+  "id": 1276355301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53425,17.58436,106.53425,17.58436",
+    "geom:latitude":17.58436,
+    "geom:longitude":106.53425,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Hoan Lao",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1587406,
+    "gn:latitude":17.58436,
+    "gn:longitude":106.53425,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Ho\u00e0n L\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho\u00e0n L\u00e3o",
+        "B\u1ed1 Tr\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587406,
+        "wk:page":"Ho%C3%A0n_L%C3%A3o"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f211c61f20ecde1e29b9d51366008003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1276355301,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1276355301,
+    "wof:lastmodified":1537714063,
+    "wof:name":"Hoan Lao",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53425,
+    17.58436,
+    106.53425,
+    17.58436
+],
+  "geometry": {"coordinates":[106.53425,17.58436],"type":"Point"}
+}

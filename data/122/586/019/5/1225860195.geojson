@@ -1,0 +1,73 @@
+{
+  "id": 1225860195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.84884,11.09709,106.84884,11.09709",
+    "geom:latitude":11.09709,
+    "geom:longitude":106.84884,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Dat Quoc",
+    "gn:country_code":"VN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561696,
+    "gn:latitude":11.09709,
+    "gn:longitude":106.84884,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u0110\u1ea5t Qu\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m \u0110\u1ea5t Cu\u1ed1c"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea5t Qu\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"145c18d57b58c0526155cb40302c3af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781961,
+            "locality_id":1225860195,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1225860195,
+    "wof:lastmodified":1537713690,
+    "wof:name":"Dat Quoc",
+    "wof:parent_id":1108781961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.84884,
+    11.09709,
+    106.84884,
+    11.09709
+],
+  "geometry": {"coordinates":[106.84884,11.09709],"type":"Point"}
+}

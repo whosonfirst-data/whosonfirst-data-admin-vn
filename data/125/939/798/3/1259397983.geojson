@@ -1,0 +1,73 @@
+{
+  "id": 1259397983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88914,22.1932,105.88914,22.1932",
+    "geom:latitude":22.1932,
+    "geom:longitude":105.88914,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Rao",
+    "gn:country_code":"VN",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572974,
+    "gn:latitude":22.1932,
+    "gn:longitude":105.88914,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"N\u00e0 R\u1ea3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Pao"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 R\u1ea3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572974
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da12bde8da13799ee0b4845165b36565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1259397983,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1259397983,
+    "wof:lastmodified":1537713864,
+    "wof:name":"Na Rao",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88914,
+    22.1932,
+    105.88914,
+    22.1932
+],
+  "geometry": {"coordinates":[105.88914,22.1932],"type":"Point"}
+}

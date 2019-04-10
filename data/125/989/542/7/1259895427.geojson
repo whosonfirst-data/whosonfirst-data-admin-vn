@@ -1,0 +1,74 @@
+{
+  "id": 1259895427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91299,23.15697,104.91299,23.15697",
+    "geom:latitude":23.15697,
+    "geom:longitude":104.91299,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na Tro Cai",
+    "gn:country_code":"VN",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572694,
+    "gn:latitude":23.15697,
+    "gn:longitude":104.91299,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Na Tro Cai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoi Kio Koi",
+        "Ngai Cho Cai",
+        "Nga Kia Kai",
+        "Ngai Kio Kai",
+        "Na Tro Cai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572694
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f5ac069ad31ac1b2e53831f783d35ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780859,
+            "locality_id":1259895427,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1259895427,
+    "wof:lastmodified":1537713859,
+    "wof:name":"Na Tro Cai",
+    "wof:parent_id":1108780859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91299,
+    23.15697,
+    104.91299,
+    23.15697
+],
+  "geometry": {"coordinates":[104.91298999999999,23.15697],"type":"Point"}
+}

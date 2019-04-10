@@ -1,0 +1,67 @@
+{
+  "id": 1293782245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,22.68333,106.0,22.68333",
+    "geom:latitude":22.68333,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lang Dau",
+    "gn:country_code":"VN",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577469,
+    "gn:latitude":22.68333,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"L\u00e0ng \u0110\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577469
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10f90142e92dc19a81b6d21540108efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780899,
+            "locality_id":1293782245,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1293782245,
+    "wof:lastmodified":1536857943,
+    "wof:name":"Lang Dau",
+    "wof:parent_id":1108780899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    22.68333,
+    106.0,
+    22.68333
+],
+  "geometry": {"coordinates":[106.0,22.68333],"type":"Point"}
+}

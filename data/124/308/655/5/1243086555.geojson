@@ -1,0 +1,71 @@
+{
+  "id": 1243086555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86667,21.9,104.86667,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":104.86667,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Cam An",
+    "gn:country_code":"VN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586446,
+    "gn:latitude":21.9,
+    "gn:longitude":104.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Cam An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gam An",
+        "Cam An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586446
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ce07c8c51f0487966a9396f3b0c0c036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1243086555,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1243086555,
+    "wof:lastmodified":1537714036,
+    "wof:name":"Cam An",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86667,
+    21.9,
+    104.86667,
+    21.9
+],
+  "geometry": {"coordinates":[104.86667,21.9],"type":"Point"}
+}

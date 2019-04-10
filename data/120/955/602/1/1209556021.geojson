@@ -1,0 +1,61 @@
+{
+  "id": 1209556021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,20.25,105.55,20.25",
+    "geom:latitude":20.25,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Chom Mo",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585393,
+    "gn:latitude":20.25,
+    "gn:longitude":105.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ch\u00f2m Mo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585393
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8122f65ac0d30b5b1f88110e9eee7782",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209556021
+        }
+    ],
+    "wof:id":1209556021,
+    "wof:lastmodified":1536283544,
+    "wof:name":"Chom Mo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    20.25,
+    105.55,
+    20.25
+],
+  "geometry": {"coordinates":[105.55,20.25],"type":"Point"}
+}

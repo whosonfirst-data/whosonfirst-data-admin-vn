@@ -1,0 +1,73 @@
+{
+  "id": 1225955027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33103,21.40499,105.33103,21.40499",
+    "geom:latitude":21.40499,
+    "geom:longitude":105.33103,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Lo Chi",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575878,
+    "gn:latitude":21.40499,
+    "gn:longitude":105.33103,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00f4 Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ed7 Ch\u00ec"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f4 Chi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575878
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a37f40229a7221e66cb603cdeb2ff501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781177,
+            "locality_id":1225955027,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1225955027,
+    "wof:lastmodified":1537713899,
+    "wof:name":"Lo Chi",
+    "wof:parent_id":1108781177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33103,
+    21.40499,
+    105.33103,
+    21.40499
+],
+  "geometry": {"coordinates":[105.33103,21.40499],"type":"Point"}
+}

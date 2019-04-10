@@ -1,0 +1,70 @@
+{
+  "id": 1209929667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.86934,12.96847,108.86934,12.96847",
+    "geom:latitude":12.96847,
+    "geom:longitude":108.86934,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Le Bach",
+    "gn:country_code":"VN",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311040,
+    "gn:latitude":12.96847,
+    "gn:longitude":108.86934,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"L\u00ea B\u00e1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00ea B\u00e1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311040
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23e2052e0b80769f50b0039066f80409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781705,
+            "locality_id":1209929667,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209929667,
+    "wof:lastmodified":1537714684,
+    "wof:name":"Le Bach",
+    "wof:parent_id":1108781705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.86934,
+    12.96847,
+    108.86934,
+    12.96847
+],
+  "geometry": {"coordinates":[108.86933999999999,12.96847],"type":"Point"}
+}

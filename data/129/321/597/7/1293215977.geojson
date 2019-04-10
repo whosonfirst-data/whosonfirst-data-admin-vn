@@ -1,0 +1,70 @@
+{
+  "id": 1293215977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43247,21.23931,105.43247,21.23931",
+    "geom:latitude":21.23931,
+    "geom:longitude":105.43247,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Phong Chau",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201690,
+    "gn:latitude":21.23931,
+    "gn:longitude":105.43247,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Phong Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phong Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201690
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"00de0b877ea6178cf241c52b12ba1178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1293215977,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1293215977,
+    "wof:lastmodified":1537714244,
+    "wof:name":"Phong Chau",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43247,
+    21.23931,
+    105.43247,
+    21.23931
+],
+  "geometry": {"coordinates":[105.43247,21.23931],"type":"Point"}
+}

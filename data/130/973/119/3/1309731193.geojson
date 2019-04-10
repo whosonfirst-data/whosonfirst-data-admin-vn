@@ -1,0 +1,67 @@
+{
+  "id": 1309731193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7,22.15,104.7,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":104.7,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Meo",
+    "gn:country_code":"VN",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576989,
+    "gn:latitude":22.15,
+    "gn:longitude":104.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Meo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576989
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd3e0657106f0ffd24d0d504e6756dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1309731193,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1309731193,
+    "wof:lastmodified":1537037077,
+    "wof:name":"Lang Meo",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7,
+    22.15,
+    104.7,
+    22.15
+],
+  "geometry": {"coordinates":[104.7,22.15],"type":"Point"}
+}

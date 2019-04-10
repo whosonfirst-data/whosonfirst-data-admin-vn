@@ -1,0 +1,71 @@
+{
+  "id": 1310516951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,20.9,106.38333,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Cap Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586082,
+    "gn:latitude":20.9,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u00e2p Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gap Thuong",
+        "C\u00e2p Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586082
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18ebdb0708d1cdb6d0ad4a15936c4f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781245,
+            "locality_id":1310516951,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1310516951,
+    "wof:lastmodified":1537714031,
+    "wof:name":"Cap Thuong",
+    "wof:parent_id":1108781245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    20.9,
+    106.38333,
+    20.9
+],
+  "geometry": {"coordinates":[106.38333,20.9],"type":"Point"}
+}

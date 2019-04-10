@@ -1,0 +1,71 @@
+{
+  "id": 1343772723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.71667,13.16667,108.71667,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":108.71667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Ba Mla",
+    "gn:country_code":"VN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1591185,
+    "gn:latitude":13.16667,
+    "gn:longitude":108.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Ba Mla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Buon Ba Mla",
+        "Ban Ba Mla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591185
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b46f6ccfa48e10a4f8acbd253085cf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781825,
+            "locality_id":1343772723,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1343772723,
+    "wof:lastmodified":1537714133,
+    "wof:name":"Ban Ba Mla",
+    "wof:parent_id":1108781825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.71667,
+    13.16667,
+    108.71667,
+    13.16667
+],
+  "geometry": {"coordinates":[108.71666999999999,13.16667],"type":"Point"}
+}

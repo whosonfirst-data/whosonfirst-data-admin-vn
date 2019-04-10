@@ -1,0 +1,61 @@
+{
+  "id": 1209616231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6,10.13333,106.6,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":106.6,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xom La Dang",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561365,
+    "gn:latitude":10.13333,
+    "gn:longitude":106.6,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"X\u00f3m L\u00e1 \u0110ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"868c436b8d660802b87c299f5240a00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209616231
+        }
+    ],
+    "wof:id":1209616231,
+    "wof:lastmodified":1536281679,
+    "wof:name":"Xom La Dang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6,
+    10.13333,
+    106.6,
+    10.13333
+],
+  "geometry": {"coordinates":[106.59999999999999,10.13333],"type":"Point"}
+}

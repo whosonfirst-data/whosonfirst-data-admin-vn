@@ -1,0 +1,73 @@
+{
+  "id": 1226665175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99295,10.04119,105.99295,10.04119",
+    "geom:latitude":10.04119,
+    "geom:longitude":105.99295,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"My Phu Nam",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312738,
+    "gn:latitude":10.04119,
+    "gn:longitude":105.99295,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"M\u1ef9 Ph\u00fa N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef9 Ph\u00fa N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "M\u1ef9 Ph\u00fa 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312738
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"043cbc8df309a451ea1c32a7289aa1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782159,
+            "locality_id":1226665175,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1226665175,
+    "wof:lastmodified":1537714270,
+    "wof:name":"My Phu Nam",
+    "wof:parent_id":1108782159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99295,
+    10.04119,
+    105.99295,
+    10.04119
+],
+  "geometry": {"coordinates":[105.99294999999999,10.04119],"type":"Point"}
+}

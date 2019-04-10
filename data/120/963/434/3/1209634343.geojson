@@ -1,0 +1,64 @@
+{
+  "id": 1209634343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8331,21.36111,105.8331,21.36111",
+    "geom:latitude":21.36111,
+    "geom:longitude":105.8331,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Tien Chu",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616142,
+    "gn:latitude":21.36111,
+    "gn:longitude":105.8331,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ti\u00ean Ch\u1eef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u00ean Ch\u1eef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e5ea94cd96133a86b1dc695a6eb3241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634343
+        }
+    ],
+    "wof:id":1209634343,
+    "wof:lastmodified":1537714375,
+    "wof:name":"Tien Chu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8331,
+    21.36111,
+    105.8331,
+    21.36111
+],
+  "geometry": {"coordinates":[105.8331,21.36111],"type":"Point"}
+}

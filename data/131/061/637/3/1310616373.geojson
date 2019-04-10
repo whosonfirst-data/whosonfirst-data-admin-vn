@@ -1,0 +1,67 @@
+{
+  "id": 1310616373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,20.3,105.81667,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Tra Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564234,
+    "gn:latitude":20.3,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Tr\u00e0 \u0110\u00ednh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564234
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9f0f22985607d45e4d6a9573d4755db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781375,
+            "locality_id":1310616373,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1310616373,
+    "wof:lastmodified":1536757048,
+    "wof:name":"Tra Dinh",
+    "wof:parent_id":1108781375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    20.3,
+    105.81667,
+    20.3
+],
+  "geometry": {"coordinates":[105.81667,20.3],"type":"Point"}
+}

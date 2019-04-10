@@ -1,0 +1,67 @@
+{
+  "id": 1259702689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95,12.35,108.95,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":108.95,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Marin",
+    "gn:country_code":"VN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574836,
+    "gn:latitude":12.35,
+    "gn:longitude":108.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Marin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574836
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"302c2aa1d8893312ab009d5c51cc3bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781729,
+            "locality_id":1259702689,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1259702689,
+    "wof:lastmodified":1537037771,
+    "wof:name":"Marin",
+    "wof:parent_id":1108781729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95,
+    12.35,
+    108.95,
+    12.35
+],
+  "geometry": {"coordinates":[108.95,12.35],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 102558997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.035277778,21.2147222222,104.035277778,21.2147222222",
+    "geom:latitude":21.214722,
+    "geom:longitude":104.035278,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0627\u0633\u0627\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara N\u00e0 S\u1ea3n"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nasan"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven N\u00e0 S\u1ea3n"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy N\u00e0 S\u1ea3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043d\u043b\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u041c\u0430\u04b3\u0430\u043b\u04e3 \u043c\u043e\u0432\u043d\u0442 \u0432\u043e\u0448\u0435\u043d\u0433\u0442\u0443\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u043d\u043b\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay N\u00e0 S\u1ea3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u7522\u6a5f\u5834"
+    ],
+    "oa:elevation_ft":"2133",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":50,
+    "woe:hierarchy":{
+        "country_id":23424984,
+        "planet_id":1,
+        "state_id":2347713
+    },
+    "wof:belongsto":[
+        85632763,
+        85680615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522934,
+        "iata:code":"SQH",
+        "icao:code":"VVNS",
+        "oa:id":"32382",
+        "wd:id":"Q1529230"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d919edb7691fae91ed1bea68e26b20d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102558997,
+            "country_id":85632763,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":102558997,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Na San Airport",
+    "wof:parent_id":85680615,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    104.03527777778,
+    21.214722222222,
+    104.03527777778,
+    21.214722222222
+],
+  "geometry": {"coordinates":[104.03527777778,21.214722222222],"type":"Point"}
+}

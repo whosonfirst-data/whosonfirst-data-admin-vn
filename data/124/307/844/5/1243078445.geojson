@@ -1,0 +1,72 @@
+{
+  "id": 1243078445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68333,14.8,107.68333,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":107.68333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Lang Dak Kla",
+    "gn:country_code":"VN",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577499,
+    "gn:latitude":14.8,
+    "gn:longitude":107.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Dak Kla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dak Kela",
+        "Dak K\u01a1la",
+        "L\u00e0ng Dak Kla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f366a9dc92dd83b486289eeff17bad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781779,
+            "locality_id":1243078445,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1243078445,
+    "wof:lastmodified":1537713925,
+    "wof:name":"Lang Dak Kla",
+    "wof:parent_id":1108781779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68333,
+    14.8,
+    107.68333,
+    14.8
+],
+  "geometry": {"coordinates":[107.68333,14.8],"type":"Point"}
+}

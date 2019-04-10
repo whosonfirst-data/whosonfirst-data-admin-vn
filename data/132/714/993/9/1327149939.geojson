@@ -1,0 +1,73 @@
+{
+  "id": 1327149939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22025,22.51862,105.22025,22.51862",
+    "geom:latitude":22.51862,
+    "geom:longitude":105.22025,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Lich",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309660,
+    "gn:latitude":22.51862,
+    "gn:longitude":105.22025,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00e0 L\u1ecbch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u1ecbch"
+    ],
+    "name:vie_x_variant":[
+        "N\u00e0 L\u1ecbch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309660
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f0e1e8a2eefa1b08b5b17031867e6a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1327149939,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1327149939,
+    "wof:lastmodified":1537714261,
+    "wof:name":"Na Lich",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22025,
+    22.51862,
+    105.22025,
+    22.51862
+],
+  "geometry": {"coordinates":[105.22024999999999,22.51862],"type":"Point"}
+}

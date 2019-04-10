@@ -1,0 +1,72 @@
+{
+  "id": 1243495595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86667,21.46667,103.86667,21.46667",
+    "geom:latitude":21.46667,
+    "geom:longitude":103.86667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tom",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588517,
+    "gn:latitude":21.46667,
+    "gn:longitude":103.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n T\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Lom",
+        "B\u1ea3n T\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588517
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a96f752a11f9731658812d4b207a57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1243495595,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1243495595,
+    "wof:lastmodified":1537714080,
+    "wof:name":"Ban Tom",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86667,
+    21.46667,
+    103.86667,
+    21.46667
+],
+  "geometry": {"coordinates":[103.86667,21.46667],"type":"Point"}
+}

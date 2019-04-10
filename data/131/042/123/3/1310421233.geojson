@@ -1,0 +1,73 @@
+{
+  "id": 1310421233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91728,21.87723,103.91728,21.87723",
+    "geom:latitude":21.87723,
+    "geom:longitude":103.91728,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Chung La",
+    "gn:country_code":"VN",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590032,
+    "gn:latitude":21.87723,
+    "gn:longitude":103.91728,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Chung L\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n La"
+    ],
+    "name:vie_x_preferred":[
+        "Chung L\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590032
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"892f3fc1856cf4692e5bc8238dd02a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1310421233,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1310421233,
+    "wof:lastmodified":1537714108,
+    "wof:name":"Chung La",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91728,
+    21.87723,
+    103.91728,
+    21.87723
+],
+  "geometry": {"coordinates":[103.91728000000001,21.87723],"type":"Point"}
+}

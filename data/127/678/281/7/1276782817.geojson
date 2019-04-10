@@ -1,0 +1,71 @@
+{
+  "id": 1276782817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21667,10.41667,107.21667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":107.21667,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ap Phuoc Lam",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592530,
+    "gn:latitude":10.41667,
+    "gn:longitude":107.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u01b0\u1edbc L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1edbc Thi\u00ean",
+        "\u1ea4p Ph\u01b0\u1edbc L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592530
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0bfe60ffded9e41d05dacbbad27ff8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781999,
+            "locality_id":1276782817,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1276782817,
+    "wof:lastmodified":1537714162,
+    "wof:name":"Ap Phuoc Lam",
+    "wof:parent_id":1108781999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21667,
+    10.41667,
+    107.21667,
+    10.41667
+],
+  "geometry": {"coordinates":[107.21666999999999,10.41667],"type":"Point"}
+}

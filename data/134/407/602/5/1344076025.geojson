@@ -1,0 +1,73 @@
+{
+  "id": 1344076025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00912,20.40416,106.00912,20.40416",
+    "geom:latitude":20.40416,
+    "geom:longitude":106.00912,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Vinh Tu",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562573,
+    "gn:latitude":20.40416,
+    "gn:longitude":106.00912,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"V\u0129nh T\u1ee9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinh T\u1ee9"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0129nh T\u1ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562573
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24de256cd7a3b5e919f5d549785bb79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781341,
+            "locality_id":1344076025,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1344076025,
+    "wof:lastmodified":1537713709,
+    "wof:name":"Vinh Tu",
+    "wof:parent_id":1108781341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00912,
+    20.40416,
+    106.00912,
+    20.40416
+],
+  "geometry": {"coordinates":[106.00912,20.40416],"type":"Point"}
+}

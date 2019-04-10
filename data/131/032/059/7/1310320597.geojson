@@ -1,0 +1,67 @@
+{
+  "id": 1310320597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09333,10.45833,107.09333,10.45833",
+    "geom:latitude":10.45833,
+    "geom:longitude":107.09333,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Nui Nua",
+    "gn:country_code":"VN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1892638,
+    "gn:latitude":10.45833,
+    "gn:longitude":107.09333,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Nui Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1892638
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a27fc3589023b87813cda58c849f4f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781989,
+            "locality_id":1310320597,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1310320597,
+    "wof:lastmodified":1536686103,
+    "wof:name":"Nui Nua",
+    "wof:parent_id":1108781989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09333,
+    10.45833,
+    107.09333,
+    10.45833
+],
+  "geometry": {"coordinates":[107.09332999999999,10.45833],"type":"Point"}
+}

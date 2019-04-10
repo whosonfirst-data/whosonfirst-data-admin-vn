@@ -1,0 +1,70 @@
+{
+  "id": 1276239187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89691,18.3805,105.89691,18.3805",
+    "geom:latitude":18.3805,
+    "geom:longitude":105.89691,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Lien Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275322,
+    "gn:latitude":18.3805,
+    "gn:longitude":105.89691,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Li\u00ean Thanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean Thanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275322
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48a1b5f17e4f8f4c918ec8ae94ebbec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1276239187,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276239187,
+    "wof:lastmodified":1537714675,
+    "wof:name":"Lien Thanh",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89691,
+    18.3805,
+    105.89691,
+    18.3805
+],
+  "geometry": {"coordinates":[105.89691000000001,18.3805],"type":"Point"}
+}

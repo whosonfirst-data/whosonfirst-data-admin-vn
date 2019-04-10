@@ -1,0 +1,70 @@
+{
+  "id": 1309921015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29174,22.9804,105.29174,22.9804",
+    "geom:latitude":22.9804,
+    "geom:longitude":105.29174,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Cau Linh",
+    "gn:country_code":"VN",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309516,
+    "gn:latitude":22.9804,
+    "gn:longitude":105.29174,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u00e2u Linh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2u Linh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309516
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e46e0b84428b47eaa002ec7d7ee93c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1309921015,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1309921015,
+    "wof:lastmodified":1537714257,
+    "wof:name":"Cau Linh",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29174,
+    22.9804,
+    105.29174,
+    22.9804
+],
+  "geometry": {"coordinates":[105.29174,22.9804],"type":"Point"}
+}

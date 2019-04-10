@@ -1,0 +1,73 @@
+{
+  "id": 1259802645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79935,21.73447,105.79935,21.73447",
+    "geom:latitude":21.73447,
+    "geom:longitude":105.79935,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Lang Phang",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576776,
+    "gn:latitude":21.73447,
+    "gn:longitude":105.79935,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"L\u00e0ng Ph\u00e1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Phang"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Ph\u00e1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576776
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13eb1a0fea326777ff3e7f13e634121e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781071,
+            "locality_id":1259802645,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1259802645,
+    "wof:lastmodified":1537713912,
+    "wof:name":"Lang Phang",
+    "wof:parent_id":1108781071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79935,
+    21.73447,
+    105.79935,
+    21.73447
+],
+  "geometry": {"coordinates":[105.79935,21.73447],"type":"Point"}
+}

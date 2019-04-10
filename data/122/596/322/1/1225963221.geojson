@@ -1,0 +1,67 @@
+{
+  "id": 1225963221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45,22.16667,106.45,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":106.45,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"La Son",
+    "gn:country_code":"VN",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576220,
+    "gn:latitude":22.16667,
+    "gn:longitude":106.45,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"La S\u1edbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576220
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"daf3be8e3b08505de680a5ed110207fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1225963221,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1225963221,
+    "wof:lastmodified":1536843055,
+    "wof:name":"La Son",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45,
+    22.16667,
+    106.45,
+    22.16667
+],
+  "geometry": {"coordinates":[106.45,22.16667],"type":"Point"}
+}

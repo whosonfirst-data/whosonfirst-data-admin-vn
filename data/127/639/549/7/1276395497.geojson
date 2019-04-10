@@ -1,0 +1,72 @@
+{
+  "id": 1276395497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92959,10.18462,104.92959,10.18462",
+    "geom:latitude":10.18462,
+    "geom:longitude":104.92959,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ngoc Hon Doc",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1580421,
+    "gn:latitude":10.18462,
+    "gn:longitude":104.92959,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ngoc Hon Doc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m H\u00f2n \u0110\u1ea5t",
+        "Ngoc Hon Doc",
+        "H\u00f2n \u0110\u1ea5t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580421
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ee2ffc3d93fb5e0bbf769778a1409cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782227,
+            "locality_id":1276395497,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1276395497,
+    "wof:lastmodified":1537713964,
+    "wof:name":"Ngoc Hon Doc",
+    "wof:parent_id":1108782227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92959,
+    10.18462,
+    104.92959,
+    10.18462
+],
+  "geometry": {"coordinates":[104.92959,10.18462],"type":"Point"}
+}

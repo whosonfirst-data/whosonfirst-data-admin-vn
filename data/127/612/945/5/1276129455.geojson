@@ -1,0 +1,67 @@
+{
+  "id": 1276129455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43333,18.93333,105.43333,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":105.43333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Noi Trung",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571863,
+    "gn:latitude":18.93333,
+    "gn:longitude":105.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00f4i Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571863
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a5014df5cfdd3679a0fbb008061cd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1276129455,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276129455,
+    "wof:lastmodified":1537049635,
+    "wof:name":"Noi Trung",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43333,
+    18.93333,
+    105.43333,
+    18.93333
+],
+  "geometry": {"coordinates":[105.43333,18.93333],"type":"Point"}
+}

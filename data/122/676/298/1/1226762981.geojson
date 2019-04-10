@@ -1,0 +1,72 @@
+{
+  "id": 1226762981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.1,12.28333,109.1,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":109.1,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Dai Dien Trung",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565663,
+    "gn:latitude":12.28333,
+    "gn:longitude":109.1,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u00f4n \u0110\u1ea1i \u0110i\u1ec1n Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dai Dier Trung",
+        "Dai Dien Trung",
+        "Th\u00f4n \u0110\u1ea1i \u0110i\u1ec1n Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565663
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f698933ea3355db9f2cd45ec419fea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781731,
+            "locality_id":1226762981,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1226762981,
+    "wof:lastmodified":1537713763,
+    "wof:name":"Thon Dai Dien Trung",
+    "wof:parent_id":1108781731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.1,
+    12.28333,
+    109.1,
+    12.28333
+],
+  "geometry": {"coordinates":[109.09999999999999,12.28333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209929815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.8301,14.73278,107.8301,14.73278",
+    "geom:latitude":14.73278,
+    "geom:longitude":107.8301,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kon Bring",
+    "gn:country_code":"VN",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578696,
+    "gn:latitude":14.73278,
+    "gn:longitude":107.8301,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Kon Bring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e0cd269cc7a2b5aaa30bd923a744a63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781781,
+            "locality_id":1209929815,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1209929815,
+    "wof:lastmodified":1536393235,
+    "wof:name":"Kon Bring",
+    "wof:parent_id":1108781781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.8301,
+    14.73278,
+    107.8301,
+    14.73278
+],
+  "geometry": {"coordinates":[107.8301,14.73278],"type":"Point"}
+}

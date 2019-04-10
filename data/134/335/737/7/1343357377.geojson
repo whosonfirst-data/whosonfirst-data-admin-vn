@@ -1,0 +1,67 @@
+{
+  "id": 1343357377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15,22.86667,106.15,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":106.15,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Thang Lung",
+    "gn:country_code":"VN",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566248,
+    "gn:latitude":22.86667,
+    "gn:longitude":106.15,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Thang L\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566248
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f13981450bee8d884741d0000222a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780883,
+            "locality_id":1343357377,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343357377,
+    "wof:lastmodified":1536894744,
+    "wof:name":"Thang Lung",
+    "wof:parent_id":1108780883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15,
+    22.86667000000001,
+    106.15,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[106.15000000000001,22.86667000000001],"type":"Point"}
+}

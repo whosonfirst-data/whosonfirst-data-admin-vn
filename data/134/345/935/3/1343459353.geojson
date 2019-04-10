@@ -1,0 +1,73 @@
+{
+  "id": 1343459353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.40551,10.31055,106.40551,10.31055",
+    "geom:latitude":10.31055,
+    "geom:longitude":106.40551,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Chin",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338012,
+    "gn:latitude":10.31055,
+    "gn:longitude":106.40551,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"\u1ea4p Ch\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p Ch\u00edn"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338012
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9eef039cbb74031bc341735cb9020616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1343459353,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1343459353,
+    "wof:lastmodified":1537714287,
+    "wof:name":"Ap Chin",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.40551,
+    10.31055,
+    106.40551,
+    10.31055
+],
+  "geometry": {"coordinates":[106.40551000000001,10.31055],"type":"Point"}
+}

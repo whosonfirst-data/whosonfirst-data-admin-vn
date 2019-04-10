@@ -1,0 +1,74 @@
+{
+  "id": 1260148843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,11.55,108.45,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Ka Deun",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590219,
+    "gn:latitude":11.55,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ban Ka Deun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u2019Tr\u01a1n Deun",
+        "Ban Tron Deun",
+        "B\u2019Ka Deun",
+        "Ban Ka Deun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590219
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1f29ef9b7644cf3643fa6b7aa91af0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781897,
+            "locality_id":1260148843,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1260148843,
+    "wof:lastmodified":1537714111,
+    "wof:name":"Ban Ka Deun",
+    "wof:parent_id":1108781897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    11.55,
+    108.45,
+    11.55
+],
+  "geometry": {"coordinates":[108.45,11.55],"type":"Point"}
+}

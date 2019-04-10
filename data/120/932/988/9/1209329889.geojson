@@ -1,0 +1,64 @@
+{
+  "id": 1209329889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13993,21.40735,106.13993,21.40735",
+    "geom:latitude":21.40735,
+    "geom:longitude":106.13993,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lan Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867448,
+    "gn:latitude":21.40735,
+    "gn:longitude":106.13993,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e2n Th\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e2n Th\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867448
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6067fc3f28f2466b902fc021388b9a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329889
+        }
+    ],
+    "wof:id":1209329889,
+    "wof:lastmodified":1537714505,
+    "wof:name":"Lan Thinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13993,
+    21.40735,
+    106.13993,
+    21.40735
+],
+  "geometry": {"coordinates":[106.13993000000001,21.40735],"type":"Point"}
+}

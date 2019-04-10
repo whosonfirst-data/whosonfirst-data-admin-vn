@@ -1,0 +1,67 @@
+{
+  "id": 1209017513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38305,10.42872,105.38305,10.42872",
+    "geom:latitude":10.42872,
+    "geom:longitude":105.38305,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hoa Phu Hai",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336863,
+    "gn:latitude":10.42872,
+    "gn:longitude":105.38305,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"H\u00f2a Ph\u00fa Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a Ph\u00fa Hai"
+    ],
+    "name:vie_x_variant":[
+        "H\u00f2a Ph\u00fa 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336863
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f56370cf58aa7aa65cb6c02f631cc02c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209017513
+        }
+    ],
+    "wof:id":1209017513,
+    "wof:lastmodified":1537714277,
+    "wof:name":"Hoa Phu Hai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38305,
+    10.42872,
+    105.38305,
+    10.42872
+],
+  "geometry": {"coordinates":[105.38305,10.42872],"type":"Point"}
+}

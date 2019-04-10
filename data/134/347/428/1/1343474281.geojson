@@ -1,0 +1,73 @@
+{
+  "id": 1343474281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61369,19.0684,105.61369,19.0684",
+    "geom:latitude":19.0684,
+    "geom:longitude":105.61369,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Yen Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560036,
+    "gn:latitude":19.0684,
+    "gn:longitude":105.61369,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Y\u00ean V\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00ean Vinh"
+    ],
+    "name:vie_x_preferred":[
+        "Y\u00ean V\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560036
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c99ba1798a6fb118be71faaa7d17751f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1343474281,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1343474281,
+    "wof:lastmodified":1537713658,
+    "wof:name":"Yen Vinh",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61369,
+    19.0684,
+    105.61369,
+    19.0684
+],
+  "geometry": {"coordinates":[105.61369000000001,19.0684],"type":"Point"}
+}

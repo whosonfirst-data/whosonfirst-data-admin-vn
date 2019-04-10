@@ -1,0 +1,67 @@
+{
+  "id": 1193151841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.21667,15.01667,108.21667,15.01667",
+    "geom:latitude":15.01667,
+    "geom:longitude":108.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dak Djro",
+    "gn:country_code":"VN",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584216,
+    "gn:latitude":15.01667,
+    "gn:longitude":108.21667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dak Djro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584216
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e67dca8a6d8312b0fae99aea6605056e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781783,
+            "locality_id":1193151841,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1193151841,
+    "wof:lastmodified":1536377391,
+    "wof:name":"Dak Djro",
+    "wof:parent_id":1108781783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.21667,
+    15.01667,
+    108.21667,
+    15.01667
+],
+  "geometry": {"coordinates":[108.21666999999999,15.01667],"type":"Point"}
+}

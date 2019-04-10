@@ -1,0 +1,74 @@
+{
+  "id": 1259494051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.48333,12.7,108.48333,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":108.48333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Krong Pach",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586921,
+    "gn:latitude":12.7,
+    "gn:longitude":108.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Kr\u00f4ng Pach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ea Roh",
+        "Buon Ea Rok",
+        "Ban Ea Rok",
+        "Bu\u00f4n Kr\u00f4ng Pach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586921
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f6f6ef62c45d265efc522bb31791ee9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1259494051,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259494051,
+    "wof:lastmodified":1537714047,
+    "wof:name":"Buon Krong Pach",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.48333,
+    12.7,
+    108.48333,
+    12.7
+],
+  "geometry": {"coordinates":[108.48333,12.7],"type":"Point"}
+}

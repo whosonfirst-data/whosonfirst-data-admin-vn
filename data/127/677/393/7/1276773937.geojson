@@ -1,0 +1,67 @@
+{
+  "id": 1276773937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18333,21.55,105.18333,21.55",
+    "geom:latitude":21.55,
+    "geom:longitude":105.18333,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Trang My",
+    "gn:country_code":"VN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564023,
+    "gn:latitude":21.55,
+    "gn:longitude":105.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trang My",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564023
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"84ba8c623695fe50aac7e6349f015828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781169,
+            "locality_id":1276773937,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1276773937,
+    "wof:lastmodified":1536685357,
+    "wof:name":"Trang My",
+    "wof:parent_id":1108781169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18333,
+    21.55,
+    105.18333,
+    21.55
+],
+  "geometry": {"coordinates":[105.18333,21.55],"type":"Point"}
+}

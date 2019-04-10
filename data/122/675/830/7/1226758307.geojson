@@ -1,0 +1,73 @@
+{
+  "id": 1226758307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55071,19.37853,105.55071,19.37853",
+    "geom:latitude":19.37853,
+    "geom:longitude":105.55071,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Lang Man",
+    "gn:country_code":"VN",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577027,
+    "gn:latitude":19.37853,
+    "gn:longitude":105.55071,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"L\u00e0ng M\u00e0n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Man"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng M\u00e0n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577027
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"56fdcc4e584c0859782bfa235e13bffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781463,
+            "locality_id":1226758307,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1226758307,
+    "wof:lastmodified":1537713917,
+    "wof:name":"Lang Man",
+    "wof:parent_id":1108781463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55071,
+    19.37853,
+    105.55071,
+    19.37853
+],
+  "geometry": {"coordinates":[105.55071,19.37853],"type":"Point"}
+}

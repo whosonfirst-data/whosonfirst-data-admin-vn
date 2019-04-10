@@ -1,0 +1,67 @@
+{
+  "id": 1293405313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.6,13.28333,108.6,13.28333",
+    "geom:latitude":13.28333,
+    "geom:longitude":108.6,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Tieng",
+    "gn:country_code":"VN",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588552,
+    "gn:latitude":13.28333,
+    "gn:longitude":108.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Tieng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588552
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f90a80583afb10e44ddc9efbbe469c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781825,
+            "locality_id":1293405313,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1293405313,
+    "wof:lastmodified":1536905612,
+    "wof:name":"Ban Tieng",
+    "wof:parent_id":1108781825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.6,
+    13.28333,
+    108.6,
+    13.28333
+],
+  "geometry": {"coordinates":[108.59999999999999,13.28333],"type":"Point"}
+}

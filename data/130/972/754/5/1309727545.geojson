@@ -1,0 +1,70 @@
+{
+  "id": 1309727545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9471,18.39106,105.9471,18.39106",
+    "geom:latitude":18.39106,
+    "geom:longitude":105.9471,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Phuc Lan",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275348,
+    "gn:latitude":18.39106,
+    "gn:longitude":105.9471,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Ph\u00fac Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fac Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275348
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1125297609a9c8d92773d4bf76c1be1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1309727545,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309727545,
+    "wof:lastmodified":1537714676,
+    "wof:name":"Phuc Lan",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9471,
+    18.39106,
+    105.9471,
+    18.39106
+],
+  "geometry": {"coordinates":[105.94710000000001,18.39106],"type":"Point"}
+}

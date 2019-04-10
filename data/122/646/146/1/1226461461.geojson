@@ -1,0 +1,71 @@
+{
+  "id": 1226461461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.7,14.83333,107.7,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":107.7,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Lang Dak Sang",
+    "gn:country_code":"VN",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577497,
+    "gn:latitude":14.83333,
+    "gn:longitude":107.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Dak Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dak Seang",
+        "L\u00e0ng Dak Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577497
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"46f07a980b61ba90658f5e842bc7d6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781779,
+            "locality_id":1226461461,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1226461461,
+    "wof:lastmodified":1537713925,
+    "wof:name":"Lang Dak Sang",
+    "wof:parent_id":1108781779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.7,
+    14.83333,
+    107.7,
+    14.83333
+],
+  "geometry": {"coordinates":[107.7,14.83333],"type":"Point"}
+}

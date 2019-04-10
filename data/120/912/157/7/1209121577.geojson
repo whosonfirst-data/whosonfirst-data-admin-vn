@@ -1,0 +1,65 @@
+{
+  "id": 1209121577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08333,22.78333,105.08333,22.78333",
+    "geom:latitude":22.78333,
+    "geom:longitude":105.08333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Kouei Tac",
+    "gn:country_code":"VN",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578332,
+    "gn:latitude":22.78333,
+    "gn:longitude":105.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kouei Tac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouel Tac",
+        "Kouei Tac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c0591b1e0f5a6b14a3cd3143a3650cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121577
+        }
+    ],
+    "wof:id":1209121577,
+    "wof:lastmodified":1537713937,
+    "wof:name":"Kouei Tac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08333,
+    22.78333,
+    105.08333,
+    22.78333
+],
+  "geometry": {"coordinates":[105.08333,22.78333],"type":"Point"}
+}

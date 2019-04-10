@@ -1,0 +1,73 @@
+{
+  "id": 1292919053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23161,21.52304,103.23161,21.52304",
+    "geom:latitude":21.52304,
+    "geom:longitude":103.23161,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Khoi Chin",
+    "gn:country_code":"VN",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944529,
+    "gn:latitude":21.52304,
+    "gn:longitude":103.23161,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kh\u1ed1i Ch\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i Ch\u00edn"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i 9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944529
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9c9b5cff5cedb8fcc6e3fb199631bf42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780973,
+            "locality_id":1292919053,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1292919053,
+    "wof:lastmodified":1537714738,
+    "wof:name":"Khoi Chin",
+    "wof:parent_id":1108780973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23161,
+    21.52304,
+    103.23161,
+    21.52304
+],
+  "geometry": {"coordinates":[103.23161,21.52304],"type":"Point"}
+}

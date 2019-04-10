@@ -1,0 +1,67 @@
+{
+  "id": 1343719483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,10.93333,105.76667,10.93333",
+    "geom:latitude":10.93333,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Lo Gach",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593127,
+    "gn:latitude":10.93333,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"\u1ea4p L\u00f2 G\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593127
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0fc001112ac4dd52ef8e7ffe2ea332ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782067,
+            "locality_id":1343719483,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1343719483,
+    "wof:lastmodified":1536868990,
+    "wof:name":"Ap Lo Gach",
+    "wof:parent_id":1108782067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    10.93333,
+    105.76667,
+    10.93333
+],
+  "geometry": {"coordinates":[105.76667,10.93333],"type":"Point"}
+}

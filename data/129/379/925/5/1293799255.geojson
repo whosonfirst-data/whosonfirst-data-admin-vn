@@ -1,0 +1,73 @@
+{
+  "id": 1293799255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.57199,13.95143,108.57199,13.95143",
+    "geom:latitude":13.95143,
+    "geom:longitude":108.57199,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Chro Tong Hai",
+    "gn:country_code":"VN",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865412,
+    "gn:latitude":13.95143,
+    "gn:longitude":108.57199,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Chro T\u01a1ng Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Chro T\u01a1ng Hai"
+    ],
+    "name:vie_x_variant":[
+        "Chro T\u01a1ng 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865412
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ad382b01082bd60abde27b1b38286a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781819,
+            "locality_id":1293799255,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1293799255,
+    "wof:lastmodified":1537714500,
+    "wof:name":"Chro Tong Hai",
+    "wof:parent_id":1108781819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.57199,
+    13.95143,
+    108.57199,
+    13.95143
+],
+  "geometry": {"coordinates":[108.57199,13.95143],"type":"Point"}
+}

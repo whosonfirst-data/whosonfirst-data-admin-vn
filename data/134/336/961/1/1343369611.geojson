@@ -1,0 +1,71 @@
+{
+  "id": 1343369611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,16.56667,107.53333,16.56667",
+    "geom:latitude":16.56667,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Khuong Pho",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593211,
+    "gn:latitude":16.56667,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Khu\u00f4ng Ph\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuong Pho",
+        "\u1ea4p Khu\u00f4ng Ph\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593211
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"146d32717d6e78dad0651baacb62ce55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781563,
+            "locality_id":1343369611,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1343369611,
+    "wof:lastmodified":1537714180,
+    "wof:name":"Ap Khuong Pho",
+    "wof:parent_id":1108781563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    16.56667,
+    107.53333,
+    16.56667
+],
+  "geometry": {"coordinates":[107.53333000000001,16.56667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209525627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.96667,15.08333,107.96667,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":107.96667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Long R'nam",
+    "gn:country_code":"VN",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575678,
+    "gn:latitude":15.08333,
+    "gn:longitude":107.96667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Long R\u2019nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long R\u2019Nan",
+        "Long R\u2019nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575678
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab066e13743ba94446ec31bac563617c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209525627
+        }
+    ],
+    "wof:id":1209525627,
+    "wof:lastmodified":1537713896,
+    "wof:name":"Long R'nam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.96667,
+    15.08333,
+    107.96667,
+    15.08333
+],
+  "geometry": {"coordinates":[107.96666999999999,15.08333],"type":"Point"}
+}

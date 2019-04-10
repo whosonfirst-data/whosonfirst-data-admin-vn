@@ -1,0 +1,64 @@
+{
+  "id": 1209425783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08459,9.96247,106.08459,9.96247",
+    "geom:latitude":9.96247,
+    "geom:longitude":106.08459,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Hieu Trung",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290511,
+    "gn:latitude":9.96247,
+    "gn:longitude":106.08459,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Hi\u1ebfu Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hi\u1ebfu Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290511
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3d588fb0f8f98a285991a98274a7a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425783
+        }
+    ],
+    "wof:id":1209425783,
+    "wof:lastmodified":1537714466,
+    "wof:name":"Hieu Trung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08459,
+    9.96247,
+    106.08459,
+    9.96247
+],
+  "geometry": {"coordinates":[106.08459000000001,9.96247],"type":"Point"}
+}

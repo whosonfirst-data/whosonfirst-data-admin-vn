@@ -1,0 +1,70 @@
+{
+  "id": 1243187683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02287,19.23244,105.02287,19.23244",
+    "geom:latitude":19.23244,
+    "geom:longitude":105.02287,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Ham",
+    "gn:country_code":"VN",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10252572,
+    "gn:latitude":19.23244,
+    "gn:longitude":105.02287,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"B\u1ea3n H\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n H\u0103m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10252572
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"05fd6d204daf8a3826d2a4f81bdb5258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781465,
+            "locality_id":1243187683,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243187683,
+    "wof:lastmodified":1537714650,
+    "wof:name":"Ban Ham",
+    "wof:parent_id":1108781465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02287,
+    19.23244,
+    105.02287,
+    19.23244
+],
+  "geometry": {"coordinates":[105.02287,19.23244],"type":"Point"}
+}

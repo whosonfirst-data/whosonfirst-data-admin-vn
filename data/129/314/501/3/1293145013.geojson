@@ -1,0 +1,72 @@
+{
+  "id": 1293145013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,20.53333,106.5,20.53333",
+    "geom:latitude":20.53333,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ha Dong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581365,
+    "gn:latitude":20.53333,
+    "gn:longitude":106.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u1ea1 D\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha Duong",
+        "H\u1ea1 D\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5db6c7dc629eab677b4a251705c0cec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781323,
+            "locality_id":1293145013,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1293145013,
+    "wof:lastmodified":1537713975,
+    "wof:name":"Ha Dong",
+    "wof:parent_id":1108781323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    20.53333,
+    106.5,
+    20.53333
+],
+  "geometry": {"coordinates":[106.5,20.53333],"type":"Point"}
+}

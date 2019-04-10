@@ -1,0 +1,64 @@
+{
+  "id": 1209531049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38197,9.53406,106.38197,9.53406",
+    "geom:latitude":9.53406,
+    "geom:longitude":106.38197,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ho Tau",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9292335,
+    "gn:latitude":9.53406,
+    "gn:longitude":106.38197,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u1ed3 T\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3 T\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9292335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aed045d08e6c6182fa5642c01d400dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531049
+        }
+    ],
+    "wof:id":1209531049,
+    "wof:lastmodified":1537714471,
+    "wof:name":"Ho Tau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38197,
+    9.53406,
+    106.38197,
+    9.53406
+],
+  "geometry": {"coordinates":[106.38197,9.53406],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343717801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.65,11.68333,107.65,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":107.65,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"B'nao",
+    "gn:country_code":"VN",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1587675,
+    "gn:latitude":11.68333,
+    "gn:longitude":107.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u2019nao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587675
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"538ccdc8173c8cc5b120573514288900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781903,
+            "locality_id":1343717801,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1343717801,
+    "wof:lastmodified":1536871474,
+    "wof:name":"B'nao",
+    "wof:parent_id":1108781903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.65,
+    11.68333,
+    107.65,
+    11.68333
+],
+  "geometry": {"coordinates":[107.65000000000001,11.68333],"type":"Point"}
+}

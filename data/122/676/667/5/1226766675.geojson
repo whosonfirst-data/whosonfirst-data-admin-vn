@@ -1,0 +1,70 @@
+{
+  "id": 1226766675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.05925,10.90141,108.05925,10.90141",
+    "geom:latitude":10.90141,
+    "geom:longitude":108.05925,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Tien Binh",
+    "gn:country_code":"VN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8998539,
+    "gn:latitude":10.90141,
+    "gn:longitude":108.05925,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ti\u1ebfn B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ebfn B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8998539
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1d5e6399d73b98c79be4a2647086f6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781751,
+            "locality_id":1226766675,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1226766675,
+    "wof:lastmodified":1537714428,
+    "wof:name":"Tien Binh",
+    "wof:parent_id":1108781751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.05925,
+    10.90141,
+    108.05925,
+    10.90141
+],
+  "geometry": {"coordinates":[108.05925000000001,10.90141],"type":"Point"}
+}

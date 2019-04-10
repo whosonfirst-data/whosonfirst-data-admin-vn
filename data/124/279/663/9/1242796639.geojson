@@ -1,0 +1,73 @@
+{
+  "id": 1242796639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38723,21.28807,105.38723,21.28807",
+    "geom:latitude":21.28807,
+    "geom:longitude":105.38723,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Vien Chau",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562839,
+    "gn:latitude":21.28807,
+    "gn:longitude":105.38723,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vi\u00ean Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u00ean Chu"
+    ],
+    "name:vie_x_preferred":[
+        "Vi\u00ean Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dcb3b76db0931f2ee67487aac6138b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1242796639,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1242796639,
+    "wof:lastmodified":1537713713,
+    "wof:name":"Vien Chau",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38723,
+    21.28807,
+    105.38723,
+    21.28807
+],
+  "geometry": {"coordinates":[105.38723,21.28807],"type":"Point"}
+}

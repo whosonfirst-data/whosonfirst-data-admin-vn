@@ -1,0 +1,64 @@
+{
+  "id": 1209116755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.19288,21.43312,106.19288,21.43312",
+    "geom:latitude":21.43312,
+    "geom:longitude":106.19288,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lien Giang",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867479,
+    "gn:latitude":21.43312,
+    "gn:longitude":106.19288,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Li\u00ean Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00ean Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9391019d4e7f0c5071ac96b5a7f1a634",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116755
+        }
+    ],
+    "wof:id":1209116755,
+    "wof:lastmodified":1537714506,
+    "wof:name":"Lien Giang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.19288,
+    21.43312,
+    106.19288,
+    21.43312
+],
+  "geometry": {"coordinates":[106.19288,21.43312],"type":"Point"}
+}

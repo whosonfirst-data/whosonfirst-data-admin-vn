@@ -1,0 +1,70 @@
+{
+  "id": 1326945625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44047,21.40565,105.44047,21.40565",
+    "geom:latitude":21.40565,
+    "geom:longitude":105.44047,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Long Cuong",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201866,
+    "gn:latitude":21.40565,
+    "gn:longitude":105.44047,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Long C\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long C\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201866
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea438a2a24a946044c9a8ffe9513b7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1326945625,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1326945625,
+    "wof:lastmodified":1537714245,
+    "wof:name":"Long Cuong",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44047,
+    21.40565,
+    105.44047,
+    21.40565
+],
+  "geometry": {"coordinates":[105.44047,21.40565],"type":"Point"}
+}

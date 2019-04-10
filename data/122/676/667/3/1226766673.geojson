@@ -1,0 +1,70 @@
+{
+  "id": 1226766673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22152,22.54929,105.22152,22.54929",
+    "geom:latitude":22.54929,
+    "geom:longitude":105.22152,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Tang",
+    "gn:country_code":"VN",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309662,
+    "gn:latitude":22.54929,
+    "gn:longitude":105.22152,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n T\u1ea5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u1ea5ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309662
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ef186aba95176906a5de8b5626543c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1226766673,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226766673,
+    "wof:lastmodified":1537714262,
+    "wof:name":"Ban Tang",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22152,
+    22.54929,
+    105.22152,
+    22.54929
+],
+  "geometry": {"coordinates":[105.22152,22.54929],"type":"Point"}
+}

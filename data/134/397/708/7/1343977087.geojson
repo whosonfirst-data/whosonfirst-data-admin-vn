@@ -1,0 +1,67 @@
+{
+  "id": 1343977087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8905,22.35617,105.8905,22.35617",
+    "geom:latitude":22.35617,
+    "geom:longitude":105.8905,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Cay",
+    "gn:country_code":"VN",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311618,
+    "gn:latitude":22.35617,
+    "gn:longitude":105.8905,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"B\u1ea3n C\u1ea9y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311618
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"be10634b7968cc1ab678053966878f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1343977087,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343977087,
+    "wof:lastmodified":1536995237,
+    "wof:name":"Ban Cay",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8905,
+    22.35617,
+    105.8905,
+    22.35617
+],
+  "geometry": {"coordinates":[105.8905,22.35617],"type":"Point"}
+}

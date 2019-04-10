@@ -1,0 +1,70 @@
+{
+  "id": 1277134221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04517,10.54361,106.04517,10.54361",
+    "geom:latitude":10.54361,
+    "geom:longitude":106.04517,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Trung",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101516,
+    "gn:latitude":10.54361,
+    "gn:longitude":106.04517,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101516
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de2acaa0ca57e4249a30586bada48fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782071,
+            "locality_id":1277134221,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1277134221,
+    "wof:lastmodified":1537714458,
+    "wof:name":"Ap Trung",
+    "wof:parent_id":1108782071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04517,
+    10.54361,
+    106.04517,
+    10.54361
+],
+  "geometry": {"coordinates":[106.04517,10.54361],"type":"Point"}
+}

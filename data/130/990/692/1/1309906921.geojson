@@ -1,0 +1,71 @@
+{
+  "id": 1309906921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.62538,9.84792,106.62538,9.84792",
+    "geom:latitude":9.84792,
+    "geom:longitude":106.62538,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thanh Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592042,
+    "gn:latitude":9.84792,
+    "gn:longitude":106.62538,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Th\u1ea1nh Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u1ea1nh Ph\u01b0\u1edbc",
+        "\u1ea4p Th\u1ea1nh Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592042
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71fe21f8d3092231ca1bcc0398e79382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1309906921,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1309906921,
+    "wof:lastmodified":1537714150,
+    "wof:name":"Thanh Phuoc",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.62538,
+    9.84792,
+    106.62538,
+    9.84792
+],
+  "geometry": {"coordinates":[106.62538000000001,9.84792],"type":"Point"}
+}

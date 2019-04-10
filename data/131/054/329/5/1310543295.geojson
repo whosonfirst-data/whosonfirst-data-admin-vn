@@ -1,0 +1,72 @@
+{
+  "id": 1310543295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13333,15.9,108.13333,15.9",
+    "geom:latitude":15.9,
+    "geom:longitude":108.13333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Lac Thanh Tay",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578016,
+    "gn:latitude":15.9,
+    "gn:longitude":108.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u1ea1c Th\u00e0nh T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lar Thanh",
+        "Lac Thanh",
+        "L\u1ea1c Th\u00e0nh T\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578016
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"32260cbe9c76c71a78f8d370f88a7d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781603,
+            "locality_id":1310543295,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1310543295,
+    "wof:lastmodified":1537713933,
+    "wof:name":"Lac Thanh Tay",
+    "wof:parent_id":1108781603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13333,
+    15.9,
+    108.13333,
+    15.9
+],
+  "geometry": {"coordinates":[108.13333,15.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193152245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2,21.38333,103.2,21.38333",
+    "geom:latitude":21.38333,
+    "geom:longitude":103.2,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Phou Nhi",
+    "gn:country_code":"VN",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589110,
+    "gn:latitude":21.38333,
+    "gn:longitude":103.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Phou Nhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589110
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b469824c1a2c1238da7742afce8b231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1193152245,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1193152245,
+    "wof:lastmodified":1536376986,
+    "wof:name":"Ban Phou Nhi",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2,
+    21.38333,
+    103.2,
+    21.38333
+],
+  "geometry": {"coordinates":[103.2,21.38333],"type":"Point"}
+}

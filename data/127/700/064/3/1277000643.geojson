@@ -1,0 +1,75 @@
+{
+  "id": 1277000643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.60924,12.25518,107.60924,12.25518",
+    "geom:latitude":12.25518,
+    "geom:longitude":107.60924,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Dak Song",
+    "gn:country_code":"VN",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1584099,
+    "gn:latitude":12.25518,
+    "gn:longitude":107.60924,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u0110\u1eafk Song",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dao Thong",
+        "X\u01b0\u1edfng C\u01b0a M\u00e1y Dak Song",
+        "\u0110ak Song"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1eafk Song"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584099
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b05e63dff1a6e521b96cd073bdbf9efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781877,
+            "locality_id":1277000643,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1277000643,
+    "wof:lastmodified":1537714009,
+    "wof:name":"Dak Song",
+    "wof:parent_id":1108781877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.60924,
+    12.25518,
+    107.60924,
+    12.25518
+],
+  "geometry": {"coordinates":[107.60924,12.25518],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327250379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35,21.06667,106.35,21.06667",
+    "geom:latitude":21.06667,
+    "geom:longitude":106.35,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Doi Linh",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583184,
+    "gn:latitude":21.06667,
+    "gn:longitude":106.35,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed1i L\u0129nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583184
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"612b536e89d017af297928cec2d46ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781239,
+            "locality_id":1327250379,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1327250379,
+    "wof:lastmodified":1536944091,
+    "wof:name":"Doi Linh",
+    "wof:parent_id":1108781239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35,
+    21.06667,
+    106.35,
+    21.06667
+],
+  "geometry": {"coordinates":[106.34999999999999,21.06667],"type":"Point"}
+}

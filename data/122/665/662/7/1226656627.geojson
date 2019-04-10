@@ -1,0 +1,70 @@
+{
+  "id": 1226656627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41016,20.25193,106.41016,20.25193",
+    "geom:latitude":20.25193,
+    "geom:longitude":106.41016,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Sa Chau",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568217,
+    "gn:latitude":20.25193,
+    "gn:longitude":106.41016,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Sa Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Sa Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568217
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd1230d488f0e703dd946737206549fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781365,
+            "locality_id":1226656627,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1226656627,
+    "wof:lastmodified":1537713796,
+    "wof:name":"Sa Chau",
+    "wof:parent_id":1108781365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41016,
+    20.25193,
+    106.41016,
+    20.25193
+],
+  "geometry": {"coordinates":[106.41016,20.25193],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209233697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20932,22.9864,105.20932,22.9864",
+    "geom:latitude":22.9864,
+    "geom:longitude":105.20932,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Co Tau",
+    "gn:country_code":"VN",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309502,
+    "gn:latitude":22.9864,
+    "gn:longitude":105.20932,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"C\u1edd T\u1ea9u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1edd T\u1ea9u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c94b6386ce0869c8c23c97b29afdee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233697
+        }
+    ],
+    "wof:id":1209233697,
+    "wof:lastmodified":1537714257,
+    "wof:name":"Co Tau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20932,
+    22.9864,
+    105.20932,
+    22.9864
+],
+  "geometry": {"coordinates":[105.20932000000001,22.9864],"type":"Point"}
+}

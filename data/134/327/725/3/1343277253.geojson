@@ -1,0 +1,70 @@
+{
+  "id": 1343277253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29739,22.40922,105.29739,22.40922",
+    "geom:latitude":22.40922,
+    "geom:longitude":105.29739,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Chac",
+    "gn:country_code":"VN",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309203,
+    "gn:latitude":22.40922,
+    "gn:longitude":105.29739,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 Ch\u00e1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Ch\u00e1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309203
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b75318f05ee483d86ccd1a2d7764ed0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1343277253,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343277253,
+    "wof:lastmodified":1537714250,
+    "wof:name":"Na Chac",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29739,
+    22.40922,
+    105.29739,
+    22.40922
+],
+  "geometry": {"coordinates":[105.29738999999999,22.40922],"type":"Point"}
+}

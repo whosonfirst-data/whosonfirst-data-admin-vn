@@ -1,0 +1,70 @@
+{
+  "id": 1276558733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29849,22.731,103.29849,22.731",
+    "geom:latitude":22.731,
+    "geom:longitude":103.29849,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ty Phu",
+    "gn:country_code":"VN",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356449,
+    "gn:latitude":22.731,
+    "gn:longitude":103.29849,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"T\u1ef7 Ph\u00f9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ef7 Ph\u00f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356449
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f36ff31e8f68729189c0e616e10bb8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1276558733,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1276558733,
+    "wof:lastmodified":1537714711,
+    "wof:name":"Ty Phu",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29849,
+    22.731,
+    103.29849,
+    22.731
+],
+  "geometry": {"coordinates":[103.29849,22.731],"type":"Point"}
+}

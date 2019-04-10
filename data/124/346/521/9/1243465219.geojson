@@ -1,0 +1,67 @@
+{
+  "id": 1243465219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18333,19.03333,105.18333,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":105.18333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dong Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582455,
+    "gn:latitude":19.03333,
+    "gn:longitude":105.18333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u1ed3ng Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582455
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eb559631ad24d41542339a42abf55bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781473,
+            "locality_id":1243465219,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243465219,
+    "wof:lastmodified":1536778895,
+    "wof:name":"Dong Vinh",
+    "wof:parent_id":1108781473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18333,
+    19.03333,
+    105.18333,
+    19.03333
+],
+  "geometry": {"coordinates":[105.18333,19.03333],"type":"Point"}
+}

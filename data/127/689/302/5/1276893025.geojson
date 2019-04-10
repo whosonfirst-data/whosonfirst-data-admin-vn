@@ -1,0 +1,70 @@
+{
+  "id": 1276893025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55507,18.3519,105.55507,18.3519",
+    "geom:latitude":18.3519,
+    "geom:longitude":105.55507,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hop Duan",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354198,
+    "gn:latitude":18.3519,
+    "gn:longitude":105.55507,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u1ee3p Du\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ee3p Du\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354198
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4fa06ab55eae032b3076ea34fc2bb464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781503,
+            "locality_id":1276893025,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276893025,
+    "wof:lastmodified":1537714710,
+    "wof:name":"Hop Duan",
+    "wof:parent_id":1108781503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55507,
+    18.3519,
+    105.55507,
+    18.3519
+],
+  "geometry": {"coordinates":[105.55507,18.3519],"type":"Point"}
+}

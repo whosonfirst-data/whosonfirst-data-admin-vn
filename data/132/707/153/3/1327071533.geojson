@@ -1,0 +1,70 @@
+{
+  "id": 1327071533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52496,21.54626,103.52496,21.54626",
+    "geom:latitude":21.54626,
+    "geom:longitude":103.52496,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pa Khom",
+    "gn:country_code":"VN",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545297,
+    "gn:latitude":21.54626,
+    "gn:longitude":103.52496,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"P\u00e1 Kh\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00e1 Kh\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545297
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2fdf0262b2cac50c9fdd25fc8b3d6f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780999,
+            "locality_id":1327071533,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1327071533,
+    "wof:lastmodified":1537714340,
+    "wof:name":"Pa Khom",
+    "wof:parent_id":1108780999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52496,
+    21.54626,
+    103.52496,
+    21.54626
+],
+  "geometry": {"coordinates":[103.52495999999999,21.54626],"type":"Point"}
+}

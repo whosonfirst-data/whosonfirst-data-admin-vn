@@ -1,0 +1,74 @@
+{
+  "id": 1209929631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21671,20.08067,106.21671,20.08067",
+    "geom:latitude":20.08067,
+    "geom:longitude":106.21671,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Phu Le",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570507,
+    "gn:latitude":20.08067,
+    "gn:longitude":106.21671,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ph\u00fa L\u1ec5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pho Le Ap",
+        "Phu L\u1ec5 \u1ea4p"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa L\u1ec5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570507
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c6d8bce2b138203beadb802835674d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781367,
+            "locality_id":1209929631,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1209929631,
+    "wof:lastmodified":1537713830,
+    "wof:name":"Phu Le",
+    "wof:parent_id":1108781367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21671,
+    20.08067,
+    106.21671,
+    20.08067
+],
+  "geometry": {"coordinates":[106.21671000000001,20.08067],"type":"Point"}
+}

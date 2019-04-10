@@ -1,0 +1,65 @@
+{
+  "id": 1209256859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.41142,15.55473,108.41142,15.55473",
+    "geom:latitude":15.55473,
+    "geom:longitude":108.41142,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Phu Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8668697,
+    "gn:latitude":15.55473,
+    "gn:longitude":108.41142,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8668697,
+        "wk:page":"Ph%C3%BA_Ninh_District"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"684140ecc3fbe8fea8cbe5874e426e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209256859
+        }
+    ],
+    "wof:id":1209256859,
+    "wof:lastmodified":1537714397,
+    "wof:name":"Phu Ninh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.41142,
+    15.55473,
+    108.41142,
+    15.55473
+],
+  "geometry": {"coordinates":[108.41142000000001,15.55473],"type":"Point"}
+}

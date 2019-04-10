@@ -1,0 +1,67 @@
+{
+  "id": 1259898851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41667,22.43333,102.41667,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":102.41667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"To So Don",
+    "gn:country_code":"VN",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564320,
+    "gn:latitude":22.43333,
+    "gn:longitude":102.41667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"T\u00f4 So D\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564320
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"76d78ce2df948bbe609bb3a049bfe368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1259898851,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1259898851,
+    "wof:lastmodified":1536757099,
+    "wof:name":"To So Don",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41667,
+    22.43333,
+    102.41667,
+    22.43333
+],
+  "geometry": {"coordinates":[102.41667,22.43333],"type":"Point"}
+}

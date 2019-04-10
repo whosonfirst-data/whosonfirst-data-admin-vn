@@ -1,0 +1,73 @@
+{
+  "id": 1259799019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49218,9.5925,105.49218,9.5925",
+    "geom:latitude":9.5925,
+    "geom:longitude":105.49218,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Ap Hai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534645,
+    "gn:latitude":9.5925,
+    "gn:longitude":105.49218,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p Hai"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680827,
+        1108782285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534645
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e72e496c112153339f2ed37fbcb9932a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782285,
+            "locality_id":1259799019,
+            "region_id":85680827
+        }
+    ],
+    "wof:id":1259799019,
+    "wof:lastmodified":1537714485,
+    "wof:name":"Ap Hai",
+    "wof:parent_id":1108782285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49218,
+    9.5925,
+    105.49218,
+    9.5925
+],
+  "geometry": {"coordinates":[105.49218,9.5925],"type":"Point"}
+}

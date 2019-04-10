@@ -1,0 +1,70 @@
+{
+  "id": 1226353145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28811,21.85015,106.28811,21.85015",
+    "geom:latitude":21.85015,
+    "geom:longitude":106.28811,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Lan Nghien",
+    "gn:country_code":"VN",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889914,
+    "gn:latitude":21.85015,
+    "gn:longitude":106.28811,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e2n Nghi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e2n Nghi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889914
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"416843872a24121b702d7fea3ab22b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1226353145,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226353145,
+    "wof:lastmodified":1537714551,
+    "wof:name":"Lan Nghien",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28811,
+    21.85015,
+    106.28811,
+    21.85015
+],
+  "geometry": {"coordinates":[106.28811,21.85015],"type":"Point"}
+}

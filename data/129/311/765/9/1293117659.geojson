@@ -1,0 +1,67 @@
+{
+  "id": 1293117659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.96667,12.05,106.96667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":106.96667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ba Yu M'peul",
+    "gn:country_code":"VN",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588095,
+    "gn:latitude":12.05,
+    "gn:longitude":106.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ba Yu M\u2019peul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588095
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5eaf1ef5dcb49af864e5cbdc4d3009f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1293117659,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1293117659,
+    "wof:lastmodified":1536822389,
+    "wof:name":"Ba Yu M'peul",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.96667,
+    12.05,
+    106.96667,
+    12.05
+],
+  "geometry": {"coordinates":[106.96666999999999,12.05],"type":"Point"}
+}

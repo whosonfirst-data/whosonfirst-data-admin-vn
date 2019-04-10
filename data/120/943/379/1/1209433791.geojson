@@ -1,0 +1,65 @@
+{
+  "id": 1209433791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05,16.81667,107.05,16.81667",
+    "geom:latitude":16.81667,
+    "geom:longitude":107.05,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Tam Lang",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565327,
+    "gn:latitude":16.81667,
+    "gn:longitude":107.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Tam Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lam Lang",
+        "Th\u00f4n Tam Lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565327
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a5f118f67c4bbab8b058cb800b4573ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433791
+        }
+    ],
+    "wof:id":1209433791,
+    "wof:lastmodified":1537713749,
+    "wof:name":"Thon Tam Lang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05,
+    16.81667,
+    107.05,
+    16.81667
+],
+  "geometry": {"coordinates":[107.05,16.81667],"type":"Point"}
+}

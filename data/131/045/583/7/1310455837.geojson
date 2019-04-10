@@ -1,0 +1,72 @@
+{
+  "id": 1310455837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,11.26667,106.2,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Trang Dau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591891,
+    "gn:latitude":11.26667,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Tr\u1ea3ng D\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Trang Dau",
+        "\u1ea4p Tr\u1ea3ng D\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591891
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d2fdc7a3ebc089744f20307582a79c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781945,
+            "locality_id":1310455837,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1310455837,
+    "wof:lastmodified":1537714145,
+    "wof:name":"Ap Trang Dau",
+    "wof:parent_id":1108781945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    11.26667,
+    106.2,
+    11.26667
+],
+  "geometry": {"coordinates":[106.2,11.26667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209413179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80374,22.91524,105.80374,22.91524",
+    "geom:latitude":22.91524,
+    "geom:longitude":105.80374,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dong Mu",
+    "gn:country_code":"VN",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582736,
+    "gn:latitude":22.91524,
+    "gn:longitude":105.80374,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Dong Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed5ng Mu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582736
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44338d648c794d93102a5574ed8a0209",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209413179
+        }
+    ],
+    "wof:id":1209413179,
+    "wof:lastmodified":1537713991,
+    "wof:name":"Dong Mu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80374,
+    22.91524,
+    105.80374,
+    22.91524
+],
+  "geometry": {"coordinates":[105.80374,22.91524],"type":"Point"}
+}

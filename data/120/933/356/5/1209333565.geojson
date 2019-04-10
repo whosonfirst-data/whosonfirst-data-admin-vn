@@ -1,0 +1,64 @@
+{
+  "id": 1209333565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06397,21.72245,105.06397,21.72245",
+    "geom:latitude":21.72245,
+    "geom:longitude":105.06397,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Trac Van",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137881,
+    "gn:latitude":21.72245,
+    "gn:longitude":105.06397,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tr\u1eafc V\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u1eafc V\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137881
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"003724cca85d238b2928c73db5709014",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209333565
+        }
+    ],
+    "wof:id":1209333565,
+    "wof:lastmodified":1537714215,
+    "wof:name":"Trac Van",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06397,
+    21.72245,
+    105.06397,
+    21.72245
+],
+  "geometry": {"coordinates":[105.06397,21.72245],"type":"Point"}
+}

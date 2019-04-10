@@ -1,0 +1,61 @@
+{
+  "id": 1209425667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,21.13333,105.76667,21.13333",
+    "geom:latitude":21.13333,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Hau Duong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581021,
+    "gn:latitude":21.13333,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u1eadu D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581021
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"751bb29b5e7e9110c7b8fdc126608cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425667
+        }
+    ],
+    "wof:id":1209425667,
+    "wof:lastmodified":1536287388,
+    "wof:name":"Hau Duong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    21.13333,
+    105.76667,
+    21.13333
+],
+  "geometry": {"coordinates":[105.76667,21.13333],"type":"Point"}
+}

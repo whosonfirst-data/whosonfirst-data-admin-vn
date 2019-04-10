@@ -1,0 +1,72 @@
+{
+  "id": 1344171973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43333,11.51667,106.43333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":106.43333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ap Lai Minh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593174,
+    "gn:latitude":11.51667,
+    "gn:longitude":106.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p L\u00e1i Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srok Lay Minh",
+        "\u1ea4p L\u00e1i Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593174
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dbd60ec81c92ce0d6dcb52d3c00af996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781921,
+            "locality_id":1344171973,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1344171973,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Ap Lai Minh",
+    "wof:parent_id":1108781921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43333,
+    11.51667,
+    106.43333,
+    11.51667
+],
+  "geometry": {"coordinates":[106.43333,11.51667],"type":"Point"}
+}

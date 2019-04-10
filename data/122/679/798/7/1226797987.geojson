@@ -1,0 +1,73 @@
+{
+  "id": 1226797987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,21.04783,104.2,21.04783",
+    "geom:latitude":21.04783,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Cho Long",
+    "gn:country_code":"VN",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590885,
+    "gn:latitude":21.04783,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"B\u1ea3n Ch\u1edd L\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Cho Lung"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ch\u1edd L\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590885
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a50aa80be9bcc5d6339497cb50230468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781011,
+            "locality_id":1226797987,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226797987,
+    "wof:lastmodified":1537714127,
+    "wof:name":"Ban Cho Long",
+    "wof:parent_id":1108781011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    21.04783,
+    104.2,
+    21.04783
+],
+  "geometry": {"coordinates":[104.2,21.04783],"type":"Point"}
+}

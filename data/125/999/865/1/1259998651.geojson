@@ -1,0 +1,67 @@
+{
+  "id": 1259998651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09117,21.15598,105.09117,21.15598",
+    "geom:latitude":21.15598,
+    "geom:longitude":105.09117,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Ngoc Chau",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608587,
+    "gn:latitude":21.15598,
+    "gn:longitude":105.09117,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ng\u1ecdc Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608587
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"47689d177dacef3d552ca06ead6f9e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781193,
+            "locality_id":1259998651,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1259998651,
+    "wof:lastmodified":1536610717,
+    "wof:name":"Ngoc Chau",
+    "wof:parent_id":1108781193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09117,
+    21.15598,
+    105.09117,
+    21.15598
+],
+  "geometry": {"coordinates":[105.09117000000001,21.15598],"type":"Point"}
+}

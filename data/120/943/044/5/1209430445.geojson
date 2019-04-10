@@ -1,0 +1,65 @@
+{
+  "id": 1209430445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45,21.9,105.45,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":105.45,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Rung",
+    "gn:country_code":"VN",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588963,
+    "gn:latitude":21.9,
+    "gn:longitude":105.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n R\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Leng",
+        "B\u1ea3n R\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588963
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5a80f8eb5f55a9e1718fe0b7ba309b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430445
+        }
+    ],
+    "wof:id":1209430445,
+    "wof:lastmodified":1537714088,
+    "wof:name":"Ban Rung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45,
+    21.9,
+    105.45,
+    21.9
+],
+  "geometry": {"coordinates":[105.45,21.9],"type":"Point"}
+}

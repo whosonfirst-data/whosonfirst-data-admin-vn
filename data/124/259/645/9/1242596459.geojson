@@ -1,0 +1,67 @@
+{
+  "id": 1242596459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,20.6,105.98333,20.6",
+    "geom:latitude":20.6,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Mang Son",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574919,
+    "gn:latitude":20.6,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mang S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574919
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9fb13187ef2ee6579e308c4e0e4f270c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781345,
+            "locality_id":1242596459,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1242596459,
+    "wof:lastmodified":1537034943,
+    "wof:name":"Mang Son",
+    "wof:parent_id":1108781345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    20.6,
+    105.98333,
+    20.6
+],
+  "geometry": {"coordinates":[105.98333,20.6],"type":"Point"}
+}

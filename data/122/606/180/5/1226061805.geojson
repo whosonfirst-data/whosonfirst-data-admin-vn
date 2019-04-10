@@ -1,0 +1,73 @@
+{
+  "id": 1226061805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59099,22.19775,104.59099,22.19775",
+    "geom:latitude":22.19775,
+    "geom:longitude":104.59099,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Gia Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577363,
+    "gn:latitude":22.19775,
+    "gn:longitude":104.59099,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Gia Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Gi\u00e0 Th\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "Gia Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577363
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7769d800c742dc9f07e0bc601d168218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1226061805,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226061805,
+    "wof:lastmodified":1537713922,
+    "wof:name":"Gia Thuong",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59099,
+    22.19775,
+    104.59099,
+    22.19775
+],
+  "geometry": {"coordinates":[104.59099000000001,22.19775],"type":"Point"}
+}

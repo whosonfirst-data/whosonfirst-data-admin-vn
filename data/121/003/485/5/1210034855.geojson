@@ -1,0 +1,67 @@
+{
+  "id": 1210034855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51667,22.61667,105.51667,22.61667",
+    "geom:latitude":22.61667,
+    "geom:longitude":105.51667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bang Muong",
+    "gn:country_code":"VN",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590529,
+    "gn:latitude":22.61667,
+    "gn:longitude":105.51667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bang Muong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590529
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc02e3df6b18f102ae4bf8653f8e2d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1210034855,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1210034855,
+    "wof:lastmodified":1536386947,
+    "wof:name":"Bang Muong",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51667,
+    22.61667000000001,
+    105.51667,
+    22.61667000000001
+],
+  "geometry": {"coordinates":[105.51667,22.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1276697919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.51667,15.65,108.51667,15.65",
+    "geom:latitude":15.65,
+    "geom:longitude":108.51667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Vinh Giang",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562750,
+    "gn:latitude":15.65,
+    "gn:longitude":108.51667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vinh Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562750
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d66fe8bdc537d468b5fd760cd029e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276697919,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276697919,
+    "wof:lastmodified":1536787596,
+    "wof:name":"Vinh Giang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.51667,
+    15.65,
+    108.51667,
+    15.65
+],
+  "geometry": {"coordinates":[108.51667,15.65],"type":"Point"}
+}

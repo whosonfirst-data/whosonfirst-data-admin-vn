@@ -1,0 +1,75 @@
+{
+  "id": 1309921123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1,21.16667,103.1,21.16667",
+    "geom:latitude":21.16667,
+    "geom:longitude":103.1,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sop Khine",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567600,
+    "gn:latitude":21.16667,
+    "gn:longitude":103.1,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sop Khine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Hia",
+        "Muong Nha",
+        "Muong Nia",
+        "Sop Khine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567600,
+        "wk:page":"M%C6%B0%E1%BB%9Dng_Nh%C3%A0"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"45dd02202e6b63e9b1a89185e95203c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780969,
+            "locality_id":1309921123,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1309921123,
+    "wof:lastmodified":1537713790,
+    "wof:name":"Sop Khine",
+    "wof:parent_id":1108780969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1,
+    21.16667,
+    103.1,
+    21.16667
+],
+  "geometry": {"coordinates":[103.09999999999999,21.16667],"type":"Point"}
+}

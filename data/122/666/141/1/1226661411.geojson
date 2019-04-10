@@ -1,0 +1,70 @@
+{
+  "id": 1226661411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17754,20.33322,106.17754,20.33322",
+    "geom:latitude":20.33322,
+    "geom:longitude":106.17754,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Nam Giang",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8554539,
+    "gn:latitude":20.33322,
+    "gn:longitude":106.17754,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Nam Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554539
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c232959e539e42263e5c6ef21d82e5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781357,
+            "locality_id":1226661411,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1226661411,
+    "wof:lastmodified":1537714351,
+    "wof:name":"Nam Giang",
+    "wof:parent_id":1108781357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17754,
+    20.33322,
+    106.17754,
+    20.33322
+],
+  "geometry": {"coordinates":[106.17753999999999,20.33322],"type":"Point"}
+}

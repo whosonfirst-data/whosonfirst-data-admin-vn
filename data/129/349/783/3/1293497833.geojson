@@ -1,0 +1,71 @@
+{
+  "id": 1293497833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76667,22.48333,105.76667,22.48333",
+    "geom:latitude":22.48333,
+    "geom:longitude":105.76667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Banh Trach",
+    "gn:country_code":"VN",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590297,
+    "gn:latitude":22.48333,
+    "gn:longitude":105.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e0nh Tr\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e0nh Tr\u1ea1ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590297,
+        "wk:page":"B%C3%A0nh_Tr%E1%BA%A1ch"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d5ea68e07c1b38e32d3a8fbce06697c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1293497833,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293497833,
+    "wof:lastmodified":1537714115,
+    "wof:name":"Banh Trach",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76667,
+    22.48333,
+    105.76667,
+    22.48333
+],
+  "geometry": {"coordinates":[105.76667,22.48333],"type":"Point"}
+}

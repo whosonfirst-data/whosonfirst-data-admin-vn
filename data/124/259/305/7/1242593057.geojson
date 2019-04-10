@@ -1,0 +1,73 @@
+{
+  "id": 1242593057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41992,18.76923,105.41992,18.76923",
+    "geom:latitude":18.76923,
+    "geom:longitude":105.41992,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dinh Long Mot",
+    "gn:country_code":"VN",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201330,
+    "gn:latitude":18.76923,
+    "gn:longitude":105.41992,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u0110\u00ecnh Long M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00ecnh Long M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u00ecnh Long 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201330
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"406ca3b89780a704be4ba9150274ab5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781489,
+            "locality_id":1242593057,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1242593057,
+    "wof:lastmodified":1537714648,
+    "wof:name":"Dinh Long Mot",
+    "wof:parent_id":1108781489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41992,
+    18.76923,
+    105.41992,
+    18.76923
+],
+  "geometry": {"coordinates":[105.41992,18.76923],"type":"Point"}
+}

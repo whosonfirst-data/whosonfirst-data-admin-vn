@@ -1,0 +1,61 @@
+{
+  "id": 1209416073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,10.06667,106.5,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Hung Nhon",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593261,
+    "gn:latitude":10.06667,
+    "gn:longitude":106.5,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p H\u01b0ng Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593261
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2347c710b383fdfadf8478fd1a0fc87a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209416073
+        }
+    ],
+    "wof:id":1209416073,
+    "wof:lastmodified":1536287684,
+    "wof:name":"Ap Hung Nhon",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    10.06667,
+    106.5,
+    10.06667
+],
+  "geometry": {"coordinates":[106.5,10.06667],"type":"Point"}
+}

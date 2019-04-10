@@ -1,0 +1,70 @@
+{
+  "id": 1243465091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15125,21.40491,106.15125,21.40491",
+    "geom:latitude":21.40491,
+    "geom:longitude":106.15125,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Hoa Minh",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867664,
+    "gn:latitude":21.40491,
+    "gn:longitude":106.15125,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00f2a Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867664
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6ab72271bec18aadbb7ea34da3bae266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781147,
+            "locality_id":1243465091,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1243465091,
+    "wof:lastmodified":1537714511,
+    "wof:name":"Hoa Minh",
+    "wof:parent_id":1108781147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15125,
+    21.40491,
+    106.15125,
+    21.40491
+],
+  "geometry": {"coordinates":[106.15125,21.40491],"type":"Point"}
+}

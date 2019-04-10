@@ -1,0 +1,67 @@
+{
+  "id": 1343499263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.05,15.68333,108.05,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":108.05,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ninh Khanh",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571944,
+    "gn:latitude":15.68333,
+    "gn:longitude":108.05,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ninh Kh\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571944
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"72455da2ccd709c780a62b7868a25dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781633,
+            "locality_id":1343499263,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1343499263,
+    "wof:lastmodified":1536690265,
+    "wof:name":"Ninh Khanh",
+    "wof:parent_id":1108781633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.05,
+    15.68333,
+    108.05,
+    15.68333
+],
+  "geometry": {"coordinates":[108.05,15.68333],"type":"Point"}
+}

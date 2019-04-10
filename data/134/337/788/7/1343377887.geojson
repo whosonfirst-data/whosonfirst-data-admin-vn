@@ -1,0 +1,67 @@
+{
+  "id": 1343377887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.11667,13.2,109.11667,13.2",
+    "geom:latitude":13.2,
+    "geom:longitude":109.11667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Trung Trinh",
+    "gn:country_code":"VN",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563619,
+    "gn:latitude":13.2,
+    "gn:longitude":109.11667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trung Trinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563619
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"53dd71ace260d5b0738ebdf45bbd112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1343377887,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1343377887,
+    "wof:lastmodified":1536864011,
+    "wof:name":"Trung Trinh",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.11667,
+    13.2,
+    109.11667,
+    13.2
+],
+  "geometry": {"coordinates":[109.11667,13.2],"type":"Point"}
+}

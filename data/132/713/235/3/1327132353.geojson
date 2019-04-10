@@ -1,0 +1,73 @@
+{
+  "id": 1327132353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37215,22.90547,105.37215,22.90547",
+    "geom:latitude":22.90547,
+    "geom:longitude":105.37215,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Khuoi Bung",
+    "gn:country_code":"VN",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578440,
+    "gn:latitude":22.90547,
+    "gn:longitude":105.37215,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Khu\u1ed5i Bung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouei Bung"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Khu\u1ed5i Bung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578440
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"300c73daa7c7a3671c8e0a34fc778a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1327132353,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1327132353,
+    "wof:lastmodified":1537713938,
+    "wof:name":"Ban Khuoi Bung",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37215,
+    22.90547,
+    105.37215,
+    22.90547
+],
+  "geometry": {"coordinates":[105.37215,22.90547],"type":"Point"}
+}

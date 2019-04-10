@@ -1,0 +1,65 @@
+{
+  "id": 1209125159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.11667,14.33333,109.11667,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":109.11667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"An Quang",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594264,
+    "gn:latitude":14.33333,
+    "gn:longitude":109.11667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"An Qu\u1ea3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Binh",
+        "An Qu\u1ea3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594264
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62974c77ee0da80898fd9170b5ab5bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125159
+        }
+    ],
+    "wof:id":1209125159,
+    "wof:lastmodified":1537714205,
+    "wof:name":"An Quang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.11667,
+    14.33333,
+    109.11667,
+    14.33333
+],
+  "geometry": {"coordinates":[109.11667,14.33333],"type":"Point"}
+}

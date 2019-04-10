@@ -1,0 +1,66 @@
+{
+  "id": 1209054947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.93333,15.86667,107.93333,15.86667",
+    "geom:latitude":15.86667,
+    "geom:longitude":107.93333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Doi Son",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583180,
+    "gn:latitude":15.86667,
+    "gn:longitude":107.93333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Doi Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00e0i Son",
+        "Tai Son",
+        "Doi Son"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583180
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cbd5ed34ff9050a61f9f80c10fae986b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209054947
+        }
+    ],
+    "wof:id":1209054947,
+    "wof:lastmodified":1537713997,
+    "wof:name":"Doi Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.93333,
+    15.86667,
+    107.93333,
+    15.86667
+],
+  "geometry": {"coordinates":[107.93333,15.86667],"type":"Point"}
+}

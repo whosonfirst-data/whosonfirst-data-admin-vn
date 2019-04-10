@@ -1,0 +1,61 @@
+{
+  "id": 1209329457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,20.88333,106.13333,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Trang Liet",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564028,
+    "gn:latitude":20.88333,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u00e1ng Li\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564028
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"935efb80bb0524b5d5a3003854baff4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329457
+        }
+    ],
+    "wof:id":1209329457,
+    "wof:lastmodified":1536290419,
+    "wof:name":"Trang Liet",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    20.88333,
+    106.13333,
+    20.88333
+],
+  "geometry": {"coordinates":[106.13333,20.88333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310520485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61645,16.61127,106.61645,16.61127",
+    "geom:latitude":16.61127,
+    "geom:longitude":106.61645,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Sa Tiac",
+    "gn:country_code":"VN",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":8440867,
+    "gn:latitude":16.61127,
+    "gn:longitude":106.61645,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Sa Tiac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:vie_x_preferred":[
+        "Sa Tiac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440867
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3e7bf4336411ee72c634a45b5a9a733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1310520485,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1310520485,
+    "wof:lastmodified":1537714313,
+    "wof:name":"Sa Tiac",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61645,
+    16.61127,
+    106.61645,
+    16.61127
+],
+  "geometry": {"coordinates":[106.61645,16.61127],"type":"Point"}
+}

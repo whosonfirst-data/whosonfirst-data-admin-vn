@@ -1,0 +1,65 @@
+{
+  "id": 1209333515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55,21.38333,106.55,21.38333",
+    "geom:latitude":21.38333,
+    "geom:longitude":106.55,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Binh Noi",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587803,
+    "gn:latitude":21.38333,
+    "gn:longitude":106.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Binh N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Noi",
+        "Binh N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587803
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bea88cb9c1a0671e99492935580edb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209333515
+        }
+    ],
+    "wof:id":1209333515,
+    "wof:lastmodified":1537714070,
+    "wof:name":"Binh Noi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55,
+    21.38333,
+    106.55,
+    21.38333
+],
+  "geometry": {"coordinates":[106.55,21.38333],"type":"Point"}
+}

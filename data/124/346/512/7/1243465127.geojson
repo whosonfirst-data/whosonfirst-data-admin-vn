@@ -1,0 +1,70 @@
+{
+  "id": 1243465127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88511,20.52676,105.88511,20.52676",
+    "geom:latitude":20.52676,
+    "geom:longitude":105.88511,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Lat Son",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576199,
+    "gn:latitude":20.52676,
+    "gn:longitude":105.88511,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"L\u1ea1t S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ea1t S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576199
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d4526649712dc55260ee3dd136e16222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781337,
+            "locality_id":1243465127,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1243465127,
+    "wof:lastmodified":1537713902,
+    "wof:name":"Lat Son",
+    "wof:parent_id":1108781337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88511,
+    20.52676,
+    105.88511,
+    20.52676
+],
+  "geometry": {"coordinates":[105.88511,20.52676],"type":"Point"}
+}

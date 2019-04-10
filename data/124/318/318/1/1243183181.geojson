@@ -1,0 +1,70 @@
+{
+  "id": 1243183181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.29104,10.4333,107.29104,10.4333",
+    "geom:latitude":10.4333,
+    "geom:longitude":107.29104,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Hai An",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421461,
+    "gn:latitude":10.4333,
+    "gn:longitude":107.29104,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"H\u1ea3i An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea3i An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421461
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"981283e7c50cbf882a7f308a807082c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782001,
+            "locality_id":1243183181,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1243183181,
+    "wof:lastmodified":1537714307,
+    "wof:name":"Hai An",
+    "wof:parent_id":1108782001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.29104,
+    10.4333,
+    107.29104,
+    10.4333
+],
+  "geometry": {"coordinates":[107.29104,10.4333],"type":"Point"}
+}

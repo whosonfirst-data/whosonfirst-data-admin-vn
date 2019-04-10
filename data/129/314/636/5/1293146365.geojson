@@ -1,0 +1,67 @@
+{
+  "id": 1293146365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46667,21.33333,107.46667,21.33333",
+    "geom:latitude":21.33333,
+    "geom:longitude":107.46667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ha Gian",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581352,
+    "gn:latitude":21.33333,
+    "gn:longitude":107.46667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"H\u00e0 Gian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581352
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e25efb1f463b51149dc1d24e17df6f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781121,
+            "locality_id":1293146365,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1293146365,
+    "wof:lastmodified":1536782442,
+    "wof:name":"Ha Gian",
+    "wof:parent_id":1108781121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46667,
+    21.33333,
+    107.46667,
+    21.33333
+],
+  "geometry": {"coordinates":[107.46666999999999,21.33333],"type":"Point"}
+}

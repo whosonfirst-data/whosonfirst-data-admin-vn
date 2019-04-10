@@ -1,0 +1,67 @@
+{
+  "id": 1243374205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,22.43333,103.8,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Pan Pho",
+    "gn:country_code":"VN",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571271,
+    "gn:latitude":22.43333,
+    "gn:longitude":103.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pan Pho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571271
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"457f3a09cb190c081ea5b48484a3f32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1243374205,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243374205,
+    "wof:lastmodified":1536909997,
+    "wof:name":"Pan Pho",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    22.43333,
+    103.8,
+    22.43333
+],
+  "geometry": {"coordinates":[103.8,22.43333],"type":"Point"}
+}

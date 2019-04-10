@@ -1,0 +1,70 @@
+{
+  "id": 1344172679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71611,18.46201,105.71611,18.46201",
+    "geom:latitude":18.46201,
+    "geom:longitude":105.71611,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thong Nhat",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354030,
+    "gn:latitude":18.46201,
+    "gn:longitude":105.71611,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u1ed1ng Nh\u1ea5t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ed1ng Nh\u1ea5t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bbd79b1c9758e8f6f2c0a927d5e1839f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1344172679,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1344172679,
+    "wof:lastmodified":1537714706,
+    "wof:name":"Thong Nhat",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71611,
+    18.46201,
+    105.71611,
+    18.46201
+],
+  "geometry": {"coordinates":[105.71611,18.46201],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209834615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.70718,11.58485,106.70718,11.58485",
+    "geom:latitude":11.58485,
+    "geom:longitude":106.70718,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Soc Tranh Ba",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567514,
+    "gn:latitude":11.58485,
+    "gn:longitude":106.70718,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"S\u00f3c Tranh Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srok S\u00f3c Tranh"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f3c Tranh Ba"
+    ],
+    "name:vie_x_variant":[
+        "S\u00f3c Tranh 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567514
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50ae22860bcdea979797a5bb8a5f232c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781927,
+            "locality_id":1209834615,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1209834615,
+    "wof:lastmodified":1537713789,
+    "wof:name":"Soc Tranh Ba",
+    "wof:parent_id":1108781927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.70718,
+    11.58485,
+    106.70718,
+    11.58485
+],
+  "geometry": {"coordinates":[106.70717999999999,11.58485],"type":"Point"}
+}

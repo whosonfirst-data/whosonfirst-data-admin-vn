@@ -1,0 +1,67 @@
+{
+  "id": 1276129291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86611,9.71083,105.86611,9.71083",
+    "geom:latitude":9.71083,
+    "geom:longitude":105.86611,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Ba Rinh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593973,
+    "gn:latitude":9.71083,
+    "gn:longitude":105.86611,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ba Rinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593973
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"00a771363eba7cadc05ad37586fbe579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782289,
+            "locality_id":1276129291,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1276129291,
+    "wof:lastmodified":1537049834,
+    "wof:name":"Ap Ba Rinh",
+    "wof:parent_id":1108782289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86611,
+    9.71083,
+    105.86611,
+    9.71083
+],
+  "geometry": {"coordinates":[105.86611000000001,9.71083],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225863725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61808,18.79289,105.61808,18.79289",
+    "geom:latitude":18.79289,
+    "geom:longitude":105.61808,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Trung Hau",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563719,
+    "gn:latitude":18.79289,
+    "gn:longitude":105.61808,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Trung H\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Trung H\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b08de36a87ca6d2b802c7391c604696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781485,
+            "locality_id":1225863725,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1225863725,
+    "wof:lastmodified":1537713725,
+    "wof:name":"Trung Hau",
+    "wof:parent_id":1108781485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61808,
+    18.79289,
+    105.61808,
+    18.79289
+],
+  "geometry": {"coordinates":[105.61808000000001,18.79289],"type":"Point"}
+}

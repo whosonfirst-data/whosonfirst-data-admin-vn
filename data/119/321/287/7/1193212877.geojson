@@ -1,0 +1,73 @@
+{
+  "id": 1193212877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40534,19.85512,105.40534,19.85512",
+    "geom:latitude":19.85512,
+    "geom:longitude":105.40534,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Bai",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577801,
+    "gn:latitude":19.85512,
+    "gn:longitude":105.40534,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"L\u00e0ng B\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Bai"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng B\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577801
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d2375b7de593744b22960055777ee6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781419,
+            "locality_id":1193212877,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1193212877,
+    "wof:lastmodified":1537713930,
+    "wof:name":"Lang Bai",
+    "wof:parent_id":1108781419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40534,
+    19.85512,
+    105.40534,
+    19.85512
+],
+  "geometry": {"coordinates":[105.40534,19.85512],"type":"Point"}
+}

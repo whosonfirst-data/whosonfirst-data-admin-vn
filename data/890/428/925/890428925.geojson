@@ -1,0 +1,80 @@
+{
+  "id": 890428925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,8.68333,106.61667,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":106.61667,
+    "gn:country":"VN",
+    "gn:fcode":"PPL",
+    "gn:pop":1500,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d-\u0428\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Poulo Condore"
+    ],
+    "qs:name":"C\u00f4n S\u01a1n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782005,
+        85680781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584807,
+        "gp:id":91887864,
+        "qs:id":85369
+    },
+    "wof:country":"VN",
+    "wof:created":1469051780,
+    "wof:geomhash":"3e8153a05cc5f6cce1375a9a67da9d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782005,
+            "locality_id":890428925,
+            "region_id":85680843
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782005,
+            "locality_id":890428925,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":890428925,
+    "wof:lastmodified":1505343508,
+    "wof:name":"C\u00f4n S\u01a1n",
+    "wof:parent_id":1108782005,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    8.68333,
+    106.61667,
+    8.68333
+],
+  "geometry": {"coordinates":[106.61667,8.68333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343402517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63276,21.1558,104.63276,21.1558",
+    "geom:latitude":21.1558,
+    "geom:longitude":104.63276,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Khoa Mot",
+    "gn:country_code":"VN",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590115,
+    "gn:latitude":21.1558,
+    "gn:longitude":104.63276,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Khoa M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Khoa"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Khoa M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Khoa 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590115
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a092875a3d91da417f0d400e46c37e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1343402517,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1343402517,
+    "wof:lastmodified":1537714109,
+    "wof:name":"Ban Khoa Mot",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63276,
+    21.1558,
+    104.63276,
+    21.1558
+],
+  "geometry": {"coordinates":[104.63276,21.1558],"type":"Point"}
+}

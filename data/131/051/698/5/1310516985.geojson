@@ -1,0 +1,70 @@
+{
+  "id": 1310516985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2419,9.14502,105.2419,9.14502",
+    "geom:latitude":9.14502,
+    "geom:longitude":105.2419,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ba Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643302,
+    "gn:latitude":9.14502,
+    "gn:longitude":105.2419,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Ba Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ba Dinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643302
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e29aebd457aad4d3889c5c0db6d5a601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782325,
+            "locality_id":1310516985,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1310516985,
+    "wof:lastmodified":1537714493,
+    "wof:name":"Ba Dinh",
+    "wof:parent_id":1108782325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2419,
+    9.14502,
+    105.2419,
+    9.14502
+],
+  "geometry": {"coordinates":[105.2419,9.14502],"type":"Point"}
+}

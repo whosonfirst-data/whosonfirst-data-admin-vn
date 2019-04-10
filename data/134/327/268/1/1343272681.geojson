@@ -1,0 +1,67 @@
+{
+  "id": 1343272681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,20.31667,105.98333,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Hung Xa",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580143,
+    "gn:latitude":20.31667,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u01b0ng X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580143
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ff5e6b999e9a00a32e030a29db612cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781353,
+            "locality_id":1343272681,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1343272681,
+    "wof:lastmodified":1537016477,
+    "wof:name":"Hung Xa",
+    "wof:parent_id":1108781353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    20.31667,
+    105.98333,
+    20.31667
+],
+  "geometry": {"coordinates":[105.98333,20.31667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209167787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23333,20.46667,105.23333,20.46667",
+    "geom:latitude":20.46667,
+    "geom:longitude":105.23333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Chieu",
+    "gn:country_code":"VN",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577606,
+    "gn:latitude":20.46667,
+    "gn:longitude":105.23333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Chi\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577606
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24c25c93e71c4499f2f43befcf2a3cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209167787
+        }
+    ],
+    "wof:id":1209167787,
+    "wof:lastmodified":1536295684,
+    "wof:name":"Lang Chieu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23333,
+    20.46667,
+    105.23333,
+    20.46667
+],
+  "geometry": {"coordinates":[105.23333,20.46667],"type":"Point"}
+}

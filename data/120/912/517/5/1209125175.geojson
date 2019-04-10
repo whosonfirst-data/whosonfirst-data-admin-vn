@@ -1,0 +1,64 @@
+{
+  "id": 1209125175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34628,22.53719,104.34628,22.53719",
+    "geom:latitude":22.53719,
+    "geom:longitude":104.34628,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lung Chu",
+    "gn:country_code":"VN",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869348,
+    "gn:latitude":22.53719,
+    "gn:longitude":104.34628,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00f9ng Ch\u00f9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00f9ng Ch\u00f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869348
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b5fc7f8b07f153d5762fe8b0a535b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125175
+        }
+    ],
+    "wof:id":1209125175,
+    "wof:lastmodified":1537714530,
+    "wof:name":"Lung Chu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34628,
+    22.53719,
+    104.34628,
+    22.53719
+],
+  "geometry": {"coordinates":[104.34627999999999,22.53719],"type":"Point"}
+}

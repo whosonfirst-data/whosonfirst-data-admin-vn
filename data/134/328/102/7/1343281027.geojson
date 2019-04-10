@@ -1,0 +1,70 @@
+{
+  "id": 1343281027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93743,9.99271,105.93743,9.99271",
+    "geom:latitude":9.99271,
+    "geom:longitude":105.93743,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Ba Pho",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290552,
+    "gn:latitude":9.99271,
+    "gn:longitude":105.93743,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ba Ph\u1ed1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ba Ph\u1ed1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290552
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"72b754cc165aaf156c5da9d75d94ed91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782159,
+            "locality_id":1343281027,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1343281027,
+    "wof:lastmodified":1537714468,
+    "wof:name":"Ba Pho",
+    "wof:parent_id":1108782159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93743,
+    9.99271,
+    105.93743,
+    9.99271
+],
+  "geometry": {"coordinates":[105.93743000000001,9.99271],"type":"Point"}
+}

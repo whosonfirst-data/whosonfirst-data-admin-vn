@@ -1,0 +1,73 @@
+{
+  "id": 1226381259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11297,10.31975,106.11297,10.31975",
+    "geom:latitude":10.31975,
+    "geom:longitude":106.11297,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ap Muoi Lam",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113596,
+    "gn:latitude":10.31975,
+    "gn:longitude":106.11297,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p M\u01b0\u1eddi L\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p M\u01b0\u1eddi L\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "\u1ea4p 15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113596
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"801e2eb3d43f78b97c3983b7bfdb0068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782101,
+            "locality_id":1226381259,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1226381259,
+    "wof:lastmodified":1537714462,
+    "wof:name":"Ap Muoi Lam",
+    "wof:parent_id":1108782101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11297,
+    10.31975,
+    106.11297,
+    10.31975
+],
+  "geometry": {"coordinates":[106.11297,10.31975],"type":"Point"}
+}

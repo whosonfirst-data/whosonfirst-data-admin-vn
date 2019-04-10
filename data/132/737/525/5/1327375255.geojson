@@ -1,0 +1,73 @@
+{
+  "id": 1327375255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43333,20.96667,104.43333,20.96667",
+    "geom:latitude":20.96667,
+    "geom:longitude":104.43333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tu Nang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563450,
+    "gn:latitude":20.96667,
+    "gn:longitude":104.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u00fa Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chieng Ban",
+        "Tu Nangi",
+        "T\u00fa Nang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563450
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c06ca5ce730e0055e8cdc65a2c0ee030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781011,
+            "locality_id":1327375255,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1327375255,
+    "wof:lastmodified":1537713721,
+    "wof:name":"Tu Nang",
+    "wof:parent_id":1108781011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43333,
+    20.96667,
+    104.43333,
+    20.96667
+],
+  "geometry": {"coordinates":[104.43333,20.96667],"type":"Point"}
+}

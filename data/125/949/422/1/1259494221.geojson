@@ -1,0 +1,70 @@
+{
+  "id": 1259494221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88301,22.47416,103.88301,22.47416",
+    "geom:latitude":22.47416,
+    "geom:longitude":103.88301,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Sung Vanh",
+    "gn:country_code":"VN",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631634,
+    "gn:latitude":22.47416,
+    "gn:longitude":103.88301,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"S\u00f9ng V\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u00f9ng V\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631634
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da00f43650b58f2ab0f09fe4f2cfbeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1259494221,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1259494221,
+    "wof:lastmodified":1537714728,
+    "wof:name":"Sung Vanh",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88301,
+    22.47416,
+    103.88301,
+    22.47416
+],
+  "geometry": {"coordinates":[103.88301,22.47416],"type":"Point"}
+}

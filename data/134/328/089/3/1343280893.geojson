@@ -1,0 +1,74 @@
+{
+  "id": 1343280893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2528,22.61397,104.2528,22.61397",
+    "geom:latitude":22.61397,
+    "geom:longitude":104.2528,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Ho Sao Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580334,
+    "gn:latitude":22.61397,
+    "gn:longitude":104.2528,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u1ea3n H\u1ed3 S\u00e1o Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho Sao Tcha",
+        "H\u00f4 Sao Tchai"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n H\u1ed3 S\u00e1o Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580334
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4df2591fb60110ffa90d7115b18e66d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1343280893,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343280893,
+    "wof:lastmodified":1537713964,
+    "wof:name":"Ban Ho Sao Chai",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2528,
+    22.61397,
+    104.2528,
+    22.61397
+],
+  "geometry": {"coordinates":[104.25279999999999,22.61397],"type":"Point"}
+}

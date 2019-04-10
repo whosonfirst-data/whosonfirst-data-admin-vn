@@ -1,0 +1,71 @@
+{
+  "id": 1276773851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05,12.23333,109.05,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":109.05,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon My Loc",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565449,
+    "gn:latitude":12.23333,
+    "gn:longitude":109.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n M\u1ef9 L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Loc",
+        "Th\u00f4n M\u1ef9 L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565449
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2875941e3c5f35d1946b36e3d5b2cb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781731,
+            "locality_id":1276773851,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1276773851,
+    "wof:lastmodified":1537713755,
+    "wof:name":"Thon My Loc",
+    "wof:parent_id":1108781731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05,
+    12.23333,
+    109.05,
+    12.23333
+],
+  "geometry": {"coordinates":[109.05,12.23333],"type":"Point"}
+}

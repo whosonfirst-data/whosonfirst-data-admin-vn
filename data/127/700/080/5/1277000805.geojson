@@ -1,0 +1,72 @@
+{
+  "id": 1277000805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29028,9.80056,106.29028,9.80056",
+    "geom:latitude":9.80056,
+    "geom:longitude":106.29028,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Ngai Loc",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592810,
+    "gn:latitude":9.80056,
+    "gn:longitude":106.29028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Ng\u00e3i L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u00e3i L\u1ed9c",
+        "\u1ea4p Ng\u00e3i L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592810
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a44d211d7069267f3bc9dbeb5efe013d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782139,
+            "locality_id":1277000805,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1277000805,
+    "wof:lastmodified":1537714169,
+    "wof:name":"Ap Ngai Loc",
+    "wof:parent_id":1108782139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29028,
+    9.80056,
+    106.29028,
+    9.80056
+],
+  "geometry": {"coordinates":[106.29028,9.80056],"type":"Point"}
+}

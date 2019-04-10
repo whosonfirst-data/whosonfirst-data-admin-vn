@@ -1,0 +1,67 @@
+{
+  "id": 1209330003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.55922,13.16501,107.55922,13.16501",
+    "geom:latitude":13.16501,
+    "geom:longitude":107.55922,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Don Hai",
+    "gn:country_code":"VN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8725146,
+    "gn:latitude":13.16501,
+    "gn:longitude":107.55922,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u1ed3n Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3n Hai"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ed3n 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8725146
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"163a5737e0182216d8145a2e09dd6e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209330003
+        }
+    ],
+    "wof:id":1209330003,
+    "wof:lastmodified":1537714414,
+    "wof:name":"Don Hai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.55922,
+    13.16501,
+    107.55922,
+    13.16501
+],
+  "geometry": {"coordinates":[107.55922,13.16501],"type":"Point"}
+}

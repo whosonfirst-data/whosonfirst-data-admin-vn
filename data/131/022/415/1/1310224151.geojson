@@ -1,0 +1,70 @@
+{
+  "id": 1310224151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12715,22.32603,104.12715,22.32603",
+    "geom:latitude":22.32603,
+    "geom:longitude":104.12715,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Thia",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8464804,
+    "gn:latitude":22.32603,
+    "gn:longitude":104.12715,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"L\u00e0ng Thia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Thia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8464804
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aae2b73c5e881be97ef9decc7b9b96da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780949,
+            "locality_id":1310224151,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310224151,
+    "wof:lastmodified":1537714318,
+    "wof:name":"Lang Thia",
+    "wof:parent_id":1108780949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12715,
+    22.32603,
+    104.12715,
+    22.32603
+],
+  "geometry": {"coordinates":[104.12715,22.32603],"type":"Point"}
+}

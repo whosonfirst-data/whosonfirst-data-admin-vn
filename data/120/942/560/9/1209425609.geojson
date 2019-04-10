@@ -1,0 +1,61 @@
+{
+  "id": 1209425609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5,18.95,105.5,18.95",
+    "geom:latitude":18.95,
+    "geom:longitude":105.5,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Vinh Tuy",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562571,
+    "gn:latitude":18.95,
+    "gn:longitude":105.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vinh Tuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562571
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0c7a382cd45a644d92be54fe751fe04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425609
+        }
+    ],
+    "wof:id":1209425609,
+    "wof:lastmodified":1536287390,
+    "wof:name":"Vinh Tuy",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5,
+    18.95,
+    105.5,
+    18.95
+],
+  "geometry": {"coordinates":[105.5,18.95],"type":"Point"}
+}

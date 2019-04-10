@@ -1,0 +1,64 @@
+{
+  "id": 1209023177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44639,22.36873,103.44639,22.36873",
+    "geom:latitude":22.36873,
+    "geom:longitude":103.44639,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"My Nang",
+    "gn:country_code":"VN",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456861,
+    "gn:latitude":22.36873,
+    "gn:longitude":103.44639,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"M\u1ef3 N\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef3 N\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456861
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bff5c5fc00ae70bae82e85282e9720b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023177
+        }
+    ],
+    "wof:id":1209023177,
+    "wof:lastmodified":1537714317,
+    "wof:name":"My Nang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44639,
+    22.36873,
+    103.44639,
+    22.36873
+],
+  "geometry": {"coordinates":[103.44638999999999,22.36873],"type":"Point"}
+}

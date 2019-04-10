@@ -1,0 +1,71 @@
+{
+  "id": 1293604563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.92317,14.93082,108.92317,14.93082",
+    "geom:latitude":14.93082,
+    "geom:longitude":108.92317,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Van Ha",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563091,
+    "gn:latitude":14.93082,
+    "gn:longitude":108.92317,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"V\u00e2n H\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tra Ninh",
+        "V\u00e2n H\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563091
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f29c816ee0ee4055f7ee7133f02f8aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781657,
+            "locality_id":1293604563,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1293604563,
+    "wof:lastmodified":1537713716,
+    "wof:name":"Van Ha",
+    "wof:parent_id":1108781657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.92317,
+    14.93082,
+    108.92317,
+    14.93082
+],
+  "geometry": {"coordinates":[108.92317,14.93082],"type":"Point"}
+}

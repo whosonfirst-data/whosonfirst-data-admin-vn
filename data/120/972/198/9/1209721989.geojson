@@ -1,0 +1,72 @@
+{
+  "id": 1209721989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.62889,9.98083,106.62889,9.98083",
+    "geom:latitude":9.98083,
+    "geom:longitude":106.62889,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap An Loi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594095,
+    "gn:latitude":9.98083,
+    "gn:longitude":106.62889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p An L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An L\u1ee3i",
+        "\u1ea4p An L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594095
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"04568f66e82679b7cc914e6156a6863d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782125,
+            "locality_id":1209721989,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1209721989,
+    "wof:lastmodified":1537714202,
+    "wof:name":"Ap An Loi",
+    "wof:parent_id":1108782125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.62888999999998,
+    9.98083,
+    106.62888999999998,
+    9.98083
+],
+  "geometry": {"coordinates":[106.62888999999998,9.98083],"type":"Point"}
+}

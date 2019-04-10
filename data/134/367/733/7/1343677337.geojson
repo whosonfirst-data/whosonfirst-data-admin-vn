@@ -1,0 +1,71 @@
+{
+  "id": 1343677337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41667,23.08333,105.41667,23.08333",
+    "geom:latitude":23.08333,
+    "geom:longitude":105.41667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Khao Loung",
+    "gn:country_code":"VN",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579588,
+    "gn:latitude":23.08333,
+    "gn:longitude":105.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khao Loung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiao Loung",
+        "Khao Loung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579588
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dda0690829b7e39ad5189c104eed5a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780853,
+            "locality_id":1343677337,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343677337,
+    "wof:lastmodified":1537713955,
+    "wof:name":"Khao Loung",
+    "wof:parent_id":1108780853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41667,
+    23.08333,
+    105.41667,
+    23.08333
+],
+  "geometry": {"coordinates":[105.41667,23.08333],"type":"Point"}
+}

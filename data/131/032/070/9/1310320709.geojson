@@ -1,0 +1,70 @@
+{
+  "id": 1310320709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.69367,22.25227,102.69367,22.25227",
+    "geom:latitude":22.25227,
+    "geom:longitude":102.69367,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Phum",
+    "gn:country_code":"VN",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456823,
+    "gn:latitude":22.25227,
+    "gn:longitude":102.69367,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"N\u1eadm Phum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Phum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456823
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"636ae2532d3132e42c75c9908674d90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1310320709,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310320709,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Nam Phum",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.69367,
+    22.25227000000001,
+    102.69367,
+    22.25227000000001
+],
+  "geometry": {"coordinates":[102.69367,22.25227000000001],"type":"Point"}
+}

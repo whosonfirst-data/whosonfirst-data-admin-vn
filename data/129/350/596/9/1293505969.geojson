@@ -1,0 +1,67 @@
+{
+  "id": 1293505969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05,11.85,109.05,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":109.05,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ma Tay",
+    "gn:country_code":"VN",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574818,
+    "gn:latitude":11.85,
+    "gn:longitude":109.05,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ma Tay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574818
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a096a29885a09b9d593fa29d99e52f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781737,
+            "locality_id":1293505969,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1293505969,
+    "wof:lastmodified":1536760599,
+    "wof:name":"Ma Tay",
+    "wof:parent_id":1108781737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05,
+    11.85,
+    109.05,
+    11.85
+],
+  "geometry": {"coordinates":[109.05,11.85],"type":"Point"}
+}

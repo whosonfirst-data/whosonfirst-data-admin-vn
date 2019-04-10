@@ -1,0 +1,66 @@
+{
+  "id": 1209116901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.63333,13.1,108.63333,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":108.63333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ban Jah",
+    "gn:country_code":"VN",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590224,
+    "gn:latitude":13.1,
+    "gn:longitude":108.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Diah",
+        "Buon Diah",
+        "Ban Jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590224
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"931f7be964404c8ca6648acf00bcad6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116901
+        }
+    ],
+    "wof:id":1209116901,
+    "wof:lastmodified":1537714111,
+    "wof:name":"Ban Jah",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.63333,
+    13.1,
+    108.63333,
+    13.1
+],
+  "geometry": {"coordinates":[108.63333,13.1],"type":"Point"}
+}

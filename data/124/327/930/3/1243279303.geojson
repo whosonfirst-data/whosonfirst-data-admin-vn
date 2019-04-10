@@ -1,0 +1,71 @@
+{
+  "id": 1243279303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31667,10.8,107.31667,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":107.31667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Cam Tiem",
+    "gn:country_code":"VN",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586329,
+    "gn:latitude":10.8,
+    "gn:longitude":107.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ea9m Ti\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cam Tam",
+        "C\u1ea9m Ti\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        890423389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586329
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23e734565955f48481fe0530f2e195ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":890423389,
+            "locality_id":1243279303,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1243279303,
+    "wof:lastmodified":1537714034,
+    "wof:name":"Cam Tiem",
+    "wof:parent_id":890423389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31667,
+    10.8,
+    107.31667,
+    10.8
+],
+  "geometry": {"coordinates":[107.31667,10.8],"type":"Point"}
+}

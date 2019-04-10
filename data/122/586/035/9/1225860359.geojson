@@ -1,0 +1,71 @@
+{
+  "id": 1225860359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06667,10.63333,107.06667,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":107.06667,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Phu My",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570357,
+    "gn:latitude":10.63333,
+    "gn:longitude":107.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00fa M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa M\u1ef9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108782003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570357,
+        "wk:page":"Ph%C3%BA_M%E1%BB%B9%2C_B%C3%A0_R%E1%BB%8Ba%E2%80%93V%C5%A9ng_T%C3%A0u"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"719813a21af25515d0ff9831c0d12995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782003,
+            "locality_id":1225860359,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1225860359,
+    "wof:lastmodified":1537713828,
+    "wof:name":"Phu My",
+    "wof:parent_id":1108782003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06667,
+    10.63333,
+    107.06667,
+    10.63333
+],
+  "geometry": {"coordinates":[107.06667,10.63333],"type":"Point"}
+}

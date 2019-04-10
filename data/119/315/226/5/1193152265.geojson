@@ -1,0 +1,70 @@
+{
+  "id": 1193152265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03757,13.07722,109.03757,13.07722",
+    "geom:latitude":13.07722,
+    "geom:longitude":109.03757,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Nguyen An",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719465,
+    "gn:latitude":13.07722,
+    "gn:longitude":109.03757,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Nguy\u00ean An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nguy\u00ean An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719465
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"017d6b43043dd9e24c069f0eed667319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1193152265,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1193152265,
+    "wof:lastmodified":1537714413,
+    "wof:name":"Nguyen An",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03757,
+    13.07722,
+    109.03757,
+    13.07722
+],
+  "geometry": {"coordinates":[109.03757,13.07722],"type":"Point"}
+}

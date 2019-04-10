@@ -1,0 +1,69 @@
+{
+  "id": 1293587211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,22.46667,106.56667,22.46667",
+    "geom:latitude":22.46667,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Po Thiung",
+    "gn:country_code":"VN",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569000,
+    "gn:latitude":22.46667,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Po Thiung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669717,
+        102191569,
+        85632695,
+        136253041,
+        890513103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569000
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5734aae1f5cc80035acf95af1529c33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890513103,
+            "empire_id":136253041,
+            "locality_id":1293587211,
+            "region_id":85669717
+        }
+    ],
+    "wof:id":1293587211,
+    "wof:lastmodified":1536642607,
+    "wof:name":"Po Thiung",
+    "wof:parent_id":890513103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    22.46667,
+    106.56667,
+    22.46667
+],
+  "geometry": {"coordinates":[106.56667,22.46667],"type":"Point"}
+}

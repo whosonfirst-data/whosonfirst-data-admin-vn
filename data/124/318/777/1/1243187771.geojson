@@ -1,0 +1,70 @@
+{
+  "id": 1243187771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05819,21.19309,106.05819,21.19309",
+    "geom:latitude":21.19309,
+    "geom:longitude":106.05819,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Thu Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871453,
+    "gn:latitude":21.19309,
+    "gn:longitude":106.05819,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u1ee5 Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ee5 Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871453
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae6017669210b337337c971c3da62d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781215,
+            "locality_id":1243187771,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1243187771,
+    "wof:lastmodified":1537714536,
+    "wof:name":"Thu Ninh",
+    "wof:parent_id":1108781215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05819,
+    21.19309,
+    106.05819,
+    21.19309
+],
+  "geometry": {"coordinates":[106.05819,21.19309],"type":"Point"}
+}

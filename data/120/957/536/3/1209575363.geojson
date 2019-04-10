@@ -1,0 +1,64 @@
+{
+  "id": 1209575363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48333,21.6,107.48333,21.6",
+    "geom:latitude":21.6,
+    "geom:longitude":107.48333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dang Mo",
+    "gn:country_code":"VN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582744,
+    "gn:latitude":21.6,
+    "gn:longitude":107.48333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Dang Mo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ed1ng M\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582744
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02e4c70c6ecb8bf9d6ed4d5ea7cd63be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209575363
+        }
+    ],
+    "wof:id":1209575363,
+    "wof:lastmodified":1537713991,
+    "wof:name":"Dang Mo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48333,
+    21.6,
+    107.48333,
+    21.6
+],
+  "geometry": {"coordinates":[107.48333,21.6],"type":"Point"}
+}

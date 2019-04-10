@@ -1,0 +1,73 @@
+{
+  "id": 1326589041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79754,21.69809,103.79754,21.69809",
+    "geom:latitude":21.69809,
+    "geom:longitude":103.79754,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pung Ngua",
+    "gn:country_code":"VN",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568893,
+    "gn:latitude":21.69809,
+    "gn:longitude":103.79754,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"P\u00fang Ng\u1eeba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00fang Ng\u00f9a"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00fang Ng\u1eeba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568893
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f19dce3e3f767b07fc9799a9a42c9ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1326589041,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1326589041,
+    "wof:lastmodified":1537713805,
+    "wof:name":"Pung Ngua",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79754,
+    21.69809,
+    103.79754,
+    21.69809
+],
+  "geometry": {"coordinates":[103.79754,21.69809],"type":"Point"}
+}

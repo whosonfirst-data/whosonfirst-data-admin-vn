@@ -1,0 +1,71 @@
+{
+  "id": 1259401593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.7,15.11667,107.7,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":107.7,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Polei Set",
+    "gn:country_code":"VN",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569031,
+    "gn:latitude":15.11667,
+    "gn:longitude":107.7,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"P\u01a1lei Set",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peng Set",
+        "P\u01a1lei Set"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569031
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"713c941336ce34c706e661f808b110f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1259401593,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1259401593,
+    "wof:lastmodified":1537713807,
+    "wof:name":"Polei Set",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.7,
+    15.11667,
+    107.7,
+    15.11667
+],
+  "geometry": {"coordinates":[107.7,15.11667],"type":"Point"}
+}

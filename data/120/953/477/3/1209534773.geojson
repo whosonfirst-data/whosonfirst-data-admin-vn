@@ -1,0 +1,64 @@
+{
+  "id": 1209534773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.3,13.13333,108.3,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":108.3,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Drun",
+    "gn:country_code":"VN",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590675,
+    "gn:latitude":13.13333,
+    "gn:longitude":108.3,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Ban Drun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Drun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590675
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e898d81e5deb2dc7812d5d5142e5a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534773
+        }
+    ],
+    "wof:id":1209534773,
+    "wof:lastmodified":1537714123,
+    "wof:name":"Ban Drun",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.3,
+    13.13333,
+    108.3,
+    13.13333
+],
+  "geometry": {"coordinates":[108.3,13.13333],"type":"Point"}
+}

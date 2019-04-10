@@ -1,0 +1,73 @@
+{
+  "id": 1277089709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31367,21.24021,103.31367,21.24021",
+    "geom:latitude":21.24021,
+    "geom:longitude":103.31367,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"La Puc Hai",
+    "gn:country_code":"VN",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10266859,
+    "gn:latitude":21.24021,
+    "gn:longitude":103.31367,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"L\u00e0 P\u00fac Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0 P\u00fac Hai"
+    ],
+    "name:vie_x_variant":[
+        "L\u00e0 P\u00fac 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10266859
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e0d26a5c47047d90793bd7e48923841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1277089709,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1277089709,
+    "wof:lastmodified":1537714662,
+    "wof:name":"La Puc Hai",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31367,
+    21.24021,
+    103.31367,
+    21.24021
+],
+  "geometry": {"coordinates":[103.31367,21.24021],"type":"Point"}
+}

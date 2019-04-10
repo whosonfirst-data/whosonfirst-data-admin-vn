@@ -1,0 +1,71 @@
+{
+  "id": 1226153641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75,22.65,103.75,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":103.75,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ping Ngan Tia",
+    "gn:country_code":"VN",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569722,
+    "gn:latitude":22.65,
+    "gn:longitude":103.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ping Ngan Tia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping Noon Tia",
+        "Ping Ngan Tia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569722
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85181317d1a6fef909e31a6db87b7d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1226153641,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226153641,
+    "wof:lastmodified":1537713818,
+    "wof:name":"Ping Ngan Tia",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75,
+    22.65,
+    103.75,
+    22.65
+],
+  "geometry": {"coordinates":[103.75,22.65],"type":"Point"}
+}

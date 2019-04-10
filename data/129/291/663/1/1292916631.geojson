@@ -1,0 +1,73 @@
+{
+  "id": 1292916631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39616,10.40302,105.39616,10.40302",
+    "geom:latitude":10.40302,
+    "geom:longitude":105.39616,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Binh Duc Hai",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336833,
+    "gn:latitude":10.40302,
+    "gn:longitude":105.39616,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"B\u00ecnh \u0110\u1ee9c Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh \u0110\u1ee9c Hai"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh \u0110\u1ee9c 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336833
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bdc55ebee948f80fad64abca717042b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1292916631,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1292916631,
+    "wof:lastmodified":1537714277,
+    "wof:name":"Binh Duc Hai",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39616,
+    10.40302,
+    105.39616,
+    10.40302
+],
+  "geometry": {"coordinates":[105.39615999999999,10.40302],"type":"Point"}
+}

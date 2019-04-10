@@ -1,0 +1,70 @@
+{
+  "id": 1292949305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.65,15.45,108.65,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":108.65,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Binh An Diem Trung",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583089,
+    "gn:latitude":15.45,
+    "gn:longitude":108.65,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Binh An Diem Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00f4ng B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583089
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f809c02e836cdffb81a9da882e34d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781627,
+            "locality_id":1292949305,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1292949305,
+    "wof:lastmodified":1537713996,
+    "wof:name":"Binh An Diem Trung",
+    "wof:parent_id":1108781627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.65,
+    15.45,
+    108.65,
+    15.45
+],
+  "geometry": {"coordinates":[108.65000000000001,15.45],"type":"Point"}
+}

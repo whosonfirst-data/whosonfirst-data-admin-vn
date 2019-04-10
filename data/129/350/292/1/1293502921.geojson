@@ -1,0 +1,70 @@
+{
+  "id": 1293502921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36568,21.45527,105.36568,21.45527",
+    "geom:latitude":21.45527,
+    "geom:longitude":105.36568,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Nhan Lac",
+    "gn:country_code":"VN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200870,
+    "gn:latitude":21.45527,
+    "gn:longitude":105.36568,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Nh\u00e2n L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u00e2n L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200870
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b46df741c49b7187abf85b2361a99fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1293502921,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1293502921,
+    "wof:lastmodified":1537714241,
+    "wof:name":"Nhan Lac",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36568,
+    21.45527,
+    105.36568,
+    21.45527
+],
+  "geometry": {"coordinates":[105.36568,21.45527],"type":"Point"}
+}

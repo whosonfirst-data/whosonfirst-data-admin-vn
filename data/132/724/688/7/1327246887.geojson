@@ -1,0 +1,67 @@
+{
+  "id": 1327246887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.78333,21.8,106.78333,21.8",
+    "geom:latitude":21.8,
+    "geom:longitude":106.78333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Khuat",
+    "gn:country_code":"VN",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573726,
+    "gn:latitude":21.8,
+    "gn:longitude":106.78333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"N\u00e0 Khu\u1ea5t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573726
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d84d269a8b82df25a4cca8c9b7924e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781095,
+            "locality_id":1327246887,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1327246887,
+    "wof:lastmodified":1536948848,
+    "wof:name":"Na Khuat",
+    "wof:parent_id":1108781095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.78333,
+    21.8,
+    106.78333,
+    21.8
+],
+  "geometry": {"coordinates":[106.78333000000001,21.8],"type":"Point"}
+}

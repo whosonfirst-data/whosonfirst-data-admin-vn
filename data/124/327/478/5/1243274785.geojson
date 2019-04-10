@@ -1,0 +1,70 @@
+{
+  "id": 1243274785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17724,21.65134,106.17724,21.65134",
+    "geom:latitude":21.65134,
+    "geom:longitude":106.17724,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cay Troi",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607982,
+    "gn:latitude":21.65134,
+    "gn:longitude":106.17724,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"C\u00e2y Tr\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y Tr\u00f4i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607982
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bbc623c19304ded0c556a71828237cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781077,
+            "locality_id":1243274785,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1243274785,
+    "wof:lastmodified":1537714365,
+    "wof:name":"Cay Troi",
+    "wof:parent_id":1108781077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17724,
+    21.65134,
+    106.17724,
+    21.65134
+],
+  "geometry": {"coordinates":[106.17724,21.65134],"type":"Point"}
+}

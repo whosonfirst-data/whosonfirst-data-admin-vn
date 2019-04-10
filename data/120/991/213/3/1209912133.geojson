@@ -1,0 +1,70 @@
+{
+  "id": 1209912133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9832,22.7841,105.9832,22.7841",
+    "geom:latitude":22.7841,
+    "geom:longitude":105.9832,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Thi Tran Thong Nong",
+    "gn:country_code":"VN",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8476780,
+    "gn:latitude":22.7841,
+    "gn:longitude":105.9832,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Th\u1ecb Tr\u1ea5n Th\u00f4ng N\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n Th\u00f4ng N\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8476780
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a9e621afdb2b130a86e92766c1b44a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780881,
+            "locality_id":1209912133,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1209912133,
+    "wof:lastmodified":1537714324,
+    "wof:name":"Thi Tran Thong Nong",
+    "wof:parent_id":1108780881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9832,
+    22.7841,
+    105.9832,
+    22.7841
+],
+  "geometry": {"coordinates":[105.9832,22.7841],"type":"Point"}
+}

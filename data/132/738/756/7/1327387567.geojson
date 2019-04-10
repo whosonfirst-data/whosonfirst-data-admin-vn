@@ -1,0 +1,67 @@
+{
+  "id": 1327387567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,19.88333,105.65,19.88333",
+    "geom:latitude":19.88333,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Nguyet Quang",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572255,
+    "gn:latitude":19.88333,
+    "gn:longitude":105.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nguyet Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572255
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"464e27d934f893b0175a290cbb241a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781425,
+            "locality_id":1327387567,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327387567,
+    "wof:lastmodified":1536745337,
+    "wof:name":"Nguyet Quang",
+    "wof:parent_id":1108781425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    19.88333,
+    105.65,
+    19.88333
+],
+  "geometry": {"coordinates":[105.65000000000001,19.88333],"type":"Point"}
+}

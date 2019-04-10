@@ -1,0 +1,70 @@
+{
+  "id": 1226661469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3468,22.35871,105.3468,22.35871",
+    "geom:latitude":22.35871,
+    "geom:longitude":105.3468,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Nong",
+    "gn:country_code":"VN",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8523094,
+    "gn:latitude":22.35871,
+    "gn:longitude":105.3468,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00e0 Nong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Nong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8523094
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8d51f75be9f212894561622ce55d2ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1226661469,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226661469,
+    "wof:lastmodified":1537714329,
+    "wof:name":"Na Nong",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3468,
+    22.35871,
+    105.3468,
+    22.35871
+],
+  "geometry": {"coordinates":[105.3468,22.35871],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327074865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,19.83333,105.88333,19.83333",
+    "geom:latitude":19.83333,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dang Trung",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583934,
+    "gn:latitude":19.83333,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u1eb1ng Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Trung",
+        "\u0110\u1eb1ng Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583934
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"08ae6369a368712cd6f240013f285e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781427,
+            "locality_id":1327074865,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327074865,
+    "wof:lastmodified":1537714007,
+    "wof:name":"Dang Trung",
+    "wof:parent_id":1108781427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    19.83333,
+    105.88333,
+    19.83333
+],
+  "geometry": {"coordinates":[105.88333,19.83333],"type":"Point"}
+}

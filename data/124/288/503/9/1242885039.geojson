@@ -1,0 +1,73 @@
+{
+  "id": 1242885039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61233,22.05477,106.61233,22.05477",
+    "geom:latitude":22.05477,
+    "geom:longitude":106.61233,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khu Mot",
+    "gn:country_code":"VN",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311073,
+    "gn:latitude":22.05477,
+    "gn:longitude":106.61233,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khu M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Khu 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311073
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bc29cc28dbc65f0c7e0c01ad42b1fbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1242885039,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1242885039,
+    "wof:lastmodified":1537714265,
+    "wof:name":"Khu Mot",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61233,
+    22.05477,
+    106.61233,
+    22.05477
+],
+  "geometry": {"coordinates":[106.61233,22.05477],"type":"Point"}
+}

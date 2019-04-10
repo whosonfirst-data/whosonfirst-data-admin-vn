@@ -1,0 +1,67 @@
+{
+  "id": 1327246805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83333,21.91667,105.83333,21.91667",
+    "geom:latitude":21.91667,
+    "geom:longitude":105.83333,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Thuong Lo",
+    "gn:country_code":"VN",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564971,
+    "gn:latitude":21.91667,
+    "gn:longitude":105.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thuong Lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564971
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6af35ee486bce7f98de623d395bf6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780917,
+            "locality_id":1327246805,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1327246805,
+    "wof:lastmodified":1536948963,
+    "wof:name":"Thuong Lo",
+    "wof:parent_id":1108780917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83333,
+    21.91667,
+    105.83333,
+    21.91667
+],
+  "geometry": {"coordinates":[105.83333,21.91667],"type":"Point"}
+}

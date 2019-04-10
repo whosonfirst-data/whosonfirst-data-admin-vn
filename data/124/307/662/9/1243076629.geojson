@@ -1,0 +1,70 @@
+{
+  "id": 1243076629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.47185,10.38421,105.47185,10.38421",
+    "geom:latitude":10.38421,
+    "geom:longitude":105.47185,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"An Quoi",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337019,
+    "gn:latitude":10.38421,
+    "gn:longitude":105.47185,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"An Q\u01b0\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An Q\u01b0\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ec35afe4007b90f246f3d989ba3e8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782215,
+            "locality_id":1243076629,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1243076629,
+    "wof:lastmodified":1537714279,
+    "wof:name":"An Quoi",
+    "wof:parent_id":1108782215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.47185,
+    10.38421,
+    105.47185,
+    10.38421
+],
+  "geometry": {"coordinates":[105.47185,10.38421],"type":"Point"}
+}

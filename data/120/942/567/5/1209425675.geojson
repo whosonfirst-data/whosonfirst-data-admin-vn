@@ -1,0 +1,61 @@
+{
+  "id": 1209425675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,10.1,105.65,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Ap Ca Tac",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593676,
+    "gn:latitude":10.1,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p C\u00e0 T\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593676
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f2fe5f6ff9cf89bfe6cce7601bcad46c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425675
+        }
+    ],
+    "wof:id":1209425675,
+    "wof:lastmodified":1536287388,
+    "wof:name":"Ap Ca Tac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    10.1,
+    105.65,
+    10.1
+],
+  "geometry": {"coordinates":[105.65000000000001,10.1],"type":"Point"}
+}

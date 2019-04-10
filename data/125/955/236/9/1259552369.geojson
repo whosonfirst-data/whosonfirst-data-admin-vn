@@ -1,0 +1,73 @@
+{
+  "id": 1259552369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1,9.98333,105.1,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":105.1,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Vinh Lac",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591749,
+    "gn:latitude":9.98333,
+    "gn:longitude":105.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p V\u0129nh L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vihn Lac Quan",
+        "Vinh Lac Quan",
+        "\u1ea4p V\u0129nh L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591749
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"243709b96db85f528b1580f511574ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782219,
+            "locality_id":1259552369,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1259552369,
+    "wof:lastmodified":1537714142,
+    "wof:name":"Ap Vinh Lac",
+    "wof:parent_id":1108782219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1,
+    9.98333,
+    105.1,
+    9.98333
+],
+  "geometry": {"coordinates":[105.09999999999999,9.98333],"type":"Point"}
+}

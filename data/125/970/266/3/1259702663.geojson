@@ -1,0 +1,72 @@
+{
+  "id": 1259702663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,21.83333,106.53333,21.83333",
+    "geom:latitude":21.83333,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Thon Khe",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565512,
+    "gn:latitude":21.83333,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Th\u00f4n Khe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Than Khe",
+        "Th\u00f4n Khe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565512
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"60dfdd8913527fbdcfde6faf708cc8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781097,
+            "locality_id":1259702663,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1259702663,
+    "wof:lastmodified":1537713758,
+    "wof:name":"Thon Khe",
+    "wof:parent_id":1108781097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    21.83333,
+    106.53333,
+    21.83333
+],
+  "geometry": {"coordinates":[106.53333000000001,21.83333],"type":"Point"}
+}

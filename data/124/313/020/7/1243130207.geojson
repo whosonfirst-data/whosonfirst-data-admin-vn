@@ -1,0 +1,73 @@
+{
+  "id": 1243130207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.68333,11.73333,108.68333,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":108.68333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pho Tabou",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570802,
+    "gn:latitude":11.73333,
+    "gn:longitude":108.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pho Tabou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plei Tabou",
+        "Tabou",
+        "Pho Tabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570802
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e0c83f051c82cf261205066129661b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781895,
+            "locality_id":1243130207,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1243130207,
+    "wof:lastmodified":1537713836,
+    "wof:name":"Pho Tabou",
+    "wof:parent_id":1108781895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.68333,
+    11.73333,
+    108.68333,
+    11.73333
+],
+  "geometry": {"coordinates":[108.68333,11.73333],"type":"Point"}
+}

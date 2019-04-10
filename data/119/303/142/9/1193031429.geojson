@@ -1,0 +1,70 @@
+{
+  "id": 1193031429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91047,18.31877,105.91047,18.31877",
+    "geom:latitude":18.31877,
+    "geom:longitude":105.91047,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hoa Lo",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275426,
+    "gn:latitude":18.31877,
+    "gn:longitude":105.91047,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"H\u00f2a L\u1ed9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a L\u1ed9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275426
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"298909675f28070a85003406655d9e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1193031429,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1193031429,
+    "wof:lastmodified":1537714679,
+    "wof:name":"Hoa Lo",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91047,
+    18.31877,
+    105.91047,
+    18.31877
+],
+  "geometry": {"coordinates":[105.91047,18.31877],"type":"Point"}
+}

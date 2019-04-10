@@ -1,0 +1,67 @@
+{
+  "id": 1243086655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15,19.23333,105.15,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":105.15,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Trong Hap",
+    "gn:country_code":"VN",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563792,
+    "gn:latitude":19.23333,
+    "gn:longitude":105.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u1ecdng H\u1ea1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563792
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bf385bcf7d9b32405a268dfd034edcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781465,
+            "locality_id":1243086655,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243086655,
+    "wof:lastmodified":1536826259,
+    "wof:name":"Trong Hap",
+    "wof:parent_id":1108781465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15,
+    19.23333,
+    105.15,
+    19.23333
+],
+  "geometry": {"coordinates":[105.15000000000001,19.23333],"type":"Point"}
+}

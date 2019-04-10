@@ -1,0 +1,61 @@
+{
+  "id": 1209634271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35,22.78333,103.35,22.78333",
+    "geom:latitude":22.78333,
+    "geom:longitude":103.35,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pen Ngai Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571158,
+    "gn:latitude":22.78333,
+    "gn:longitude":103.35,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"P\u00ean Ngai Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571158
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ddb8e7ce1b85399b0c6891f1e1600ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634271
+        }
+    ],
+    "wof:id":1209634271,
+    "wof:lastmodified":1536281092,
+    "wof:name":"Pen Ngai Chai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35,
+    22.78333,
+    103.35,
+    22.78333
+],
+  "geometry": {"coordinates":[103.34999999999999,22.78333],"type":"Point"}
+}

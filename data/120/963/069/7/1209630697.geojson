@@ -1,0 +1,64 @@
+{
+  "id": 1209630697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02812,20.5602,106.02812,20.5602",
+    "geom:latitude":20.5602,
+    "geom:longitude":106.02812,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Vinh Tru",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8564068,
+    "gn:latitude":20.5602,
+    "gn:longitude":106.02812,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"V\u0129nh Tr\u1ee5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh Tr\u1ee5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564068
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e43f8fd5c794e07c8741e0ba2ce6590a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630697
+        }
+    ],
+    "wof:id":1209630697,
+    "wof:lastmodified":1537714354,
+    "wof:name":"Vinh Tru",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02812,
+    20.5602,
+    106.02812,
+    20.5602
+],
+  "geometry": {"coordinates":[106.02812,20.5602],"type":"Point"}
+}

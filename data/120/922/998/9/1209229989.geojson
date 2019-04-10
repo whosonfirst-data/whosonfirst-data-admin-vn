@@ -1,0 +1,64 @@
+{
+  "id": 1209229989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.23445,21.45401,107.23445,21.45401",
+    "geom:latitude":21.45401,
+    "geom:longitude":107.23445,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khe Pan Non",
+    "gn:country_code":"VN",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522354,
+    "gn:latitude":21.45401,
+    "gn:longitude":107.23445,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Khe P\u0103n Non",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khe P\u0103n Non"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522354
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d2877516b6e00426d73943f92bce8c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209229989
+        }
+    ],
+    "wof:id":1209229989,
+    "wof:lastmodified":1537714327,
+    "wof:name":"Khe Pan Non",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.23445,
+    21.45401,
+    107.23445,
+    21.45401
+],
+  "geometry": {"coordinates":[107.23445,21.45401],"type":"Point"}
+}

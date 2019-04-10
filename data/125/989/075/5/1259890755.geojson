@@ -1,0 +1,71 @@
+{
+  "id": 1259890755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.9,11.63333,106.9,11.63333",
+    "geom:latitude":11.63333,
+    "geom:longitude":106.9,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Giat Tru",
+    "gn:country_code":"VN",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1581735,
+    "gn:latitude":11.63333,
+    "gn:longitude":106.9,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Giat Tru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Thion Lam",
+        "Giat Tru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581735
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4df03e086601a698dfb9d1f620363207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781923,
+            "locality_id":1259890755,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1259890755,
+    "wof:lastmodified":1537713979,
+    "wof:name":"Giat Tru",
+    "wof:parent_id":1108781923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.9,
+    11.63333,
+    106.9,
+    11.63333
+],
+  "geometry": {"coordinates":[106.90000000000001,11.63333],"type":"Point"}
+}

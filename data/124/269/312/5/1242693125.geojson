@@ -1,0 +1,70 @@
+{
+  "id": 1242693125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.97593,22.07994,102.97593,22.07994",
+    "geom:latitude":22.07994,
+    "geom:longitude":102.97593,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Phinh Manh",
+    "gn:country_code":"VN",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456819,
+    "gn:latitude":22.07994,
+    "gn:longitude":102.97593,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Phinh Manh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phinh Manh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456819
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"676e589eee24f0be883fad05b9502b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780993,
+            "locality_id":1242693125,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1242693125,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Phinh Manh",
+    "wof:parent_id":1108780993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.97593,
+    22.07994,
+    102.97593,
+    22.07994
+],
+  "geometry": {"coordinates":[102.97593000000001,22.07994],"type":"Point"}
+}

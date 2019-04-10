@@ -1,0 +1,70 @@
+{
+  "id": 1360095731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01589,22.8185,105.01589,22.8185",
+    "geom:latitude":22.8185,
+    "geom:longitude":105.01589,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ta Vai",
+    "gn:country_code":"VN",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309426,
+    "gn:latitude":22.8185,
+    "gn:longitude":105.01589,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"T\u1ea3 V\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ea3 V\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309426
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f7a8dd165d4168f9617be44e1ec8680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780849,
+            "locality_id":1360095731,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1360095731,
+    "wof:lastmodified":1537714255,
+    "wof:name":"Ta Vai",
+    "wof:parent_id":1108780849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01588999999998,
+    22.8185,
+    105.01588999999998,
+    22.8185
+],
+  "geometry": {"coordinates":[105.01588999999998,22.8185],"type":"Point"}
+}

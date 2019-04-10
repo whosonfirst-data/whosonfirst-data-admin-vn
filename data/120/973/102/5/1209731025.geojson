@@ -1,0 +1,70 @@
+{
+  "id": 1209731025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.92056,13.47327,108.92056,13.47327",
+    "geom:latitude":13.47327,
+    "geom:longitude":108.92056,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Loi",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719431,
+    "gn:latitude":13.47327,
+    "gn:longitude":108.92056,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719431
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0081386291994c70ebb05c746797fe5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1209731025,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209731025,
+    "wof:lastmodified":1537714412,
+    "wof:name":"Phu Loi",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.92056,
+    13.47327,
+    108.92056,
+    13.47327
+],
+  "geometry": {"coordinates":[108.92055999999999,13.47327],"type":"Point"}
+}

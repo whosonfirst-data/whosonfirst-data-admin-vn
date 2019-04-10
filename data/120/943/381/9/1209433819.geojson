@@ -1,0 +1,61 @@
+{
+  "id": 1209433819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.78333,15.16667,107.78333,15.16667",
+    "geom:latitude":15.16667,
+    "geom:longitude":107.78333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Mang Bul",
+    "gn:country_code":"VN",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574948,
+    "gn:latitude":15.16667,
+    "gn:longitude":107.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mang Bul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574948
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"99380a4908d5df5f0c19783f1e0cf5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433819
+        }
+    ],
+    "wof:id":1209433819,
+    "wof:lastmodified":1536287160,
+    "wof:name":"Mang Bul",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.78333,
+    15.166670000000002,
+    107.78333,
+    15.166670000000002
+],
+  "geometry": {"coordinates":[107.78333000000001,15.16667],"type":"Point"}
+}

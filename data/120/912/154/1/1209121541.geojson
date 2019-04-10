@@ -1,0 +1,65 @@
+{
+  "id": 1209121541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41667,20.86667,106.41667,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":106.41667,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Luong Lai",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575225,
+    "gn:latitude":20.86667,
+    "gn:longitude":106.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u01b0\u01a1ng L\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luong Loi",
+        "L\u01b0\u01a1ng L\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575225
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7888e66321fb3da6259680da7fb1eb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121541
+        }
+    ],
+    "wof:id":1209121541,
+    "wof:lastmodified":1537713891,
+    "wof:name":"Luong Lai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41667,
+    20.86667000000001,
+    106.41667,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[106.41667,20.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260090833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.32752,14.32873,108.32752,14.32873",
+    "geom:latitude":14.32873,
+    "geom:longitude":108.32752,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kong Kring Smal",
+    "gn:country_code":"VN",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578659,
+    "gn:latitude":14.32873,
+    "gn:longitude":108.32752,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Kong Kring Smal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kong Kring Smat Vieux",
+        "Kong Kring Smat",
+        "Kong Kring Smal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578659
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"823d409979d19926e2767edffc5e0a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781799,
+            "locality_id":1260090833,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1260090833,
+    "wof:lastmodified":1537713942,
+    "wof:name":"Kong Kring Smal",
+    "wof:parent_id":1108781799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.32752,
+    14.32873,
+    108.32752,
+    14.32873
+],
+  "geometry": {"coordinates":[108.32752000000001,14.32873],"type":"Point"}
+}

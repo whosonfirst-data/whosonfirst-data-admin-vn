@@ -1,0 +1,64 @@
+{
+  "id": 1209325451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.23729,13.24031,109.23729,13.24031",
+    "geom:latitude":13.24031,
+    "geom:longitude":109.23729,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phuoc Hau",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719486,
+    "gn:latitude":13.24031,
+    "gn:longitude":109.23729,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u01b0\u1edbc H\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc H\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719486
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"058a61246ad1159f3088bb9014fc5277",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325451
+        }
+    ],
+    "wof:id":1209325451,
+    "wof:lastmodified":1537714413,
+    "wof:name":"Phuoc Hau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.23729,
+    13.24031,
+    109.23729,
+    13.24031
+],
+  "geometry": {"coordinates":[109.23729,13.24031],"type":"Point"}
+}

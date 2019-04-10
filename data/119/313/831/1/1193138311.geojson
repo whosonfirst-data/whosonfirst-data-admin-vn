@@ -1,0 +1,73 @@
+{
+  "id": 1193138311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53228,10.26015,106.53228,10.26015",
+    "geom:latitude":10.26015,
+    "geom:longitude":106.53228,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Vinh Hoi",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591758,
+    "gn:latitude":10.26015,
+    "gn:longitude":106.53228,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Vinh H\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Vinh H\u1ed9i"
+    ],
+    "name:vie_x_preferred":[
+        "Vinh H\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591758
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae2fac5e79ac9cffae90488e573ef2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782123,
+            "locality_id":1193138311,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1193138311,
+    "wof:lastmodified":1537714142,
+    "wof:name":"Vinh Hoi",
+    "wof:parent_id":1108782123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53228,
+    10.26015,
+    106.53228,
+    10.26015
+],
+  "geometry": {"coordinates":[106.53228,10.26015],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226353301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.942,21.22422,104.942,21.22422",
+    "geom:latitude":21.22422,
+    "geom:longitude":104.942,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Kiet Son",
+    "gn:country_code":"VN",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577172,
+    "gn:latitude":21.22422,
+    "gn:longitude":104.942,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Ki\u1ec7t S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Ki\u1ec7t S\u01a1n"
+    ],
+    "name:vie_x_preferred":[
+        "Ki\u1ec7t S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577172
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a70c602e214752dafe185977faa152dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781193,
+            "locality_id":1226353301,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1226353301,
+    "wof:lastmodified":1537713919,
+    "wof:name":"Kiet Son",
+    "wof:parent_id":1108781193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.942,
+    21.22422000000001,
+    104.942,
+    21.22422000000001
+],
+  "geometry": {"coordinates":[104.94199999999999,21.22422000000001],"type":"Point"}
+}

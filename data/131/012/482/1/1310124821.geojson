@@ -1,0 +1,67 @@
+{
+  "id": 1310124821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33333,22.98333,105.33333,22.98333",
+    "geom:latitude":22.98333,
+    "geom:longitude":105.33333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ngoc Long",
+    "gn:country_code":"VN",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572424,
+    "gn:latitude":22.98333,
+    "gn:longitude":105.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ngoc Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572424
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50d7d8353b5a582126140b301f305e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1310124821,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1310124821,
+    "wof:lastmodified":1536968323,
+    "wof:name":"Ngoc Long",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33333,
+    22.98333,
+    105.33333,
+    22.98333
+],
+  "geometry": {"coordinates":[105.33333,22.98333],"type":"Point"}
+}

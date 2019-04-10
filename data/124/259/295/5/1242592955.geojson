@@ -1,0 +1,71 @@
+{
+  "id": 1242592955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2,20.76667,105.2,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":105.2,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Hang Thau",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581153,
+    "gn:latitude":20.76667,
+    "gn:longitude":105.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hang Thau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nang Th\u0103u",
+        "Hang Thau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581153
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62086dfa246f3932f62306b222abc79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781051,
+            "locality_id":1242592955,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1242592955,
+    "wof:lastmodified":1537713972,
+    "wof:name":"Hang Thau",
+    "wof:parent_id":1108781051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2,
+    20.76667,
+    105.2,
+    20.76667
+],
+  "geometry": {"coordinates":[105.2,20.76667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310652191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35,10.36667,106.35,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":106.35,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Chau Thanh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585625,
+    "gn:latitude":10.36667,
+    "gn:longitude":106.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u00e2u Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trung An",
+        "Ch\u00e2u Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585625
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e6ce49fd680909cd76c374a74803d98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782093,
+            "locality_id":1310652191,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1310652191,
+    "wof:lastmodified":1537714026,
+    "wof:name":"Chau Thanh",
+    "wof:parent_id":1108782093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35,
+    10.36667,
+    106.35,
+    10.36667
+],
+  "geometry": {"coordinates":[106.34999999999999,10.36667],"type":"Point"}
+}

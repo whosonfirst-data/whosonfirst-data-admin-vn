@@ -1,0 +1,73 @@
+{
+  "id": 1293405359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06955,19.8322,105.06955,19.8322",
+    "geom:latitude":19.8322,
+    "geom:longitude":105.06955,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Huoi Muong",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628024,
+    "gn:latitude":19.8322,
+    "gn:longitude":105.06955,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Hu\u00f4i Mu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hu\u1ed5i Mu\u00f4ng"
+    ],
+    "name:vie_x_variant":[
+        "Hu\u00f4i Mu\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628024
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"156722fe20b0472cd97e8f2b0a3fba5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781455,
+            "locality_id":1293405359,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293405359,
+    "wof:lastmodified":1537714380,
+    "wof:name":"Huoi Muong",
+    "wof:parent_id":1108781455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06955,
+    19.8322,
+    105.06955,
+    19.8322
+],
+  "geometry": {"coordinates":[105.06955000000001,19.8322],"type":"Point"}
+}

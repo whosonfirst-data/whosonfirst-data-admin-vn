@@ -1,0 +1,73 @@
+{
+  "id": 1209813387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,22.86667,105.75,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ca Tap",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586053,
+    "gn:latitude":22.86667,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ca Tap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ga Tap",
+        "Ca Tao",
+        "Ca Tap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586053
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e52e70ffe944523ec6d8125f5cd30de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780879,
+            "locality_id":1209813387,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1209813387,
+    "wof:lastmodified":1537714030,
+    "wof:name":"Ca Tap",
+    "wof:parent_id":1108780879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    22.86667000000001,
+    105.75,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[105.75,22.86667000000001],"type":"Point"}
+}

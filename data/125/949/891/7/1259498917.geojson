@@ -1,0 +1,70 @@
+{
+  "id": 1259498917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57234,19.05534,105.57234,19.05534",
+    "geom:latitude":19.05534,
+    "geom:longitude":105.57234,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hac Linh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178501,
+    "gn:latitude":19.05534,
+    "gn:longitude":105.57234,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"H\u1ea1c Linh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea1c Linh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178501
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d1bc4591f73592528fddc5cadd3633b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1259498917,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1259498917,
+    "wof:lastmodified":1537714604,
+    "wof:name":"Hac Linh",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57234,
+    19.05534,
+    105.57234,
+    19.05534
+],
+  "geometry": {"coordinates":[105.57234,19.05534],"type":"Point"}
+}

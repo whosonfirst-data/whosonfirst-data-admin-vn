@@ -1,0 +1,67 @@
+{
+  "id": 1242884407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,20.91667,106.53333,20.91667",
+    "geom:latitude":20.91667,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Thien Xuan",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565874,
+    "gn:latitude":20.91667,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Thien Xuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565874
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9fa8d39cf1e2db447500a448eec2776a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781279,
+            "locality_id":1242884407,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1242884407,
+    "wof:lastmodified":1536619540,
+    "wof:name":"Thien Xuan",
+    "wof:parent_id":1108781279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    20.91667,
+    106.53333,
+    20.91667
+],
+  "geometry": {"coordinates":[106.53333000000001,20.91667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327344297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.86667,15.25,108.86667,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":108.86667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Liem Quang",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576019,
+    "gn:latitude":15.25,
+    "gn:longitude":108.86667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Li\u00eam Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lien Quang",
+        "Li\u00eam Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576019
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc5e887739a68f6d88b6deeb19d88c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781637,
+            "locality_id":1327344297,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1327344297,
+    "wof:lastmodified":1537713901,
+    "wof:name":"Liem Quang",
+    "wof:parent_id":1108781637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.86667,
+    15.25,
+    108.86667,
+    15.25
+],
+  "geometry": {"coordinates":[108.86667,15.25],"type":"Point"}
+}

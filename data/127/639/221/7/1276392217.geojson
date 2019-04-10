@@ -1,0 +1,70 @@
+{
+  "id": 1276392217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,20.05,105.3,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Chang Dam",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586415,
+    "gn:latitude":20.05,
+    "gn:longitude":105.3,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Chang Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cam \u0110\u1eb5m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586415
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c59f057da037ad2172f5d7c571b36fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781405,
+            "locality_id":1276392217,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1276392217,
+    "wof:lastmodified":1537714035,
+    "wof:name":"Chang Dam",
+    "wof:parent_id":1108781405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    20.05,
+    105.3,
+    20.05
+],
+  "geometry": {"coordinates":[105.3,20.05],"type":"Point"}
+}

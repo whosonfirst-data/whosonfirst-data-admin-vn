@@ -1,0 +1,64 @@
+{
+  "id": 1209630641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69448,21.88162,104.69448,21.88162",
+    "geom:latitude":21.88162,
+    "geom:longitude":104.69448,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Minh A",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944295,
+    "gn:latitude":21.88162,
+    "gn:longitude":104.69448,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Minh A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Minh A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944295
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24693a25689217bd8941d00074c278fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630641
+        }
+    ],
+    "wof:id":1209630641,
+    "wof:lastmodified":1537714734,
+    "wof:name":"Minh A",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69448,
+    21.88162,
+    104.69448,
+    21.88162
+],
+  "geometry": {"coordinates":[104.69448,21.88162],"type":"Point"}
+}

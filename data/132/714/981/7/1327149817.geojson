@@ -1,0 +1,77 @@
+{
+  "id": 1327149817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17744,22.77488,105.17744,22.77488",
+    "geom:latitude":22.77488,
+    "geom:longitude":105.17744,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na Nuong",
+    "gn:country_code":"VN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573115,
+    "gn:latitude":22.77488,
+    "gn:longitude":105.17744,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Na N\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Moung",
+        "Na M\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 M\u01b0\u01a1ng"
+    ],
+    "name:vie_x_variant":[
+        "Na N\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573115
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2d08fcdf765e8dc168260247eff21202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1327149817,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1327149817,
+    "wof:lastmodified":1537713865,
+    "wof:name":"Na Nuong",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17744,
+    22.77488,
+    105.17744,
+    22.77488
+],
+  "geometry": {"coordinates":[105.17744,22.77488],"type":"Point"}
+}

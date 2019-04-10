@@ -1,0 +1,67 @@
+{
+  "id": 1243565191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63028,18.61389,105.63028,18.61389",
+    "geom:latitude":18.61389,
+    "geom:longitude":105.63028,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Long Dong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575745,
+    "gn:latitude":18.61389,
+    "gn:longitude":105.63028,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Long Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575745
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3664587ed3b11a16b881d8eaa89a1d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781491,
+            "locality_id":1243565191,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243565191,
+    "wof:lastmodified":1536632916,
+    "wof:name":"Long Dong",
+    "wof:parent_id":1108781491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63028,
+    18.61389,
+    105.63028,
+    18.61389
+],
+  "geometry": {"coordinates":[105.63028,18.61389],"type":"Point"}
+}

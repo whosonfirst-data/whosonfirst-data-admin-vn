@@ -1,0 +1,67 @@
+{
+  "id": 1327246757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,18.8,105.55,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Da Phuc",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583799,
+    "gn:latitude":18.8,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110a Phuc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583799
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"86f4857decf5c0fd0c8b8cef0e55d85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781485,
+            "locality_id":1327246757,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1327246757,
+    "wof:lastmodified":1536949027,
+    "wof:name":"Da Phuc",
+    "wof:parent_id":1108781485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    18.8,
+    105.55,
+    18.8
+],
+  "geometry": {"coordinates":[105.55,18.8],"type":"Point"}
+}

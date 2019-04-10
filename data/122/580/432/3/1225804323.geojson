@@ -1,0 +1,70 @@
+{
+  "id": 1225804323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48676,20.99999,103.48676,20.99999",
+    "geom:latitude":20.99999,
+    "geom:longitude":103.48676,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Banh",
+    "gn:country_code":"VN",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545426,
+    "gn:latitude":20.99999,
+    "gn:longitude":103.48676,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"B\u1ea3n B\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n B\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545426
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3c0a8644aecb1555ab97d7671cdd6c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781017,
+            "locality_id":1225804323,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1225804323,
+    "wof:lastmodified":1537714343,
+    "wof:name":"Ban Banh",
+    "wof:parent_id":1108781017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48676,
+    20.99999,
+    103.48676,
+    20.99999
+],
+  "geometry": {"coordinates":[103.48676,20.99999],"type":"Point"}
+}

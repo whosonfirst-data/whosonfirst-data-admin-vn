@@ -1,0 +1,71 @@
+{
+  "id": 1226261735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.78333,16.4,107.78333,16.4",
+    "geom:latitude":16.4,
+    "geom:longitude":107.78333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Ha Bac",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565583,
+    "gn:latitude":16.4,
+    "gn:longitude":107.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n H\u00e0 B\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha Bac",
+        "Th\u00f4n H\u00e0 B\u1eafc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565583
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3374be103d708c184eb57ff709ab1170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1226261735,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1226261735,
+    "wof:lastmodified":1537713761,
+    "wof:name":"Thon Ha Bac",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.78333,
+    16.4,
+    107.78333,
+    16.4
+],
+  "geometry": {"coordinates":[107.78333000000001,16.4],"type":"Point"}
+}

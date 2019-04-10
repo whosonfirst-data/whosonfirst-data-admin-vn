@@ -1,0 +1,67 @@
+{
+  "id": 1310616447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,21.6,105.81667,21.6",
+    "geom:latitude":21.6,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cau The",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585935,
+    "gn:latitude":21.6,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ea7u The",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585935
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a5a658e81e1753d95dfd446a565cd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781065,
+            "locality_id":1310616447,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1310616447,
+    "wof:lastmodified":1536756942,
+    "wof:name":"Cau The",
+    "wof:parent_id":1108781065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    21.6,
+    105.81667,
+    21.6
+],
+  "geometry": {"coordinates":[105.81667,21.6],"type":"Point"}
+}

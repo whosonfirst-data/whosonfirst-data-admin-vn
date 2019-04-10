@@ -1,0 +1,67 @@
+{
+  "id": 1260304289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11667,22.6,105.11667,22.6",
+    "geom:latitude":22.6,
+    "geom:longitude":105.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Tiang",
+    "gn:country_code":"VN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588561,
+    "gn:latitude":22.6,
+    "gn:longitude":105.11667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Tiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9cf77b7970895853371326da65712d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1260304289,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1260304289,
+    "wof:lastmodified":1536683952,
+    "wof:name":"Ban Tiang",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11667,
+    22.6,
+    105.11667,
+    22.6
+],
+  "geometry": {"coordinates":[105.11667,22.6],"type":"Point"}
+}

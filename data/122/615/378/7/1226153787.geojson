@@ -1,0 +1,70 @@
+{
+  "id": 1226153787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14243,20.95278,106.14243,20.95278",
+    "geom:latitude":20.95278,
+    "geom:longitude":106.14243,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Hoa Dam",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580821,
+    "gn:latitude":20.95278,
+    "gn:longitude":106.14243,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"H\u00f2a \u0110am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a \u0110am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580821
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4a30d622cf0416da06105b9300b15db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781301,
+            "locality_id":1226153787,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1226153787,
+    "wof:lastmodified":1537713969,
+    "wof:name":"Hoa Dam",
+    "wof:parent_id":1108781301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14243,
+    20.95278,
+    106.14243,
+    20.95278
+],
+  "geometry": {"coordinates":[106.14243,20.95278],"type":"Point"}
+}

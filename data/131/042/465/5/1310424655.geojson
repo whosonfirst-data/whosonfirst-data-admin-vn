@@ -1,0 +1,73 @@
+{
+  "id": 1310424655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68333,11.1,107.68333,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":107.68333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ap Lac Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593184,
+    "gn:latitude":11.1,
+    "gn:longitude":107.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p L\u1ea1c H\u00f3a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xa Tac-Tanh",
+        "Tanh Linh",
+        "X\u00e3 Lac-T\u00e1nh",
+        "\u1ea4p L\u1ea1c H\u00f3a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593184
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab8cdb2c0079334c3858ec57c575126f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781765,
+            "locality_id":1310424655,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1310424655,
+    "wof:lastmodified":1537714180,
+    "wof:name":"Ap Lac Hoa",
+    "wof:parent_id":1108781765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68333,
+    11.1,
+    107.68333,
+    11.1
+],
+  "geometry": {"coordinates":[107.68333,11.1],"type":"Point"}
+}

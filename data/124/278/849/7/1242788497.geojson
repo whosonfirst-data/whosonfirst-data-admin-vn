@@ -1,0 +1,70 @@
+{
+  "id": 1242788497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59072,10.07688,105.59072,10.07688",
+    "geom:latitude":10.07688,
+    "geom:longitude":105.59072,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Dinh Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533355,
+    "gn:latitude":10.07688,
+    "gn:longitude":105.59072,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u1ecbnh Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ecbnh Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533355
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"74c7096551fd72d6fe058d2aab0d7c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782269,
+            "locality_id":1242788497,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1242788497,
+    "wof:lastmodified":1537714477,
+    "wof:name":"Dinh Phuoc",
+    "wof:parent_id":1108782269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59072,
+    10.07688,
+    105.59072,
+    10.07688
+],
+  "geometry": {"coordinates":[105.59072,10.07688],"type":"Point"}
+}

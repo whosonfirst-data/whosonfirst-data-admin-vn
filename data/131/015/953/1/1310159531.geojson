@@ -1,0 +1,72 @@
+{
+  "id": 1310159531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15,11.4,106.15,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":106.15,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Xom Suoi Vang",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560965,
+    "gn:latitude":11.4,
+    "gn:longitude":106.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m Su\u1ed1i V\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suoi Vang",
+        "X\u00f3m Su\u1ed1i V\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560965
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"14385deab17c6d0a99dc898a8a9a4e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781931,
+            "locality_id":1310159531,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1310159531,
+    "wof:lastmodified":1537713674,
+    "wof:name":"Xom Suoi Vang",
+    "wof:parent_id":1108781931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15,
+    11.4,
+    106.15,
+    11.4
+],
+  "geometry": {"coordinates":[106.15000000000001,11.4],"type":"Point"}
+}

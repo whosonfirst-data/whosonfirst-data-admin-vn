@@ -1,0 +1,67 @@
+{
+  "id": 1327153165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13333,21.15,105.13333,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":105.13333,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Cu Banh",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584586,
+    "gn:latitude":21.15,
+    "gn:longitude":105.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ef1 B\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584586
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5460fa02ab04f294e0657c5316ddcf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781189,
+            "locality_id":1327153165,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1327153165,
+    "wof:lastmodified":1537080835,
+    "wof:name":"Cu Banh",
+    "wof:parent_id":1108781189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13333,
+    21.15,
+    105.13333,
+    21.15
+],
+  "geometry": {"coordinates":[105.13333,21.15],"type":"Point"}
+}

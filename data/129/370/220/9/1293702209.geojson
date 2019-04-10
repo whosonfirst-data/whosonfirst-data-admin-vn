@@ -1,0 +1,67 @@
+{
+  "id": 1293702209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,11.15,106.66667,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Xom Don",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561653,
+    "gn:latitude":11.15,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"X\u00f3m \u0110\u1ed3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561653
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2e1a82c65718c4e071370772a66da787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781957,
+            "locality_id":1293702209,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1293702209,
+    "wof:lastmodified":1536974284,
+    "wof:name":"Xom Don",
+    "wof:parent_id":1108781957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    11.15,
+    106.66667,
+    11.15
+],
+  "geometry": {"coordinates":[106.66667,11.15],"type":"Point"}
+}

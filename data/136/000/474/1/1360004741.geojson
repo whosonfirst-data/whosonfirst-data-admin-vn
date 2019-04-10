@@ -1,0 +1,67 @@
+{
+  "id": 1360004741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.15556,12.46944,109.15556,12.46944",
+    "geom:latitude":12.46944,
+    "geom:longitude":109.15556,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ninh Giang",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902439,
+    "gn:latitude":12.46944,
+    "gn:longitude":109.15556,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Ninh Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902439
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a76c7b04833352bb98aa9129feeb69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781727,
+            "locality_id":1360004741,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1360004741,
+    "wof:lastmodified":1537058984,
+    "wof:name":"Ninh Giang",
+    "wof:parent_id":1108781727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.15556,
+    12.46944,
+    109.15556,
+    12.46944
+],
+  "geometry": {"coordinates":[109.15555999999999,12.46944],"type":"Point"}
+}

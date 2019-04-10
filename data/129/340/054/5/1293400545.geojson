@@ -1,0 +1,72 @@
+{
+  "id": 1293400545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83333,8.6,104.83333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":104.83333,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Xom Cai Xep",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561902,
+    "gn:latitude":8.6,
+    "gn:longitude":104.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m C\u00e1i X\u1ebfp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cai Kep",
+        "Xom Cai Kep",
+        "X\u00f3m C\u00e1i X\u1ebfp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561902
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad9c8e059ebb27a45100fc66a70f1174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782343,
+            "locality_id":1293400545,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1293400545,
+    "wof:lastmodified":1537713694,
+    "wof:name":"Xom Cai Xep",
+    "wof:parent_id":1108782343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83333,
+    8.6,
+    104.83333,
+    8.6
+],
+  "geometry": {"coordinates":[104.83333,8.6],"type":"Point"}
+}

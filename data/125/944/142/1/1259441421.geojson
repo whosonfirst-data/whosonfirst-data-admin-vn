@@ -1,0 +1,67 @@
+{
+  "id": 1259441421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37444,9.79333,105.37444,9.79333",
+    "geom:latitude":9.79333,
+    "geom:longitude":105.37444,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Hoa Tay",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593311,
+    "gn:latitude":9.79333,
+    "gn:longitude":105.37444,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p H\u00f2a T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593311
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"29d0375ae75190e263771e4055ab726e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782235,
+            "locality_id":1259441421,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1259441421,
+    "wof:lastmodified":1536920045,
+    "wof:name":"Ap Hoa Tay",
+    "wof:parent_id":1108782235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37444,
+    9.79333,
+    105.37444,
+    9.79333
+],
+  "geometry": {"coordinates":[105.37444000000001,9.79333],"type":"Point"}
+}

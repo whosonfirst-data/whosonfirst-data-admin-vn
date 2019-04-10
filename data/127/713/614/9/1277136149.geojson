@@ -1,0 +1,67 @@
+{
+  "id": 1277136149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,21.0,103.91667,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Phieng Nat",
+    "gn:country_code":"VN",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570959,
+    "gn:latitude":21.0,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Phi\u00eang N\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570959
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f5579a6e9141646b201e5f18f42c1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781015,
+            "locality_id":1277136149,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1277136149,
+    "wof:lastmodified":1536690937,
+    "wof:name":"Phieng Nat",
+    "wof:parent_id":1108781015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    21.0,
+    103.91667,
+    21.0
+],
+  "geometry": {"coordinates":[103.91667,21.0],"type":"Point"}
+}

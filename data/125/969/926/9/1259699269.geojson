@@ -1,0 +1,73 @@
+{
+  "id": 1259699269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58302,18.53957,105.58302,18.53957",
+    "geom:latitude":18.53957,
+    "geom:longitude":105.58302,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Duc Tho",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1582175,
+    "gn:latitude":18.53957,
+    "gn:longitude":105.58302,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u0110\u1ee9c Th\u1ecd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u01b0c Th\u1ecd"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ee9c Th\u1ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582175
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c0ec8c18b66e677b0d6530bb95e998c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1259699269,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1259699269,
+    "wof:lastmodified":1537713985,
+    "wof:name":"Duc Tho",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58302,
+    18.53957,
+    105.58302,
+    18.53957
+],
+  "geometry": {"coordinates":[105.58302,18.53957],"type":"Point"}
+}

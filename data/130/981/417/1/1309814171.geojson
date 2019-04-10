@@ -1,0 +1,70 @@
+{
+  "id": 1309814171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2583,22.19318,105.2583,22.19318",
+    "geom:latitude":22.19318,
+    "geom:longitude":105.2583,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Binh",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309162,
+    "gn:latitude":22.19318,
+    "gn:longitude":105.2583,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u00e0ng B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309162
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ff321611f93fb6597391e3ee00229636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1309814171,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1309814171,
+    "wof:lastmodified":1537714249,
+    "wof:name":"Lang Binh",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2583,
+    22.19318,
+    105.2583,
+    22.19318
+],
+  "geometry": {"coordinates":[105.25830000000001,22.19318],"type":"Point"}
+}

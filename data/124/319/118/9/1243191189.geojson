@@ -1,0 +1,70 @@
+{
+  "id": 1243191189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4576,21.19805,105.4576,21.19805",
+    "geom:latitude":21.19805,
+    "geom:longitude":105.4576,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Chu Chau",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201610,
+    "gn:latitude":21.19805,
+    "gn:longitude":105.4576,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Chu Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Chu Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201610
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"efd7a3ba0a436dbd7e5543237cc7b47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1243191189,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1243191189,
+    "wof:lastmodified":1537714243,
+    "wof:name":"Chu Chau",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4576,
+    21.19805,
+    105.4576,
+    21.19805
+],
+  "geometry": {"coordinates":[105.4576,21.19805],"type":"Point"}
+}

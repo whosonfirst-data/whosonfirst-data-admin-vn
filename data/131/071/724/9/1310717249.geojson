@@ -1,0 +1,67 @@
+{
+  "id": 1310717249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,17.36667,106.25,17.36667",
+    "geom:latitude":17.36667,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Vin Aki",
+    "gn:country_code":"VN",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562801,
+    "gn:latitude":17.36667,
+    "gn:longitude":106.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vin Aki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562801
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a15cc6ab932758139ec1461d4caeb3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1310717249,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1310717249,
+    "wof:lastmodified":1536608683,
+    "wof:name":"Vin Aki",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    17.36667000000001,
+    106.25,
+    17.36667000000001
+],
+  "geometry": {"coordinates":[106.25,17.36667000000001],"type":"Point"}
+}

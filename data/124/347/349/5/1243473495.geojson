@@ -1,0 +1,70 @@
+{
+  "id": 1243473495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43426,21.89382,106.43426,21.89382",
+    "geom:latitude":21.89382,
+    "geom:longitude":106.43426,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Dong",
+    "gn:country_code":"VN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889841,
+    "gn:latitude":21.89382,
+    "gn:longitude":106.43426,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"N\u00e0 \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889841
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"010a2c03ee6826496d0101ee53ab6c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1243473495,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243473495,
+    "wof:lastmodified":1537714549,
+    "wof:name":"Na Dong",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43426,
+    21.89382,
+    106.43426,
+    21.89382
+],
+  "geometry": {"coordinates":[106.43425999999999,21.89382],"type":"Point"}
+}

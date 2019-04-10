@@ -1,0 +1,71 @@
+{
+  "id": 1276355273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.1,10.46667,107.1,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":107.1,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Lang Long Son",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577075,
+    "gn:latitude":10.46667,
+    "gn:longitude":107.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Long S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Trao",
+        "L\u00e0ng Long S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577075
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de7b2b275a8cf6abdea27ee6cf49ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781989,
+            "locality_id":1276355273,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1276355273,
+    "wof:lastmodified":1537713917,
+    "wof:name":"Lang Long Son",
+    "wof:parent_id":1108781989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.1,
+    10.46667,
+    107.1,
+    10.46667
+],
+  "geometry": {"coordinates":[107.09999999999999,10.46667],"type":"Point"}
+}

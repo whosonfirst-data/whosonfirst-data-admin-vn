@@ -1,0 +1,73 @@
+{
+  "id": 1243121559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.926,20.97588,106.926,20.97588",
+    "geom:latitude":20.97588,
+    "geom:longitude":106.926,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dai Dan",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584366,
+    "gn:latitude":20.97588,
+    "gn:longitude":106.926,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u0110\u1ea1i D\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ea1i \u0110\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i D\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1e88cdb033f69326c093b0597291d7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781111,
+            "locality_id":1243121559,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1243121559,
+    "wof:lastmodified":1537714013,
+    "wof:name":"Dai Dan",
+    "wof:parent_id":1108781111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.926,
+    20.97588,
+    106.926,
+    20.97588
+],
+  "geometry": {"coordinates":[106.926,20.97588],"type":"Point"}
+}

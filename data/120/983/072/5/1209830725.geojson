@@ -1,0 +1,70 @@
+{
+  "id": 1209830725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35909,22.7233,103.35909,22.7233",
+    "geom:latitude":22.7233,
+    "geom:longitude":103.35909,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Chung Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356459,
+    "gn:latitude":22.7233,
+    "gn:longitude":103.35909,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Chung Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Chung Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356459
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02596e5f0979d00f0c6db0126504893b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1209830725,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1209830725,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Chung Chai",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35909,
+    22.7233,
+    103.35909,
+    22.7233
+],
+  "geometry": {"coordinates":[103.35908999999999,22.7233],"type":"Point"}
+}

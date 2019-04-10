@@ -1,0 +1,67 @@
+{
+  "id": 1292949595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61667,21.0,104.61667,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":104.61667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nam Uong",
+    "gn:country_code":"VN",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573119,
+    "gn:latitude":21.0,
+    "gn:longitude":104.61667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nam Uong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573119
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3626be08a79a5d3b13f1332b3391b968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1292949595,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1292949595,
+    "wof:lastmodified":1537062713,
+    "wof:name":"Nam Uong",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61667,
+    21.0,
+    104.61667,
+    21.0
+],
+  "geometry": {"coordinates":[104.61667,21.0],"type":"Point"}
+}

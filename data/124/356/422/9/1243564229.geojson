@@ -1,0 +1,70 @@
+{
+  "id": 1243564229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31556,22.6318,105.31556,22.6318",
+    "geom:latitude":22.6318,
+    "geom:longitude":105.31556,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tan San",
+    "gn:country_code":"VN",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309612,
+    "gn:latitude":22.6318,
+    "gn:longitude":105.31556,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tan San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tan San"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309612
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c726860891bc9fea9010c76e0ecc44f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1243564229,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1243564229,
+    "wof:lastmodified":1537714261,
+    "wof:name":"Tan San",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31556,
+    22.6318,
+    105.31556,
+    22.6318
+],
+  "geometry": {"coordinates":[105.31556,22.6318],"type":"Point"}
+}

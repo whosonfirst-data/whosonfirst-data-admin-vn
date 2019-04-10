@@ -1,0 +1,70 @@
+{
+  "id": 1344167873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52499,19.21655,105.52499,19.21655",
+    "geom:latitude":19.21655,
+    "geom:longitude":105.52499,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nam Lien",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178218,
+    "gn:latitude":19.21655,
+    "gn:longitude":105.52499,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Nam Li\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam Li\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178218
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11cbe925c264c4c4f389898908e0ba1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1344167873,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1344167873,
+    "wof:lastmodified":1537714597,
+    "wof:name":"Nam Lien",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52499,
+    19.21655,
+    105.52499,
+    19.21655
+],
+  "geometry": {"coordinates":[105.52499,19.21655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277089589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25,22.05,104.25,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":104.25,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Chu",
+    "gn:country_code":"VN",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577596,
+    "gn:latitude":22.05,
+    "gn:longitude":104.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Chu",
+        "L\u00e0ng Chu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577596
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7886decdb19c13596056b46665960a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1277089589,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1277089589,
+    "wof:lastmodified":1537713927,
+    "wof:name":"Lang Chu",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25,
+    22.05,
+    104.25,
+    22.05
+],
+  "geometry": {"coordinates":[104.25,22.05],"type":"Point"}
+}

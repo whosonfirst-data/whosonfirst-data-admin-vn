@@ -1,0 +1,73 @@
+{
+  "id": 1259393539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.10234,16.11567,108.10234,16.11567",
+    "geom:latitude":16.11567,
+    "geom:longitude":108.10234,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Thuy Tu",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591925,
+    "gn:latitude":16.11567,
+    "gn:longitude":108.10234,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Th\u1ee7y T\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Th\u1ee7y T\u00fa"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ee7y T\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779,
+        1108781579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc6d68e9f3ee08ad37a200034e6eca9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781579,
+            "locality_id":1259393539,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1259393539,
+    "wof:lastmodified":1537714147,
+    "wof:name":"Thuy Tu",
+    "wof:parent_id":1108781579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.10233999999998,
+    16.11567,
+    108.10233999999998,
+    16.11567
+],
+  "geometry": {"coordinates":[108.10233999999998,16.11567],"type":"Point"}
+}

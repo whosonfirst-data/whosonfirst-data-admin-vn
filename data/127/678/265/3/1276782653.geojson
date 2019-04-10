@@ -1,0 +1,73 @@
+{
+  "id": 1276782653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85279,21.75446,104.85279,21.75446",
+    "geom:latitude":21.75446,
+    "geom:longitude":104.85279,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dam Phung",
+    "gn:country_code":"VN",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584014,
+    "gn:latitude":21.75446,
+    "gn:longitude":104.85279,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u0110am Phung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ea7m Ph\u00f9ng"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110am Phung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584014
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"abee4ce546632636e7a05fedf1e043a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1276782653,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1276782653,
+    "wof:lastmodified":1537714007,
+    "wof:name":"Dam Phung",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85279,
+    21.75446,
+    104.85279,
+    21.75446
+],
+  "geometry": {"coordinates":[104.85279,21.75446],"type":"Point"}
+}

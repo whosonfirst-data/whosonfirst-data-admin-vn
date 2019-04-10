@@ -1,0 +1,74 @@
+{
+  "id": 1193237517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78793,21.13055,104.78793,21.13055",
+    "geom:latitude":21.13055,
+    "geom:longitude":104.78793,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Trung",
+    "gn:country_code":"VN",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588532,
+    "gn:latitude":21.13055,
+    "gn:longitude":104.78793,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"B\u1ea3n Tr\u1eebng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tioum",
+        "B\u1ea3n Tioun"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Tr\u1eebng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588532
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79afb7dbf36c2b9b39dc01247755fab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1193237517,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1193237517,
+    "wof:lastmodified":1537714080,
+    "wof:name":"Ban Trung",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78793,
+    21.13055,
+    104.78793,
+    21.13055
+],
+  "geometry": {"coordinates":[104.78793,21.13055],"type":"Point"}
+}

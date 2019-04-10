@@ -1,0 +1,70 @@
+{
+  "id": 1210031697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17328,20.80147,105.17328,20.80147",
+    "geom:latitude":20.80147,
+    "geom:longitude":105.17328,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Mo Ne",
+    "gn:country_code":"VN",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551541,
+    "gn:latitude":20.80147,
+    "gn:longitude":105.17328,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"M\u1ecf N\u1ebb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ecf N\u1ebb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551541
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"498a351f4069e7b37a956d1ad9057e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1210031697,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1210031697,
+    "wof:lastmodified":1537714347,
+    "wof:name":"Mo Ne",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17328,
+    20.80147,
+    105.17328,
+    20.80147
+],
+  "geometry": {"coordinates":[105.17328000000001,20.80147],"type":"Point"}
+}

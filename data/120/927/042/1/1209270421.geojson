@@ -1,0 +1,61 @@
+{
+  "id": 1209270421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.91667,11.51667,107.91667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":107.91667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ap Lam Lac",
+    "gn:country_code":"VN",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593166,
+    "gn:latitude":11.51667,
+    "gn:longitude":107.91667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p L\u00e2m L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593166
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"301fc48e676bcd470bbd26d0fde67cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209270421
+        }
+    ],
+    "wof:id":1209270421,
+    "wof:lastmodified":1536292378,
+    "wof:name":"Ap Lam Lac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.91667,
+    11.51667,
+    107.91667,
+    11.51667
+],
+  "geometry": {"coordinates":[107.91667,11.51667],"type":"Point"}
+}

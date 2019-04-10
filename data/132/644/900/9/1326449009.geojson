@@ -1,0 +1,73 @@
+{
+  "id": 1326449009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01667,21.01667,105.01667,21.01667",
+    "geom:latitude":21.01667,
+    "geom:longitude":105.01667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lang Nai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576900,
+    "gn:latitude":21.01667,
+    "gn:longitude":105.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nai",
+        "Lana Nai",
+        "L\u00e0ng Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576900
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bec98d2daf4d6ef0ad08568903a4f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781043,
+            "locality_id":1326449009,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1326449009,
+    "wof:lastmodified":1537713915,
+    "wof:name":"Lang Nai",
+    "wof:parent_id":1108781043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01667,
+    21.01667,
+    105.01667,
+    21.01667
+],
+  "geometry": {"coordinates":[105.01667,21.01667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293799271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6,22.63333,105.6,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":105.6,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Kheo Som",
+    "gn:country_code":"VN",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579378,
+    "gn:latitude":22.63333,
+    "gn:longitude":105.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kheo Som",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579378
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c03cbef27f2951b5e56c5f1568d76b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780905,
+            "locality_id":1293799271,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293799271,
+    "wof:lastmodified":1536833572,
+    "wof:name":"Kheo Som",
+    "wof:parent_id":1108780905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6,
+    22.63333,
+    105.6,
+    22.63333
+],
+  "geometry": {"coordinates":[105.59999999999999,22.63333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421195879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23333,23.28333,105.23333,23.28333",
+    "geom:latitude":23.28333,
+    "geom:longitude":105.23333,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1575541,
+    "qs:gn_pop":0,
+    "qs:name":"Loung Hoa",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Ha Giang",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":133498,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252477,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575541,
+        "gp:id":1252477,
+        "qs:id":133498
+    },
+    "wof:country":"VN",
+    "wof:created":1459009862,
+    "wof:geomhash":"16f4b12ec2024b63de541bcb0a566d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780851,
+            "locality_id":421195879,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":421195879,
+    "wof:lastmodified":1496498086,
+    "wof:name":"Loung Hoa",
+    "wof:parent_id":1108780851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23333,
+    23.28333,
+    105.23333,
+    23.28333
+],
+  "geometry": {"coordinates":[105.23333,23.28333],"type":"Point"}
+}

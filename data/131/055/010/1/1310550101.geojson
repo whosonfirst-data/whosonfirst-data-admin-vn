@@ -1,0 +1,73 @@
+{
+  "id": 1310550101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95633,21.22386,103.95633,21.22386",
+    "geom:latitude":21.22386,
+    "geom:longitude":103.95633,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Ang",
+    "gn:country_code":"VN",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591215,
+    "gn:latitude":21.22386,
+    "gn:longitude":103.95633,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"B\u1ea3n \u1ea2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n \u00c1ng"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n \u1ea2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591215
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7fcf5f1df2713cca186f70ef1efe44a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1310550101,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310550101,
+    "wof:lastmodified":1537714134,
+    "wof:name":"Ban Ang",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95633,
+    21.22386,
+    103.95633,
+    21.22386
+],
+  "geometry": {"coordinates":[103.95632999999999,21.22386],"type":"Point"}
+}

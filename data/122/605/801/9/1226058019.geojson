@@ -1,0 +1,71 @@
+{
+  "id": 1226058019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.85,11.68333,106.85,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":106.85,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu N'doc",
+    "gn:country_code":"VN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1587197,
+    "gn:latitude":11.68333,
+    "gn:longitude":106.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu N\u2019doc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bu N\u2019Dac",
+        "Bu N\u2019doc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587197
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"775d57f221b934c74382d965c16c3ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1226058019,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1226058019,
+    "wof:lastmodified":1537714059,
+    "wof:name":"Bu N'doc",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85,
+    11.68333,
+    106.85,
+    11.68333
+],
+  "geometry": {"coordinates":[106.84999999999999,11.68333],"type":"Point"}
+}

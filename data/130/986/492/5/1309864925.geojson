@@ -1,0 +1,67 @@
+{
+  "id": 1309864925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88333,21.3,103.88333,21.3",
+    "geom:latitude":21.3,
+    "geom:longitude":103.88333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Lua",
+    "gn:country_code":"VN",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589867,
+    "gn:latitude":21.3,
+    "gn:longitude":103.88333,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"B\u1ea3n L\u1ee5a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589867
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"413f930f47e20fe43b3f307a7103e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780995,
+            "locality_id":1309864925,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1309864925,
+    "wof:lastmodified":1536844979,
+    "wof:name":"Ban Lua",
+    "wof:parent_id":1108780995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88333,
+    21.3,
+    103.88333,
+    21.3
+],
+  "geometry": {"coordinates":[103.88333,21.3],"type":"Point"}
+}

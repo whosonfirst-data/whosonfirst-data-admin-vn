@@ -1,0 +1,73 @@
+{
+  "id": 1293020031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61679,19.06146,105.61679,19.06146",
+    "geom:latitude":19.06146,
+    "geom:longitude":105.61679,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dong Xuong",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582418,
+    "gn:latitude":19.06146,
+    "gn:longitude":105.61679,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"\u0110\u1ed3ng X\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00f4ng X\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng X\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582418
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca201f9a8973a5c103de748eea856a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1293020031,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293020031,
+    "wof:lastmodified":1537713987,
+    "wof:name":"Dong Xuong",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61679,
+    19.06146,
+    105.61679,
+    19.06146
+],
+  "geometry": {"coordinates":[105.61678999999999,19.06146],"type":"Point"}
+}

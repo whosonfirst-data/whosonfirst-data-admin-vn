@@ -1,0 +1,67 @@
+{
+  "id": 1326779851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,21.4,107.53333,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Na Kaing",
+    "gn:country_code":"VN",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573760,
+    "gn:latitude":21.4,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"N\u00e0 Kaing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cd7f6e5f4c861728a2794eb278c0c061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781123,
+            "locality_id":1326779851,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1326779851,
+    "wof:lastmodified":1536625286,
+    "wof:name":"Na Kaing",
+    "wof:parent_id":1108781123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    21.4,
+    107.53333,
+    21.4
+],
+  "geometry": {"coordinates":[107.53333000000001,21.4],"type":"Point"}
+}

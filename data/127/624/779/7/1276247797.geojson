@@ -1,0 +1,75 @@
+{
+  "id": 1276247797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69074,11.49117,106.69074,11.49117",
+    "geom:latitude":11.49117,
+    "geom:longitude":106.69074,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Nha Bich",
+    "gn:country_code":"VN",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567523,
+    "gn:latitude":11.49117,
+    "gn:longitude":106.69074,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Nha B\u00edch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sroc Nha Bich",
+        "Sroc Nha Binh",
+        "Srok Nh\u00e1 B\u00edch"
+    ],
+    "name:vie_x_preferred":[
+        "Nha B\u00edch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567523
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c2ae8581d3a80011da29c174ac5832e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781927,
+            "locality_id":1276247797,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1276247797,
+    "wof:lastmodified":1537713789,
+    "wof:name":"Nha Bich",
+    "wof:parent_id":1108781927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69074,
+    11.49117,
+    106.69074,
+    11.49117
+],
+  "geometry": {"coordinates":[106.69074000000001,11.49117],"type":"Point"}
+}

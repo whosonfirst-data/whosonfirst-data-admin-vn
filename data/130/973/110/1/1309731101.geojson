@@ -1,0 +1,73 @@
+{
+  "id": 1309731101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.04455,22.43148,104.04455,22.43148",
+    "geom:latitude":22.43148,
+    "geom:longitude":104.04455,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Giang",
+    "gn:country_code":"VN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576364,
+    "gn:latitude":22.43148,
+    "gn:longitude":104.04455,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"L\u00e0ng Gi\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Yang"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Gi\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36b2c8065d169d3b0b1040260633aa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780949,
+            "locality_id":1309731101,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1309731101,
+    "wof:lastmodified":1537713905,
+    "wof:name":"Lang Giang",
+    "wof:parent_id":1108780949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.04455,
+    22.43148,
+    104.04455,
+    22.43148
+],
+  "geometry": {"coordinates":[104.04455,22.43148],"type":"Point"}
+}

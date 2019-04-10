@@ -1,0 +1,61 @@
+{
+  "id": 1209534761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,16.73333,107.16667,16.73333",
+    "geom:latitude":16.73333,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Nhan Bieu",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565419,
+    "gn:latitude":16.73333,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Th\u00f4n Nhan Bi\u1ec1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565419
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9ece3464978ebb33d25a325308b47da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534761
+        }
+    ],
+    "wof:id":1209534761,
+    "wof:lastmodified":1536284174,
+    "wof:name":"Thon Nhan Bieu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    16.73333,
+    107.16667,
+    16.73333
+],
+  "geometry": {"coordinates":[107.16667,16.73333],"type":"Point"}
+}

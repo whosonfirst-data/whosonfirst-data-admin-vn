@@ -1,0 +1,74 @@
+{
+  "id": 1259838713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83333,20.95,104.83333,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":104.83333,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pinh Uoc",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569710,
+    "gn:latitude":20.95,
+    "gn:longitude":104.83333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pinh Uoc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binh Oc",
+        "Pinh Uc",
+        "Piuh Hoc",
+        "Pinh Uoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f125e180dde5f685f2adbac4b63b270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1259838713,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1259838713,
+    "wof:lastmodified":1537713818,
+    "wof:name":"Pinh Uoc",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83333,
+    20.95,
+    104.83333,
+    20.95
+],
+  "geometry": {"coordinates":[104.83333,20.95],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209225523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02387,16.98175,107.02387,16.98175",
+    "geom:latitude":16.98175,
+    "geom:longitude":107.02387,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Le Xa",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576060,
+    "gn:latitude":16.98175,
+    "gn:longitude":107.02387,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"L\u1ec7 X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ec7 X\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576060
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23a5f626b308202f0303e1441d31d8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225523
+        }
+    ],
+    "wof:id":1209225523,
+    "wof:lastmodified":1537713901,
+    "wof:name":"Le Xa",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02387,
+    16.98175,
+    107.02387,
+    16.98175
+],
+  "geometry": {"coordinates":[107.02387,16.98175],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360143913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74055,20.76615,103.74055,20.76615",
+    "geom:latitude":20.76615,
+    "geom:longitude":103.74055,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Na Khi",
+    "gn:country_code":"VN",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545404,
+    "gn:latitude":20.76615,
+    "gn:longitude":103.74055,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"N\u00e0 Khi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Khi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545404
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"689ecb8b63e0141da7271a4eb8c23651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781017,
+            "locality_id":1360143913,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1360143913,
+    "wof:lastmodified":1537714342,
+    "wof:name":"Na Khi",
+    "wof:parent_id":1108781017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74055,
+    20.76615,
+    103.74055,
+    20.76615
+],
+  "geometry": {"coordinates":[103.74055,20.76615],"type":"Point"}
+}

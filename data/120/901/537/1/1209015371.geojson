@@ -1,0 +1,65 @@
+{
+  "id": 1209015371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95,13.58333,108.95,13.58333",
+    "geom:latitude":13.58333,
+    "geom:longitude":108.95,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ha Dang",
+    "gn:country_code":"VN",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1581374,
+    "gn:latitude":13.58333,
+    "gn:longitude":108.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u00e0 Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lang Ha Dang",
+        "H\u00e0 Dang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581374
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f744f3675bdf2de551997abc4e5e2a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015371
+        }
+    ],
+    "wof:id":1209015371,
+    "wof:lastmodified":1537713975,
+    "wof:name":"Ha Dang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95,
+    13.58333,
+    108.95,
+    13.58333
+],
+  "geometry": {"coordinates":[108.95,13.58333],"type":"Point"}
+}

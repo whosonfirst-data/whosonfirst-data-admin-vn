@@ -1,0 +1,67 @@
+{
+  "id": 1293898843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4,22.15,102.4,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":102.4,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ho Nam Nhie",
+    "gn:country_code":"VN",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580440,
+    "gn:latitude":22.15,
+    "gn:longitude":102.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u00f4 N\u1eb1m Nhi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580440
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1371f435fd9edb50a9054191196fa98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780959,
+            "locality_id":1293898843,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1293898843,
+    "wof:lastmodified":1536691297,
+    "wof:name":"Ho Nam Nhie",
+    "wof:parent_id":1108780959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4,
+    22.15,
+    102.4,
+    22.15
+],
+  "geometry": {"coordinates":[102.40000000000001,22.15],"type":"Point"}
+}

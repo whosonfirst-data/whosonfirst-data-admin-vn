@@ -1,0 +1,72 @@
+{
+  "id": 1243378913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,9.47806,106.1,9.47806",
+    "geom:latitude":9.47806,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Sai Gon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592389,
+    "gn:latitude":9.47806,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p S\u00e0i G\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e0i G\u00f2n",
+        "\u1ea4p S\u00e0i G\u00f2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592389
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c38428827ebd1ada757e819570e1dcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782309,
+            "locality_id":1243378913,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1243378913,
+    "wof:lastmodified":1537714158,
+    "wof:name":"Ap Sai Gon",
+    "wof:parent_id":1108782309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    9.47806,
+    106.1,
+    9.47806
+],
+  "geometry": {"coordinates":[106.09999999999999,9.47806],"type":"Point"}
+}

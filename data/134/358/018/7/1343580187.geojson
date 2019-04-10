@@ -1,0 +1,70 @@
+{
+  "id": 1343580187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.79777,12.27913,108.79777,12.27913",
+    "geom:latitude":12.27913,
+    "geom:longitude":108.79777,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ta Goc",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630760,
+    "gn:latitude":12.27913,
+    "gn:longitude":108.79777,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"T\u00e0 G\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e0 G\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b6a1b2967f7f8c530e0ee0d90cdd7ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781729,
+            "locality_id":1343580187,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1343580187,
+    "wof:lastmodified":1537714722,
+    "wof:name":"Ta Goc",
+    "wof:parent_id":1108781729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.79777,
+    12.27913,
+    108.79777,
+    12.27913
+],
+  "geometry": {"coordinates":[108.79777,12.27913],"type":"Point"}
+}

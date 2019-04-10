@@ -1,0 +1,64 @@
+{
+  "id": 1209225359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90346,21.78645,104.90346,21.78645",
+    "geom:latitude":21.78645,
+    "geom:longitude":104.90346,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dai Dong",
+    "gn:country_code":"VN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318452,
+    "gn:latitude":21.78645,
+    "gn:longitude":104.90346,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u0110\u1ea1i \u0110\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i \u0110\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318452
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e5a7eb094d79195914fd59ad0edf3a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225359
+        }
+    ],
+    "wof:id":1209225359,
+    "wof:lastmodified":1537714699,
+    "wof:name":"Dai Dong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90346,
+    21.78645,
+    104.90346,
+    21.78645
+],
+  "geometry": {"coordinates":[104.90346,21.78645],"type":"Point"}
+}

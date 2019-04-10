@@ -1,0 +1,70 @@
+{
+  "id": 1226766665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01431,20.73127,106.01431,20.73127",
+    "geom:latitude":20.73127,
+    "geom:longitude":106.01431,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ninh Phuc",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612941,
+    "gn:latitude":20.73127,
+    "gn:longitude":106.01431,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ninh Ph\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ninh Ph\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612941
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"38ce20aa561ad290d3c611ff9bd0da74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781309,
+            "locality_id":1226766665,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1226766665,
+    "wof:lastmodified":1537714373,
+    "wof:name":"Ninh Phuc",
+    "wof:parent_id":1108781309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01431,
+    20.73127,
+    106.01431,
+    20.73127
+],
+  "geometry": {"coordinates":[106.01430999999999,20.73127],"type":"Point"}
+}

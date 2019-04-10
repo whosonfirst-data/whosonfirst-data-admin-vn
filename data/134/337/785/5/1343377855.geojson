@@ -1,0 +1,67 @@
+{
+  "id": 1343377855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,21.4,105.55,21.4",
+    "geom:latitude":21.4,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Phu Lien",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570503,
+    "gn:latitude":21.4,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00f9 Li\u1ec5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570503
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"acb895217a5128f16414773431f743b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781203,
+            "locality_id":1343377855,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1343377855,
+    "wof:lastmodified":1536864059,
+    "wof:name":"Phu Lien",
+    "wof:parent_id":1108781203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    21.4,
+    105.55,
+    21.4
+],
+  "geometry": {"coordinates":[105.55,21.4],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209433877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87768,21.75294,104.87768,21.75294",
+    "geom:latitude":21.75294,
+    "geom:longitude":104.87768,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dam Hong",
+    "gn:country_code":"VN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318459,
+    "gn:latitude":21.75294,
+    "gn:longitude":104.87768,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u0110\u1ea7m H\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea7m H\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318459
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a816612fae92292061f83a75b4bc2e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433877
+        }
+    ],
+    "wof:id":1209433877,
+    "wof:lastmodified":1537714699,
+    "wof:name":"Dam Hong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87768,
+    21.75294,
+    104.87768,
+    21.75294
+],
+  "geometry": {"coordinates":[104.87768,21.75294],"type":"Point"}
+}

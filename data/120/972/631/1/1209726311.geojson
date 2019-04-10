@@ -1,0 +1,74 @@
+{
+  "id": 1209726311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00944,21.6385,105.00944,21.6385",
+    "geom:latitude":21.6385,
+    "geom:longitude":105.00944,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Thon Phen",
+    "gn:country_code":"VN",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571054,
+    "gn:latitude":21.6385,
+    "gn:longitude":105.00944,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ph\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00ean Th\u00f4n",
+        "Ph\u00e2n Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n Ph\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571054
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"734375ddea92ec1894a2588f504d361a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781171,
+            "locality_id":1209726311,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1209726311,
+    "wof:lastmodified":1537713840,
+    "wof:name":"Thon Phen",
+    "wof:parent_id":1108781171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00943999999998,
+    21.6385,
+    105.00943999999998,
+    21.6385
+],
+  "geometry": {"coordinates":[105.00943999999998,21.6385],"type":"Point"}
+}

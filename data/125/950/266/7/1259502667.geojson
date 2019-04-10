@@ -1,0 +1,70 @@
+{
+  "id": 1259502667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44451,18.95819,105.44451,18.95819",
+    "geom:latitude":18.95819,
+    "geom:longitude":105.44451,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Boi Chau",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10200873,
+    "gn:latitude":18.95819,
+    "gn:longitude":105.44451,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"B\u1ed9i Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ed9i Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10200873
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba36e176a961d7ae98afb11a187c953f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1259502667,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1259502667,
+    "wof:lastmodified":1537714628,
+    "wof:name":"Boi Chau",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44451,
+    18.95819,
+    105.44451,
+    18.95819
+],
+  "geometry": {"coordinates":[105.44450999999999,18.95819],"type":"Point"}
+}

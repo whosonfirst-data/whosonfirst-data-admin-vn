@@ -1,0 +1,73 @@
+{
+  "id": 1310619635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,18.66667,105.75,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lang Yen Ap",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576358,
+    "gn:latitude":18.66667,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Y\u00ean Ap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Yen An",
+        "Lang Yen Ao",
+        "L\u00e0ng Y\u00ean Ap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576358
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f7b24bbafb9079556e228765cd94d40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781507,
+            "locality_id":1310619635,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1310619635,
+    "wof:lastmodified":1537713904,
+    "wof:name":"Lang Yen Ap",
+    "wof:parent_id":1108781507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    18.66667,
+    105.75,
+    18.66667
+],
+  "geometry": {"coordinates":[105.75,18.66667],"type":"Point"}
+}

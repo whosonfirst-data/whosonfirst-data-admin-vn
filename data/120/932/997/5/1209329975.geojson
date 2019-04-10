@@ -1,0 +1,61 @@
+{
+  "id": 1209329975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,21.56667,105.61667,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Trach May",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564245,
+    "gn:latitude":21.56667,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u1ea1ch M\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564245
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"328e4d56325f024c3fb5e39f64eaec39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329975
+        }
+    ],
+    "wof:id":1209329975,
+    "wof:lastmodified":1536290403,
+    "wof:name":"Trach May",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    21.56667,
+    105.61667,
+    21.56667
+],
+  "geometry": {"coordinates":[105.61667,21.56667],"type":"Point"}
+}

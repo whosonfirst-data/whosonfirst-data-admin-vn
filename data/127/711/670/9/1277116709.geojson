@@ -1,0 +1,67 @@
+{
+  "id": 1277116709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3,20.4,106.3,20.4",
+    "geom:latitude":20.4,
+    "geom:longitude":106.3,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kien Xa",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578983,
+    "gn:latitude":20.4,
+    "gn:longitude":106.3,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ki\u1ebfn X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578983
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ebea7fd42b68f3e638360feef144b784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781331,
+            "locality_id":1277116709,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1277116709,
+    "wof:lastmodified":1536718980,
+    "wof:name":"Kien Xa",
+    "wof:parent_id":1108781331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3,
+    20.4,
+    106.3,
+    20.4
+],
+  "geometry": {"coordinates":[106.3,20.4],"type":"Point"}
+}

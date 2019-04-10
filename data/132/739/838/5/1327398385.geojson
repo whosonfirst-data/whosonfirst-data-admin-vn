@@ -1,0 +1,73 @@
+{
+  "id": 1327398385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61947,10.78748,106.61947,10.78748",
+    "geom:latitude":10.78748,
+    "geom:longitude":106.61947,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Khom Muoi Hai",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335919,
+    "gn:latitude":10.78748,
+    "gn:longitude":106.61947,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kh\u00f3m M\u01b0\u1eddi Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u00f3m M\u01b0\u1eddi Hai"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u00f3m 12"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335919
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"15ac8fa4485d5e67e0cfe542adf78e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782023,
+            "locality_id":1327398385,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1327398385,
+    "wof:lastmodified":1537714273,
+    "wof:name":"Khom Muoi Hai",
+    "wof:parent_id":1108782023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61947,
+    10.78748,
+    106.61947,
+    10.78748
+],
+  "geometry": {"coordinates":[106.61947000000001,10.78748],"type":"Point"}
+}

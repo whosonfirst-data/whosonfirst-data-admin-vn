@@ -1,0 +1,73 @@
+{
+  "id": 1293019935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27799,22.93425,105.27799,22.93425",
+    "geom:latitude":22.93425,
+    "geom:longitude":105.27799,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Khau An",
+    "gn:country_code":"VN",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309551,
+    "gn:latitude":22.93425,
+    "gn:longitude":105.27799,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Khau \u1ea2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khau \u1eb2n"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Khau \u1ea2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309551
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5e92491e763ee73cc6da9c6cb186ee20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1293019935,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293019935,
+    "wof:lastmodified":1537714258,
+    "wof:name":"Ban Khau An",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27799,
+    22.93425,
+    105.27799,
+    22.93425
+],
+  "geometry": {"coordinates":[105.27799,22.93425],"type":"Point"}
+}

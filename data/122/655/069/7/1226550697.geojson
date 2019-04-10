@@ -1,0 +1,70 @@
+{
+  "id": 1226550697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99392,20.36373,105.99392,20.36373",
+    "geom:latitude":20.36373,
+    "geom:longitude":105.99392,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Lac Chinh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578075,
+    "gn:latitude":20.36373,
+    "gn:longitude":105.99392,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"L\u1ea1c Ch\u00ednh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ea1c Ch\u00ednh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578075
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e93bc18bdf62a4ffef1fd456187f02d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781353,
+            "locality_id":1226550697,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1226550697,
+    "wof:lastmodified":1537713934,
+    "wof:name":"Lac Chinh",
+    "wof:parent_id":1108781353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99392,
+    20.36373,
+    105.99392,
+    20.36373
+],
+  "geometry": {"coordinates":[105.99392,20.36373],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243573063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55445,21.73757,105.55445,21.73757",
+    "geom:latitude":21.73757,
+    "geom:longitude":105.55445,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Minh Tien",
+    "gn:country_code":"VN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645364,
+    "gn:latitude":21.73757,
+    "gn:longitude":105.55445,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Minh Tien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bec69d5fa3bc19925b2d1d1d101a61e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1243573063,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1243573063,
+    "wof:lastmodified":1536621029,
+    "wof:name":"Minh Tien",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55445,
+    21.73757,
+    105.55445,
+    21.73757
+],
+  "geometry": {"coordinates":[105.55445,21.73757],"type":"Point"}
+}

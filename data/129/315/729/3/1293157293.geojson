@@ -1,0 +1,72 @@
+{
+  "id": 1293157293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01889,9.86556,105.01889,9.86556",
+    "geom:latitude":9.86556,
+    "geom:longitude":105.01889,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Xom Thu Nam",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560871,
+    "gn:latitude":9.86556,
+    "gn:longitude":105.01889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m Th\u1ee9 N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u1ee9 N\u0103m",
+        "X\u00f3m Th\u1ee9 N\u0103m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560871
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e4bf49f8bf84ebfbfcbccb6f11fe085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782237,
+            "locality_id":1293157293,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1293157293,
+    "wof:lastmodified":1537713672,
+    "wof:name":"Xom Thu Nam",
+    "wof:parent_id":1108782237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01888999999998,
+    9.86556,
+    105.01888999999998,
+    9.86556
+],
+  "geometry": {"coordinates":[105.01888999999998,9.86556],"type":"Point"}
+}

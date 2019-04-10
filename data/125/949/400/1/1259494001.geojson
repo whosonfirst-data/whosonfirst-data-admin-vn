@@ -1,0 +1,73 @@
+{
+  "id": 1259494001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55382,18.99235,105.55382,18.99235",
+    "geom:latitude":18.99235,
+    "geom:longitude":105.55382,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Phi Loc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570933,
+    "gn:latitude":18.99235,
+    "gn:longitude":105.55382,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Phi L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phi L\u1ecdc"
+    ],
+    "name:vie_x_preferred":[
+        "Phi L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570933
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0f884bb76e066629aefb8e801875e1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1259494001,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1259494001,
+    "wof:lastmodified":1537713838,
+    "wof:name":"Phi Loc",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55382,
+    18.99235,
+    105.55382,
+    18.99235
+],
+  "geometry": {"coordinates":[105.55382,18.99235],"type":"Point"}
+}

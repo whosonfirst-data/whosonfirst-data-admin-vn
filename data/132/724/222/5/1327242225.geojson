@@ -1,0 +1,71 @@
+{
+  "id": 1327242225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.66667,16.45,107.66667,16.45",
+    "geom:latitude":16.45,
+    "geom:longitude":107.66667,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Tay Ho",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592128,
+    "gn:latitude":16.45,
+    "gn:longitude":107.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p T\u00e2y H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tay Ho",
+        "\u1ea4p T\u00e2y H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592128
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f7629324b96a42781d11af36bffb2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1327242225,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1327242225,
+    "wof:lastmodified":1537714152,
+    "wof:name":"Ap Tay Ho",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.66667,
+    16.45,
+    107.66667,
+    16.45
+],
+  "geometry": {"coordinates":[107.66667,16.45],"type":"Point"}
+}

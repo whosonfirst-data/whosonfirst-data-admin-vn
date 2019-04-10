@@ -1,0 +1,67 @@
+{
+  "id": 1243382479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.76667,11.91667,106.76667,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":106.76667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Srok Neir",
+    "gn:country_code":"VN",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567525,
+    "gn:latitude":11.91667,
+    "gn:longitude":106.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Srok Neir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567525
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"adb97669429733657366e9d09eb7a887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781917,
+            "locality_id":1243382479,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1243382479,
+    "wof:lastmodified":1536897731,
+    "wof:name":"Srok Neir",
+    "wof:parent_id":1108781917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76667,
+    11.91667,
+    106.76667,
+    11.91667
+],
+  "geometry": {"coordinates":[106.76667,11.91667],"type":"Point"}
+}

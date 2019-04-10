@@ -1,0 +1,67 @@
+{
+  "id": 1310424585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23333,22.45,105.23333,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":105.23333,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Tchou",
+    "gn:country_code":"VN",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588647,
+    "gn:latitude":22.45,
+    "gn:longitude":105.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Tchou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588647
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8568db1a86727f32e19cd2136e4b86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780923,
+            "locality_id":1310424585,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310424585,
+    "wof:lastmodified":1537032298,
+    "wof:name":"Ban Tchou",
+    "wof:parent_id":1108780923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23333,
+    22.45,
+    105.23333,
+    22.45
+],
+  "geometry": {"coordinates":[105.23333,22.45],"type":"Point"}
+}

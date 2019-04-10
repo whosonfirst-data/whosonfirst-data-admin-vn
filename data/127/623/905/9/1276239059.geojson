@@ -1,0 +1,73 @@
+{
+  "id": 1276239059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32428,9.19886,105.32428,9.19886",
+    "geom:latitude":9.19886,
+    "geom:longitude":105.32428,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Khuc Treo",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593212,
+    "gn:latitude":9.19886,
+    "gn:longitude":105.32428,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kh\u00fac Tr\u00e9o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Kh\u00fac Tr\u00e9o"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u00fac Tr\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593212
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a97be76b7df0d0018dee387de80f56c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782319,
+            "locality_id":1276239059,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1276239059,
+    "wof:lastmodified":1537714180,
+    "wof:name":"Khuc Treo",
+    "wof:parent_id":1108782319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32428,
+    9.19886,
+    105.32428,
+    9.19886
+],
+  "geometry": {"coordinates":[105.32428,9.19886],"type":"Point"}
+}

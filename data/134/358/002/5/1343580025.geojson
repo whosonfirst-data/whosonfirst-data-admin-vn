@@ -1,0 +1,75 @@
+{
+  "id": 1343580025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00874,8.82432,105.00874,8.82432",
+    "geom:latitude":8.82432,
+    "geom:longitude":105.00874,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ong Do",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561127,
+    "gn:latitude":8.82432,
+    "gn:longitude":105.00874,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"\u00d4ng Do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hang Vinh",
+        "X\u00f3m \u00d4ng \u0110\u1ed3"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4ng Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561127,
+        "wk:page":"H%C3%A0ng_V%E1%BB%8Bnh"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"07b38c15eff80893aed0cbae762f9ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782339,
+            "locality_id":1343580025,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1343580025,
+    "wof:lastmodified":1537713679,
+    "wof:name":"Ong Do",
+    "wof:parent_id":1108782339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00874,
+    8.82432,
+    105.00874,
+    8.82432
+],
+  "geometry": {"coordinates":[105.00874,8.82432],"type":"Point"}
+}

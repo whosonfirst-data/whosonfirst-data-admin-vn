@@ -1,0 +1,67 @@
+{
+  "id": 1360095869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,20.85,105.55,20.85",
+    "geom:latitude":20.85,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Giang",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561550,
+    "gn:latitude":20.85,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561550
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4754be0f09f60022fbd19e0c051e1d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1360095869,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1360095869,
+    "wof:lastmodified":1536930761,
+    "wof:name":"Xom Giang",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    20.85,
+    105.55,
+    20.85
+],
+  "geometry": {"coordinates":[105.55,20.85],"type":"Point"}
+}

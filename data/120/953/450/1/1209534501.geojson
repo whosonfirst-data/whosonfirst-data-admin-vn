@@ -1,0 +1,64 @@
+{
+  "id": 1209534501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91367,22.21192,103.91367,22.21192",
+    "geom:latitude":22.21192,
+    "geom:longitude":103.91367,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Den Thang",
+    "gn:country_code":"VN",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583590,
+    "gn:latitude":22.21192,
+    "gn:longitude":103.91367,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"D\u1ec1n Th\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u1ec1n Th\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583590
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"362fa2feecb28d9a1901a3c181e4b114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534501
+        }
+    ],
+    "wof:id":1209534501,
+    "wof:lastmodified":1537714002,
+    "wof:name":"Den Thang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91367,
+    22.21192000000001,
+    103.91367,
+    22.21192000000001
+],
+  "geometry": {"coordinates":[103.91367,22.21192000000001],"type":"Point"}
+}

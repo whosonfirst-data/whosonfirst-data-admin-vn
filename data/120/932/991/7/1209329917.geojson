@@ -1,0 +1,64 @@
+{
+  "id": 1209329917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.87864,10.85004,107.87864,10.85004",
+    "geom:latitude":10.85004,
+    "geom:longitude":107.87864,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Thuan Nam",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8998450,
+    "gn:latitude":10.85004,
+    "gn:longitude":107.87864,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Thu\u1eadn Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thu\u1eadn Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8998450
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f2ca7b6d3e57c982948fa61cde4cceb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209329917
+        }
+    ],
+    "wof:id":1209329917,
+    "wof:lastmodified":1537714427,
+    "wof:name":"Thuan Nam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.87864,
+    10.85004,
+    107.87864,
+    10.85004
+],
+  "geometry": {"coordinates":[107.87864,10.85004],"type":"Point"}
+}

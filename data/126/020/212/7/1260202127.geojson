@@ -1,0 +1,70 @@
+{
+  "id": 1260202127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29876,20.42351,105.29876,20.42351",
+    "geom:latitude":20.42351,
+    "geom:longitude":105.29876,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Coi Gao",
+    "gn:country_code":"VN",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551577,
+    "gn:latitude":20.42351,
+    "gn:longitude":105.29876,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"C\u1ed1i G\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed1i G\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551577
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"933af714283d6016edfaeb218bbce3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781059,
+            "locality_id":1260202127,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1260202127,
+    "wof:lastmodified":1537714348,
+    "wof:name":"Coi Gao",
+    "wof:parent_id":1108781059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29876000000002,
+    20.42351,
+    105.29876000000002,
+    20.42351
+],
+  "geometry": {"coordinates":[105.29876000000002,20.42351],"type":"Point"}
+}

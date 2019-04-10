@@ -1,0 +1,74 @@
+{
+  "id": 1293016193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99687,22.43082,105.99687,22.43082",
+    "geom:latitude":22.43082,
+    "geom:longitude":105.99687,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Van Tung",
+    "gn:country_code":"VN",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1572628,
+    "gn:latitude":22.43082,
+    "gn:longitude":105.99687,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"V\u00e2n T\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u00e2n S\u01a1n"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00e2n T\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572628,
+        "wk:page":"V%C3%A2n_T%C3%B9ng"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68e05d6ed9d07a95f8d6eef1709ebe88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1293016193,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293016193,
+    "wof:lastmodified":1537713859,
+    "wof:name":"Van Tung",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99687,
+    22.43082,
+    105.99687,
+    22.43082
+],
+  "geometry": {"coordinates":[105.99687,22.43082],"type":"Point"}
+}

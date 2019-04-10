@@ -1,0 +1,73 @@
+{
+  "id": 1242915641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.41667,15.73333,108.41667,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":108.41667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Van Tay",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562962,
+    "gn:latitude":15.73333,
+    "gn:longitude":108.41667,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"V\u00e2n T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung Thanh Tay",
+        "V\u00e2n T\u00e2y",
+        "Van Dao Tay",
+        "V\u00e2n \u0110oa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562962
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a496656938f58e0332dbe5cc7e13f46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1242915641,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242915641,
+    "wof:lastmodified":1537713714,
+    "wof:name":"Van Tay",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.41667,
+    15.73333,
+    108.41667,
+    15.73333
+],
+  "geometry": {"coordinates":[108.41667,15.73333],"type":"Point"}
+}

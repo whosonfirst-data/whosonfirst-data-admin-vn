@@ -1,0 +1,67 @@
+{
+  "id": 1343272629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91667,21.28333,104.91667,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":104.91667,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Thu Cuc",
+    "gn:country_code":"VN",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565023,
+    "gn:latitude":21.28333,
+    "gn:longitude":104.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thu C\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565023
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea2b04c6a3d74cc576023880dd89aa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781193,
+            "locality_id":1343272629,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1343272629,
+    "wof:lastmodified":1537016546,
+    "wof:name":"Thu Cuc",
+    "wof:parent_id":1108781193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91667,
+    21.28333,
+    104.91667,
+    21.28333
+],
+  "geometry": {"coordinates":[104.91667,21.28333],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1108781269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000597,
+    "geom:area_square_m":6903376.229876,
+    "geom:bbox":"106.632208003,20.8555554519,106.674583435,20.8808826312",
+    "geom:latitude":20.869587,
+    "geom:longitude":106.65561,
+    "iso:country":"VN",
+    "lbl:latitude":20.871273,
+    "lbl:longitude":106.655931,
+    "meso:admin_1":"Hai Phong",
+    "meso:gadm_admin":"H\u1ed3ng B\u00e0ng",
+    "meso:gadm_hasc2":"VN.HP.HB",
+    "meso:gaul_adm2":"Hong Bang",
+    "meso:local_id":"31307",
+    "meso:mps_x":106.655931,
+    "meso:mps_y":20.871273,
+    "meso:name_en":"Hong Bang",
+    "meso:source":"AOTM",
+    "mps:latitude":20.871273,
+    "mps:longitude":106.655931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9e3f\u5e9e\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Hong Bang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30f3\u30d0\u30f3"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ed3ng B\u00e0ng"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"14",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Hai Phong",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HP",
+    "statoids:name":"Hong Bang",
+    "statoids:population":"106486",
+    "statoids:statoid":"VN.HP.HB",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q5965452"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741193,
+    "wof:geomhash":"11ae26766aec2e9a8b07b254dfca1d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781269,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1108781269,
+    "wof:lastmodified":1514502622,
+    "wof:name":"Hong Bang",
+    "wof:parent_id":85680645,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":106486,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.63220800260775,
+    20.85555545186414,
+    106.67458343500005,
+    20.88088263119166
+],
+  "geometry": {"coordinates":[[[106.6741275762833,20.85724108841005],[106.67000462594166,20.85555545186414],[106.66262329018969,20.85662376369239],[106.66047152269053,20.86200477573016],[106.65601123578912,20.86382049653971],[106.65120929553733,20.86235953685422],[106.64756598681466,20.86331876867672],[106.64525358173405,20.86675597334438],[106.63633811459647,20.87001754377173],[106.63220800260775,20.87628579096677],[106.63782445094428,20.88088263119166],[106.6383056640002,20.88041687000009],[106.64411163300019,20.88041687000009],[106.64502716100009,20.87958335900015],[106.64910888700012,20.87955474900008],[106.64994811999998,20.87874984700011],[106.66083526599999,20.87874984700011],[106.66327667200005,20.87541580200019],[106.66997528100018,20.87286186200009],[106.67244720500003,20.86958313000008],[106.6745529170002,20.868305206],[106.67458343500005,20.86416626000005],[106.67369079600019,20.8633060460001],[106.6741275762833,20.85724108841005]]],"type":"Polygon"}
+}

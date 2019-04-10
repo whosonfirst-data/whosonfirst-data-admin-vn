@@ -1,0 +1,73 @@
+{
+  "id": 1276247921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95112,21.10848,105.95112,21.10848",
+    "geom:latitude":21.10848,
+    "geom:longitude":105.95112,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Dinh Bang",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583402,
+    "gn:latitude":21.10848,
+    "gn:longitude":105.95112,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u00ecnh B\u1ea3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinh B\u00e0ng"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00ecnh B\u1ea3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583402
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"09ba4b18ce1af761ca19cd7851b49bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781225,
+            "locality_id":1276247921,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1276247921,
+    "wof:lastmodified":1537714000,
+    "wof:name":"Dinh Bang",
+    "wof:parent_id":1108781225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95112,
+    21.10848,
+    105.95112,
+    21.10848
+],
+  "geometry": {"coordinates":[105.95112,21.10848],"type":"Point"}
+}

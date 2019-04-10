@@ -1,0 +1,71 @@
+{
+  "id": 1293824783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49785,19.52551,105.49785,19.52551",
+    "geom:latitude":19.52551,
+    "geom:longitude":105.49785,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Cop",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577536,
+    "gn:latitude":19.52551,
+    "gn:longitude":105.49785,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"L\u00e0ng C\u00f3p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Kop",
+        "L\u00e0ng C\u00f3p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577536
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c4af804fd44716029e2563c4fe8d4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781437,
+            "locality_id":1293824783,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293824783,
+    "wof:lastmodified":1537713926,
+    "wof:name":"Lang Cop",
+    "wof:parent_id":1108781437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49785,
+    19.52551,
+    105.49785,
+    19.52551
+],
+  "geometry": {"coordinates":[105.49785,19.52551],"type":"Point"}
+}

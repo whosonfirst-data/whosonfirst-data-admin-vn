@@ -1,0 +1,67 @@
+{
+  "id": 1276629155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,10.89833,106.66667,10.89833",
+    "geom:latitude":10.89833,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lan Nhut",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904706,
+    "gn:latitude":10.89833,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"1998-04-27",
+    "gn:name":"Lan Nh\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904706
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d7f75df399f697d27f43631108a24dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782011,
+            "locality_id":1276629155,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1276629155,
+    "wof:lastmodified":1536878947,
+    "wof:name":"Lan Nhut",
+    "wof:parent_id":1108782011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    10.89833,
+    106.66667,
+    10.89833
+],
+  "geometry": {"coordinates":[106.66667,10.89833],"type":"Point"}
+}

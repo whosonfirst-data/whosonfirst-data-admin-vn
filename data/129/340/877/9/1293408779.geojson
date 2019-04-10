@@ -1,0 +1,72 @@
+{
+  "id": 1293408779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,16.73333,107.16667,16.73333",
+    "geom:latitude":16.73333,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon An Don",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565756,
+    "gn:latitude":16.73333,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n An D\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Dom",
+        "An Don",
+        "Th\u00f4n An D\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565756
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9ece3464978ebb33d25a325308b47da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781553,
+            "locality_id":1293408779,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1293408779,
+    "wof:lastmodified":1537713767,
+    "wof:name":"Thon An Don",
+    "wof:parent_id":1108781553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    16.73333,
+    107.16667,
+    16.73333
+],
+  "geometry": {"coordinates":[107.16667,16.73333],"type":"Point"}
+}

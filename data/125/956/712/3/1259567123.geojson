@@ -1,0 +1,73 @@
+{
+  "id": 1259567123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50111,10.61324,105.50111,10.61324",
+    "geom:latitude":10.61324,
+    "geom:longitude":105.50111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khu Vuc Bon",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9289652,
+    "gn:latitude":10.61324,
+    "gn:longitude":105.50111,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Khu V\u1ef1c B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu V\u1ef1c B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "Khu V\u1ef1c 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9289652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8d859662894c24a615a4a7202e66a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782185,
+            "locality_id":1259567123,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1259567123,
+    "wof:lastmodified":1537714465,
+    "wof:name":"Khu Vuc Bon",
+    "wof:parent_id":1108782185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50111,
+    10.61324,
+    105.50111,
+    10.61324
+],
+  "geometry": {"coordinates":[105.50111,10.61324],"type":"Point"}
+}

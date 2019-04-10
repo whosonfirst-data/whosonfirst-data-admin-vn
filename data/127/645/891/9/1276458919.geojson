@@ -1,0 +1,67 @@
+{
+  "id": 1276458919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02011,19.8285,105.02011,19.8285",
+    "geom:latitude":19.8285,
+    "geom:longitude":105.02011,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Pieng Van",
+    "gn:country_code":"VN",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890501,
+    "gn:latitude":19.8285,
+    "gn:longitude":105.02011,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Pi\u1ec1ng V\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890501
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bc03d86ecdb739d950ac687910b797ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781455,
+            "locality_id":1276458919,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276458919,
+    "wof:lastmodified":1536607552,
+    "wof:name":"Pieng Van",
+    "wof:parent_id":1108781455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02011,
+    19.8285,
+    105.02011,
+    19.8285
+],
+  "geometry": {"coordinates":[105.02011,19.8285],"type":"Point"}
+}

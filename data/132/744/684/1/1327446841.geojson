@@ -1,0 +1,67 @@
+{
+  "id": 1327446841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,20.86667,106.0,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Yen Dan",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560318,
+    "gn:latitude":20.86667,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00ean D\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560318
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc5847e6612ca69f889078eff946c856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781299,
+            "locality_id":1327446841,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1327446841,
+    "wof:lastmodified":1536659896,
+    "wof:name":"Yen Dan",
+    "wof:parent_id":1108781299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    20.86667000000001,
+    106.0,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[106.0,20.86667000000001],"type":"Point"}
+}

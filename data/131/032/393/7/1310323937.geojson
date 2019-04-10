@@ -1,0 +1,67 @@
+{
+  "id": 1310323937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.18333,14.2,108.18333,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":108.18333,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"De Gir",
+    "gn:country_code":"VN",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583646,
+    "gn:latitude":14.2,
+    "gn:longitude":108.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"De Gir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583646
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"624376361eb783cda5ba93a5a631c5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781801,
+            "locality_id":1310323937,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1310323937,
+    "wof:lastmodified":1536681342,
+    "wof:name":"De Gir",
+    "wof:parent_id":1108781801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.18333,
+    14.2,
+    108.18333,
+    14.2
+],
+  "geometry": {"coordinates":[108.18333,14.2],"type":"Point"}
+}

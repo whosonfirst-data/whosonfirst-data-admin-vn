@@ -1,0 +1,67 @@
+{
+  "id": 1327149859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1,20.55,106.1,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":106.1,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Thuong Nong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564890,
+    "gn:latitude":20.55,
+    "gn:longitude":106.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u01b0\u1ee3ng N\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564890
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9438f294099dbb287fdb682f60f6d70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781345,
+            "locality_id":1327149859,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1327149859,
+    "wof:lastmodified":1537085517,
+    "wof:name":"Thuong Nong",
+    "wof:parent_id":1108781345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1,
+    20.55,
+    106.1,
+    20.55
+],
+  "geometry": {"coordinates":[106.09999999999999,20.55],"type":"Point"}
+}

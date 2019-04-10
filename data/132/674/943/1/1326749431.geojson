@@ -1,0 +1,70 @@
+{
+  "id": 1326749431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00184,21.44446,106.00184,21.44446",
+    "geom:latitude":21.44446,
+    "geom:longitude":106.00184,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Lang Ta",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867599,
+    "gn:latitude":21.44446,
+    "gn:longitude":106.00184,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Lang Ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Lang Ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867599
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"66c92d2ae250ab87117214ad60907943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781083,
+            "locality_id":1326749431,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1326749431,
+    "wof:lastmodified":1537714509,
+    "wof:name":"Lang Ta",
+    "wof:parent_id":1108781083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00184,
+    21.44446,
+    106.00184,
+    21.44446
+],
+  "geometry": {"coordinates":[106.00184,21.44446],"type":"Point"}
+}

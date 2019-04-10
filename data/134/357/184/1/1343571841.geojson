@@ -1,0 +1,72 @@
+{
+  "id": 1343571841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.51667,11.15,107.51667,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":107.51667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Vo Dat",
+    "gn:country_code":"VN",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562168,
+    "gn:latitude":11.15,
+    "gn:longitude":107.51667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Vo Dat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00f5 \u0110\u1eafc",
+        "Vo Dat",
+        "X\u00e3 V\u00f5 \u0110\u1eaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562168
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e6dc00113e1cd1b9862a1b01677ef15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781767,
+            "locality_id":1343571841,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1343571841,
+    "wof:lastmodified":1537713700,
+    "wof:name":"Vo Dat",
+    "wof:parent_id":1108781767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.51667,
+    11.15,
+    107.51667,
+    11.15
+],
+  "geometry": {"coordinates":[107.51667,11.15],"type":"Point"}
+}

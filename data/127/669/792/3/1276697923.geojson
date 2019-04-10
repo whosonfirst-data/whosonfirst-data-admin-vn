@@ -1,0 +1,67 @@
+{
+  "id": 1276697923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.85,15.73333,107.85,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":107.85,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ben Dung",
+    "gn:country_code":"VN",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588038,
+    "gn:latitude":15.73333,
+    "gn:longitude":107.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ebfn Dung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588038
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"94924485fcf4d9f09b978e2fb2dd0dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781611,
+            "locality_id":1276697923,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1276697923,
+    "wof:lastmodified":1536787588,
+    "wof:name":"Ben Dung",
+    "wof:parent_id":1108781611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.85,
+    15.73333,
+    107.85,
+    15.73333
+],
+  "geometry": {"coordinates":[107.84999999999999,15.73333],"type":"Point"}
+}

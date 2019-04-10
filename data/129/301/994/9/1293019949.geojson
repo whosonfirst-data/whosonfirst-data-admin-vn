@@ -1,0 +1,78 @@
+{
+  "id": 1293019949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59166,8.67686,106.59166,8.67686",
+    "geom:latitude":8.67686,
+    "geom:longitude":106.59166,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"An Hai",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643380,
+    "gn:latitude":8.67686,
+    "gn:longitude":106.59166,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"An H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782005,
+        85680781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643380
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d11727c29e9c9ede940c1037c8d52c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782005,
+            "locality_id":1293019949,
+            "region_id":85680843
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782005,
+            "locality_id":1293019949,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1293019949,
+    "wof:lastmodified":1537714494,
+    "wof:name":"An Hai",
+    "wof:parent_id":1108782005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59166,
+    8.67686,
+    106.59166,
+    8.67686
+],
+  "geometry": {"coordinates":[106.59166,8.67686],"type":"Point"}
+}

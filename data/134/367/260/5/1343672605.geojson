@@ -1,0 +1,71 @@
+{
+  "id": 1343672605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88363,22.39621,105.88363,22.39621",
+    "geom:latitude":22.39621,
+    "geom:longitude":105.88363,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Keng",
+    "gn:country_code":"VN",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573752,
+    "gn:latitude":22.39621,
+    "gn:longitude":105.88363,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e0 K\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e0 K\u00e8ng",
+        "Na Kei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573752
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91ccf86c95142b00d651e9a0d124de17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1343672605,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343672605,
+    "wof:lastmodified":1537713873,
+    "wof:name":"Na Keng",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88363,
+    22.39621,
+    105.88363,
+    22.39621
+],
+  "geometry": {"coordinates":[105.88363,22.39621],"type":"Point"}
+}

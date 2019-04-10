@@ -1,0 +1,70 @@
+{
+  "id": 1209730813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33458,16.61674,107.33458,16.61674",
+    "geom:latitude":16.61674,
+    "geom:longitude":107.33458,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Me",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656279,
+    "gn:latitude":16.61674,
+    "gn:longitude":107.33458,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Th\u00f4n M\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n M\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656279
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c67ced5cef159387950f45a86c9f295c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1209730813,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1209730813,
+    "wof:lastmodified":1537714395,
+    "wof:name":"Thon Me",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33458,
+    16.61674,
+    107.33458,
+    16.61674
+],
+  "geometry": {"coordinates":[107.33458,16.61674],"type":"Point"}
+}

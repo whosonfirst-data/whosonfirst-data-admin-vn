@@ -1,0 +1,64 @@
+{
+  "id": 1209626027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07418,21.41202,106.07418,21.41202",
+    "geom:latitude":21.41202,
+    "geom:longitude":106.07418,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Kim Van",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867411,
+    "gn:latitude":21.41202,
+    "gn:longitude":106.07418,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Kim V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kim V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867411
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a8390f9fc8a907fe2cf86ec48d5505a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209626027
+        }
+    ],
+    "wof:id":1209626027,
+    "wof:lastmodified":1537714504,
+    "wof:name":"Kim Van",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07418,
+    21.41202,
+    106.07418,
+    21.41202
+],
+  "geometry": {"coordinates":[106.07418,21.41202],"type":"Point"}
+}

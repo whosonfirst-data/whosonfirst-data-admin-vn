@@ -1,0 +1,77 @@
+{
+  "id": 1293894245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26663,21.86636,105.26663,21.86636",
+    "geom:latitude":21.86636,
+    "geom:longitude":105.26663,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Phat Dat",
+    "gn:country_code":"VN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571126,
+    "gn:latitude":21.86636,
+    "gn:longitude":105.26663,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ph\u00e1t D\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00e1i D\u00e1t",
+        "Pha Dat"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00e1t D\u00e1t"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00e1i D\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571126
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ce777c949783bd0290e242704751f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1293894245,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293894245,
+    "wof:lastmodified":1537713841,
+    "wof:name":"Phat Dat",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26663,
+    21.86636,
+    105.26663,
+    21.86636
+],
+  "geometry": {"coordinates":[105.26663000000001,21.86636],"type":"Point"}
+}

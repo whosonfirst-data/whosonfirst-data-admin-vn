@@ -1,0 +1,70 @@
+{
+  "id": 1225860265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32475,21.17376,105.32475,21.17376",
+    "geom:latitude":21.17376,
+    "geom:longitude":105.32475,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Tri Phu",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200769,
+    "gn:latitude":21.17376,
+    "gn:longitude":105.32475,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tri Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tri Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200769
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17070dc680138f6dc211292e48f8624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1225860265,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1225860265,
+    "wof:lastmodified":1537714239,
+    "wof:name":"Tri Phu",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32475,
+    21.17376,
+    105.32475,
+    21.17376
+],
+  "geometry": {"coordinates":[105.32474999999999,21.17376],"type":"Point"}
+}

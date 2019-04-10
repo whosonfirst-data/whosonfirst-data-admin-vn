@@ -1,0 +1,73 @@
+{
+  "id": 1343369663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22238,20.13105,106.22238,20.13105",
+    "geom:latitude":20.13105,
+    "geom:longitude":106.22238,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Nam Hung",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573447,
+    "gn:latitude":20.13105,
+    "gn:longitude":106.22238,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nam H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam H\u01b0ng Gi\u00e1p"
+    ],
+    "name:vie_x_preferred":[
+        "Nam H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573447
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc1fa9e19d7d750c29f039b75bb38324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781367,
+            "locality_id":1343369663,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1343369663,
+    "wof:lastmodified":1537713869,
+    "wof:name":"Nam Hung",
+    "wof:parent_id":1108781367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22238,
+    20.13105,
+    106.22238,
+    20.13105
+],
+  "geometry": {"coordinates":[106.22238,20.13105],"type":"Point"}
+}

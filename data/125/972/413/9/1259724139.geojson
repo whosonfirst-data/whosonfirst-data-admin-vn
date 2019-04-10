@@ -1,0 +1,67 @@
+{
+  "id": 1259724139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,20.11667,105.65,20.11667",
+    "geom:latitude":20.11667,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Phu Loc",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570492,
+    "gn:latitude":20.11667,
+    "gn:longitude":105.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ph\u00fa L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570492
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f48add8922575775e90530337c085b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781409,
+            "locality_id":1259724139,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259724139,
+    "wof:lastmodified":1537007757,
+    "wof:name":"Phu Loc",
+    "wof:parent_id":1108781409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    20.11667000000001,
+    105.65,
+    20.11667000000001
+],
+  "geometry": {"coordinates":[105.65000000000001,20.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327049105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48333,12.2,107.48333,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":107.48333,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Bu Bong",
+    "gn:country_code":"VN",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587321,
+    "gn:latitude":12.2,
+    "gn:longitude":107.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Bong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Dang",
+        "Bu Bong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587321
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bf5315088f88c08e5c3e0facf40c4b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781881,
+            "locality_id":1327049105,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1327049105,
+    "wof:lastmodified":1537714062,
+    "wof:name":"Bu Bong",
+    "wof:parent_id":1108781881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48333,
+    12.2,
+    107.48333,
+    12.2
+],
+  "geometry": {"coordinates":[107.48333,12.2],"type":"Point"}
+}

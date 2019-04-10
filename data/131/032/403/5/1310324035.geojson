@@ -1,0 +1,70 @@
+{
+  "id": 1310324035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10536,22.29803,105.10536,22.29803",
+    "geom:latitude":22.29803,
+    "geom:longitude":105.10536,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Son Ha",
+    "gn:country_code":"VN",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309065,
+    "gn:latitude":22.29803,
+    "gn:longitude":105.10536,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"S\u01a1n H\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u01a1n H\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309065
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a4071016d0236a47ce56c441ece0982b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1310324035,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310324035,
+    "wof:lastmodified":1537714246,
+    "wof:name":"Son Ha",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10536,
+    22.29803,
+    105.10536,
+    22.29803
+],
+  "geometry": {"coordinates":[105.10536,22.29803],"type":"Point"}
+}

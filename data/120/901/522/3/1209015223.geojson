@@ -1,0 +1,64 @@
+{
+  "id": 1209015223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97346,22.22349,105.97346,22.22349",
+    "geom:latitude":22.22349,
+    "geom:longitude":105.97346,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Pet",
+    "gn:country_code":"VN",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572967,
+    "gn:latitude":22.22349,
+    "gn:longitude":105.97346,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"N\u00e0 P\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 P\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572967
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58d3c782538cccfa83cd848613db4f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015223
+        }
+    ],
+    "wof:id":1209015223,
+    "wof:lastmodified":1537713864,
+    "wof:name":"Na Pet",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97346,
+    22.22349,
+    105.97346,
+    22.22349
+],
+  "geometry": {"coordinates":[105.97346,22.22349],"type":"Point"}
+}

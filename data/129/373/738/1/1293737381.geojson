@@ -1,0 +1,70 @@
+{
+  "id": 1293737381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71066,19.36971,105.71066,19.36971",
+    "geom:latitude":19.36971,
+    "geom:longitude":105.71066,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"The Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372361,
+    "gn:latitude":19.36971,
+    "gn:longitude":105.71066,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u1ebf Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ebf Vinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372361
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd62c2fbc4d758cd1d1cb370c2d16b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1293737381,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1293737381,
+    "wof:lastmodified":1537714718,
+    "wof:name":"The Vinh",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71066,
+    19.36971,
+    105.71066,
+    19.36971
+],
+  "geometry": {"coordinates":[105.71066,19.36971],"type":"Point"}
+}

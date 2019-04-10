@@ -1,0 +1,74 @@
+{
+  "id": 1309814143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45824,22.39644,103.45824,22.39644",
+    "geom:latitude":22.39644,
+    "geom:longitude":103.45824,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Lai Chau",
+    "gn:country_code":"VN",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":8456741,
+    "gn:latitude":22.39644,
+    "gn:longitude":103.45824,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Lai Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Lay"
+    ],
+    "name:vie_x_preferred":[
+        "Lai Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456741,
+        "wk:page":"Lai_Ch%C3%A2u"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"553819af0ae2e37a1a16301c067f74e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780977,
+            "locality_id":1309814143,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1309814143,
+    "wof:lastmodified":1537714315,
+    "wof:name":"Lai Chau",
+    "wof:parent_id":1108780977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45824,
+    22.39644,
+    103.45824,
+    22.39644
+],
+  "geometry": {"coordinates":[103.45824,22.39644],"type":"Point"}
+}

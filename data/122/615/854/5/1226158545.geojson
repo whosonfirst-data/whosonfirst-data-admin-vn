@@ -1,0 +1,73 @@
+{
+  "id": 1226158545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84082,22.1054,103.84082,22.1054",
+    "geom:latitude":22.1054,
+    "geom:longitude":103.84082,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Khau Gieng",
+    "gn:country_code":"VN",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579556,
+    "gn:latitude":22.1054,
+    "gn:longitude":103.84082,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Khau Gi\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khau Gi\u01b0\u1eddng"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Khau Gi\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579556
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"59dbb028e2e3097a6e095e163378db83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1226158545,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1226158545,
+    "wof:lastmodified":1537713954,
+    "wof:name":"Ban Khau Gieng",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84082,
+    22.1054,
+    103.84082,
+    22.1054
+],
+  "geometry": {"coordinates":[103.84081999999999,22.1054],"type":"Point"}
+}

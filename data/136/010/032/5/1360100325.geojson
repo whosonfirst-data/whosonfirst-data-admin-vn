@@ -1,0 +1,70 @@
+{
+  "id": 1360100325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83886,10.08101,105.83886,10.08101",
+    "geom:latitude":10.08101,
+    "geom:longitude":105.83886,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Rach Muc",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8312331,
+    "gn:latitude":10.08101,
+    "gn:longitude":105.83886,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"R\u1ea1ch M\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "R\u1ea1ch M\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8312331
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"598d1df0abfe95d8f23a312359f06856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782161,
+            "locality_id":1360100325,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1360100325,
+    "wof:lastmodified":1537714267,
+    "wof:name":"Rach Muc",
+    "wof:parent_id":1108782161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83886,
+    10.08101,
+    105.83886,
+    10.08101
+],
+  "geometry": {"coordinates":[105.83886,10.08101],"type":"Point"}
+}

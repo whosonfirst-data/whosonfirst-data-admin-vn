@@ -1,0 +1,70 @@
+{
+  "id": 1242884915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52524,18.95567,105.52524,18.95567",
+    "geom:latitude":18.95567,
+    "geom:longitude":105.52524,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Trung Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563660,
+    "gn:latitude":18.95567,
+    "gn:longitude":105.52524,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Trung Ph\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Trung Ph\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563660
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a608627e406063eabb135d939573f491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1242884915,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1242884915,
+    "wof:lastmodified":1537713723,
+    "wof:name":"Trung Phuong",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52524,
+    18.95567,
+    105.52524,
+    18.95567
+],
+  "geometry": {"coordinates":[105.52524,18.95567],"type":"Point"}
+}

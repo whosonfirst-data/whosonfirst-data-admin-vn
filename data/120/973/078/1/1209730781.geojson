@@ -1,0 +1,73 @@
+{
+  "id": 1209730781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2902,22.82569,105.2902,22.82569",
+    "geom:latitude":22.82569,
+    "geom:longitude":105.2902,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Khuoi Phung",
+    "gn:country_code":"VN",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578349,
+    "gn:latitude":22.82569,
+    "gn:longitude":105.2902,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Khu\u1ed5i Ph\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouei Phoung"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Khu\u1ed5i Ph\u1ee7ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578349
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3d27a3a4e6b9153cff1d6c293b0100d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1209730781,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1209730781,
+    "wof:lastmodified":1537713937,
+    "wof:name":"Ban Khuoi Phung",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2902,
+    22.82569,
+    105.2902,
+    22.82569
+],
+  "geometry": {"coordinates":[105.2902,22.82569],"type":"Point"}
+}

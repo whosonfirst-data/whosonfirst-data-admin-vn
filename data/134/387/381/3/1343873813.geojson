@@ -1,0 +1,73 @@
+{
+  "id": 1343873813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43906,12.78749,108.43906,12.78749",
+    "geom:latitude":12.78749,
+    "geom:longitude":108.43906,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ninh Thanh Mot",
+    "gn:country_code":"VN",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262612,
+    "gn:latitude":12.78749,
+    "gn:longitude":108.43906,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Ninh Thanh M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ninh Thanh M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Ninh Thanh 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262612
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ffd31f513b1847128ffc0bf9b112fe6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1343873813,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1343873813,
+    "wof:lastmodified":1537714658,
+    "wof:name":"Ninh Thanh Mot",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43906,
+    12.78749,
+    108.43906,
+    12.78749
+],
+  "geometry": {"coordinates":[108.43906,12.78749],"type":"Point"}
+}

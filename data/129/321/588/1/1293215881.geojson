@@ -1,0 +1,71 @@
+{
+  "id": 1293215881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.56025,11.18691,107.56025,11.18691",
+    "geom:latitude":11.18691,
+    "geom:longitude":107.56025,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Vo Xu",
+    "gn:country_code":"VN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1562464,
+    "gn:latitude":11.18691,
+    "gn:longitude":107.56025,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"V\u00f5 Xu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f5 Xu",
+        "V\u00f5 Xu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562464
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"94f8c9abbc3e161683eeb1dd30968998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781767,
+            "locality_id":1293215881,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1293215881,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Vo Xu",
+    "wof:parent_id":1108781767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.56025,
+    11.18691,
+    107.56025,
+    11.18691
+],
+  "geometry": {"coordinates":[107.56025,11.18691],"type":"Point"}
+}

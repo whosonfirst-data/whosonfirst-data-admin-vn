@@ -1,0 +1,70 @@
+{
+  "id": 1226665009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11872,21.40587,106.11872,21.40587",
+    "geom:latitude":21.40587,
+    "geom:longitude":106.11872,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Duong Son",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582111,
+    "gn:latitude":21.40587,
+    "gn:longitude":106.11872,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"D\u01b0\u01a1ng S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u01b0\u01a1ng S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582111
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43f284c4d91187de69aea7386cfdf555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781147,
+            "locality_id":1226665009,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1226665009,
+    "wof:lastmodified":1537713984,
+    "wof:name":"Duong Son",
+    "wof:parent_id":1108781147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11872,
+    21.40587,
+    106.11872,
+    21.40587
+],
+  "geometry": {"coordinates":[106.11872,21.40587],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209924959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11667,20.78333,106.11667,20.78333",
+    "geom:latitude":20.78333,
+    "geom:longitude":106.11667,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Mao Cau",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574880,
+    "gn:latitude":20.78333,
+    "gn:longitude":106.11667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"M\u00e3o C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574880
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a7d6f96621284ea0c2f025d6c5963c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781303,
+            "locality_id":1209924959,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1209924959,
+    "wof:lastmodified":1536395314,
+    "wof:name":"Mao Cau",
+    "wof:parent_id":1108781303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11667,
+    20.78333,
+    106.11667,
+    20.78333
+],
+  "geometry": {"coordinates":[106.11667,20.78333],"type":"Point"}
+}

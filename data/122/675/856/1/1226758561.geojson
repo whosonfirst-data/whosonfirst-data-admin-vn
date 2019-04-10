@@ -1,0 +1,73 @@
+{
+  "id": 1226758561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83419,22.48362,105.83419,22.48362",
+    "geom:latitude":22.48362,
+    "geom:longitude":105.83419,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuoi Cha",
+    "gn:country_code":"VN",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311472,
+    "gn:latitude":22.48362,
+    "gn:longitude":105.83419,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Khu\u1ed5i Ch\u1ea3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khu\u1ed5i Pia"
+    ],
+    "name:vie_x_preferred":[
+        "Khu\u1ed5i Ch\u1ea3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311472
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9cc538f607f1f3625ad5484fb0b75aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1226758561,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1226758561,
+    "wof:lastmodified":1537714266,
+    "wof:name":"Khuoi Cha",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83419,
+    22.48362,
+    105.83419,
+    22.48362
+],
+  "geometry": {"coordinates":[105.83419000000001,22.48362],"type":"Point"}
+}

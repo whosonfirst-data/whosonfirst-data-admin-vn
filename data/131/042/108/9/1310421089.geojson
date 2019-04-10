@@ -1,0 +1,70 @@
+{
+  "id": 1310421089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01861,20.96109,106.01861,20.96109",
+    "geom:latitude":20.96109,
+    "geom:longitude":106.01861,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Hong Cau",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612850,
+    "gn:latitude":20.96109,
+    "gn:longitude":106.01861,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"H\u1ed3ng C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng C\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612850
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2ed4a99ba3daa57e4a27947707b00a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781295,
+            "locality_id":1310421089,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1310421089,
+    "wof:lastmodified":1537714370,
+    "wof:name":"Hong Cau",
+    "wof:parent_id":1108781295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01861,
+    20.96109,
+    106.01861,
+    20.96109
+],
+  "geometry": {"coordinates":[106.01861,20.96109],"type":"Point"}
+}

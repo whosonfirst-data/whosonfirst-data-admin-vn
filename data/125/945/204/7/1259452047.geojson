@@ -1,0 +1,70 @@
+{
+  "id": 1259452047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.575,10.3328,104.575,10.3328",
+    "geom:latitude":10.3328,
+    "geom:longitude":104.575,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Cang",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9280700,
+    "gn:latitude":10.3328,
+    "gn:longitude":104.575,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4p C\u1ea3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4p C\u1ea3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9280700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7405e8631320a0e8a077d6346351db46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782223,
+            "locality_id":1259452047,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1259452047,
+    "wof:lastmodified":1537714463,
+    "wof:name":"Ap Cang",
+    "wof:parent_id":1108782223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.575,
+    10.3328,
+    104.575,
+    10.3328
+],
+  "geometry": {"coordinates":[104.575,10.3328],"type":"Point"}
+}

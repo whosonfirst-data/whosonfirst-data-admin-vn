@@ -1,0 +1,65 @@
+{
+  "id": 1209019727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.81667,16.9,106.81667,16.9",
+    "geom:latitude":16.9,
+    "geom:longitude":106.81667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Bo Ho Su",
+    "gn:country_code":"VN",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587599,
+    "gn:latitude":16.9,
+    "gn:longitude":106.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00f4 H\u00f4 S\u1ee9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho Ho Su",
+        "B\u00f4 H\u00f4 S\u1ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587599
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c4a2e7a1b067b28459f0fe15cb908fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019727
+        }
+    ],
+    "wof:id":1209019727,
+    "wof:lastmodified":1537714067,
+    "wof:name":"Bo Ho Su",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81667,
+    16.9,
+    106.81667,
+    16.9
+],
+  "geometry": {"coordinates":[106.81667,16.9],"type":"Point"}
+}

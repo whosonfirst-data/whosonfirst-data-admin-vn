@@ -1,0 +1,71 @@
+{
+  "id": 1276351187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.18333,11.68333,107.18333,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":107.18333,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dedon",
+    "gn:country_code":"VN",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583650,
+    "gn:latitude":11.68333,
+    "gn:longitude":107.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dedon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da Don",
+        "Dedon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583650
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89f643eae94687665802f3dc474ff328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1276351187,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1276351187,
+    "wof:lastmodified":1537714003,
+    "wof:name":"Dedon",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.18333,
+    11.68333,
+    107.18333,
+    11.68333
+],
+  "geometry": {"coordinates":[107.18333,11.68333],"type":"Point"}
+}

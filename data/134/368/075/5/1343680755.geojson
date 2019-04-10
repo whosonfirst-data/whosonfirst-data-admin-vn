@@ -1,0 +1,67 @@
+{
+  "id": 1343680755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83333,21.75,104.83333,21.75",
+    "geom:latitude":21.75,
+    "geom:longitude":104.83333,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Go Dong",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581518,
+    "gn:latitude":21.75,
+    "gn:longitude":104.83333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"G\u00f4 \u0110\u1ed5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581518
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f6451eb362f0a4da7976242fa6f3e7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1343680755,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1343680755,
+    "wof:lastmodified":1536926476,
+    "wof:name":"Go Dong",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83333,
+    21.75,
+    104.83333,
+    21.75
+],
+  "geometry": {"coordinates":[104.83333,21.75],"type":"Point"}
+}

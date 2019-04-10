@@ -1,0 +1,70 @@
+{
+  "id": 1225955127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41702,18.75079,105.41702,18.75079",
+    "geom:latitude":18.75079,
+    "geom:longitude":105.41702,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hong Linh",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201335,
+    "gn:latitude":18.75079,
+    "gn:longitude":105.41702,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"H\u1ed3ng L\u0129nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng L\u0129nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201335
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b2323d8c95a98a6dcb804bd4a6004cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781483,
+            "locality_id":1225955127,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1225955127,
+    "wof:lastmodified":1537714648,
+    "wof:name":"Hong Linh",
+    "wof:parent_id":1108781483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41702,
+    18.75079,
+    105.41702,
+    18.75079
+],
+  "geometry": {"coordinates":[105.41701999999999,18.75079],"type":"Point"}
+}

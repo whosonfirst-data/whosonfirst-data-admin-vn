@@ -1,0 +1,73 @@
+{
+  "id": 1259502517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4567,12.81067,108.4567,12.81067",
+    "geom:latitude":12.81067,
+    "geom:longitude":108.4567,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Khoi Pho Ba",
+    "gn:country_code":"VN",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262627,
+    "gn:latitude":12.81067,
+    "gn:longitude":108.4567,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Kh\u1ed1i Ph\u1ed1 Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Kh\u1ed1i Ph\u1ed1 Ba"
+    ],
+    "name:vie_x_variant":[
+        "Kh\u1ed1i Ph\u1ed1 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262627
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7ff7925dcf2b9c3c5269a80b78e435d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1259502517,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259502517,
+    "wof:lastmodified":1537714659,
+    "wof:name":"Khoi Pho Ba",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4567,
+    12.81067,
+    108.4567,
+    12.81067
+],
+  "geometry": {"coordinates":[108.4567,12.81067],"type":"Point"}
+}

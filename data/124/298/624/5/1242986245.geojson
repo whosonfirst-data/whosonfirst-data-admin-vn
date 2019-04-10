@@ -1,0 +1,67 @@
+{
+  "id": 1242986245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88333,17.18333,106.88333,17.18333",
+    "geom:latitude":17.18333,
+    "geom:longitude":106.88333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Trung Luc",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563686,
+    "gn:latitude":17.18333,
+    "gn:longitude":106.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trung L\u1ef1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563686
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"300ee772802c2e67413dd1e0955b1687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781535,
+            "locality_id":1242986245,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1242986245,
+    "wof:lastmodified":1536971588,
+    "wof:name":"Trung Luc",
+    "wof:parent_id":1108781535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88333,
+    17.18333,
+    106.88333,
+    17.18333
+],
+  "geometry": {"coordinates":[106.88333,17.18333],"type":"Point"}
+}

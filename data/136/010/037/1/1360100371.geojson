@@ -1,0 +1,70 @@
+{
+  "id": 1360100371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93772,20.42199,105.93772,20.42199",
+    "geom:latitude":20.42199,
+    "geom:longitude":105.93772,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Tra Chau",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564161,
+    "gn:latitude":20.42199,
+    "gn:longitude":105.93772,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Tr\u00e0 Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u00e0 Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564161
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"900287c509d5cf1664cef2b697cccb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781339,
+            "locality_id":1360100371,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1360100371,
+    "wof:lastmodified":1537714356,
+    "wof:name":"Tra Chau",
+    "wof:parent_id":1108781339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93772,
+    20.42199,
+    105.93772,
+    20.42199
+],
+  "geometry": {"coordinates":[105.93772,20.42199],"type":"Point"}
+}

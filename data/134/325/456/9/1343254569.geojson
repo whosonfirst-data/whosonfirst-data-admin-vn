@@ -1,0 +1,67 @@
+{
+  "id": 1343254569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,22.86667,105.98333,22.86667",
+    "geom:latitude":22.86667,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lang Thoc",
+    "gn:country_code":"VN",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576551,
+    "gn:latitude":22.86667,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Th\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576551
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3aeae496d4dad50bbe69a5f83a1e274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780881,
+            "locality_id":1343254569,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343254569,
+    "wof:lastmodified":1537041679,
+    "wof:name":"Lang Thoc",
+    "wof:parent_id":1108780881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    22.86667000000001,
+    105.98333,
+    22.86667000000001
+],
+  "geometry": {"coordinates":[105.98333,22.86667000000001],"type":"Point"}
+}

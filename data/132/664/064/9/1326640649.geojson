@@ -1,0 +1,71 @@
+{
+  "id": 1326640649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,17.51667,106.53333,17.51667",
+    "geom:latitude":17.51667,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Sen Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567963,
+    "gn:latitude":17.51667,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sen Ph\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sao Sa",
+        "Sen Ph\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567963
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba69ef05481572e900c64df9920e4b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1326640649,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1326640649,
+    "wof:lastmodified":1537713794,
+    "wof:name":"Sen Phuong",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    17.51667,
+    106.53333,
+    17.51667
+],
+  "geometry": {"coordinates":[106.53333000000001,17.51667],"type":"Point"}
+}

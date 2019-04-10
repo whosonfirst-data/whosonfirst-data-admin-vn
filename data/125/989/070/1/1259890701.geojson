@@ -1,0 +1,70 @@
+{
+  "id": 1259890701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74511,21.21818,105.74511,21.21818",
+    "geom:latitude":21.21818,
+    "geom:longitude":105.74511,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Bao Thap",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609213,
+    "gn:latitude":21.21818,
+    "gn:longitude":105.74511,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"B\u1ea3o Th\u00e1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3o Th\u00e1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609213
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5f9bc08b1e83a4a5e38ca50ebeaf07ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780815,
+            "locality_id":1259890701,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1259890701,
+    "wof:lastmodified":1537714368,
+    "wof:name":"Bao Thap",
+    "wof:parent_id":1108780815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74511,
+    21.21818,
+    105.74511,
+    21.21818
+],
+  "geometry": {"coordinates":[105.74511,21.21818],"type":"Point"}
+}

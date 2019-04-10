@@ -1,0 +1,74 @@
+{
+  "id": 1343780961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.1035,13.49865,109.1035,13.49865",
+    "geom:latitude":13.49865,
+    "geom:longitude":109.1035,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Lo Diem",
+    "gn:country_code":"VN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575577,
+    "gn:latitude":13.49865,
+    "gn:longitude":109.1035,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"L\u1ed7 Di\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ed5 Di\u00eau",
+        "Lo Thieu"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ed7 Di\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575577
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b793ca23a9df034f8dccd4fef1af909e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1343780961,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1343780961,
+    "wof:lastmodified":1537713895,
+    "wof:name":"Lo Diem",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.1035,
+    13.49865,
+    109.1035,
+    13.49865
+],
+  "geometry": {"coordinates":[109.1035,13.49865],"type":"Point"}
+}

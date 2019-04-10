@@ -1,0 +1,70 @@
+{
+  "id": 1259498915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07085,21.27743,106.07085,21.27743",
+    "geom:latitude":21.27743,
+    "geom:longitude":106.07085,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Son Quang",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567625,
+    "gn:latitude":21.27743,
+    "gn:longitude":106.07085,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"S\u01a1n Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u01a1n Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567625
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9a9f98af672164b9db2d6fd57ddf4b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781159,
+            "locality_id":1259498915,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1259498915,
+    "wof:lastmodified":1537713790,
+    "wof:name":"Son Quang",
+    "wof:parent_id":1108781159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07085,
+    21.27743,
+    106.07085,
+    21.27743
+],
+  "geometry": {"coordinates":[106.07084999999999,21.27743],"type":"Point"}
+}

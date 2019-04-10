@@ -1,0 +1,73 @@
+{
+  "id": 1226153831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.01151,22.07357,104.01151,22.07357",
+    "geom:latitude":22.07357,
+    "geom:longitude":104.01151,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nam Tu Tren",
+    "gn:country_code":"VN",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573139,
+    "gn:latitude":22.07357,
+    "gn:longitude":104.01151,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"N\u1eadm Tu Tr\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Tou"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm Tu Tr\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573139
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a0bd9ccd9167586a947907a4c12bb29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1226153831,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226153831,
+    "wof:lastmodified":1537713865,
+    "wof:name":"Nam Tu Tren",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.01151,
+    22.07357,
+    104.01151,
+    22.07357
+],
+  "geometry": {"coordinates":[104.01151,22.07357],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309727499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.68333,22.15,106.68333,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":106.68333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Bay",
+    "gn:country_code":"VN",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573959,
+    "gn:latitude":22.15,
+    "gn:longitude":106.68333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573959
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"244e6a9e83cd1b352f6cf2dd3e5aff6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1309727499,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1309727499,
+    "wof:lastmodified":1537042155,
+    "wof:name":"Na Bay",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.68333,
+    22.15,
+    106.68333,
+    22.15
+],
+  "geometry": {"coordinates":[106.68333,22.15],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225803093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,11.63333,108.1,11.63333",
+    "geom:latitude":11.63333,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"B'ning",
+    "gn:country_code":"VN",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587673,
+    "gn:latitude":11.63333,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u2019ning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beunigne",
+        "B\u2019ning"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587673
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"971662982c24b48c9c6e22be5f4572cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1225803093,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1225803093,
+    "wof:lastmodified":1537714068,
+    "wof:name":"B'ning",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    11.63333,
+    108.1,
+    11.63333
+],
+  "geometry": {"coordinates":[108.09999999999999,11.63333],"type":"Point"}
+}

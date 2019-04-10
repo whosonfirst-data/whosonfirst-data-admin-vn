@@ -1,0 +1,68 @@
+{
+  "id": 1209225371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.9392,16.7501,106.9392,16.7501",
+    "geom:latitude":16.7501,
+    "geom:longitude":106.9392,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Cu Hoan",
+    "gn:country_code":"VN",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565467,
+    "gn:latitude":16.7501,
+    "gn:longitude":106.9392,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Cu Hoan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mien Hoan",
+        "Th\u00f4n Mi\u00ean Hoan"
+    ],
+    "name:vie_x_preferred":[
+        "Cu Hoan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565467
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c49cd12e4c799ded77cbfa6c5ae242e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225371
+        }
+    ],
+    "wof:id":1209225371,
+    "wof:lastmodified":1537713756,
+    "wof:name":"Cu Hoan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.9392,
+    16.7501,
+    106.9392,
+    16.7501
+],
+  "geometry": {"coordinates":[106.9392,16.7501],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243382473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36169,21.94937,106.36169,21.94937",
+    "geom:latitude":21.94937,
+    "geom:longitude":106.36169,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Na Ruong",
+    "gn:country_code":"VN",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889745,
+    "gn:latitude":21.94937,
+    "gn:longitude":106.36169,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"N\u00e0 R\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 R\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889745
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50d9036303ac9944dfbce7538e6b25a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1243382473,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243382473,
+    "wof:lastmodified":1537714548,
+    "wof:name":"Na Ruong",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36169,
+    21.94937,
+    106.36169,
+    21.94937
+],
+  "geometry": {"coordinates":[106.36169,21.94937],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209101459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43333,10.96667,105.43333,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":105.43333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dinh Ba",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583405,
+    "gn:latitude":10.96667,
+    "gn:longitude":105.43333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dinh B\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583405
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"09990d880b86dbaeb4cceecd68f61545",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209101459
+        }
+    ],
+    "wof:id":1209101459,
+    "wof:lastmodified":1536297719,
+    "wof:name":"Dinh Ba",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43333,
+    10.96667,
+    105.43333,
+    10.96667
+],
+  "geometry": {"coordinates":[105.43333,10.96667],"type":"Point"}
+}

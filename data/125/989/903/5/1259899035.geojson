@@ -1,0 +1,73 @@
+{
+  "id": 1259899035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28413,21.07726,106.28413,21.07726",
+    "geom:latitude":21.07726,
+    "geom:longitude":106.28413,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Kenh Pho",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578824,
+    "gn:latitude":21.07726,
+    "gn:longitude":106.28413,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"K\u00eanh Ph\u1ed1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00ednh Ph\u00f4"
+    ],
+    "name:vie_x_preferred":[
+        "K\u00eanh Ph\u1ed1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578824
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58d41835a5fe02ee35cbe6dc62dafc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1259899035,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259899035,
+    "wof:lastmodified":1537713944,
+    "wof:name":"Kenh Pho",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28413,
+    21.07726,
+    106.28413,
+    21.07726
+],
+  "geometry": {"coordinates":[106.28413,21.07726],"type":"Point"}
+}

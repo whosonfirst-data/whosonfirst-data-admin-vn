@@ -1,0 +1,73 @@
+{
+  "id": 1210054541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.48364,15.6825,108.48364,15.6825",
+    "geom:latitude":15.6825,
+    "geom:longitude":108.48364,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ky Tran",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578114,
+    "gn:latitude":15.6825,
+    "gn:longitude":108.48364,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"K\u1ef3 Tr\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ky Chan"
+    ],
+    "name:vie_x_preferred":[
+        "K\u1ef3 Tr\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578114
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1c1ceaed476a92107232d939919467f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1210054541,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1210054541,
+    "wof:lastmodified":1537713934,
+    "wof:name":"Ky Tran",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.48364,
+    15.6825,
+    108.48364,
+    15.6825
+],
+  "geometry": {"coordinates":[108.48363999999999,15.6825],"type":"Point"}
+}

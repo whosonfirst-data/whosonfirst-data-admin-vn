@@ -1,0 +1,67 @@
+{
+  "id": 1327049189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23333,20.73333,106.23333,20.73333",
+    "geom:latitude":20.73333,
+    "geom:longitude":106.23333,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Tao Khe",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566732,
+    "gn:latitude":20.73333,
+    "gn:longitude":106.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"T\u00e0o Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566732
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f739bd9b583c845e77d2b9c60b41b58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781259,
+            "locality_id":1327049189,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1327049189,
+    "wof:lastmodified":1536736263,
+    "wof:name":"Tao Khe",
+    "wof:parent_id":1108781259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23333,
+    20.73333,
+    106.23333,
+    20.73333
+],
+  "geometry": {"coordinates":[106.23333,20.73333],"type":"Point"}
+}

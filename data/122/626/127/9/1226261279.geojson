@@ -1,0 +1,67 @@
+{
+  "id": 1226261279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,10.03333,105.85,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Xom Chua",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561793,
+    "gn:latitude":10.03333,
+    "gn:longitude":105.85,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m Ch\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561793
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e12678f3fbd9fc2f71664c300ff0cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782161,
+            "locality_id":1226261279,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1226261279,
+    "wof:lastmodified":1536911604,
+    "wof:name":"Xom Chua",
+    "wof:parent_id":1108782161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    10.03333,
+    105.85,
+    10.03333
+],
+  "geometry": {"coordinates":[105.84999999999999,10.03333],"type":"Point"}
+}

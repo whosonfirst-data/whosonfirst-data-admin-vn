@@ -1,0 +1,74 @@
+{
+  "id": 1226766661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.16705,12.41514,108.16705,12.41514",
+    "geom:latitude":12.41514,
+    "geom:longitude":108.16705,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Jun",
+    "gn:country_code":"VN",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587917,
+    "gn:latitude":12.41514,
+    "gn:longitude":108.16705,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n Jun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Juinh",
+        "Bi\u1ec7t Di\u1ec7n"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Jun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587917
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7c2d47a6c0df666675f53454206e4b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1226766661,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1226766661,
+    "wof:lastmodified":1537714071,
+    "wof:name":"Buon Jun",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.16705,
+    12.41514,
+    108.16705,
+    12.41514
+],
+  "geometry": {"coordinates":[108.16705,12.41514],"type":"Point"}
+}

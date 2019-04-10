@@ -1,0 +1,71 @@
+{
+  "id": 1209730847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.88333,13.21667,108.88333,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":108.88333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ban Ma Den",
+    "gn:country_code":"VN",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1589827,
+    "gn:latitude":13.21667,
+    "gn:longitude":108.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Ma Den",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Bu\u00f4n Me Den",
+        "Ban Ma Den"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589827
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"724278a1d77455fe2084404dbfc8e969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1209730847,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1209730847,
+    "wof:lastmodified":1537714104,
+    "wof:name":"Ban Ma Den",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.88333,
+    13.21667,
+    108.88333,
+    13.21667
+],
+  "geometry": {"coordinates":[108.88333,13.21667],"type":"Point"}
+}

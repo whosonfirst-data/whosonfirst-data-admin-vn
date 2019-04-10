@@ -1,0 +1,70 @@
+{
+  "id": 1293020051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15083,21.96304,105.15083,21.96304",
+    "geom:latitude":21.96304,
+    "geom:longitude":105.15083,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Tan Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138111,
+    "gn:latitude":21.96304,
+    "gn:longitude":105.15083,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"T\u00e2n Ph\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Ph\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138111
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6d6c4518db66c8e540866e5937c7a778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1293020051,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293020051,
+    "wof:lastmodified":1537714217,
+    "wof:name":"Tan Phuong",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15083,
+    21.96304,
+    105.15083,
+    21.96304
+],
+  "geometry": {"coordinates":[105.15083,21.96304],"type":"Point"}
+}

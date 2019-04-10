@@ -1,0 +1,70 @@
+{
+  "id": 1193152263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22009,21.29673,103.22009,21.29673",
+    "geom:latitude":21.29673,
+    "geom:longitude":103.22009,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Dien Bien Dong",
+    "gn:country_code":"VN",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8425679,
+    "gn:latitude":21.29673,
+    "gn:longitude":103.22009,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"\u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425679
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8d0b3e71ddbb80653c87ee2892c2fff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1193152263,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1193152263,
+    "wof:lastmodified":1537714309,
+    "wof:name":"Dien Bien Dong",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22009,
+    21.29673,
+    103.22009,
+    21.29673
+],
+  "geometry": {"coordinates":[103.22009,21.29673],"type":"Point"}
+}

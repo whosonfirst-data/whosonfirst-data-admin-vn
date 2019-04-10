@@ -1,0 +1,73 @@
+{
+  "id": 1327040889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3479,21.94519,105.3479,21.94519",
+    "geom:latitude":21.94519,
+    "geom:longitude":105.3479,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Khau Lang",
+    "gn:country_code":"VN",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138863,
+    "gn:latitude":21.94519,
+    "gn:longitude":105.3479,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Khau L\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Khau"
+    ],
+    "name:vie_x_variant":[
+        "Khau L\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138863
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a89a4cc792c032d633f35b5b796528e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1327040889,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1327040889,
+    "wof:lastmodified":1537714223,
+    "wof:name":"Khau Lang",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3479,
+    21.94519,
+    105.3479,
+    21.94519
+],
+  "geometry": {"coordinates":[105.3479,21.94519],"type":"Point"}
+}

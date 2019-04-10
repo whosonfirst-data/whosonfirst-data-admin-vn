@@ -1,0 +1,74 @@
+{
+  "id": 1327344319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.26728,16.7792,107.26728,16.7792",
+    "geom:latitude":16.7792,
+    "geom:longitude":107.26728,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Linh Chieu",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565488,
+    "gn:latitude":16.7792,
+    "gn:longitude":107.26728,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Linh Chi\u1ec3u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linh Chi\u1ebbu",
+        "Th\u00f4n Linh Chi\u1ec3u"
+    ],
+    "name:vie_x_preferred":[
+        "Linh Chi\u1ec3u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565488
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ad73f66992f5e86e1a21b3674251168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781555,
+            "locality_id":1327344319,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1327344319,
+    "wof:lastmodified":1537713757,
+    "wof:name":"Linh Chieu",
+    "wof:parent_id":1108781555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.26728,
+    16.7792,
+    107.26728,
+    16.7792
+],
+  "geometry": {"coordinates":[107.26728,16.7792],"type":"Point"}
+}

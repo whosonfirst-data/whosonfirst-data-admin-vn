@@ -1,0 +1,67 @@
+{
+  "id": 1242926983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2278,19.83514,105.2278,19.83514",
+    "geom:latitude":19.83514,
+    "geom:longitude":105.2278,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Kham",
+    "gn:country_code":"VN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9890490,
+    "gn:latitude":19.83514,
+    "gn:longitude":105.2278,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e0ng Kh\u1eb1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9890490
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7d9f5c097ddb567ff8f5876d65751d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781421,
+            "locality_id":1242926983,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242926983,
+    "wof:lastmodified":1537055221,
+    "wof:name":"Lang Kham",
+    "wof:parent_id":1108781421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2278,
+    19.83514,
+    105.2278,
+    19.83514
+],
+  "geometry": {"coordinates":[105.2278,19.83514],"type":"Point"}
+}

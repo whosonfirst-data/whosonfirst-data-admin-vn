@@ -1,0 +1,74 @@
+{
+  "id": 1243379019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02928,22.13127,103.02928,22.13127",
+    "geom:latitude":22.13127,
+    "geom:longitude":103.02928,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Manh",
+    "gn:country_code":"VN",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588472,
+    "gn:latitude":22.13127,
+    "gn:longitude":103.02928,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"N\u1eadm Manh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tsa Nam Mang",
+        "B\u1ea3n Tsa Nam Meng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm Manh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588472
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"64ab0a29b0f1952bcd62410e58c26d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780993,
+            "locality_id":1243379019,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1243379019,
+    "wof:lastmodified":1537714078,
+    "wof:name":"Nam Manh",
+    "wof:parent_id":1108780993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02928,
+    22.13127,
+    103.02928,
+    22.13127
+],
+  "geometry": {"coordinates":[103.02928,22.13127],"type":"Point"}
+}

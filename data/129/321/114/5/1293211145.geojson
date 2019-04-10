@@ -1,0 +1,72 @@
+{
+  "id": 1293211145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51444,9.79861,106.51444,9.79861",
+    "geom:latitude":9.79861,
+    "geom:longitude":106.51444,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Phu Thu",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592452,
+    "gn:latitude":9.79861,
+    "gn:longitude":106.51444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Ph\u00fa Th\u1ee9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa Th\u1ee9",
+        "\u1ea4p Ph\u00fa Th\u1ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592452
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b021ad6edee89b138d4614c3233f807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782143,
+            "locality_id":1293211145,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1293211145,
+    "wof:lastmodified":1537714160,
+    "wof:name":"Ap Phu Thu",
+    "wof:parent_id":1108782143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51444,
+    9.79861,
+    106.51444,
+    9.79861
+],
+  "geometry": {"coordinates":[106.51443999999999,9.79861],"type":"Point"}
+}

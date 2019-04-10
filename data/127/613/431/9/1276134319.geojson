@@ -1,0 +1,70 @@
+{
+  "id": 1276134319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19035,22.03576,103.19035,22.03576",
+    "geom:latitude":22.03576,
+    "geom:longitude":103.19035,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ha Lia",
+    "gn:country_code":"VN",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425740,
+    "gn:latitude":22.03576,
+    "gn:longitude":103.19035,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"H\u00e1 L\u00eca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e1 L\u00eca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425740
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b952d06ab8c36a5f0059854434d51758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1276134319,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1276134319,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Ha Lia",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19035,
+    22.03576,
+    103.19035,
+    22.03576
+],
+  "geometry": {"coordinates":[103.19035,22.03576],"type":"Point"}
+}

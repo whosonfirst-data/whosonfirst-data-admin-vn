@@ -1,0 +1,73 @@
+{
+  "id": 1226009215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52489,10.94716,106.52489,10.94716",
+    "geom:latitude":10.94716,
+    "geom:longitude":106.52489,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bau Sim",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593976,
+    "gn:latitude":10.94716,
+    "gn:longitude":106.52489,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"B\u00e0u Sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p B\u00e0o Si\u00eam"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e0u Sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593976
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bf067412fea01293bd6ac3edfce66a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782049,
+            "locality_id":1226009215,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1226009215,
+    "wof:lastmodified":1537714199,
+    "wof:name":"Bau Sim",
+    "wof:parent_id":1108782049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52488999999998,
+    10.94716,
+    106.52488999999998,
+    10.94716
+],
+  "geometry": {"coordinates":[106.52488999999998,10.94716],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242588431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31255,18.7877,105.31255,18.7877",
+    "geom:latitude":18.7877,
+    "geom:longitude":105.31255,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Son Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201272,
+    "gn:latitude":18.7877,
+    "gn:longitude":105.31255,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"S\u01a1n Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u01a1n Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201272
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a178ba999a9d25fcb32e0a7767d4f09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781483,
+            "locality_id":1242588431,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1242588431,
+    "wof:lastmodified":1537714645,
+    "wof:name":"Son Thanh",
+    "wof:parent_id":1108781483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31255,
+    18.7877,
+    105.31255,
+    18.7877
+],
+  "geometry": {"coordinates":[105.31255,18.7877],"type":"Point"}
+}

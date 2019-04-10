@@ -1,0 +1,67 @@
+{
+  "id": 1276889005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,22.23333,105.71667,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Pieng Leng",
+    "gn:country_code":"VN",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569763,
+    "gn:latitude":22.23333,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pieng Leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569763
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8fd9db5d3a47cac3465c21f0661a4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1276889005,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1276889005,
+    "wof:lastmodified":1537027650,
+    "wof:name":"Pieng Leng",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    22.23333,
+    105.71667,
+    22.23333
+],
+  "geometry": {"coordinates":[105.71666999999999,22.23333],"type":"Point"}
+}

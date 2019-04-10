@@ -1,0 +1,73 @@
+{
+  "id": 1259837519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.56016,11.81212,108.56016,11.81212",
+    "geom:latitude":11.81212,
+    "geom:longitude":108.56016,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lac Vien",
+    "gn:country_code":"VN",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593180,
+    "gn:latitude":11.81212,
+    "gn:longitude":108.56016,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"L\u1ea1c Vi\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p L\u1ea1c Vi\u00ean"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ea1c Vi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593180
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3e4eab1bc7ae846c830eacd5eaa4f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781895,
+            "locality_id":1259837519,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1259837519,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Lac Vien",
+    "wof:parent_id":1108781895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.56016,
+    11.81212,
+    108.56016,
+    11.81212
+],
+  "geometry": {"coordinates":[108.56016,11.81212],"type":"Point"}
+}

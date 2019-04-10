@@ -1,0 +1,70 @@
+{
+  "id": 1209726323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99106,20.80189,105.99106,20.80189",
+    "geom:latitude":20.80189,
+    "geom:longitude":105.99106,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Ngoc Nha Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612960,
+    "gn:latitude":20.80189,
+    "gn:longitude":105.99106,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ng\u1ecdc Nha Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc Nha Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612960
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5c03529012b1f10ffe30b9dace64d163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781305,
+            "locality_id":1209726323,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1209726323,
+    "wof:lastmodified":1537714373,
+    "wof:name":"Ngoc Nha Thuong",
+    "wof:parent_id":1108781305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99106,
+    20.80189,
+    105.99106,
+    20.80189
+],
+  "geometry": {"coordinates":[105.99106,20.80189],"type":"Point"}
+}

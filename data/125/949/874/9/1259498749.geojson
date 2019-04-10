@@ -1,0 +1,71 @@
+{
+  "id": 1259498749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96667,13.08333,108.96667,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":108.96667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Tinh Son",
+    "gn:country_code":"VN",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564535,
+    "gn:latitude":13.08333,
+    "gn:longitude":108.96667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Tinh S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u01a1c An",
+        "Tinh S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564535
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cb5e195981ed2dea0fb25652d75ad8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781701,
+            "locality_id":1259498749,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1259498749,
+    "wof:lastmodified":1537713733,
+    "wof:name":"Tinh Son",
+    "wof:parent_id":1108781701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96667,
+    13.08333,
+    108.96667,
+    13.08333
+],
+  "geometry": {"coordinates":[108.96666999999999,13.08333],"type":"Point"}
+}

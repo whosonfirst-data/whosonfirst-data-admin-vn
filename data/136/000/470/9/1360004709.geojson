@@ -1,0 +1,73 @@
+{
+  "id": 1360004709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.3552,10.73643,107.3552,10.73643",
+    "geom:latitude":10.73643,
+    "geom:longitude":107.3552,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Khu Hai",
+    "gn:country_code":"VN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9075903,
+    "gn:latitude":10.73643,
+    "gn:longitude":107.3552,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Khu Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu Hai"
+    ],
+    "name:vie_x_variant":[
+        "Khu 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        890423389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9075903
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d68fde5beff8ecee9bad81c66874e7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":890423389,
+            "locality_id":1360004709,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1360004709,
+    "wof:lastmodified":1537714437,
+    "wof:name":"Khu Hai",
+    "wof:parent_id":890423389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.3552,
+    10.73643,
+    107.3552,
+    10.73643
+],
+  "geometry": {"coordinates":[107.3552,10.73643],"type":"Point"}
+}

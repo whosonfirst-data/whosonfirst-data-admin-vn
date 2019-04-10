@@ -1,0 +1,73 @@
+{
+  "id": 1293093761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38918,22.98481,105.38918,22.98481",
+    "geom:latitude":22.98481,
+    "geom:longitude":105.38918,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Phieng Hang",
+    "gn:country_code":"VN",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309527,
+    "gn:latitude":22.98481,
+    "gn:longitude":105.38918,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Phi\u00eang Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phi\u00eang H\u1ea3n"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Phi\u00eang Hang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309527
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d5ddfb915bdbca5ecc1a2ef94891d23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1293093761,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1293093761,
+    "wof:lastmodified":1537714258,
+    "wof:name":"Ban Phieng Hang",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38918,
+    22.98481,
+    105.38918,
+    22.98481
+],
+  "geometry": {"coordinates":[105.38918,22.98481],"type":"Point"}
+}

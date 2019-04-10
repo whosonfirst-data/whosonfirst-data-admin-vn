@@ -1,0 +1,73 @@
+{
+  "id": 1293016103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.93333,12.31667,107.93333,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":107.93333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Kroe",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586925,
+    "gn:latitude":12.31667,
+    "gn:longitude":107.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Kro\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Kroe",
+        "Ban Kroe",
+        "Bu\u00f4n Kro\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586925
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7f016581d9cd892860984d5b286f5d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781875,
+            "locality_id":1293016103,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1293016103,
+    "wof:lastmodified":1537714047,
+    "wof:name":"Buon Kroe",
+    "wof:parent_id":1108781875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.93333,
+    12.31667,
+    107.93333,
+    12.31667
+],
+  "geometry": {"coordinates":[107.93333,12.31667],"type":"Point"}
+}

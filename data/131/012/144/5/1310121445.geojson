@@ -1,0 +1,67 @@
+{
+  "id": 1310121445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,17.81667,106.2,17.81667",
+    "geom:latitude":17.81667,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Go Cao Bac",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581541,
+    "gn:latitude":17.81667,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"G\u1ed3 C\u00e0o B\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581541
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c555d560772c5699a23e04b9805f7172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781527,
+            "locality_id":1310121445,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1310121445,
+    "wof:lastmodified":1536972992,
+    "wof:name":"Go Cao Bac",
+    "wof:parent_id":1108781527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    17.81667000000001,
+    106.2,
+    17.81667000000001
+],
+  "geometry": {"coordinates":[106.2,17.81667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344225995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34133,9.9378,105.34133,9.9378",
+    "geom:latitude":9.9378,
+    "geom:longitude":105.34133,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Thanh Hung",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9280712,
+    "gn:latitude":9.9378,
+    "gn:longitude":105.34133,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Th\u1ea1nh H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1nh H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9280712
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d36d295655d380fdf06605b1ff77e946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782233,
+            "locality_id":1344225995,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1344225995,
+    "wof:lastmodified":1537714464,
+    "wof:name":"Thanh Hung",
+    "wof:parent_id":1108782233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34133,
+    9.9378,
+    105.34133,
+    9.9378
+],
+  "geometry": {"coordinates":[105.34133,9.9378],"type":"Point"}
+}

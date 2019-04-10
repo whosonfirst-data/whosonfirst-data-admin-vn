@@ -1,0 +1,71 @@
+{
+  "id": 1326741205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.55,12.96667,108.55,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":108.55,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Hoenh",
+    "gn:country_code":"VN",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1590370,
+    "gn:latitude":12.96667,
+    "gn:longitude":108.55,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ban Hoenh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Bao",
+        "Ban Hoenh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590370
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e095ad6938d11ab1e197a63e59a76f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1326741205,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1326741205,
+    "wof:lastmodified":1537714116,
+    "wof:name":"Ban Hoenh",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.55,
+    12.96667,
+    108.55,
+    12.96667
+],
+  "geometry": {"coordinates":[108.55,12.96667],"type":"Point"}
+}

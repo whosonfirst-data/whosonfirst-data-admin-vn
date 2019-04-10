@@ -1,0 +1,71 @@
+{
+  "id": 1293114101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08323,20.09054,106.08323,20.09054",
+    "geom:latitude":20.09054,
+    "geom:longitude":106.08323,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Phat Diem",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1571029,
+    "gn:latitude":20.09054,
+    "gn:longitude":106.08323,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ph\u00e1t Di\u1ec7m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fak Diem",
+        "Ph\u00e1t Di\u1ec7m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571029
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"28e30203bf043cbba45c90d7cc7a4d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781383,
+            "locality_id":1293114101,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1293114101,
+    "wof:lastmodified":1537713840,
+    "wof:name":"Phat Diem",
+    "wof:parent_id":1108781383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08323,
+    20.09054,
+    106.08323,
+    20.09054
+],
+  "geometry": {"coordinates":[106.08323,20.09054],"type":"Point"}
+}

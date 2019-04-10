@@ -1,0 +1,67 @@
+{
+  "id": 1276129451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,21.45,106.0,21.45",
+    "geom:latitude":21.45,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Son Nguyen",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567628,
+    "gn:latitude":21.45,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u01a1n Nguy\u1ec5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567628
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"355db08dbc64b0123f520f4a5d3f58b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781083,
+            "locality_id":1276129451,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1276129451,
+    "wof:lastmodified":1537049642,
+    "wof:name":"Son Nguyen",
+    "wof:parent_id":1108781083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    21.45,
+    106.0,
+    21.45
+],
+  "geometry": {"coordinates":[106.0,21.45],"type":"Point"}
+}

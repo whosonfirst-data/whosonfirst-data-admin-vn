@@ -1,0 +1,67 @@
+{
+  "id": 1243464635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,9.9,105.95,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Phong Nam",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570843,
+    "gn:latitude":9.9,
+    "gn:longitude":105.95,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Phong N\u1ea5m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570843
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a4be6748f259929163180a33aa515751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782291,
+            "locality_id":1243464635,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1243464635,
+    "wof:lastmodified":1536779734,
+    "wof:name":"Phong Nam",
+    "wof:parent_id":1108782291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    9.9,
+    105.95,
+    9.9
+],
+  "geometry": {"coordinates":[105.95,9.9],"type":"Point"}
+}

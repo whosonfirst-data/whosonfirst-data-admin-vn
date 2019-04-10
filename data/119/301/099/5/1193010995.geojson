@@ -1,0 +1,73 @@
+{
+  "id": 1193010995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3508,22.93061,105.3508,22.93061",
+    "geom:latitude":22.93061,
+    "geom:longitude":105.3508,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Phia Co",
+    "gn:country_code":"VN",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973441,
+    "gn:latitude":22.93061,
+    "gn:longitude":105.3508,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n Phia C\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Phia C\u00f2"
+    ],
+    "name:vie_x_variant":[
+        "Phia C\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973441
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc4a0388496f742ec6339e28c1a1d8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1193010995,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1193010995,
+    "wof:lastmodified":1537714559,
+    "wof:name":"Ban Phia Co",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3508,
+    22.93061,
+    105.3508,
+    22.93061
+],
+  "geometry": {"coordinates":[105.35080000000001,22.93061],"type":"Point"}
+}

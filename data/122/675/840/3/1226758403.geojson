@@ -1,0 +1,71 @@
+{
+  "id": 1226758403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,16.51667,107.53333,16.51667",
+    "geom:latitude":16.51667,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Huong Can",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565527,
+    "gn:latitude":16.51667,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n H\u01b0\u01a1ng C\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u01b0\u1ee3ng C\u1ea7n",
+        "Th\u00f4n H\u01b0\u01a1ng C\u1ea7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565527
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c1caa1c2bf158c93c3d2f25b601a4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781569,
+            "locality_id":1226758403,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1226758403,
+    "wof:lastmodified":1537713759,
+    "wof:name":"Thon Huong Can",
+    "wof:parent_id":1108781569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    16.51667,
+    107.53333,
+    16.51667
+],
+  "geometry": {"coordinates":[107.53333000000001,16.51667],"type":"Point"}
+}

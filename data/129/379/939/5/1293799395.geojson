@@ -1,0 +1,74 @@
+{
+  "id": 1293799395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94452,22.30104,103.94452,22.30104",
+    "geom:latitude":22.30104,
+    "geom:longitude":103.94452,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lech Mong",
+    "gn:country_code":"VN",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576142,
+    "gn:latitude":22.30104,
+    "gn:longitude":103.94452,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"L\u1ebfch M\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ebfch M\u00e8o",
+        "L\u1ebfch M\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ebfch M\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576142
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8dcc8cd2200fb0782c69717ec0dcd518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1293799395,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1293799395,
+    "wof:lastmodified":1537713902,
+    "wof:name":"Lech Mong",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94452,
+    22.30104,
+    103.94452,
+    22.30104
+],
+  "geometry": {"coordinates":[103.94452,22.30104],"type":"Point"}
+}

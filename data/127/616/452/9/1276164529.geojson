@@ -1,0 +1,72 @@
+{
+  "id": 1276164529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,11.31667,106.2,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ap Hiep Thuan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593379,
+    "gn:latitude":11.31667,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Hi\u1ec7p Thu\u1eadn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phouc Hoi",
+        "\u1ea4p Hi\u1ec7p Thu\u1eadn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593379
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b6263903c8d6a863ee55ce692374e462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781939,
+            "locality_id":1276164529,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1276164529,
+    "wof:lastmodified":1537714184,
+    "wof:name":"Ap Hiep Thuan",
+    "wof:parent_id":1108781939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    11.31667,
+    106.2,
+    11.31667
+],
+  "geometry": {"coordinates":[106.2,11.31667],"type":"Point"}
+}

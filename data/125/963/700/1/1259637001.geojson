@@ -1,0 +1,70 @@
+{
+  "id": 1259637001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22881,20.34803,105.22881,20.34803",
+    "geom:latitude":20.34803,
+    "geom:longitude":105.22881,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Canh Nang",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8550086,
+    "gn:latitude":20.34803,
+    "gn:longitude":105.22881,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"C\u00e0nh N\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e0nh N\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550086
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae19a87e1844c8b57608640366f9489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1259637001,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259637001,
+    "wof:lastmodified":1537714345,
+    "wof:name":"Canh Nang",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22881,
+    20.34803,
+    105.22881,
+    20.34803
+],
+  "geometry": {"coordinates":[105.22881,20.34803],"type":"Point"}
+}

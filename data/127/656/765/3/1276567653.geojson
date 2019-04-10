@@ -1,0 +1,73 @@
+{
+  "id": 1276567653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.55827,13.76496,108.55827,13.76496",
+    "geom:latitude":13.76496,
+    "geom:longitude":108.55827,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"To Nung Hai",
+    "gn:country_code":"VN",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865485,
+    "gn:latitude":13.76496,
+    "gn:longitude":108.55827,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"T\u1edd N\u00f9ng Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1edd N\u00f9ng Hai"
+    ],
+    "name:vie_x_variant":[
+        "T\u1edd N\u00f9ng 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865485
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e761a0eb5ab0df8953b82346195aa4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781809,
+            "locality_id":1276567653,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1276567653,
+    "wof:lastmodified":1537714502,
+    "wof:name":"To Nung Hai",
+    "wof:parent_id":1108781809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.55827,
+    13.76496,
+    108.55827,
+    13.76496
+],
+  "geometry": {"coordinates":[108.55826999999999,13.76496],"type":"Point"}
+}

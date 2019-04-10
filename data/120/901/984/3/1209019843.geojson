@@ -1,0 +1,65 @@
+{
+  "id": 1209019843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91667,22.5,103.91667,22.5",
+    "geom:latitude":22.5,
+    "geom:longitude":103.91667,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Muong Xan",
+    "gn:country_code":"VN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574293,
+    "gn:latitude":22.5,
+    "gn:longitude":103.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Muong Xan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moung Xan",
+        "Muong Xan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"21db777a8e23c98d15a65bbc6f2187b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019843
+        }
+    ],
+    "wof:id":1209019843,
+    "wof:lastmodified":1537713882,
+    "wof:name":"Muong Xan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91667,
+    22.5,
+    103.91667,
+    22.5
+],
+  "geometry": {"coordinates":[103.91667,22.5],"type":"Point"}
+}

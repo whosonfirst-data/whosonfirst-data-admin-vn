@@ -1,0 +1,73 @@
+{
+  "id": 1360034005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39033,20.86379,104.39033,20.86379",
+    "geom:latitude":20.86379,
+    "geom:longitude":104.39033,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pa Kha Mot",
+    "gn:country_code":"VN",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545179,
+    "gn:latitude":20.86379,
+    "gn:longitude":104.39033,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Pa Kha M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pa Kha M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Pa Kha 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545179
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c4fabdf8d90a2ae8222436a0f44d7ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781011,
+            "locality_id":1360034005,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1360034005,
+    "wof:lastmodified":1537714339,
+    "wof:name":"Pa Kha Mot",
+    "wof:parent_id":1108781011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39033,
+    20.86379,
+    104.39033,
+    20.86379
+],
+  "geometry": {"coordinates":[104.39033000000001,20.86379],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193135413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84361,22.85196,105.84361,22.85196",
+    "geom:latitude":22.85196,
+    "geom:longitude":105.84361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khuoi Dung",
+    "gn:country_code":"VN",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578294,
+    "gn:latitude":22.85196,
+    "gn:longitude":105.84361,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Khu\u1ed5i Dung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouei Young",
+        "Kouei Yung"
+    ],
+    "name:vie_x_preferred":[
+        "Khu\u1ed5i Dung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578294
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85e5ae23cbe7f94c6d837f8f10934415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780879,
+            "locality_id":1193135413,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1193135413,
+    "wof:lastmodified":1537713936,
+    "wof:name":"Khuoi Dung",
+    "wof:parent_id":1108780879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84361,
+    22.85196,
+    105.84361,
+    22.85196
+],
+  "geometry": {"coordinates":[105.84361,22.85196],"type":"Point"}
+}

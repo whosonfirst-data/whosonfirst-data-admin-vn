@@ -1,0 +1,70 @@
+{
+  "id": 1310024739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6862,20.23804,105.6862,20.23804",
+    "geom:latitude":20.23804,
+    "geom:longitude":105.6862,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Sam Trong",
+    "gn:country_code":"VN",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553339,
+    "gn:latitude":20.23804,
+    "gn:longitude":105.6862,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"S\u1ea5m Trong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u1ea5m Trong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553339
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e8db0f2a09570943e8765dc532f44cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781373,
+            "locality_id":1310024739,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1310024739,
+    "wof:lastmodified":1537714349,
+    "wof:name":"Sam Trong",
+    "wof:parent_id":1108781373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6862,
+    20.23804,
+    105.6862,
+    20.23804
+],
+  "geometry": {"coordinates":[105.6862,20.23804],"type":"Point"}
+}

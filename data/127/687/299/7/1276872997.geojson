@@ -1,0 +1,72 @@
+{
+  "id": 1276872997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59833,9.98889,106.59833,9.98889",
+    "geom:latitude":9.98889,
+    "geom:longitude":106.59833,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giong Go Chua",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1942000,
+    "gn:latitude":9.98889,
+    "gn:longitude":106.59833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gi\u1ed3ng G\u00f2 Ch\u00f9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f2 Ch\u00f9a",
+        "Gi\u1ed3ng G\u00f2 Ch\u00f9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1942000
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"48f2ef4bed165bd2f35118a3303d19d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782125,
+            "locality_id":1276872997,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1276872997,
+    "wof:lastmodified":1537714212,
+    "wof:name":"Giong Go Chua",
+    "wof:parent_id":1108782125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59833,
+    9.98889,
+    106.59833,
+    9.98889
+],
+  "geometry": {"coordinates":[106.59833,9.98889],"type":"Point"}
+}

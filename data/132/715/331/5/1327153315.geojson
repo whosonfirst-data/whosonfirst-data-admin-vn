@@ -1,0 +1,73 @@
+{
+  "id": 1327153315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41554,21.04903,105.41554,21.04903",
+    "geom:latitude":21.04903,
+    "geom:longitude":105.41554,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Xom Muong",
+    "gn:country_code":"VN",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561250,
+    "gn:latitude":21.04903,
+    "gn:longitude":105.41554,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Mu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m M\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m Mu\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561250
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11be1e366cae4e90b4eb2bd1a79b56db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780823,
+            "locality_id":1327153315,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1327153315,
+    "wof:lastmodified":1537713681,
+    "wof:name":"Xom Muong",
+    "wof:parent_id":1108780823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41554,
+    21.04903,
+    105.41554,
+    21.04903
+],
+  "geometry": {"coordinates":[105.41553999999999,21.04903],"type":"Point"}
+}

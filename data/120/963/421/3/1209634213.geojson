@@ -1,0 +1,61 @@
+{
+  "id": 1209634213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.36667,12.71667,109.36667,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":109.36667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Vinh Giat",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1562749,
+    "gn:latitude":12.71667,
+    "gn:longitude":109.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u1ec9nh Gi\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562749
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"435ff1a04a133f055a9398995b0818d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634213
+        }
+    ],
+    "wof:id":1209634213,
+    "wof:lastmodified":1536281094,
+    "wof:name":"Vinh Giat",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.36667,
+    12.71667,
+    109.36667,
+    12.71667
+],
+  "geometry": {"coordinates":[109.36667,12.71667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209575371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.56667,21.33333,107.56667,21.33333",
+    "geom:latitude":21.33333,
+    "geom:longitude":107.56667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lang Dong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577422,
+    "gn:latitude":21.33333,
+    "gn:longitude":107.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng D\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dang Dong",
+        "L\u00e0ng D\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577422
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9db90e8ab07d520387caaf705968d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209575371
+        }
+    ],
+    "wof:id":1209575371,
+    "wof:lastmodified":1537713924,
+    "wof:name":"Lang Dong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.56667,
+    21.33333,
+    107.56667,
+    21.33333
+],
+  "geometry": {"coordinates":[107.56667,21.33333],"type":"Point"}
+}

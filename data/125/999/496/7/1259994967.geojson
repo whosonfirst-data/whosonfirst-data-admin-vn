@@ -1,0 +1,71 @@
+{
+  "id": 1259994967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43345,15.03607,108.43345,15.03607",
+    "geom:latitude":15.03607,
+    "geom:longitude":108.43345,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Lang Men",
+    "gn:country_code":"VN",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576992,
+    "gn:latitude":15.03607,
+    "gn:longitude":108.43345,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"L\u00e0ng Men",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Min",
+        "L\u00e0ng Men"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576992
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d25ab2bd93316706107112c6934e471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1259994967,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1259994967,
+    "wof:lastmodified":1537713916,
+    "wof:name":"Lang Men",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43345,
+    15.03607,
+    108.43345,
+    15.03607
+],
+  "geometry": {"coordinates":[108.43344999999999,15.03607],"type":"Point"}
+}

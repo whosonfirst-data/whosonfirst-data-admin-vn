@@ -1,0 +1,72 @@
+{
+  "id": 1309822233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.35,16.68333,107.35,16.68333",
+    "geom:latitude":16.68333,
+    "geom:longitude":107.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Thon Phu Kinh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565383,
+    "gn:latitude":16.68333,
+    "gn:longitude":107.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ph\u00fa Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa Kinh",
+        "Th\u00f4n Ph\u00fa Kinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565383
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7ed9c0d24f4e9f7c4fc4bca84d1844aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1309822233,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1309822233,
+    "wof:lastmodified":1537713751,
+    "wof:name":"Thon Phu Kinh",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.35,
+    16.68333,
+    107.35,
+    16.68333
+],
+  "geometry": {"coordinates":[107.34999999999999,16.68333],"type":"Point"}
+}

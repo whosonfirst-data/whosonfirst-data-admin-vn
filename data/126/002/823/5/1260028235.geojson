@@ -1,0 +1,77 @@
+{
+  "id": 1260028235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.79886,15.72914,107.79886,15.72914",
+    "geom:latitude":15.72914,
+    "geom:longitude":107.79886,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dai Giang Hai",
+    "gn:country_code":"VN",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584332,
+    "gn:latitude":15.72914,
+    "gn:longitude":107.79886,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"\u0110\u1ea1i Giang Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ea1i Giang",
+        "\u0110a Giang"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i Giang Hai"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ea1i Giang 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"62ff2a33a56b3ad4d9418eb961cd130b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781611,
+            "locality_id":1260028235,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1260028235,
+    "wof:lastmodified":1537714013,
+    "wof:name":"Dai Giang Hai",
+    "wof:parent_id":1108781611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.79886,
+    15.72914,
+    107.79886,
+    15.72914
+],
+  "geometry": {"coordinates":[107.79886,15.72914],"type":"Point"}
+}

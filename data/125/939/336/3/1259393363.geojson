@@ -1,0 +1,73 @@
+{
+  "id": 1259393363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.43507,16.5128,107.43507,16.5128",
+    "geom:latitude":16.5128,
+    "geom:longitude":107.43507,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Hien Si",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593387,
+    "gn:latitude":16.5128,
+    "gn:longitude":107.43507,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Hi\u1ec1n S\u0129",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Hi\u1ec1n S\u0129"
+    ],
+    "name:vie_x_preferred":[
+        "Hi\u1ec1n S\u0129"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593387
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b84cb01603e5244f2606c16b39a51aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1259393363,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1259393363,
+    "wof:lastmodified":1537714184,
+    "wof:name":"Hien Si",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.43507,
+    16.5128,
+    107.43507,
+    16.5128
+],
+  "geometry": {"coordinates":[107.43507,16.5128],"type":"Point"}
+}

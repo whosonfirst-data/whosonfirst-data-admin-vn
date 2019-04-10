@@ -1,0 +1,70 @@
+{
+  "id": 1226161867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61619,21.91616,104.61619,21.91616",
+    "geom:latitude":21.91616,
+    "geom:longitude":104.61619,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Rom",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944266,
+    "gn:latitude":21.91616,
+    "gn:longitude":104.61619,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"L\u00e0ng R\u00f3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng R\u00f3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944266
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da560e44fe33c601a44c8cc532f06f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781027,
+            "locality_id":1226161867,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1226161867,
+    "wof:lastmodified":1537714733,
+    "wof:name":"Lang Rom",
+    "wof:parent_id":1108781027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61619,
+    21.91616,
+    104.61619,
+    21.91616
+],
+  "geometry": {"coordinates":[104.61619,21.91616],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310520473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.06787,14.31639,109.06787,14.31639",
+    "geom:latitude":14.31639,
+    "geom:longitude":109.06787,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Van Phu",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562988,
+    "gn:latitude":14.31639,
+    "gn:longitude":109.06787,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"V\u1ea1n Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u1ea1n Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562988
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3fad74b5e165323b6d9ccc6478c08cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781675,
+            "locality_id":1310520473,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1310520473,
+    "wof:lastmodified":1537713714,
+    "wof:name":"Van Phu",
+    "wof:parent_id":1108781675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.06787,
+    14.31639,
+    109.06787,
+    14.31639
+],
+  "geometry": {"coordinates":[109.06787,14.31639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343377939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.09866,12.27707,109.09866,12.27707",
+    "geom:latitude":12.27707,
+    "geom:longitude":109.09866,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Dai Dien Nam",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565665,
+    "gn:latitude":12.27707,
+    "gn:longitude":109.09866,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Dai Dien Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n \u0110\u1ea1i \u0110i\u1ec1n Nam"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i \u0110i\u1ec1n Nam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565665
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9e0223bc3931c398585fbd763181147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781731,
+            "locality_id":1343377939,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1343377939,
+    "wof:lastmodified":1537713764,
+    "wof:name":"Dai Dien Nam",
+    "wof:parent_id":1108781731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.09866,
+    12.27707,
+    109.09866,
+    12.27707
+],
+  "geometry": {"coordinates":[109.09866,12.27707],"type":"Point"}
+}

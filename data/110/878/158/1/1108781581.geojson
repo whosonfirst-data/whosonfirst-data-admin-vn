@@ -1,0 +1,97 @@
+{
+  "id": 1108781581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001085,
+    "geom:area_square_m":12894427.609937,
+    "geom:bbox":"108.16221328,16.0502981174,108.226930819,16.085388184",
+    "geom:latitude":16.067412,
+    "geom:longitude":108.194527,
+    "iso:country":"VN",
+    "lbl:latitude":16.065873,
+    "lbl:longitude":108.186934,
+    "meso:admin_1":"Da Nang",
+    "meso:gadm_admin":"Thanh Kh\u00ea",
+    "meso:gadm_hasc2":"VN.DA.TK",
+    "meso:gaul_adm2":"Thanh Khe",
+    "meso:local_id":"48491",
+    "meso:mps_x":108.186934,
+    "meso:mps_y":16.065873,
+    "meso:name_en":"Thanh Khe",
+    "meso:source":"AOTM",
+    "mps:latitude":16.065873,
+    "mps:longitude":108.186934,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6e05\u6eaa\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Thanh Khe"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Thanh Kh\u00ea"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0627\u0646 \u062e\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Thanh Kh\u00ea"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"9",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Da Nang",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.DA",
+    "statoids:name":"Thanh Khe",
+    "statoids:population":"160953",
+    "statoids:statoid":"VN.DA.TK",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7710359"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741399,
+    "wof:geomhash":"65ccca917d941a46fe51ee88e854a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781581,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1108781581,
+    "wof:lastmodified":1514502833,
+    "wof:name":"Thanh Khe",
+    "wof:parent_id":85680779,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":160953,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.16221327951799,
+    16.05029811738287,
+    108.22693081929191,
+    16.08538818400001
+],
+  "geometry": {"coordinates":[[[108.16796130362076,16.08457046275129],[108.16835784900013,16.08458328200004],[108.16872406000016,16.08333396900014],[108.17166900600012,16.08124923700012],[108.17996978799999,16.07705497700005],[108.18164062500011,16.07708358800016],[108.18247222900004,16.07622146600005],[108.18663787800017,16.07541656500018],[108.18746948200004,16.07455635100007],[108.19330596900005,16.07372283900003],[108.19416809100017,16.07288932800003],[108.19664001500007,16.07291603100003],[108.19747161900011,16.07205581700009],[108.20666503900014,16.07205581700009],[108.20749664300001,16.07288932800003],[108.20996856700009,16.07291603100003],[108.21160888700012,16.07452774000006],[108.21250152600015,16.07455635100007],[108.21291351300005,16.07580566400014],[108.21624755900007,16.07919502300018],[108.21705627400007,16.08080482500014],[108.21747589100005,16.08538818400001],[108.21845436382905,16.08538818400001],[108.22654926310605,16.06636267196489],[108.22693081929191,16.06568744874536],[108.21042964098501,16.05443871239995],[108.20289959023657,16.05650766051943],[108.20126244363149,16.05874716640216],[108.1947859181579,16.05989866398367],[108.1915164953565,16.05798861331674],[108.18664588328127,16.05029811738287],[108.17707863239295,16.05657001430912],[108.1769082442466,16.06057924326233],[108.16802142180491,16.06773125121709],[108.16476415521572,16.06950310217856],[108.16221327951799,16.07281214558552],[108.16796130362076,16.08457046275129]]],"type":"Polygon"}
+}

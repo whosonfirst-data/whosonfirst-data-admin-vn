@@ -1,0 +1,64 @@
+{
+  "id": 1209425701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59735,18.35439,105.59735,18.35439",
+    "geom:latitude":18.35439,
+    "geom:longitude":105.59735,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ka Man",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354191,
+    "gn:latitude":18.35439,
+    "gn:longitude":105.59735,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ka M\u1eabn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ka M\u1eabn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354191
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b40090d710b848fc8b1490a777d8e097",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425701
+        }
+    ],
+    "wof:id":1209425701,
+    "wof:lastmodified":1537714710,
+    "wof:name":"Ka Man",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59735,
+    18.35439,
+    105.59735,
+    18.35439
+],
+  "geometry": {"coordinates":[105.59735000000001,18.35439],"type":"Point"}
+}

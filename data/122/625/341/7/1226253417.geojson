@@ -1,0 +1,67 @@
+{
+  "id": 1226253417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85016,22.3925,103.85016,22.3925",
+    "geom:latitude":22.3925,
+    "geom:longitude":103.85016,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Thon Man",
+    "gn:country_code":"VN",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565470,
+    "gn:latitude":22.3925,
+    "gn:longitude":103.85016,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Th\u00f4n M\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565470
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b0ce46be7dc142a8631219611efff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1226253417,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226253417,
+    "wof:lastmodified":1536923178,
+    "wof:name":"Thon Man",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85016,
+    22.3925,
+    103.85016,
+    22.3925
+],
+  "geometry": {"coordinates":[103.85016,22.3925],"type":"Point"}
+}

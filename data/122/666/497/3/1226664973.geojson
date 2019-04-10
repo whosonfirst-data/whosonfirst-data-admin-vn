@@ -1,0 +1,70 @@
+{
+  "id": 1226664973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73738,16.45594,107.73738,16.45594",
+    "geom:latitude":16.45594,
+    "geom:longitude":107.73738,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Vien Trinh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656258,
+    "gn:latitude":16.45594,
+    "gn:longitude":107.73738,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Vi\u1ec5n Trinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vi\u1ec5n Trinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656258
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5be5f64e598a9f8854b69ccf7c34314b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1226664973,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1226664973,
+    "wof:lastmodified":1537714395,
+    "wof:name":"Vien Trinh",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73738,
+    16.45594,
+    107.73738,
+    16.45594
+],
+  "geometry": {"coordinates":[107.73738,16.45594],"type":"Point"}
+}

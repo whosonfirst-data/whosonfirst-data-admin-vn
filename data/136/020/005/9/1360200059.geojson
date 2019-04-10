@@ -1,0 +1,73 @@
+{
+  "id": 1360200059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25043,19.22283,104.25043,19.22283",
+    "geom:latitude":19.22283,
+    "geom:longitude":104.25043,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nam Can",
+    "gn:country_code":"VN",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589537,
+    "gn:latitude":19.22283,
+    "gn:longitude":104.25043,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"N\u1eadm C\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Nam Cang"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm C\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589537
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"42b2178255833a0c42106ab1cd7f6bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781459,
+            "locality_id":1360200059,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1360200059,
+    "wof:lastmodified":1537714098,
+    "wof:name":"Nam Can",
+    "wof:parent_id":1108781459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25043,
+    19.22283,
+    104.25043,
+    19.22283
+],
+  "geometry": {"coordinates":[104.25042999999999,19.22283],"type":"Point"}
+}

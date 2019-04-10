@@ -1,0 +1,71 @@
+{
+  "id": 1293627121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.76667,15.91667,107.76667,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":107.76667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Toa",
+    "gn:country_code":"VN",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564482,
+    "gn:latitude":15.91667,
+    "gn:longitude":107.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"To\u0103",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u014f",
+        "To\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564482
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6703d757d584915c6a8f9029c7bce10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781601,
+            "locality_id":1293627121,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1293627121,
+    "wof:lastmodified":1537713732,
+    "wof:name":"Toa",
+    "wof:parent_id":1108781601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.76667,
+    15.91667,
+    107.76667,
+    15.91667
+],
+  "geometry": {"coordinates":[107.76667,15.91667],"type":"Point"}
+}

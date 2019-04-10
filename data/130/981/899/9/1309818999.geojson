@@ -1,0 +1,70 @@
+{
+  "id": 1309818999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.56595,13.87214,108.56595,13.87214",
+    "geom:latitude":13.87214,
+    "geom:longitude":108.56595,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Lang Ton",
+    "gn:country_code":"VN",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865444,
+    "gn:latitude":13.87214,
+    "gn:longitude":108.56595,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e0ng T\u1eddn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng T\u1eddn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865444
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"896291e0cf82dae16007964ac485bd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781809,
+            "locality_id":1309818999,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1309818999,
+    "wof:lastmodified":1537714500,
+    "wof:name":"Lang Ton",
+    "wof:parent_id":1108781809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.56595,
+    13.87214,
+    108.56595,
+    13.87214
+],
+  "geometry": {"coordinates":[108.56595,13.87214],"type":"Point"}
+}

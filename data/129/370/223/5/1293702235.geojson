@@ -1,0 +1,67 @@
+{
+  "id": 1293702235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4768,14.09427,108.4768,14.09427",
+    "geom:latitude":14.09427,
+    "geom:longitude":108.4768,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"De Dong",
+    "gn:country_code":"VN",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583649,
+    "gn:latitude":14.09427,
+    "gn:longitude":108.4768,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"De Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583649
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a370e9b152cca54bbc36a11d7d5f58e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781799,
+            "locality_id":1293702235,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1293702235,
+    "wof:lastmodified":1536974250,
+    "wof:name":"De Dong",
+    "wof:parent_id":1108781799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4768,
+    14.09427,
+    108.4768,
+    14.09427
+],
+  "geometry": {"coordinates":[108.4768,14.09427],"type":"Point"}
+}

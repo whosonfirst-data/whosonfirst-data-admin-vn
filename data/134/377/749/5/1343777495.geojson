@@ -1,0 +1,71 @@
+{
+  "id": 1343777495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,21.28333,106.5,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Kha Le",
+    "gn:country_code":"VN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579669,
+    "gn:latitude":21.28333,
+    "gn:longitude":106.5,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Kh\u1ea3 L\u1ec5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang \u0110\u00f9m",
+        "Kh\u1ea3 L\u1ec5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579669
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e04eb73ff657798f79c5123c046022cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781151,
+            "locality_id":1343777495,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343777495,
+    "wof:lastmodified":1537713956,
+    "wof:name":"Kha Le",
+    "wof:parent_id":1108781151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    21.28333,
+    106.5,
+    21.28333
+],
+  "geometry": {"coordinates":[106.5,21.28333],"type":"Point"}
+}

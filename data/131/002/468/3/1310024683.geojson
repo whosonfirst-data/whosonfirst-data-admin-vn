@@ -1,0 +1,75 @@
+{
+  "id": 1310024683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.14786,11.61544,109.14786,11.61544",
+    "geom:latitude":11.61544,
+    "geom:longitude":109.14786,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"My Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592940,
+    "gn:latitude":11.61544,
+    "gn:longitude":109.14786,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"M\u1ef9 H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u1ef9 H\u1ea3i",
+        "My Hoa",
+        "\u1ea4p M\u1ef9 H\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ef9 H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592940
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2310b913f860bc92625eb6a9afa96a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781741,
+            "locality_id":1310024683,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310024683,
+    "wof:lastmodified":1537714173,
+    "wof:name":"My Hoa",
+    "wof:parent_id":1108781741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.14786,
+    11.61544,
+    109.14786,
+    11.61544
+],
+  "geometry": {"coordinates":[109.14785999999999,11.61544],"type":"Point"}
+}

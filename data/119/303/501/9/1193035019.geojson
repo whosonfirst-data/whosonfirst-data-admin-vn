@@ -1,0 +1,71 @@
+{
+  "id": 1193035019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,16.63333,107.53333,16.63333",
+    "geom:latitude":16.63333,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Lanh Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593148,
+    "gn:latitude":16.63333,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p L\u1ea3nh Th\u1ee7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linh Thuy",
+        "\u1ea4p L\u1ea3nh Th\u1ee7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593148
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b5fb3266879e0b0c27478d4d8068c370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781563,
+            "locality_id":1193035019,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1193035019,
+    "wof:lastmodified":1537714178,
+    "wof:name":"Ap Lanh Thuy",
+    "wof:parent_id":1108781563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    16.63332999999999,
+    107.53333,
+    16.63332999999999
+],
+  "geometry": {"coordinates":[107.53333000000001,16.63332999999999],"type":"Point"}
+}

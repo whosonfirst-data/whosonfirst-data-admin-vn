@@ -1,0 +1,73 @@
+{
+  "id": 1226491027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40792,21.0383,103.40792,21.0383",
+    "geom:latitude":21.0383,
+    "geom:longitude":103.40792,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Tia",
+    "gn:country_code":"VN",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8545427,
+    "gn:latitude":21.0383,
+    "gn:longitude":103.40792,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"B\u1ea3n T\u1ec9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm T\u00eda"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n T\u1ec9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8545427
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79e3dc040f26d077211969a6313ea679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781017,
+            "locality_id":1226491027,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226491027,
+    "wof:lastmodified":1537714343,
+    "wof:name":"Ban Tia",
+    "wof:parent_id":1108781017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40792,
+    21.0383,
+    103.40792,
+    21.0383
+],
+  "geometry": {"coordinates":[103.40792,21.0383],"type":"Point"}
+}

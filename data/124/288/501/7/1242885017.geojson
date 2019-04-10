@@ -1,0 +1,67 @@
+{
+  "id": 1242885017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69649,22.60771,105.69649,22.60771",
+    "geom:latitude":22.60771,
+    "geom:longitude":105.69649,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Sat",
+    "gn:country_code":"VN",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381895,
+    "gn:latitude":22.60771,
+    "gn:longitude":105.69649,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"B\u1ea3n S\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381895
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a39ab5110202308a3dc013bdddb1a179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780905,
+            "locality_id":1242885017,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1242885017,
+    "wof:lastmodified":1536618654,
+    "wof:name":"Ban Sat",
+    "wof:parent_id":1108780905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69649,
+    22.60771,
+    105.69649,
+    22.60771
+],
+  "geometry": {"coordinates":[105.69649,22.60771],"type":"Point"}
+}

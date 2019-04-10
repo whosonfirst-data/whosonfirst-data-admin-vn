@@ -1,0 +1,67 @@
+{
+  "id": 1276782901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,21.31667,105.58333,21.31667",
+    "geom:latitude":21.31667,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Xom Tram",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560825,
+    "gn:latitude":21.31667,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Tram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560825
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d302bc30db07d2341533807a5e1bbe22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781195,
+            "locality_id":1276782901,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1276782901,
+    "wof:lastmodified":1536673513,
+    "wof:name":"Xom Tram",
+    "wof:parent_id":1108781195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    21.31667,
+    105.58333,
+    21.31667
+],
+  "geometry": {"coordinates":[105.58333,21.31667],"type":"Point"}
+}

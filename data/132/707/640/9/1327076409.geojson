@@ -1,0 +1,72 @@
+{
+  "id": 1327076409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4,15.7,108.4,15.7",
+    "geom:latitude":15.7,
+    "geom:longitude":108.4,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tu An",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563491,
+    "gn:latitude":15.7,
+    "gn:longitude":108.4,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"T\u00fa An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Truong An",
+        "T\u00fa An",
+        "Tu Chinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563491
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b0ad62965fb0cae8285b67fab6934a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1327076409,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1327076409,
+    "wof:lastmodified":1537713721,
+    "wof:name":"Tu An",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4,
+    15.7,
+    108.4,
+    15.7
+],
+  "geometry": {"coordinates":[108.40000000000001,15.7],"type":"Point"}
+}

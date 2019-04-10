@@ -1,0 +1,67 @@
+{
+  "id": 1344172391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00249,21.6053,105.00249,21.6053",
+    "geom:latitude":21.6053,
+    "geom:longitude":105.00249,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Phu Khanh",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309979,
+    "gn:latitude":21.6053,
+    "gn:longitude":105.00249,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ph\u1ee5 Kh\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309979
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"96729a46faa31a991f825b8a6db64896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781171,
+            "locality_id":1344172391,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1344172391,
+    "wof:lastmodified":1536714306,
+    "wof:name":"Phu Khanh",
+    "wof:parent_id":1108781171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00249,
+    21.6053,
+    105.00249,
+    21.6053
+],
+  "geometry": {"coordinates":[105.00248999999999,21.6053],"type":"Point"}
+}

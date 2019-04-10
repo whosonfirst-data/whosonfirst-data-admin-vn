@@ -1,0 +1,67 @@
+{
+  "id": 1343579719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75,10.95,106.75,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":106.75,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Xom Cho",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561801,
+    "gn:latitude":10.95,
+    "gn:longitude":106.75,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m Ch\u1ee3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561801
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"da5bd3cd83b0da7cac8949a6de76b744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781963,
+            "locality_id":1343579719,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1343579719,
+    "wof:lastmodified":1537068655,
+    "wof:name":"Xom Cho",
+    "wof:parent_id":1108781963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75,
+    10.95,
+    106.75,
+    10.95
+],
+  "geometry": {"coordinates":[106.75,10.95],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343369609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53759,11.93037,107.53759,11.93037",
+    "geom:latitude":11.93037,
+    "geom:longitude":107.53759,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Bu Dap",
+    "gn:country_code":"VN",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587134,
+    "gn:latitude":11.93037,
+    "gn:longitude":107.53759,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Bu Dap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Bu Dap",
+        "Bu Dap",
+        "Bu\u00f4n Bu D\u0103p"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f9 \u0110\u1ed1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587134
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba8debf67210df3826b16ce813af8e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781879,
+            "locality_id":1343369609,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1343369609,
+    "wof:lastmodified":1537714057,
+    "wof:name":"Bu Dap",
+    "wof:parent_id":1108781879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53759,
+    11.93037,
+    107.53759,
+    11.93037
+],
+  "geometry": {"coordinates":[107.53758999999999,11.93037],"type":"Point"}
+}

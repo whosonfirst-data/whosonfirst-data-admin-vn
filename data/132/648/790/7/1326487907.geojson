@@ -1,0 +1,73 @@
+{
+  "id": 1326487907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42161,10.62227,106.42161,10.62227",
+    "geom:latitude":10.62227,
+    "geom:longitude":106.42161,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ap Dao",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561699,
+    "gn:latitude":10.62227,
+    "gn:longitude":106.42161,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u1ea4p \u0110\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m \u0110\u1ea1o"
+    ],
+    "name:vie_x_preferred":[
+        "\u1ea4p \u0110\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561699
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79b8a0b5a06e121737ae969faaebe449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782083,
+            "locality_id":1326487907,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1326487907,
+    "wof:lastmodified":1537713690,
+    "wof:name":"Ap Dao",
+    "wof:parent_id":1108782083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42161000000002,
+    10.62227,
+    106.42161000000002,
+    10.62227
+],
+  "geometry": {"coordinates":[106.42161000000002,10.62227],"type":"Point"}
+}

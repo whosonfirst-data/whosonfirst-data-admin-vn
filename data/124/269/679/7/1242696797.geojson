@@ -1,0 +1,67 @@
+{
+  "id": 1242696797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1,21.45,103.1,21.45",
+    "geom:latitude":21.45,
+    "geom:longitude":103.1,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Pakhoang",
+    "gn:country_code":"VN",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589244,
+    "gn:latitude":21.45,
+    "gn:longitude":103.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Pakhoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589244
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db6894b36e31cf98d8e280fd6ff42dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780969,
+            "locality_id":1242696797,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1242696797,
+    "wof:lastmodified":1536891755,
+    "wof:name":"Ban Pakhoang",
+    "wof:parent_id":1108780969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1,
+    21.45,
+    103.1,
+    21.45
+],
+  "geometry": {"coordinates":[103.09999999999999,21.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343469463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.61667,10.6,107.61667,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":107.61667,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Hiep Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580912,
+    "gn:latitude":10.6,
+    "gn:longitude":107.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hi\u1ec7p H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ham Thang",
+        "Hi\u1ec7p H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580912
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2fd894b6f799c5f3eb121f7c4c8eaafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781769,
+            "locality_id":1343469463,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1343469463,
+    "wof:lastmodified":1537713970,
+    "wof:name":"Hiep Hoa",
+    "wof:parent_id":1108781769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.61667,
+    10.6,
+    107.61667,
+    10.6
+],
+  "geometry": {"coordinates":[107.61667,10.6],"type":"Point"}
+}

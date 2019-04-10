@@ -1,0 +1,70 @@
+{
+  "id": 1344268021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77016,18.39152,105.77016,18.39152",
+    "geom:latitude":18.39152,
+    "geom:longitude":105.77016,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Trai Duong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275060,
+    "gn:latitude":18.39152,
+    "gn:longitude":105.77016,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Tr\u1ea1i D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u1ea1i D\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275060
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"74f50407882ec8d474e87cca6e20a5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1344268021,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1344268021,
+    "wof:lastmodified":1537714665,
+    "wof:name":"Trai Duong",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77016,
+    18.39152,
+    105.77016,
+    18.39152
+],
+  "geometry": {"coordinates":[105.77016,18.39152],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209526149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75229,22.54256,103.75229,22.54256",
+    "geom:latitude":22.54256,
+    "geom:longitude":103.75229,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Xeo",
+    "gn:country_code":"VN",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588356,
+    "gn:latitude":22.54256,
+    "gn:longitude":103.75229,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n X\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n X\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588356
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1cb694305cf2dac4a10476bf4477cbb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526149
+        }
+    ],
+    "wof:id":1209526149,
+    "wof:lastmodified":1537714076,
+    "wof:name":"Ban Xeo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75229,
+    22.54256,
+    103.75229,
+    22.54256
+],
+  "geometry": {"coordinates":[103.75229,22.54256],"type":"Point"}
+}

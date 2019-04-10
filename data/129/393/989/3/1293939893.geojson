@@ -1,0 +1,72 @@
+{
+  "id": 1293939893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63333,10.43333,104.63333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":104.63333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tra Tien",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563945,
+    "gn:latitude":10.43333,
+    "gn:longitude":104.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tr\u00e0 Ti\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Tra Tien",
+        "Tr\u00e0 Ti\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563945
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1fd60488582a49eaa14b577b1dfe5dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782249,
+            "locality_id":1293939893,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1293939893,
+    "wof:lastmodified":1537713727,
+    "wof:name":"Tra Tien",
+    "wof:parent_id":1108782249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63333,
+    10.43333,
+    104.63333,
+    10.43333
+],
+  "geometry": {"coordinates":[104.63333,10.43333],"type":"Point"}
+}

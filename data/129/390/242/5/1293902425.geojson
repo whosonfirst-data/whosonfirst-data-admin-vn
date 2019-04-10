@@ -1,0 +1,67 @@
+{
+  "id": 1293902425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,22.11667,104.2,22.11667",
+    "geom:latitude":22.11667,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Cao Mou",
+    "gn:country_code":"VN",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586140,
+    "gn:latitude":22.11667,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Cao Mou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586140
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"59c085d439b620472a652a94cb2e66bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780955,
+            "locality_id":1293902425,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1293902425,
+    "wof:lastmodified":1536686071,
+    "wof:name":"Cao Mou",
+    "wof:parent_id":1108780955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    22.11667000000001,
+    104.2,
+    22.11667000000001
+],
+  "geometry": {"coordinates":[104.2,22.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276243985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26667,22.65,103.26667,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":103.26667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Tchung Chu Vang",
+    "gn:country_code":"VN",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566500,
+    "gn:latitude":22.65,
+    "gn:longitude":103.26667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tchung Chu Vang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566500
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9573afb8d4b6d5190e9fd976cc856077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1276243985,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1276243985,
+    "wof:lastmodified":1536898273,
+    "wof:name":"Tchung Chu Vang",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26667,
+    22.65,
+    103.26667,
+    22.65
+],
+  "geometry": {"coordinates":[103.26667,22.65],"type":"Point"}
+}

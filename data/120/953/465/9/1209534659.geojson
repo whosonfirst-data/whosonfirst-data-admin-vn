@@ -1,0 +1,64 @@
+{
+  "id": 1209534659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13838,21.94301,103.13838,21.94301",
+    "geom:latitude":21.94301,
+    "geom:longitude":103.13838,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Tin Toc",
+    "gn:country_code":"VN",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10965561,
+    "gn:latitude":21.94301,
+    "gn:longitude":103.13838,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Tin T\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tin T\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10965561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b0c511f63677b6d89d14b0fb8743d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209534659
+        }
+    ],
+    "wof:id":1209534659,
+    "wof:lastmodified":1537714739,
+    "wof:name":"Tin Toc",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13838,
+    21.94301,
+    103.13838,
+    21.94301
+],
+  "geometry": {"coordinates":[103.13838,21.94301],"type":"Point"}
+}

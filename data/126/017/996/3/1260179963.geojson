@@ -1,0 +1,67 @@
+{
+  "id": 1260179963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,22.88333,106.5,22.88333",
+    "geom:latitude":22.88333,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lung O",
+    "gn:country_code":"VN",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575332,
+    "gn:latitude":22.88333,
+    "gn:longitude":106.5,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u0169ng \u1ece",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e1df8ff5fb384c54d484edb8f4d25fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780887,
+            "locality_id":1260179963,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1260179963,
+    "wof:lastmodified":1536851704,
+    "wof:name":"Lung O",
+    "wof:parent_id":1108780887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    22.88333,
+    106.5,
+    22.88333
+],
+  "geometry": {"coordinates":[106.5,22.88333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193031479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.25,13.85,108.25,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":108.25,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"De Panang Groi",
+    "gn:country_code":"VN",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583558,
+    "gn:latitude":13.85,
+    "gn:longitude":108.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"De Panang Groi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Panang Grol",
+        "De Panang Groi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583558
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"49ef9ad9225ebc70db91cf184307e013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781807,
+            "locality_id":1193031479,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1193031479,
+    "wof:lastmodified":1537714002,
+    "wof:name":"De Panang Groi",
+    "wof:parent_id":1108781807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.25,
+    13.85,
+    108.25,
+    13.85
+],
+  "geometry": {"coordinates":[108.25,13.85],"type":"Point"}
+}

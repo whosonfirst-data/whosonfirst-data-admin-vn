@@ -1,0 +1,70 @@
+{
+  "id": 1343976963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93797,8.9213,104.93797,8.9213",
+    "geom:latitude":8.9213,
+    "geom:longitude":104.93797,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Vam Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643320,
+    "gn:latitude":8.9213,
+    "gn:longitude":104.93797,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"V\u00e0m D\u00ednh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e0m D\u00ednh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643320
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"701775e37551df287516f9af033a24a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782341,
+            "locality_id":1343976963,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1343976963,
+    "wof:lastmodified":1537714494,
+    "wof:name":"Vam Dinh",
+    "wof:parent_id":1108782341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93797,
+    8.9213,
+    104.93797,
+    8.9213
+],
+  "geometry": {"coordinates":[104.93797000000001,8.9213],"type":"Point"}
+}

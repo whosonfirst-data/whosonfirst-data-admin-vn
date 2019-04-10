@@ -1,0 +1,72 @@
+{
+  "id": 1260295879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30583,9.96361,106.30583,9.96361",
+    "geom:latitude":9.96361,
+    "geom:longitude":106.30583,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Xom Ca Huan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561921,
+    "gn:latitude":9.96361,
+    "gn:longitude":106.30583,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m C\u1ea3 Hu\u1ea5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u1ea3 Hu\u1ea5n",
+        "X\u00f3m C\u1ea3 Hu\u1ea5n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561921
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b3683b4389c7b6fdf089fddec160d2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782131,
+            "locality_id":1260295879,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1260295879,
+    "wof:lastmodified":1537713695,
+    "wof:name":"Xom Ca Huan",
+    "wof:parent_id":1108782131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30583,
+    9.96361,
+    106.30583,
+    9.96361
+],
+  "geometry": {"coordinates":[106.30583,9.96361],"type":"Point"}
+}

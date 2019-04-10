@@ -1,0 +1,70 @@
+{
+  "id": 1326941035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62719,18.48899,105.62719,18.48899",
+    "geom:latitude":18.48899,
+    "geom:longitude":105.62719,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thanh Long",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353996,
+    "gn:latitude":18.48899,
+    "gn:longitude":105.62719,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u00e0nh Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e0nh Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353996
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7ac0e319e26277fa51a5ed922f10c555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1326941035,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1326941035,
+    "wof:lastmodified":1537714704,
+    "wof:name":"Thanh Long",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62718999999998,
+    18.48899,
+    105.62718999999998,
+    18.48899
+],
+  "geometry": {"coordinates":[105.62718999999998,18.48899],"type":"Point"}
+}

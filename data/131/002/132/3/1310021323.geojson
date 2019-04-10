@@ -1,0 +1,74 @@
+{
+  "id": 1310021323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45464,21.92406,106.45464,21.92406",
+    "geom:latitude":21.92406,
+    "geom:longitude":106.45464,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Nghiec",
+    "gn:country_code":"VN",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589373,
+    "gn:latitude":21.92406,
+    "gn:longitude":106.45464,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"B\u1ea3n Nghi\u1ec7c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ngieo",
+        "B\u1ea3n Nghi\u1ec7p"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Nghi\u1ec7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589373
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6ad461816a988d6b8d18fc310d5fe627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1310021323,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1310021323,
+    "wof:lastmodified":1537714095,
+    "wof:name":"Ban Nghiec",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45464,
+    21.92406,
+    106.45464,
+    21.92406
+],
+  "geometry": {"coordinates":[106.45464,21.92406],"type":"Point"}
+}

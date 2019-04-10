@@ -1,0 +1,70 @@
+{
+  "id": 1260083509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96458,10.54543,104.96458,10.54543",
+    "geom:latitude":10.54543,
+    "geom:longitude":104.96458,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Po Thi",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375987,
+    "gn:latitude":10.54543,
+    "gn:longitude":104.96458,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"P\u00f4 Thi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00f4 Thi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375987
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aabcaf569e93e32f2cc1830045a5f060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782209,
+            "locality_id":1260083509,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1260083509,
+    "wof:lastmodified":1537714300,
+    "wof:name":"Po Thi",
+    "wof:parent_id":1108782209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96458,
+    10.54543,
+    104.96458,
+    10.54543
+],
+  "geometry": {"coordinates":[104.96458,10.54543],"type":"Point"}
+}

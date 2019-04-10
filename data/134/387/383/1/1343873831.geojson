@@ -1,0 +1,71 @@
+{
+  "id": 1343873831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,18.41667,105.7,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Truong Lau",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563592,
+    "gn:latitude":18.41667,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tru\u00f4ng L\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tru\u00f4ng L\u1ead",
+        "Tru\u00f4ng L\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563592
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5fb813cb31513a99e68b1bf9d22a5e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1343873831,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343873831,
+    "wof:lastmodified":1537713722,
+    "wof:name":"Truong Lau",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    18.41667,
+    105.7,
+    18.41667
+],
+  "geometry": {"coordinates":[105.7,18.41667],"type":"Point"}
+}

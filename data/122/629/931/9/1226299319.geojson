@@ -1,0 +1,72 @@
+{
+  "id": 1226299319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96667,10.25,103.96667,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":103.96667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Ganh Gia",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593466,
+    "gn:latitude":10.25,
+    "gn:longitude":103.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p G\u00e0nh Gi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganh Gio",
+        "\u1ea4p G\u00e0nh Gi\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593466
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4695bac5f0fa1cb9126b5430a38c9d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782245,
+            "locality_id":1226299319,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1226299319,
+    "wof:lastmodified":1537714186,
+    "wof:name":"Ap Ganh Gia",
+    "wof:parent_id":1108782245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96667,
+    10.25,
+    103.96667,
+    10.25
+],
+  "geometry": {"coordinates":[103.96666999999999,10.25],"type":"Point"}
+}

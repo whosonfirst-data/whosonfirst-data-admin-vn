@@ -1,0 +1,73 @@
+{
+  "id": 1242918627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21904,11.66772,106.21904,11.66772",
+    "geom:latitude":11.66772,
+    "geom:longitude":106.21904,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ka Tum",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586020,
+    "gn:latitude":11.66772,
+    "gn:longitude":106.21904,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"K\u00e0 Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katum",
+        "C\u00e0 Tum",
+        "K\u00e0 Tum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586020,
+        "wk:page":"Katum"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a0e9c3b087adbb453a22d06d5d6fcad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781935,
+            "locality_id":1242918627,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1242918627,
+    "wof:lastmodified":1537714030,
+    "wof:name":"Ka Tum",
+    "wof:parent_id":1108781935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21904,
+    11.66772,
+    106.21904,
+    11.66772
+],
+  "geometry": {"coordinates":[106.21904000000001,11.66772],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310645389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42212,20.22042,105.42212,20.22042",
+    "geom:latitude":20.22042,
+    "geom:longitude":105.42212,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550253,
+    "gn:latitude":20.22042,
+    "gn:longitude":105.42212,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"L\u00e0ng Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Vinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550253
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"641303fe595945a9c2cbf62016647d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781407,
+            "locality_id":1310645389,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1310645389,
+    "wof:lastmodified":1537714346,
+    "wof:name":"Lang Vinh",
+    "wof:parent_id":1108781407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42212,
+    20.22042,
+    105.42212,
+    20.22042
+],
+  "geometry": {"coordinates":[105.42212000000001,20.22042],"type":"Point"}
+}

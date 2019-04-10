@@ -1,0 +1,70 @@
+{
+  "id": 1260295823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06835,17.68045,106.06835,17.68045",
+    "geom:latitude":17.68045,
+    "geom:longitude":106.06835,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Phu Minh",
+    "gn:country_code":"VN",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646698,
+    "gn:latitude":17.68045,
+    "gn:longitude":106.06835,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646698
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1a6256183bff4cc75cc6ba39d9c592a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1260295823,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1260295823,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Phu Minh",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06835,
+    17.68045,
+    106.06835,
+    17.68045
+],
+  "geometry": {"coordinates":[106.06835,17.68045],"type":"Point"}
+}

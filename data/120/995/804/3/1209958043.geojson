@@ -1,0 +1,72 @@
+{
+  "id": 1209958043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0,20.83333,105.0,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":105.0,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Suoi Canh",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588828,
+    "gn:latitude":20.83333,
+    "gn:longitude":105.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Su\u1ed1i Canh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Su\u1ed1i Sanh",
+        "B\u1ea3n Su\u1ed1i Canh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588828
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a7ade61811982f6bac1529cff001dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1209958043,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1209958043,
+    "wof:lastmodified":1537714086,
+    "wof:name":"Ban Suoi Canh",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0,
+    20.83333,
+    105.0,
+    20.83333
+],
+  "geometry": {"coordinates":[105.0,20.83333],"type":"Point"}
+}

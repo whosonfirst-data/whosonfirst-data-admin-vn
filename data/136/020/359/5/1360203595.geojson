@@ -1,0 +1,75 @@
+{
+  "id": 1360203595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01777,8.66788,105.01777,8.66788",
+    "geom:latitude":8.66788,
+    "geom:longitude":105.01777,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Xom Ong Binh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561128,
+    "gn:latitude":8.66788,
+    "gn:longitude":105.01777,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Xom Ong Binh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ong Dinh",
+        "Xom Ong Binh",
+        "X\u00f3m \u00d4ng \u0110\u00ecnh"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4ng \u0110\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561128
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36e7f5fa0507dd787c1cfdfa5b47fb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782343,
+            "locality_id":1360203595,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1360203595,
+    "wof:lastmodified":1537713679,
+    "wof:name":"Xom Ong Binh",
+    "wof:parent_id":1108782343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01777,
+    8.66788,
+    105.01777,
+    8.66788
+],
+  "geometry": {"coordinates":[105.01777,8.66788],"type":"Point"}
+}

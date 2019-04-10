@@ -1,0 +1,72 @@
+{
+  "id": 1243465161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.98256,16.25779,107.98256,16.25779",
+    "geom:latitude":16.25779,
+    "geom:longitude":107.98256,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thuy Duong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565269,
+    "gn:latitude":16.25779,
+    "gn:longitude":107.98256,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Th\u1ee7y D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n Th\u1ee7y D\u01b0\u01a1n",
+        "Th\u1ee7y D\u01b0\u01a1ng",
+        "Th\u00f4n Th\u1ee7y D\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565269
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bf2fa0655d58bf31a67906992b160510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1243465161,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1243465161,
+    "wof:lastmodified":1537713746,
+    "wof:name":"Thuy Duong",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.98256,
+    16.25779,
+    107.98256,
+    16.25779
+],
+  "geometry": {"coordinates":[107.98256000000001,16.25779],"type":"Point"}
+}

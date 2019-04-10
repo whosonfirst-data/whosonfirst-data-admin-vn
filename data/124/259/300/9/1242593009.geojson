@@ -1,0 +1,67 @@
+{
+  "id": 1242593009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28333,20.11667,106.28333,20.11667",
+    "geom:latitude":20.11667,
+    "geom:longitude":106.28333,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Cho Con",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585355,
+    "gn:latitude":20.11667,
+    "gn:longitude":106.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ch\u1ee3 C\u1ed3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585355
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a0546011842f5a2934bb455ee89cb6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781367,
+            "locality_id":1242593009,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1242593009,
+    "wof:lastmodified":1537039683,
+    "wof:name":"Cho Con",
+    "wof:parent_id":1108781367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28333,
+    20.11667000000001,
+    106.28333,
+    20.11667000000001
+],
+  "geometry": {"coordinates":[106.28333000000001,20.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242788601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22555,21.72501,103.22555,21.72501",
+    "geom:latitude":21.72501,
+    "geom:longitude":103.22555,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Long Tao",
+    "gn:country_code":"VN",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425730,
+    "gn:latitude":21.72501,
+    "gn:longitude":103.22555,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"L\u00f4ng T\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00f4ng T\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425730
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9db67e969c0fbfe6cf628523c1b5ff84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1242788601,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1242788601,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Long Tao",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22555,
+    21.72501,
+    103.22555,
+    21.72501
+],
+  "geometry": {"coordinates":[103.22555,21.72501],"type":"Point"}
+}

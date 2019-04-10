@@ -1,0 +1,67 @@
+{
+  "id": 1243183161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1,21.85,104.1,21.85",
+    "geom:latitude":21.85,
+    "geom:longitude":104.1,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kim Noi",
+    "gn:country_code":"VN",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578883,
+    "gn:latitude":21.85,
+    "gn:longitude":104.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kim N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578883
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"26992694c09f4a8ff253ceb07676cae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1243183161,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1243183161,
+    "wof:lastmodified":1536688132,
+    "wof:name":"Kim Noi",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1,
+    21.85,
+    104.1,
+    21.85
+],
+  "geometry": {"coordinates":[104.09999999999999,21.85],"type":"Point"}
+}

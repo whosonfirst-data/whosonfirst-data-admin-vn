@@ -1,0 +1,67 @@
+{
+  "id": 1344175507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.57042,16.41076,107.57042,16.41076",
+    "geom:latitude":16.41076,
+    "geom:longitude":107.57042,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Tomb of Khai Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942035,
+    "gn:latitude":16.41076,
+    "gn:longitude":107.57042,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tomb of Khai Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942035
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"129653eaede9d806f00a78a1a9289411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781567,
+            "locality_id":1344175507,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1344175507,
+    "wof:lastmodified":1536709869,
+    "wof:name":"Tomb of Khai Dinh",
+    "wof:parent_id":1108781567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.57042,
+    16.41076,
+    107.57042,
+    16.41076
+],
+  "geometry": {"coordinates":[107.57042,16.41076],"type":"Point"}
+}

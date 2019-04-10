@@ -1,0 +1,71 @@
+{
+  "id": 1276892945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.93333,11.58333,108.93333,11.58333",
+    "geom:latitude":11.58333,
+    "geom:longitude":108.93333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Van Phuoc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565219,
+    "gn:latitude":11.58333,
+    "gn:longitude":108.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n V\u1ea1n Ph\u01b0\u1edbc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu My",
+        "Th\u00f4n V\u1ea1n Ph\u01b0\u1edbc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565219
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"97679d7c3d754fce7cb0687795d33de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781735,
+            "locality_id":1276892945,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1276892945,
+    "wof:lastmodified":1537713743,
+    "wof:name":"Thon Van Phuoc",
+    "wof:parent_id":1108781735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.93333,
+    11.58333,
+    108.93333,
+    11.58333
+],
+  "geometry": {"coordinates":[108.93333,11.58333],"type":"Point"}
+}

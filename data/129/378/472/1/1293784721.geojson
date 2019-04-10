@@ -1,0 +1,70 @@
+{
+  "id": 1293784721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38243,10.26191,106.38243,10.26191",
+    "geom:latitude":10.26191,
+    "geom:longitude":106.38243,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Phu Dan",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337742,
+    "gn:latitude":10.26191,
+    "gn:longitude":106.38243,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ph\u00fa D\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa D\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337742
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a03325ce06ef21d32ead9d84e4a04405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782113,
+            "locality_id":1293784721,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293784721,
+    "wof:lastmodified":1537714282,
+    "wof:name":"Phu Dan",
+    "wof:parent_id":1108782113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38243,
+    10.26191,
+    106.38243,
+    10.26191
+],
+  "geometry": {"coordinates":[106.38243,10.26191],"type":"Point"}
+}

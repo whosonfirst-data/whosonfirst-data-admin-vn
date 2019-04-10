@@ -1,0 +1,72 @@
+{
+  "id": 1243021741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56667,20.08333,105.56667,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":105.56667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Van Lung",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563030,
+    "gn:latitude":20.08333,
+    "gn:longitude":105.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u00e2n Lung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Long",
+        "V\u00e2n Lung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91be20a34463313348e3c26014c021b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781413,
+            "locality_id":1243021741,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1243021741,
+    "wof:lastmodified":1537713715,
+    "wof:name":"Van Lung",
+    "wof:parent_id":1108781413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56667,
+    20.08333,
+    105.56667,
+    20.08333
+],
+  "geometry": {"coordinates":[105.56667,20.08333],"type":"Point"}
+}

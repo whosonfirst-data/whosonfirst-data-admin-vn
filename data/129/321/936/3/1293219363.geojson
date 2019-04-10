@@ -1,0 +1,74 @@
+{
+  "id": 1293219363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.57065,22.19912,103.57065,22.19912",
+    "geom:latitude":22.19912,
+    "geom:longitude":103.57065,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban A Pung",
+    "gn:country_code":"VN",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591207,
+    "gn:latitude":22.19912,
+    "gn:longitude":103.57065,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n A P\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban A Pong",
+        "B\u1ea3n A Pung"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n A P\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591207
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bc396df30e5bbc29d78353956e844e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1293219363,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1293219363,
+    "wof:lastmodified":1537714134,
+    "wof:name":"Ban A Pung",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.57065,
+    22.19912,
+    103.57065,
+    22.19912
+],
+  "geometry": {"coordinates":[103.57065,22.19912],"type":"Point"}
+}

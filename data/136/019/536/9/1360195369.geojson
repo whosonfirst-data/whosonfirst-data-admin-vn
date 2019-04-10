@@ -1,0 +1,70 @@
+{
+  "id": 1360195369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2019,21.79105,105.2019,21.79105",
+    "geom:latitude":21.79105,
+    "geom:longitude":105.2019,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Chau Son",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138188,
+    "gn:latitude":21.79105,
+    "gn:longitude":105.2019,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ch\u00e2u S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u00e2u S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138188
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"946834823feb5085cd490a30d997445d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780921,
+            "locality_id":1360195369,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1360195369,
+    "wof:lastmodified":1537714219,
+    "wof:name":"Chau Son",
+    "wof:parent_id":1108780921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2019,
+    21.79105,
+    105.2019,
+    21.79105
+],
+  "geometry": {"coordinates":[105.20189999999999,21.79105],"type":"Point"}
+}

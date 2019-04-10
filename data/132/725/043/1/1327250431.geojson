@@ -1,0 +1,72 @@
+{
+  "id": 1327250431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,11.0,108.1,11.0",
+    "geom:latitude":11.0,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Ap My Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592871,
+    "gn:latitude":11.0,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p M\u1ef9 Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My Thinh",
+        "M\u1ef9 Th\u1ea1nh",
+        "\u1ea4p M\u1ef9 Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592871
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cfb5b13344e814ed2de262c140f1006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781761,
+            "locality_id":1327250431,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1327250431,
+    "wof:lastmodified":1537714171,
+    "wof:name":"Ap My Thanh",
+    "wof:parent_id":1108781761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    11.0,
+    108.1,
+    11.0
+],
+  "geometry": {"coordinates":[108.09999999999999,11.0],"type":"Point"}
+}

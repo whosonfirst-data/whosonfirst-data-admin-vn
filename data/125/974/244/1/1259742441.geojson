@@ -1,0 +1,73 @@
+{
+  "id": 1259742441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66667,21.03333,104.66667,21.03333",
+    "geom:latitude":21.03333,
+    "geom:longitude":104.66667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Khao Tua",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590155,
+    "gn:latitude":21.03333,
+    "gn:longitude":104.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ea3n Khao Tua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khao Tuu",
+        "Bao To",
+        "B\u1ea3n Khao Tua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590155
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a4dbd1ba1b63399519aa0df8e1a53b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1259742441,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1259742441,
+    "wof:lastmodified":1537714110,
+    "wof:name":"Ban Khao Tua",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66667,
+    21.03333,
+    104.66667,
+    21.03333
+],
+  "geometry": {"coordinates":[104.66667,21.03333],"type":"Point"}
+}

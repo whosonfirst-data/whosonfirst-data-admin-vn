@@ -1,0 +1,67 @@
+{
+  "id": 1225785791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,19.48333,105.78333,19.48333",
+    "geom:latitude":19.48333,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Hao Mon Trung",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581113,
+    "gn:latitude":19.48333,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"H\u00e0o M\u00f4n Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581113
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"22a6957f48e542c9c71c62e1105a24cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1225785791,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1225785791,
+    "wof:lastmodified":1537096842,
+    "wof:name":"Hao Mon Trung",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    19.48333,
+    105.78333,
+    19.48333
+],
+  "geometry": {"coordinates":[105.78333000000001,19.48333],"type":"Point"}
+}

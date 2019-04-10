@@ -1,0 +1,64 @@
+{
+  "id": 1209233491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89001,18.35504,105.89001,18.35504",
+    "geom:latitude":18.35504,
+    "geom:longitude":105.89001,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Doai Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275313,
+    "gn:latitude":18.35504,
+    "gn:longitude":105.89001,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"\u0110o\u00e0i Th\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110o\u00e0i Th\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275313
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4662fbb03844f16584f79edca8a1f6c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233491
+        }
+    ],
+    "wof:id":1209233491,
+    "wof:lastmodified":1537714675,
+    "wof:name":"Doai Thinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89001,
+    18.35504,
+    105.89001,
+    18.35504
+],
+  "geometry": {"coordinates":[105.89001,18.35504],"type":"Point"}
+}

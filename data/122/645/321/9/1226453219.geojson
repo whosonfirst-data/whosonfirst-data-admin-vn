@@ -1,0 +1,67 @@
+{
+  "id": 1226453219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91046,22.44969,105.91046,22.44969",
+    "geom:latitude":22.44969,
+    "geom:longitude":105.91046,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuoi Vuong",
+    "gn:country_code":"VN",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311739,
+    "gn:latitude":22.44969,
+    "gn:longitude":105.91046,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khu\u1ed5i Vu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311739
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d55039ee27c6a5038ff24b72f82fbd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1226453219,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1226453219,
+    "wof:lastmodified":1536633231,
+    "wof:name":"Khuoi Vuong",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91046,
+    22.44969,
+    105.91046,
+    22.44969
+],
+  "geometry": {"coordinates":[105.91046,22.44969],"type":"Point"}
+}

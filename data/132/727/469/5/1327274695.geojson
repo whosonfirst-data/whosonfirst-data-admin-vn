@@ -1,0 +1,67 @@
+{
+  "id": 1327274695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5,19.85,105.5,19.85",
+    "geom:latitude":19.85,
+    "geom:longitude":105.5,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Khong Tao",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579222,
+    "gn:latitude":19.85,
+    "gn:longitude":105.5,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kh\u1ed5ng T\u00e0o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579222
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2429fa86d8088a7541c95278042ef1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781423,
+            "locality_id":1327274695,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327274695,
+    "wof:lastmodified":1536908832,
+    "wof:name":"Khong Tao",
+    "wof:parent_id":1108781423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5,
+    19.85,
+    105.5,
+    19.85
+],
+  "geometry": {"coordinates":[105.5,19.85],"type":"Point"}
+}

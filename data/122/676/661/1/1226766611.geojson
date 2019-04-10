@@ -1,0 +1,70 @@
+{
+  "id": 1226766611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.72041,21.1831,105.72041,21.1831",
+    "geom:latitude":21.1831,
+    "geom:longitude":105.72041,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Me Linh",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8609125,
+    "gn:latitude":21.1831,
+    "gn:longitude":105.72041,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"M\u00ea Linh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u00ea Linh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609125
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18e48e5a6ec5b4f03f0de9e4c4c6d7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780815,
+            "locality_id":1226766611,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1226766611,
+    "wof:lastmodified":1537714367,
+    "wof:name":"Me Linh",
+    "wof:parent_id":1108780815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.72041000000002,
+    21.1831,
+    105.72041000000002,
+    21.1831
+],
+  "geometry": {"coordinates":[105.72041000000002,21.1831],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243078333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.20417,12.33194,109.20417,12.33194",
+    "geom:latitude":12.33194,
+    "geom:longitude":109.20417,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Vinh Luong",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1902448,
+    "gn:latitude":12.33194,
+    "gn:longitude":109.20417,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"V\u0129nh Luong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1902448
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7c73d91f676c05afa158a457717d3b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781715,
+            "locality_id":1243078333,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1243078333,
+    "wof:lastmodified":1536838051,
+    "wof:name":"Vinh Luong",
+    "wof:parent_id":1108781715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.20417,
+    12.33194,
+    109.20417,
+    12.33194
+],
+  "geometry": {"coordinates":[109.20417,12.33194],"type":"Point"}
+}

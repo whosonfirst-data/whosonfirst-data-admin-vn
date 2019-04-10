@@ -1,0 +1,73 @@
+{
+  "id": 1293898713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54967,21.6986,103.54967,21.6986",
+    "geom:latitude":21.6986,
+    "geom:longitude":103.54967,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ta Ma",
+    "gn:country_code":"VN",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570993,
+    "gn:latitude":21.6986,
+    "gn:longitude":103.54967,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Ta Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phiang Ta Man"
+    ],
+    "name:vie_x_preferred":[
+        "Ta Ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570993
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bb3489d615acb5f782f73c6ee420165c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780967,
+            "locality_id":1293898713,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1293898713,
+    "wof:lastmodified":1537713840,
+    "wof:name":"Ta Ma",
+    "wof:parent_id":1108780967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54967,
+    21.6986,
+    103.54967,
+    21.6986
+],
+  "geometry": {"coordinates":[103.54967000000001,21.6986],"type":"Point"}
+}

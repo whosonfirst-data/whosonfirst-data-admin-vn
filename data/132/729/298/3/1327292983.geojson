@@ -1,0 +1,73 @@
+{
+  "id": 1327292983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31727,20.92248,103.31727,20.92248",
+    "geom:latitude":20.92248,
+    "geom:longitude":103.31727,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Lieng",
+    "gn:country_code":"VN",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589932,
+    "gn:latitude":20.92248,
+    "gn:longitude":103.31727,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"B\u1ea3n Li\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Li\u00eang"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Li\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589932
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"98c982a4c5df8b57440a6ee34258d691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781017,
+            "locality_id":1327292983,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1327292983,
+    "wof:lastmodified":1537714106,
+    "wof:name":"Ban Lieng",
+    "wof:parent_id":1108781017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31727,
+    20.92248,
+    103.31727,
+    20.92248
+],
+  "geometry": {"coordinates":[103.31726999999999,20.92248],"type":"Point"}
+}

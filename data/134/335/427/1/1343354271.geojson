@@ -1,0 +1,73 @@
+{
+  "id": 1343354271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42628,22.89239,105.42628,22.89239",
+    "geom:latitude":22.89239,
+    "geom:longitude":105.42628,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ban Na Rim",
+    "gn:country_code":"VN",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309665,
+    "gn:latitude":22.89239,
+    "gn:longitude":105.42628,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u1ea3n N\u00e0 Rim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Dim"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u00e0 Rim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309665
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bedf3a95d6da662c15f864f9bb6ac8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1343354271,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343354271,
+    "wof:lastmodified":1537714262,
+    "wof:name":"Ban Na Rim",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42628,
+    22.89239,
+    105.42628,
+    22.89239
+],
+  "geometry": {"coordinates":[105.42628000000001,22.89239],"type":"Point"}
+}

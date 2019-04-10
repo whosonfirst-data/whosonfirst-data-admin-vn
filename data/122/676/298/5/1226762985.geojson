@@ -1,0 +1,70 @@
+{
+  "id": 1226762985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36594,21.73978,105.36594,21.73978",
+    "geom:latitude":21.73978,
+    "geom:longitude":105.36594,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Binh Nguyen",
+    "gn:country_code":"VN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138893,
+    "gn:latitude":21.73978,
+    "gn:longitude":105.36594,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"B\u00ecnh Nguy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Nguy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138893
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3bb3e241394dfbfa004f07e73d19f893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1226762985,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226762985,
+    "wof:lastmodified":1537714224,
+    "wof:name":"Binh Nguyen",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36594,
+    21.73978,
+    105.36594,
+    21.73978
+],
+  "geometry": {"coordinates":[105.36593999999999,21.73978],"type":"Point"}
+}

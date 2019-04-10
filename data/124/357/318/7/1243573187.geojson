@@ -1,0 +1,73 @@
+{
+  "id": 1243573187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.87676,11.46787,108.87676,11.46787",
+    "geom:latitude":11.46787,
+    "geom:longitude":108.87676,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Vu Bon",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565195,
+    "gn:latitude":11.46787,
+    "gn:longitude":108.87676,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"V\u1ee5 B\u1ed5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n V\u1ee5 B\u1ed5n"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ee5 B\u1ed5n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565195
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8bdde3338c249f17cc41abf35dbb467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781745,
+            "locality_id":1243573187,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1243573187,
+    "wof:lastmodified":1537713742,
+    "wof:name":"Vu Bon",
+    "wof:parent_id":1108781745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.87676,
+    11.46787,
+    108.87676,
+    11.46787
+],
+  "geometry": {"coordinates":[108.87676,11.46787],"type":"Point"}
+}

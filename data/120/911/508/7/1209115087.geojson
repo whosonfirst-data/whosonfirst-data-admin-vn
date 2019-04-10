@@ -1,0 +1,65 @@
+{
+  "id": 1209115087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,10.73333,105.28333,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu Lam",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570529,
+    "gn:latitude":10.73333,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ph\u00fa L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u00fa L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570529,
+        "wk:page":"Ph%C3%BA_L%C3%A2m"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"63fd612142fa64b99f4d03103d6d7e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209115087
+        }
+    ],
+    "wof:id":1209115087,
+    "wof:lastmodified":1537713831,
+    "wof:name":"Phu Lam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    10.73333,
+    105.28333,
+    10.73333
+],
+  "geometry": {"coordinates":[105.28333000000001,10.73333],"type":"Point"}
+}

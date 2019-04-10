@@ -1,0 +1,67 @@
+{
+  "id": 1344055151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06667,22.73333,106.06667,22.73333",
+    "geom:latitude":22.73333,
+    "geom:longitude":106.06667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sam Luong",
+    "gn:country_code":"VN",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568149,
+    "gn:latitude":22.73333,
+    "gn:longitude":106.06667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Sam Lu\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568149
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5010a31a410d6c13a27778f4b8396fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780897,
+            "locality_id":1344055151,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1344055151,
+    "wof:lastmodified":1536882630,
+    "wof:name":"Sam Luong",
+    "wof:parent_id":1108780897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06667,
+    22.73333,
+    106.06667,
+    22.73333
+],
+  "geometry": {"coordinates":[106.06667,22.73333],"type":"Point"}
+}

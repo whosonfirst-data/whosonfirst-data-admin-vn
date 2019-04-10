@@ -1,0 +1,61 @@
+{
+  "id": 1209121653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33333,18.88333,105.33333,18.88333",
+    "geom:latitude":18.88333,
+    "geom:longitude":105.33333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hoang Son",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580679,
+    "gn:latitude":18.88333,
+    "gn:longitude":105.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Hoang Son",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580679
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"30170efe4252fe88bec7a425b19e01e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121653
+        }
+    ],
+    "wof:id":1209121653,
+    "wof:lastmodified":1536297078,
+    "wof:name":"Hoang Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33333,
+    18.88333,
+    105.33333,
+    18.88333
+],
+  "geometry": {"coordinates":[105.33333,18.88333],"type":"Point"}
+}

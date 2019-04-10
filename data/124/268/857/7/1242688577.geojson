@@ -1,0 +1,70 @@
+{
+  "id": 1242688577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92561,20.94589,105.92561,20.94589",
+    "geom:latitude":20.94589,
+    "geom:longitude":105.92561,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Thon Ben",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8612838,
+    "gn:latitude":20.94589,
+    "gn:longitude":105.92561,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Th\u00f4n B\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n B\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8612838
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"388cbd35f1193b53d12cca85a06f67a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781297,
+            "locality_id":1242688577,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1242688577,
+    "wof:lastmodified":1537714370,
+    "wof:name":"Thon Ben",
+    "wof:parent_id":1108781297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92561,
+    20.94589,
+    105.92561,
+    20.94589
+],
+  "geometry": {"coordinates":[105.92561000000001,20.94589],"type":"Point"}
+}

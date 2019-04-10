@@ -1,0 +1,77 @@
+{
+  "id": 1310116713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38266,22.59269,103.38266,22.59269",
+    "geom:latitude":22.59269,
+    "geom:longitude":103.38266,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Lang Mot",
+    "gn:country_code":"VN",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589995,
+    "gn:latitude":22.59269,
+    "gn:longitude":103.38266,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"B\u1ea3n Lang M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Can Lang",
+        "B\u1ea3n Lang"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Lang M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Lang 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589995
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8aa32521ab238ecbe286f71b04a4049f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1310116713,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310116713,
+    "wof:lastmodified":1537714107,
+    "wof:name":"Ban Lang Mot",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38266,
+    22.59269,
+    103.38266,
+    22.59269
+],
+  "geometry": {"coordinates":[103.38266,22.59269],"type":"Point"}
+}

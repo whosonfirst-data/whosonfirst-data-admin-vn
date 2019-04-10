@@ -1,0 +1,64 @@
+{
+  "id": 1209121631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45476,21.74566,105.45476,21.74566",
+    "geom:latitude":21.74566,
+    "geom:longitude":105.45476,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ao Co",
+    "gn:country_code":"VN",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8139003,
+    "gn:latitude":21.74566,
+    "gn:longitude":105.45476,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ao C\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ao C\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139003
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eabf8f124e13bc9bb54e8a5f00ae7c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121631
+        }
+    ],
+    "wof:id":1209121631,
+    "wof:lastmodified":1537714226,
+    "wof:name":"Ao Co",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45476,
+    21.74566,
+    105.45476,
+    21.74566
+],
+  "geometry": {"coordinates":[105.45475999999999,21.74566],"type":"Point"}
+}

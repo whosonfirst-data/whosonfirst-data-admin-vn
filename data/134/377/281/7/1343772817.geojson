@@ -1,0 +1,74 @@
+{
+  "id": 1343772817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.47637,16.48936,107.47637,16.48936",
+    "geom:latitude":16.48936,
+    "geom:longitude":107.47637,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Van Xa Tay",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565214,
+    "gn:latitude":16.48936,
+    "gn:longitude":107.47637,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"V\u0103n X\u00e1 T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Xa",
+        "Th\u00f4n V\u0103n X\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0103n X\u00e1 T\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565214
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bc2a3b6cc1840d7099c742143e0bfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781569,
+            "locality_id":1343772817,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1343772817,
+    "wof:lastmodified":1537713743,
+    "wof:name":"Van Xa Tay",
+    "wof:parent_id":1108781569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.47637,
+    16.48936,
+    107.47637,
+    16.48936
+],
+  "geometry": {"coordinates":[107.47637,16.48936],"type":"Point"}
+}

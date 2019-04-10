@@ -1,0 +1,67 @@
+{
+  "id": 1276161519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.33333,15.48333,108.33333,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":108.33333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Dong Nga",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582710,
+    "gn:latitude":15.48333,
+    "gn:longitude":108.33333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng Nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"94f82093c46643ceb8d310b085f97286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781621,
+            "locality_id":1276161519,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1276161519,
+    "wof:lastmodified":1537008287,
+    "wof:name":"Dong Nga",
+    "wof:parent_id":1108781621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.33333,
+    15.48333,
+    108.33333,
+    15.48333
+],
+  "geometry": {"coordinates":[108.33333,15.48333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327344229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31822,9.44882,105.31822,9.44882",
+    "geom:latitude":9.44882,
+    "geom:longitude":105.31822,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Thay Cai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560901,
+    "gn:latitude":9.44882,
+    "gn:longitude":105.31822,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Th\u1ea7y Cai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m Th\u1ea7y Cai"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ea7y Cai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560901
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d9449e3e43f5124e32bbed60f1091efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782313,
+            "locality_id":1327344229,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1327344229,
+    "wof:lastmodified":1537713673,
+    "wof:name":"Thay Cai",
+    "wof:parent_id":1108782313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31822,
+    9.44882,
+    105.31822,
+    9.44882
+],
+  "geometry": {"coordinates":[105.31822,9.44882],"type":"Point"}
+}

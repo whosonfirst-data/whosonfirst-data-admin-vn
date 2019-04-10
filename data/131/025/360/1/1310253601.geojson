@@ -1,0 +1,73 @@
+{
+  "id": 1310253601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.11549,21.18462,104.11549,21.18462",
+    "geom:latitude":21.18462,
+    "geom:longitude":104.11549,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tieu Khu Mot",
+    "gn:country_code":"VN",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314624,
+    "gn:latitude":21.18462,
+    "gn:longitude":104.11549,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ti\u1ec3u Khu M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ec3u Khu M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Ti\u1ec3u Khu 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314624
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"970a27bde8e36ad84b8803d1290d26bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1310253601,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310253601,
+    "wof:lastmodified":1537714691,
+    "wof:name":"Tieu Khu Mot",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.11549,
+    21.18462,
+    104.11549,
+    21.18462
+],
+  "geometry": {"coordinates":[104.11548999999999,21.18462],"type":"Point"}
+}

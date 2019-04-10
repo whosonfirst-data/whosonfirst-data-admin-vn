@@ -1,0 +1,67 @@
+{
+  "id": 1243565321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,18.2,105.7,18.2",
+    "geom:latitude":18.2,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thinh Lac",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565840,
+    "gn:latitude":18.2,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u1ecbnh L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565840
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b59b04f230511e51b61d4c110a3eda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1243565321,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243565321,
+    "wof:lastmodified":1536632712,
+    "wof:name":"Thinh Lac",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    18.2,
+    105.7,
+    18.2
+],
+  "geometry": {"coordinates":[105.7,18.2],"type":"Point"}
+}

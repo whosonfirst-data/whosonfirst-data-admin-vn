@@ -1,0 +1,73 @@
+{
+  "id": 1293803081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.34189,21.11466,103.34189,21.11466",
+    "geom:latitude":21.11466,
+    "geom:longitude":103.34189,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Huoi Su Mot",
+    "gn:country_code":"VN",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10266930,
+    "gn:latitude":21.11466,
+    "gn:longitude":103.34189,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Hu\u1ed5i Su M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Hu\u1ed5i Su M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Hu\u1ed5i Su 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10266930
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aa1e41ab9ad9cfb89d33f49c4bc0b2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1293803081,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1293803081,
+    "wof:lastmodified":1537714664,
+    "wof:name":"Huoi Su Mot",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.34189,
+    21.11466,
+    103.34189,
+    21.11466
+],
+  "geometry": {"coordinates":[103.34189000000001,21.11466],"type":"Point"}
+}

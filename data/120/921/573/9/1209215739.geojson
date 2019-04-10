@@ -1,0 +1,64 @@
+{
+  "id": 1209215739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37542,10.08032,106.37542,10.08032",
+    "geom:latitude":10.08032,
+    "geom:longitude":106.37542,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Phu Loc Ha",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531929,
+    "gn:latitude":10.08032,
+    "gn:longitude":106.37542,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u00fa L\u1ed9c H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa L\u1ed9c H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531929
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c99d78bf1e7d6c6099fc6788fac082d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209215739
+        }
+    ],
+    "wof:id":1209215739,
+    "wof:lastmodified":1537714474,
+    "wof:name":"Phu Loc Ha",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37542,
+    10.08032,
+    106.37542,
+    10.08032
+],
+  "geometry": {"coordinates":[106.37542000000001,10.08032],"type":"Point"}
+}

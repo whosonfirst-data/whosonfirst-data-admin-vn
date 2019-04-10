@@ -1,0 +1,73 @@
+{
+  "id": 1226061575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2935,21.90631,105.2935,21.90631",
+    "geom:latitude":21.90631,
+    "geom:longitude":105.2935,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Chiem",
+    "gn:country_code":"VN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576839,
+    "gn:latitude":21.90631,
+    "gn:longitude":105.2935,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng Chi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Nhi\u00eau Chi\u00eam"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng Chi\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eb417aef910c5eb123a3767323e953c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1226061575,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226061575,
+    "wof:lastmodified":1537713913,
+    "wof:name":"Lang Chiem",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2935,
+    21.90631,
+    105.2935,
+    21.90631
+],
+  "geometry": {"coordinates":[105.29349999999999,21.90631],"type":"Point"}
+}

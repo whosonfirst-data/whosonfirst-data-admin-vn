@@ -1,0 +1,70 @@
+{
+  "id": 1310016471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50243,19.20285,105.50243,19.20285",
+    "geom:latitude":19.20285,
+    "geom:longitude":105.50243,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ngoc Dien",
+    "gn:country_code":"VN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178340,
+    "gn:latitude":19.20285,
+    "gn:longitude":105.50243,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Ng\u1ecdc \u0110i\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc \u0110i\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178340
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b52446535f928151c705d52415d8da0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1310016471,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1310016471,
+    "wof:lastmodified":1537714600,
+    "wof:name":"Ngoc Dien",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50243,
+    19.20285,
+    105.50243,
+    19.20285
+],
+  "geometry": {"coordinates":[105.50243,19.20285],"type":"Point"}
+}

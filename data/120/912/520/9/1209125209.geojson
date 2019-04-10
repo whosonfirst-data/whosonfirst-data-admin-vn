@@ -1,0 +1,64 @@
+{
+  "id": 1209125209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05421,11.71785,109.05421,11.71785",
+    "geom:latitude":11.71785,
+    "geom:longitude":109.05421,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"An Dat",
+    "gn:country_code":"VN",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8994000,
+    "gn:latitude":11.71785,
+    "gn:longitude":109.05421,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u1ea4n \u0110\u1ea1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u1ea4n \u0110\u1ea1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8994000
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68ea367e04bd0575034d37cce876f9ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125209
+        }
+    ],
+    "wof:id":1209125209,
+    "wof:lastmodified":1537714426,
+    "wof:name":"An Dat",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05421,
+    11.71785,
+    109.05421,
+    11.71785
+],
+  "geometry": {"coordinates":[109.05421,11.71785],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276889147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.9,16.45,106.9,16.45",
+    "geom:latitude":16.45,
+    "geom:longitude":106.9,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Tam Boai",
+    "gn:country_code":"VN",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567198,
+    "gn:latitude":16.45,
+    "gn:longitude":106.9,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Tam Boai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567198
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"631e22cbc38853887ed76021832be1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781549,
+            "locality_id":1276889147,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1276889147,
+    "wof:lastmodified":1537027476,
+    "wof:name":"Tam Boai",
+    "wof:parent_id":1108781549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.9,
+    16.45,
+    106.9,
+    16.45
+],
+  "geometry": {"coordinates":[106.90000000000001,16.45],"type":"Point"}
+}

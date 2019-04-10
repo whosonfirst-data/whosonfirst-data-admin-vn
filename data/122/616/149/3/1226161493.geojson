@@ -1,0 +1,67 @@
+{
+  "id": 1226161493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,21.9,105.75,21.9",
+    "geom:latitude":21.9,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Muong",
+    "gn:country_code":"VN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589647,
+    "gn:latitude":21.9,
+    "gn:longitude":105.75,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Muong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589647
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"03bab8771faffb735093d2dba7445fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781071,
+            "locality_id":1226161493,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1226161493,
+    "wof:lastmodified":1537052757,
+    "wof:name":"Ban Muong",
+    "wof:parent_id":1108781071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    21.9,
+    105.75,
+    21.9
+],
+  "geometry": {"coordinates":[105.75,21.9],"type":"Point"}
+}

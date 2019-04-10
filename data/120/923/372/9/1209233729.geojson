@@ -1,0 +1,65 @@
+{
+  "id": 1209233729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18451,22.11605,105.18451,22.11605",
+    "geom:latitude":22.11605,
+    "geom:longitude":105.18451,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Tchao",
+    "gn:country_code":"VN",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576595,
+    "gn:latitude":22.11605,
+    "gn:longitude":105.18451,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Tchao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Chan",
+        "L\u00e0ng Tchao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576595
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0112a0890f597b6b3077f1f8d79fffcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233729
+        }
+    ],
+    "wof:id":1209233729,
+    "wof:lastmodified":1537713909,
+    "wof:name":"Lang Tchao",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18451,
+    22.11605,
+    105.18451,
+    22.11605
+],
+  "geometry": {"coordinates":[105.18451,22.11605],"type":"Point"}
+}

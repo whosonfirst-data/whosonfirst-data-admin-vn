@@ -1,0 +1,67 @@
+{
+  "id": 1277089809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.83333,13.48333,108.83333,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":108.83333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ma Choi",
+    "gn:country_code":"VN",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575088,
+    "gn:latitude":13.48333,
+    "gn:longitude":108.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ma Choi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575088
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cbe1eca20464500d67eb294c6a712151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781695,
+            "locality_id":1277089809,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1277089809,
+    "wof:lastmodified":1536757496,
+    "wof:name":"Ma Choi",
+    "wof:parent_id":1108781695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.83333,
+    13.48333,
+    108.83333,
+    13.48333
+],
+  "geometry": {"coordinates":[108.83333,13.48333],"type":"Point"}
+}

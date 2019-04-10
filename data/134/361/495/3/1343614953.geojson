@@ -1,0 +1,67 @@
+{
+  "id": 1343614953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56667,20.1,105.56667,20.1",
+    "geom:latitude":20.1,
+    "geom:longitude":105.56667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Cam Hoang",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586404,
+    "gn:latitude":20.1,
+    "gn:longitude":105.56667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"C\u1ea9m Ho\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586404
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18c3f3a2da884701e3345467e32bb4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781413,
+            "locality_id":1343614953,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1343614953,
+    "wof:lastmodified":1537019903,
+    "wof:name":"Cam Hoang",
+    "wof:parent_id":1108781413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56667,
+    20.1,
+    105.56667,
+    20.1
+],
+  "geometry": {"coordinates":[105.56667,20.1],"type":"Point"}
+}

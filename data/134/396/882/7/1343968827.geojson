@@ -1,0 +1,67 @@
+{
+  "id": 1343968827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53333,14.91667,108.53333,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":108.53333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Nongam",
+    "gn:country_code":"VN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571840,
+    "gn:latitude":14.91667,
+    "gn:longitude":108.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nongam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571840
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41c5758eedcdab336cf0ce25ecc081da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1343968827,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1343968827,
+    "wof:lastmodified":1537007094,
+    "wof:name":"Nongam",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53333,
+    14.91667,
+    108.53333,
+    14.91667
+],
+  "geometry": {"coordinates":[108.53333000000001,14.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327446831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40475,21.23335,103.40475,21.23335",
+    "geom:latitude":21.23335,
+    "geom:longitude":103.40475,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ban Lai Mot",
+    "gn:country_code":"VN",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10266872,
+    "gn:latitude":21.23335,
+    "gn:longitude":103.40475,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"B\u1ea3n L\u1ea1i M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u1ea1i M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n L\u1ea1i 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10266872
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7e7c76ff2fdf7292659c1119690b150c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1327446831,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1327446831,
+    "wof:lastmodified":1537714663,
+    "wof:name":"Ban Lai Mot",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40475,
+    21.23335,
+    103.40475,
+    21.23335
+],
+  "geometry": {"coordinates":[103.40475000000001,21.23335],"type":"Point"}
+}

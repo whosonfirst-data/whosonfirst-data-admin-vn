@@ -1,0 +1,67 @@
+{
+  "id": 1360253333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.38333,11.55,107.38333,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":107.38333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bu Pang",
+    "gn:country_code":"VN",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586757,
+    "gn:latitude":11.55,
+    "gn:longitude":107.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586757
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bfce0eb2f9200cd1318e0d690f7d35d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781909,
+            "locality_id":1360253333,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1360253333,
+    "wof:lastmodified":1536703326,
+    "wof:name":"Bu Pang",
+    "wof:parent_id":1108781909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.38333,
+    11.55,
+    107.38333,
+    11.55
+],
+  "geometry": {"coordinates":[107.38333,11.55],"type":"Point"}
+}

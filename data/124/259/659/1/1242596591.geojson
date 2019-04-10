@@ -1,0 +1,72 @@
+{
+  "id": 1242596591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.71667,12.75,108.71667,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":108.71667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban M'nang",
+    "gn:country_code":"VN",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1589718,
+    "gn:latitude":12.75,
+    "gn:longitude":108.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban M\u2019nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Buon Ma Nhang",
+        "Ban Ma Nhang",
+        "Ban M\u2019nang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef1c9051badba00b52a65f16f315cc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781853,
+            "locality_id":1242596591,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1242596591,
+    "wof:lastmodified":1537714101,
+    "wof:name":"Ban M'nang",
+    "wof:parent_id":1108781853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.71667,
+    12.75,
+    108.71667,
+    12.75
+],
+  "geometry": {"coordinates":[108.71666999999999,12.75],"type":"Point"}
+}

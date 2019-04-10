@@ -1,0 +1,67 @@
+{
+  "id": 1193147853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65,22.18333,104.65,22.18333",
+    "geom:latitude":22.18333,
+    "geom:longitude":104.65,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Lang Khanh",
+    "gn:country_code":"VN",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577213,
+    "gn:latitude":22.18333,
+    "gn:longitude":104.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Khanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577213
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d63dcf27716a3396cf2defbcd90bbd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1193147853,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1193147853,
+    "wof:lastmodified":1536381462,
+    "wof:name":"Lang Khanh",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65,
+    22.18333,
+    104.65,
+    22.18333
+],
+  "geometry": {"coordinates":[104.65000000000001,22.18333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225963271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.16561,12.04874,109.16561,12.04874",
+    "geom:latitude":12.04874,
+    "geom:longitude":109.16561,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Suoi Hoa Hai",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567438,
+    "gn:latitude":12.04874,
+    "gn:longitude":109.16561,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Su\u1ed1i H\u00f2a Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Su\u1ed1i H\u00f2a Hai"
+    ],
+    "name:vie_x_variant":[
+        "Su\u1ed1i H\u00f2a",
+        "Su\u1ed1i H\u00f2a 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567438
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3c863a71f3c9c2e31e8b448f46cf8282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781723,
+            "locality_id":1225963271,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1225963271,
+    "wof:lastmodified":1537713788,
+    "wof:name":"Suoi Hoa Hai",
+    "wof:parent_id":1108781723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.16561000000002,
+    12.04874,
+    109.16561000000002,
+    12.04874
+],
+  "geometry": {"coordinates":[109.16561000000002,12.04874],"type":"Point"}
+}

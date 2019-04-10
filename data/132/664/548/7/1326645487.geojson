@@ -1,0 +1,71 @@
+{
+  "id": 1326645487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,20.58333,105.3,20.58333",
+    "geom:latitude":20.58333,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Muong Pheo",
+    "gn:country_code":"VN",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574299,
+    "gn:latitude":20.58333,
+    "gn:longitude":105.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Muong Pheo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Pheo",
+        "Muong Pheo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574299
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c06042c2d5ee9349e6a5619fe0d7f789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781053,
+            "locality_id":1326645487,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1326645487,
+    "wof:lastmodified":1537713882,
+    "wof:name":"Muong Pheo",
+    "wof:parent_id":1108781053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    20.58333,
+    105.3,
+    20.58333
+],
+  "geometry": {"coordinates":[105.3,20.58333],"type":"Point"}
+}

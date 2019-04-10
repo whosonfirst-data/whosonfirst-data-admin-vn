@@ -1,0 +1,70 @@
+{
+  "id": 1243569761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.63663,15.21664,108.63663,15.21664",
+    "geom:latitude":15.21664,
+    "geom:longitude":108.63663,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Vinh Tuy",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562565,
+    "gn:latitude":15.21664,
+    "gn:longitude":108.63663,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"V\u0129nh Tuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh Tuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562565
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0bba254538cb7b99ce0e18c48202fd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781643,
+            "locality_id":1243569761,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1243569761,
+    "wof:lastmodified":1537713708,
+    "wof:name":"Vinh Tuy",
+    "wof:parent_id":1108781643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.63663,
+    15.21664,
+    108.63663,
+    15.21664
+],
+  "geometry": {"coordinates":[108.63663,15.21664],"type":"Point"}
+}

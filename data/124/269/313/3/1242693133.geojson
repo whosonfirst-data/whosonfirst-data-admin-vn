@@ -1,0 +1,70 @@
+{
+  "id": 1242693133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46762,22.53838,105.46762,22.53838",
+    "geom:latitude":22.53838,
+    "geom:longitude":105.46762,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Luc",
+    "gn:country_code":"VN",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338172,
+    "gn:latitude":22.53838,
+    "gn:longitude":105.46762,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"N\u00e0 L\u1ee5c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 L\u1ee5c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338172
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13572357e72d6309bc8e85e1a1ba5b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1242693133,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1242693133,
+    "wof:lastmodified":1537714290,
+    "wof:name":"Na Luc",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46762,
+    22.53838,
+    105.46762,
+    22.53838
+],
+  "geometry": {"coordinates":[105.46762,22.53838],"type":"Point"}
+}

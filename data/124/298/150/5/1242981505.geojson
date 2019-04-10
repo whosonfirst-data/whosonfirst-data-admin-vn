@@ -1,0 +1,72 @@
+{
+  "id": 1242981505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.16667,12.56667,109.16667,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":109.16667,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ap Lac Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593182,
+    "gn:latitude":12.56667,
+    "gn:longitude":109.16667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"\u1ea4p L\u1ea1c Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u1ea1c Ninh",
+        "Hoa Huynh",
+        "\u1ea4p L\u1ea1c Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593182
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"102da24bb1de2b4cc20896345f1185a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781727,
+            "locality_id":1242981505,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1242981505,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Ap Lac Ninh",
+    "wof:parent_id":1108781727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.16667,
+    12.56667,
+    109.16667,
+    12.56667
+],
+  "geometry": {"coordinates":[109.16667,12.56667],"type":"Point"}
+}

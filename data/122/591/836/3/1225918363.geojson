@@ -1,0 +1,67 @@
+{
+  "id": 1225918363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.60056,10.72639,106.60056,10.72639",
+    "geom:latitude":10.72639,
+    "geom:longitude":106.60056,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Cau An Lac",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904477,
+    "gn:latitude":10.72639,
+    "gn:longitude":106.60056,
+    "gn:modification_date":"1998-04-27",
+    "gn:name":"C\u00e2u An Lac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904477
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ddecbb6cc0468432eb2711667a038f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782043,
+            "locality_id":1225918363,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1225918363,
+    "wof:lastmodified":1536909355,
+    "wof:name":"Cau An Lac",
+    "wof:parent_id":1108782043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60056000000002,
+    10.72639,
+    106.60056000000002,
+    10.72639
+],
+  "geometry": {"coordinates":[106.60056000000002,10.72639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360300767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76465,18.43681,105.76465,18.43681",
+    "geom:latitude":18.43681,
+    "geom:longitude":105.76465,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xuan Thuy Hai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275052,
+    "gn:latitude":18.43681,
+    "gn:longitude":105.76465,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Xu\u00e2n Th\u1ee7y Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Xu\u00e2n Th\u1ee7y Hai"
+    ],
+    "name:vie_x_variant":[
+        "Xu\u00e2n Th\u1ee7y 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275052
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f481a0ab8375057d87a4484d46b11871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1360300767,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360300767,
+    "wof:lastmodified":1537714665,
+    "wof:name":"Xuan Thuy Hai",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76465,
+    18.43681,
+    105.76465,
+    18.43681
+],
+  "geometry": {"coordinates":[105.76465,18.43681],"type":"Point"}
+}

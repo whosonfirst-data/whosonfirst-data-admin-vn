@@ -1,0 +1,67 @@
+{
+  "id": 1310424707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,16.35,107.16667,16.35",
+    "geom:latitude":16.35,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Lan Nam",
+    "gn:country_code":"VN",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576331,
+    "gn:latitude":16.35,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lan Nam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576331
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"750843c2dc34471e97e841872f4c0f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781571,
+            "locality_id":1310424707,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1310424707,
+    "wof:lastmodified":1537032134,
+    "wof:name":"Lan Nam",
+    "wof:parent_id":1108781571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    16.35,
+    107.16667,
+    16.35
+],
+  "geometry": {"coordinates":[107.16667,16.35],"type":"Point"}
+}

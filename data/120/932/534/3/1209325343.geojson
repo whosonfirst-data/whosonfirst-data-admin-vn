@@ -1,0 +1,61 @@
+{
+  "id": 1209325343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8,20.35,105.8,20.35",
+    "geom:latitude":20.35,
+    "geom:longitude":105.8,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Cong Luan",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584871,
+    "gn:latitude":20.35,
+    "gn:longitude":105.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u00f4ng Lu\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584871
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b3759acb79cb4c39639c9bef4c2c1ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325343
+        }
+    ],
+    "wof:id":1209325343,
+    "wof:lastmodified":1536290550,
+    "wof:name":"Cong Luan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8,
+    20.35,
+    105.8,
+    20.35
+],
+  "geometry": {"coordinates":[105.8,20.35],"type":"Point"}
+}

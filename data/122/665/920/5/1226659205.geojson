@@ -1,0 +1,73 @@
+{
+  "id": 1226659205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41015,10.49471,105.41015,10.49471",
+    "geom:latitude":10.49471,
+    "geom:longitude":105.41015,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu Ha Hai",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336896,
+    "gn:latitude":10.49471,
+    "gn:longitude":105.41015,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ph\u00fa H\u1ea1 Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa H\u1ea1 Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ph\u00fa H\u1ea1 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336896
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9f6147819f7c53e49a14c4a9cbd5f1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782215,
+            "locality_id":1226659205,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1226659205,
+    "wof:lastmodified":1537714277,
+    "wof:name":"Phu Ha Hai",
+    "wof:parent_id":1108782215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41015,
+    10.49471,
+    105.41015,
+    10.49471
+],
+  "geometry": {"coordinates":[105.41015,10.49471],"type":"Point"}
+}

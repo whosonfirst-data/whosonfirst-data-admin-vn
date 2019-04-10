@@ -1,0 +1,67 @@
+{
+  "id": 1243382557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36667,22.63333,104.36667,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":104.36667,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Sao Ko Ti",
+    "gn:country_code":"VN",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568058,
+    "gn:latitude":22.63333,
+    "gn:longitude":104.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sao Ko Ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568058
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"758c3aba4ca9b175c291b40c23bd2f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1243382557,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243382557,
+    "wof:lastmodified":1536897619,
+    "wof:name":"Sao Ko Ti",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36667,
+    22.63333,
+    104.36667,
+    22.63333
+],
+  "geometry": {"coordinates":[104.36667,22.63333],"type":"Point"}
+}

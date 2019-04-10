@@ -1,0 +1,70 @@
+{
+  "id": 1327442207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08698,22.02378,105.08698,22.02378",
+    "geom:latitude":22.02378,
+    "geom:longitude":105.08698,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Thai Binh",
+    "gn:country_code":"VN",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309082,
+    "gn:latitude":22.02378,
+    "gn:longitude":105.08698,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Th\u00e1i B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e1i B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309082
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2783598fe5ff4d8127ae944812bcc492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780931,
+            "locality_id":1327442207,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1327442207,
+    "wof:lastmodified":1537714247,
+    "wof:name":"Thai Binh",
+    "wof:parent_id":1108780931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08698,
+    22.02378,
+    105.08698,
+    22.02378
+],
+  "geometry": {"coordinates":[105.08698,22.02378],"type":"Point"}
+}

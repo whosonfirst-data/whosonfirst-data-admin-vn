@@ -1,0 +1,70 @@
+{
+  "id": 1260090797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8608,22.25293,102.8608,22.25293",
+    "geom:latitude":22.25293,
+    "geom:longitude":102.8608,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Lo A",
+    "gn:country_code":"VN",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456822,
+    "gn:latitude":22.25293,
+    "gn:longitude":102.8608,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"N\u1eadm L\u1ecd A",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm L\u1ecd A"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456822
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55ecac7446c945ab647fa62f5a812cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1260090797,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1260090797,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Nam Lo A",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8608,
+    22.25293,
+    102.8608,
+    22.25293
+],
+  "geometry": {"coordinates":[102.8608,22.25293],"type":"Point"}
+}

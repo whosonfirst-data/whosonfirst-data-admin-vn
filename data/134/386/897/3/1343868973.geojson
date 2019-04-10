@@ -1,0 +1,67 @@
+{
+  "id": 1343868973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.53333,22.46667,104.53333,22.46667",
+    "geom:latitude":22.46667,
+    "geom:longitude":104.53333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Viet",
+    "gn:country_code":"VN",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576405,
+    "gn:latitude":22.46667,
+    "gn:longitude":104.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Vi\u00eat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576405
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6e73f853614d8303f3efe00f7d729b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780871,
+            "locality_id":1343868973,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343868973,
+    "wof:lastmodified":1536654203,
+    "wof:name":"Lang Viet",
+    "wof:parent_id":1108780871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.53333,
+    22.46667,
+    104.53333,
+    22.46667
+],
+  "geometry": {"coordinates":[104.53333000000001,22.46667],"type":"Point"}
+}

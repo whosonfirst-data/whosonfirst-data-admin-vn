@@ -1,0 +1,73 @@
+{
+  "id": 1226665151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96476,14.36352,108.96476,14.36352",
+    "geom:latitude":14.36352,
+    "geom:longitude":108.96476,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Hoai An",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1580793,
+    "gn:latitude":14.36352,
+    "gn:longitude":108.96476,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Ho\u00e0i \u00c2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0i \u00c2n"
+    ],
+    "name:vie_x_variant":[
+        "T\u0103ng B\u1ea1t H\u1ed5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580793
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7058cb6d6e5450eeddbdd2bcf8021a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781673,
+            "locality_id":1226665151,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1226665151,
+    "wof:lastmodified":1537713969,
+    "wof:name":"Hoai An",
+    "wof:parent_id":1108781673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96476,
+    14.36352,
+    108.96476,
+    14.36352
+],
+  "geometry": {"coordinates":[108.96476,14.36352],"type":"Point"}
+}

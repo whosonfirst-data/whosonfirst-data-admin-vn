@@ -1,0 +1,70 @@
+{
+  "id": 1343369751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9107,9.57536,105.9107,9.57536",
+    "geom:latitude":9.57536,
+    "geom:longitude":105.9107,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Bung Coc",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534922,
+    "gn:latitude":9.57536,
+    "gn:longitude":105.9107,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u01b0ng C\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u01b0ng C\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534922
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"797ac16dfc477ba97d13c5d27bad2c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782293,
+            "locality_id":1343369751,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1343369751,
+    "wof:lastmodified":1537714492,
+    "wof:name":"Bung Coc",
+    "wof:parent_id":1108782293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9107,
+    9.57536,
+    105.9107,
+    9.57536
+],
+  "geometry": {"coordinates":[105.91070000000001,9.57536],"type":"Point"}
+}

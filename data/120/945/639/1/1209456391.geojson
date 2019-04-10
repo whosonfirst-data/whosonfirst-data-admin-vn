@@ -1,0 +1,64 @@
+{
+  "id": 1209456391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67477,21.67112,103.67477,21.67112",
+    "geom:latitude":21.67112,
+    "geom:longitude":103.67477,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Van Pan",
+    "gn:country_code":"VN",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631010,
+    "gn:latitude":21.67112,
+    "gn:longitude":103.67477,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ea3n V\u00e0n P\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n V\u00e0n P\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631010
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"363e8ea83476a1f3a1219740ca6992aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209456391
+        }
+    ],
+    "wof:id":1209456391,
+    "wof:lastmodified":1537714725,
+    "wof:name":"Ban Van Pan",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67477,
+    21.67112,
+    103.67477,
+    21.67112
+],
+  "geometry": {"coordinates":[103.67477,21.67112],"type":"Point"}
+}

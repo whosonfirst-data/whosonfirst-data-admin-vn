@@ -1,0 +1,70 @@
+{
+  "id": 1293799413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06145,21.40379,106.06145,21.40379",
+    "geom:latitude":21.40379,
+    "geom:longitude":106.06145,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Van Trung",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867655,
+    "gn:latitude":21.40379,
+    "gn:longitude":106.06145,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"V\u00e2n Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e2n Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867655
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5099edef25782e78c19d45c76131648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781147,
+            "locality_id":1293799413,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1293799413,
+    "wof:lastmodified":1537714511,
+    "wof:name":"Van Trung",
+    "wof:parent_id":1108781147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06145,
+    21.40379,
+    106.06145,
+    21.40379
+],
+  "geometry": {"coordinates":[106.06144999999999,21.40379],"type":"Point"}
+}

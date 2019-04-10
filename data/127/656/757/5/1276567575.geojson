@@ -1,0 +1,73 @@
+{
+  "id": 1276567575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23333,22.23333,103.23333,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":103.23333,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Coi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573545,
+    "gn:latitude":22.23333,
+    "gn:longitude":103.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam C\u1ecfi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nem Coi",
+        "Nam Co",
+        "Nam C\u1ecfi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573545
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"40231186ce16f997b7e7e0b5e1740341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1276567575,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1276567575,
+    "wof:lastmodified":1537713870,
+    "wof:name":"Nam Coi",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23333,
+    22.23333,
+    103.23333,
+    22.23333
+],
+  "geometry": {"coordinates":[103.23333,22.23333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1309951519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.78,20.98333,106.78,20.98333",
+    "geom:latitude":20.98333,
+    "geom:longitude":106.78,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dien Cong",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583474,
+    "gn:latitude":20.98333,
+    "gn:longitude":106.78,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110i\u1ebfn C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583474
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"869e6021dd634599cf3d7b1248acc1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "locality_id":1309951519,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309951519,
+    "wof:lastmodified":1536721553,
+    "wof:name":"Dien Cong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.78,
+    20.98333,
+    106.78,
+    20.98333
+],
+  "geometry": {"coordinates":[106.78,20.98333],"type":"Point"}
+}

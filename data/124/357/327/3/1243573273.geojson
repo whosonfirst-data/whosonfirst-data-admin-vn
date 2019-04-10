@@ -1,0 +1,67 @@
+{
+  "id": 1243573273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.16667,12.98333,109.16667,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":109.16667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Thach Ban",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566421,
+    "gn:latitude":12.98333,
+    "gn:longitude":109.16667,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Th\u1ea1ch B\u00e0n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566421
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d60b613f833a3bf3b7b462df61a45d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781707,
+            "locality_id":1243573273,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1243573273,
+    "wof:lastmodified":1536620718,
+    "wof:name":"Thach Ban",
+    "wof:parent_id":1108781707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.16667,
+    12.98333,
+    109.16667,
+    12.98333
+],
+  "geometry": {"coordinates":[109.16667,12.98333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259898991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25802,21.14007,106.25802,21.14007",
+    "geom:latitude":21.14007,
+    "geom:longitude":106.25802,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Van Phong",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340779,
+    "gn:latitude":21.14007,
+    "gn:longitude":106.25802,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"V\u0103n Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0103n Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340779
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bee432dbebe4e9545b21c51ba36e3056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1259898991,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259898991,
+    "wof:lastmodified":1537714293,
+    "wof:name":"Van Phong",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25802,
+    21.14007,
+    106.25802,
+    21.14007
+],
+  "geometry": {"coordinates":[106.25802,21.14007],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209834671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.65,16.46667,107.65,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":107.65,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ap Su Lo Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592342,
+    "gn:latitude":16.46667,
+    "gn:longitude":107.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p S\u01b0 L\u1ed7 Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su Lo Thuong",
+        "\u1ea4p S\u01b0 L\u1ed7 Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592342
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"acd962611f27a4a99d986aa5d4869ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781565,
+            "locality_id":1209834671,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1209834671,
+    "wof:lastmodified":1537714156,
+    "wof:name":"Ap Su Lo Thuong",
+    "wof:parent_id":1108781565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.65,
+    16.46667,
+    107.65,
+    16.46667
+],
+  "geometry": {"coordinates":[107.65000000000001,16.46667],"type":"Point"}
+}

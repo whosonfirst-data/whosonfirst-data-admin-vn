@@ -1,0 +1,67 @@
+{
+  "id": 1309977241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,20.66667,106.66667,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lao Chu",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576298,
+    "gn:latitude":20.66667,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Lao Ch\u1eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576298
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f641dff1bdb925e1bab9bfd9e00d9534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781285,
+            "locality_id":1309977241,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1309977241,
+    "wof:lastmodified":1536684046,
+    "wof:name":"Lao Chu",
+    "wof:parent_id":1108781285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    20.66667,
+    106.66667,
+    20.66667
+],
+  "geometry": {"coordinates":[106.66667,20.66667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209626023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.4,12.83333,108.4,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":108.4,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon M'briu",
+    "gn:country_code":"VN",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586900,
+    "gn:latitude":12.83333,
+    "gn:longitude":108.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n M\u2019briu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586900
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3c70f7de0ca57f25dc5dbf40860479dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209626023
+        }
+    ],
+    "wof:id":1209626023,
+    "wof:lastmodified":1536281351,
+    "wof:name":"Buon M'briu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.4,
+    12.83333,
+    108.4,
+    12.83333
+],
+  "geometry": {"coordinates":[108.40000000000001,12.83333],"type":"Point"}
+}

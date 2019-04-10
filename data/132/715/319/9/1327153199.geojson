@@ -1,0 +1,73 @@
+{
+  "id": 1327153199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1306,20.02008,106.1306,20.02008",
+    "geom:latitude":20.02008,
+    "geom:longitude":106.1306,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"An Phu",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594280,
+    "gn:latitude":20.02008,
+    "gn:longitude":106.1306,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"\u00c2n Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Ph\u00fa"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c2n Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594280
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"13f5b5b5f247a871031aeeaa5e8a3552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781355,
+            "locality_id":1327153199,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1327153199,
+    "wof:lastmodified":1537714205,
+    "wof:name":"An Phu",
+    "wof:parent_id":1108781355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1306,
+    20.02008,
+    106.1306,
+    20.02008
+],
+  "geometry": {"coordinates":[106.1306,20.02008],"type":"Point"}
+}

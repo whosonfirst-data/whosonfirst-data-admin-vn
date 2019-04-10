@@ -1,0 +1,67 @@
+{
+  "id": 1276239065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.55,11.28333,107.55,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":107.55,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Nam Sao Trang",
+    "gn:country_code":"VN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573207,
+    "gn:latitude":11.28333,
+    "gn:longitude":107.55,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"N\u0103m Sao Tr\u1eafng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573207
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"61f6700d0ad8e46ec267147cf073fe19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781767,
+            "locality_id":1276239065,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1276239065,
+    "wof:lastmodified":1536905073,
+    "wof:name":"Nam Sao Trang",
+    "wof:parent_id":1108781767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.55,
+    11.28333,
+    107.55,
+    11.28333
+],
+  "geometry": {"coordinates":[107.55,11.28333],"type":"Point"}
+}

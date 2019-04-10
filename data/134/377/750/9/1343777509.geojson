@@ -1,0 +1,70 @@
+{
+  "id": 1343777509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02598,16.36299,107.02598,16.36299",
+    "geom:latitude":16.36299,
+    "geom:longitude":107.02598,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ra Mon",
+    "gn:country_code":"VN",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8656206,
+    "gn:latitude":16.36299,
+    "gn:longitude":107.02598,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ra M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ra M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656206
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"55576a0aa280d57a2ddfb1e9ef16ff7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781571,
+            "locality_id":1343777509,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1343777509,
+    "wof:lastmodified":1537714393,
+    "wof:name":"Ra Mon",
+    "wof:parent_id":1108781571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02598,
+    16.36299,
+    107.02598,
+    16.36299
+],
+  "geometry": {"coordinates":[107.02598,16.36299],"type":"Point"}
+}

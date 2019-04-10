@@ -1,0 +1,75 @@
+{
+  "id": 1226550739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48843,22.51803,104.48843,22.51803",
+    "geom:latitude":22.51803,
+    "geom:longitude":104.48843,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Na Thi",
+    "gn:country_code":"VN",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576561,
+    "gn:latitude":22.51803,
+    "gn:longitude":104.48843,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u1ea3n N\u00e0 Th\u1ec9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chi",
+        "Lang Tri",
+        "L\u00e0ng Thi"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u00e0 Th\u1ec9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576561
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e42372a959709d311988854928c2433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780867,
+            "locality_id":1226550739,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226550739,
+    "wof:lastmodified":1537713908,
+    "wof:name":"Ban Na Thi",
+    "wof:parent_id":1108780867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48843,
+    22.51803,
+    104.48843,
+    22.51803
+],
+  "geometry": {"coordinates":[104.48842999999999,22.51803],"type":"Point"}
+}

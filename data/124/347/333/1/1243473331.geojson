@@ -1,0 +1,71 @@
+{
+  "id": 1243473331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,11.45,107.16667,11.45",
+    "geom:latitude":11.45,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Moumien",
+    "gn:country_code":"VN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574409,
+    "gn:latitude":11.45,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Moumien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moumlen",
+        "Moumien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574409
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e966d9397b45e1d6fc4cdaed97071897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1243473331,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1243473331,
+    "wof:lastmodified":1537713883,
+    "wof:name":"Moumien",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    11.45,
+    107.16667,
+    11.45
+],
+  "geometry": {"coordinates":[107.16667,11.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327450025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33333,16.66667,107.33333,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":107.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Thon Hung Nhon",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565529,
+    "gn:latitude":16.66667,
+    "gn:longitude":107.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n H\u01b0ng Nh\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung Nhon",
+        "Th\u00f4n H\u01b0ng Nh\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565529
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b21134c2d9f6a44599f4171915b2ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1327450025,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1327450025,
+    "wof:lastmodified":1537713759,
+    "wof:name":"Thon Hung Nhon",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33333,
+    16.66667,
+    107.33333,
+    16.66667
+],
+  "geometry": {"coordinates":[107.33333,16.66667],"type":"Point"}
+}

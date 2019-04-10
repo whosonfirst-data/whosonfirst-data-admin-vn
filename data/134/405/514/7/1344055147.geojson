@@ -1,0 +1,67 @@
+{
+  "id": 1344055147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28333,22.53333,106.28333,22.53333",
+    "geom:latitude":22.53333,
+    "geom:longitude":106.28333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khuoi Hong",
+    "gn:country_code":"VN",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579128,
+    "gn:latitude":22.53333,
+    "gn:longitude":106.28333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Khu\u1ed5i H\u00f2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579128
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2bb881663788fef4cb88ee8bcfd5f3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780901,
+            "locality_id":1344055147,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1344055147,
+    "wof:lastmodified":1536882634,
+    "wof:name":"Khuoi Hong",
+    "wof:parent_id":1108780901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28333,
+    22.53333,
+    106.28333,
+    22.53333
+],
+  "geometry": {"coordinates":[106.28333000000001,22.53333],"type":"Point"}
+}

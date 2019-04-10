@@ -1,0 +1,64 @@
+{
+  "id": 1209626121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42042,18.77671,105.42042,18.77671",
+    "geom:latitude":18.77671,
+    "geom:longitude":105.42042,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dinh Long",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201332,
+    "gn:latitude":18.77671,
+    "gn:longitude":105.42042,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u0110\u00ecnh Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00ecnh Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201332
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"00615d80c5f876dee0ced6433064b780",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209626121
+        }
+    ],
+    "wof:id":1209626121,
+    "wof:lastmodified":1537714648,
+    "wof:name":"Dinh Long",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42042,
+    18.77671,
+    105.42042,
+    18.77671
+],
+  "geometry": {"coordinates":[105.42041999999999,18.77671],"type":"Point"}
+}

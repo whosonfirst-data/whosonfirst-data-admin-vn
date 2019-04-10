@@ -1,0 +1,67 @@
+{
+  "id": 1259798989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,13.01667,109.28333,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phuoc Nong",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570145,
+    "gn:latitude":13.01667,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u01b0\u1edbc N\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"96327811df3c3f69c5813b25728bfeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781707,
+            "locality_id":1259798989,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1259798989,
+    "wof:lastmodified":1536900857,
+    "wof:name":"Phuoc Nong",
+    "wof:parent_id":1108781707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    13.01667,
+    109.28333,
+    13.01667
+],
+  "geometry": {"coordinates":[109.28333000000001,13.01667],"type":"Point"}
+}

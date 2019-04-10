@@ -1,0 +1,72 @@
+{
+  "id": 1344072311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.40472,9.53667,106.40472,9.53667",
+    "geom:latitude":9.53667,
+    "geom:longitude":106.40472,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap Khau Cu",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593215,
+    "gn:latitude":9.53667,
+    "gn:longitude":106.40472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Kh\u00e2u C\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u00e2u C\u0169",
+        "\u1ea4p Kh\u00e2u C\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593215
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"242016f6fa07fe7772d2195a2a19bd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782147,
+            "locality_id":1344072311,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1344072311,
+    "wof:lastmodified":1537714180,
+    "wof:name":"Ap Khau Cu",
+    "wof:parent_id":1108782147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.40472,
+    9.53667,
+    106.40472,
+    9.53667
+],
+  "geometry": {"coordinates":[106.40472,9.53667],"type":"Point"}
+}

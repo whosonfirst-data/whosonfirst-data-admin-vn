@@ -1,0 +1,70 @@
+{
+  "id": 1210027243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82872,22.00416,103.82872,22.00416",
+    "geom:latitude":22.00416,
+    "geom:longitude":103.82872,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Xanh",
+    "gn:country_code":"VN",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588377,
+    "gn:latitude":22.00416,
+    "gn:longitude":103.82872,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Xanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n Xanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588377
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"caa3796d90306c1eaf000077a02e59b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780989,
+            "locality_id":1210027243,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1210027243,
+    "wof:lastmodified":1537714077,
+    "wof:name":"Ban Xanh",
+    "wof:parent_id":1108780989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82872,
+    22.00416,
+    103.82872,
+    22.00416
+],
+  "geometry": {"coordinates":[103.82872,22.00416],"type":"Point"}
+}

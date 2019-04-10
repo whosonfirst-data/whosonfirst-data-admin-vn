@@ -1,0 +1,67 @@
+{
+  "id": 1309924715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96667,20.21667,105.96667,20.21667",
+    "geom:latitude":20.21667,
+    "geom:longitude":105.96667,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Tuan Cao",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563513,
+    "gn:latitude":20.21667,
+    "gn:longitude":105.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tu\u00e2n C\u00e1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563513
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e6ac69887c78c7d94399cd20c560754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781369,
+            "locality_id":1309924715,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1309924715,
+    "wof:lastmodified":1536759895,
+    "wof:name":"Tuan Cao",
+    "wof:parent_id":1108781369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96667,
+    20.21667,
+    105.96667,
+    20.21667
+],
+  "geometry": {"coordinates":[105.96666999999999,20.21667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243191209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43909,21.5881,105.43909,21.5881",
+    "geom:latitude":21.5881,
+    "geom:longitude":105.43909,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Nga Phu",
+    "gn:country_code":"VN",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139029,
+    "gn:latitude":21.5881,
+    "gn:longitude":105.43909,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Nga Phu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nga Phu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139029
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75c05a43d89766c583ff1b7a1c716221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1243191209,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243191209,
+    "wof:lastmodified":1537714227,
+    "wof:name":"Nga Phu",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43909,
+    21.5881,
+    105.43909,
+    21.5881
+],
+  "geometry": {"coordinates":[105.43908999999999,21.5881],"type":"Point"}
+}

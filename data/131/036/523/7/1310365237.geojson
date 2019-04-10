@@ -1,0 +1,67 @@
+{
+  "id": 1310365237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.85,20.96667,106.85,20.96667",
+    "geom:latitude":20.96667,
+    "geom:longitude":106.85,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Khoai Lac",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579287,
+    "gn:latitude":20.96667,
+    "gn:longitude":106.85,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kho\u00e1i L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579287
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"28d3af918e70af89ba5a27bfee4a560b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781137,
+            "locality_id":1310365237,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1310365237,
+    "wof:lastmodified":1536619860,
+    "wof:name":"Khoai Lac",
+    "wof:parent_id":1108781137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85,
+    20.96667,
+    106.85,
+    20.96667
+],
+  "geometry": {"coordinates":[106.84999999999999,20.96667],"type":"Point"}
+}

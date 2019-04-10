@@ -1,0 +1,67 @@
+{
+  "id": 1310620115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,18.61667,105.65,18.61667",
+    "geom:latitude":18.61667,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Giap My",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581773,
+    "gn:latitude":18.61667,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Giap My",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581773
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c2ceea64495dd59a83121c0625b2ed17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781491,
+            "locality_id":1310620115,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1310620115,
+    "wof:lastmodified":1536751549,
+    "wof:name":"Giap My",
+    "wof:parent_id":1108781491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    18.61667000000001,
+    105.65,
+    18.61667000000001
+],
+  "geometry": {"coordinates":[105.65000000000001,18.61667000000001],"type":"Point"}
+}

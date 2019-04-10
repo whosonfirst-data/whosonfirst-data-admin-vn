@@ -1,0 +1,73 @@
+{
+  "id": 1327022569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59713,22.79118,105.59713,22.79118",
+    "geom:latitude":22.79118,
+    "geom:longitude":105.59713,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"En Noi",
+    "gn:country_code":"VN",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590638,
+    "gn:latitude":22.79118,
+    "gn:longitude":105.59713,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"\u00c9n N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n En"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c9n N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590638
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e185ebb4a2591a8191a580a7ac3a9067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780877,
+            "locality_id":1327022569,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1327022569,
+    "wof:lastmodified":1537714121,
+    "wof:name":"En Noi",
+    "wof:parent_id":1108780877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59713,
+    22.79118,
+    105.59713,
+    22.79118
+],
+  "geometry": {"coordinates":[105.59713000000001,22.79118],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310611703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16667,23.15,105.16667,23.15",
+    "geom:latitude":23.15,
+    "geom:longitude":105.16667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Vinh Thon",
+    "gn:country_code":"VN",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562595,
+    "gn:latitude":23.15,
+    "gn:longitude":105.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vinh Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninh Th\u00f4n",
+        "Vinh Th\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562595
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3c5b2fb7964de3cfdc4f9bdb9bb3a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1310611703,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1310611703,
+    "wof:lastmodified":1537713709,
+    "wof:name":"Vinh Thon",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16667,
+    23.15,
+    105.16667,
+    23.15
+],
+  "geometry": {"coordinates":[105.16667,23.15],"type":"Point"}
+}

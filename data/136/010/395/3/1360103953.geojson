@@ -1,0 +1,76 @@
+{
+  "id": 1360103953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08459,21.09323,106.08459,21.09323",
+    "geom:latitude":21.09323,
+    "geom:longitude":106.08459,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Tu Chi",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563307,
+    "gn:latitude":21.09323,
+    "gn:longitude":106.08459,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"T\u01b0 Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu Vi"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ef1 Ch\u00ed"
+    ],
+    "name:vie_x_variant":[
+        "T\u01b0 Chi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563307
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a743fe5996d6427f276ad5ef50d7309b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781223,
+            "locality_id":1360103953,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1360103953,
+    "wof:lastmodified":1537713719,
+    "wof:name":"Tu Chi",
+    "wof:parent_id":1108781223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08459,
+    21.09323,
+    106.08459,
+    21.09323
+],
+  "geometry": {"coordinates":[106.08459000000001,21.09323],"type":"Point"}
+}

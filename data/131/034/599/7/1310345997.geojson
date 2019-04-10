@@ -1,0 +1,67 @@
+{
+  "id": 1310345997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,20.33333,105.3,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Xong",
+    "gn:country_code":"VN",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576372,
+    "gn:latitude":20.33333,
+    "gn:longitude":105.3,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Xong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576372
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f8516a5ea69e4c0b94f39b6d4dd76728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1310345997,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1310345997,
+    "wof:lastmodified":1536649276,
+    "wof:name":"Lang Xong",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    20.33333,
+    105.3,
+    20.33333
+],
+  "geometry": {"coordinates":[105.3,20.33333],"type":"Point"}
+}

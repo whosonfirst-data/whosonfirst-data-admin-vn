@@ -1,0 +1,70 @@
+{
+  "id": 1209760505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74182,19.39753,105.74182,19.39753",
+    "geom:latitude":19.39753,
+    "geom:longitude":105.74182,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Huu Loc",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372371,
+    "gn:latitude":19.39753,
+    "gn:longitude":105.74182,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u1eefu L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1eefu L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372371
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"91561151f2fd48059ab19fdf4e273aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1209760505,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1209760505,
+    "wof:lastmodified":1537714719,
+    "wof:name":"Huu Loc",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74182,
+    19.39753,
+    105.74182,
+    19.39753
+],
+  "geometry": {"coordinates":[105.74182,19.39753],"type":"Point"}
+}

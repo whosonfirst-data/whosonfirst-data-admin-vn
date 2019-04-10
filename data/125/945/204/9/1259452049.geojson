@@ -1,0 +1,71 @@
+{
+  "id": 1259452049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64616,10.28624,104.64616,10.28624",
+    "geom:latitude":10.28624,
+    "geom:longitude":104.64616,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Kien Luong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1578998,
+    "gn:latitude":10.28624,
+    "gn:longitude":104.64616,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"Ki\u00ean L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ki\u00ean L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578998
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"57c764deaed4b1b21a7470b5908bd02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782223,
+            "locality_id":1259452049,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1259452049,
+    "wof:lastmodified":1537713946,
+    "wof:name":"Kien Luong",
+    "wof:parent_id":1108782223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64616,
+    10.28624,
+    104.64616,
+    10.28624
+],
+  "geometry": {"coordinates":[104.64615999999999,10.28624],"type":"Point"}
+}

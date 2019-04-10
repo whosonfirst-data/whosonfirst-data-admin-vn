@@ -1,0 +1,70 @@
+{
+  "id": 1243573261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17366,21.59837,105.17366,21.59837",
+    "geom:latitude":21.59837,
+    "geom:longitude":105.17366,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Viet Hung",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138222,
+    "gn:latitude":21.59837,
+    "gn:longitude":105.17366,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vi\u1ec7t H\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vi\u1ec7t H\u00f9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138222
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"50714ae5ae4c72f54beaa6ba1d1bd37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781169,
+            "locality_id":1243573261,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1243573261,
+    "wof:lastmodified":1537714219,
+    "wof:name":"Viet Hung",
+    "wof:parent_id":1108781169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17366,
+    21.59837000000001,
+    105.17366,
+    21.59837000000001
+],
+  "geometry": {"coordinates":[105.17366,21.59837000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309750363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5,20.41667,106.5,20.41667",
+    "geom:latitude":20.41667,
+    "geom:longitude":106.5,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tien Hai",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564673,
+    "gn:latitude":20.41667,
+    "gn:longitude":106.5,
+    "gn:modification_date":"1998-10-16",
+    "gn:name":"Ti\u1ec1n H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564673
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9181dc3f9cc0c86d13bd751ee9450d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781327,
+            "locality_id":1309750363,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1309750363,
+    "wof:lastmodified":1537010290,
+    "wof:name":"Tien Hai",
+    "wof:parent_id":1108781327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5,
+    20.41667,
+    106.5,
+    20.41667
+],
+  "geometry": {"coordinates":[106.5,20.41667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243465125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41344,22.54586,105.41344,22.54586",
+    "geom:latitude":22.54586,
+    "geom:longitude":105.41344,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Lung Khieng",
+    "gn:country_code":"VN",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309732,
+    "gn:latitude":22.54586,
+    "gn:longitude":105.41344,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n Lung Khieng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Lung Khi\u00eang"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Lung Khieng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309732
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"602377b2ff2ad43ef6d6cc5183c120c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1243465125,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243465125,
+    "wof:lastmodified":1537714264,
+    "wof:name":"Ban Lung Khieng",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41344,
+    22.54586,
+    105.41344,
+    22.54586
+],
+  "geometry": {"coordinates":[105.41343999999999,22.54586],"type":"Point"}
+}

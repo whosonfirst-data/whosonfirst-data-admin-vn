@@ -1,0 +1,73 @@
+{
+  "id": 1310512263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20737,21.99819,105.20737,21.99819",
+    "geom:latitude":21.99819,
+    "geom:longitude":105.20737,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dong Xom",
+    "gn:country_code":"VN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582433,
+    "gn:latitude":21.99819,
+    "gn:longitude":105.20737,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed3ng X\u1ed3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00f4ng Xoum"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng X\u1ed3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582433
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1ce7a59305bb9ceb18524207f420349c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1310512263,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310512263,
+    "wof:lastmodified":1537713988,
+    "wof:name":"Dong Xom",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20737,
+    21.99819,
+    105.20737,
+    21.99819
+],
+  "geometry": {"coordinates":[105.20737,21.99819],"type":"Point"}
+}

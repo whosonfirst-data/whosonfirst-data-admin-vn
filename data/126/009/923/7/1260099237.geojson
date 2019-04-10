@@ -1,0 +1,70 @@
+{
+  "id": 1260099237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30384,22.10733,105.30384,22.10733",
+    "geom:latitude":22.10733,
+    "geom:longitude":105.30384,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Vinh Quang",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309293,
+    "gn:latitude":22.10733,
+    "gn:longitude":105.30384,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Vinh Quang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Vinh Quang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309293
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9327c08b61afe6a04acdd5d013cf83ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1260099237,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1260099237,
+    "wof:lastmodified":1537714252,
+    "wof:name":"Vinh Quang",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30384,
+    22.10733,
+    105.30384,
+    22.10733
+],
+  "geometry": {"coordinates":[105.30383999999999,22.10733],"type":"Point"}
+}

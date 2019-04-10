@@ -1,0 +1,71 @@
+{
+  "id": 1327045395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43333,22.3,104.43333,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":104.43333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Dien Quan",
+    "gn:country_code":"VN",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583453,
+    "gn:latitude":22.3,
+    "gn:longitude":104.43333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110i\u00ean Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gue Dien Quan",
+        "\u0110i\u00ean Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583453
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc496cdfb8dea725ac8abd437c2c9fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1327045395,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1327045395,
+    "wof:lastmodified":1537714000,
+    "wof:name":"Dien Quan",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43333,
+    22.3,
+    104.43333,
+    22.3
+],
+  "geometry": {"coordinates":[104.43333,22.3],"type":"Point"}
+}

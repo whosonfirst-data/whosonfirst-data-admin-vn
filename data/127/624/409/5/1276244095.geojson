@@ -1,0 +1,73 @@
+{
+  "id": 1276244095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79457,22.37072,103.79457,22.37072",
+    "geom:latitude":22.37072,
+    "geom:longitude":103.79457,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"O Qui Ho",
+    "gn:country_code":"VN",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571533,
+    "gn:latitude":22.37072,
+    "gn:longitude":103.79457,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"\u00d4 Qu\u00ed H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d4 Quy H\u1ed3"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4 Qu\u00ed H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571533
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3395cdf1eb866a64022d80cb124d1975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780953,
+            "locality_id":1276244095,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1276244095,
+    "wof:lastmodified":1537713846,
+    "wof:name":"O Qui Ho",
+    "wof:parent_id":1108780953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79457,
+    22.37072,
+    103.79457,
+    22.37072
+],
+  "geometry": {"coordinates":[103.79456999999999,22.37072],"type":"Point"}
+}

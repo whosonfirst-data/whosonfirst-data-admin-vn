@@ -1,0 +1,71 @@
+{
+  "id": 1309814333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,18.26667,105.9,18.26667",
+    "geom:latitude":18.26667,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Nam Thon",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573166,
+    "gn:latitude":18.26667,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nam Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thon Nam",
+        "Nam Th\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573166
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"83b4afaf49b59292256da7fc87f75c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1309814333,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309814333,
+    "wof:lastmodified":1537713865,
+    "wof:name":"Nam Thon",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    18.26667,
+    105.9,
+    18.26667
+],
+  "geometry": {"coordinates":[105.90000000000001,18.26667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209233741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05896,12.15862,109.05896,12.15862",
+    "geom:latitude":12.15862,
+    "geom:longitude":109.05896,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Dau Son",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8743145,
+    "gn:latitude":12.15862,
+    "gn:longitude":109.05896,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"D\u1ea7u S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u1ea7u S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8743145
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"25ee57b541bc59f32ebcd2e9ade590f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233741
+        }
+    ],
+    "wof:id":1209233741,
+    "wof:lastmodified":1537714417,
+    "wof:name":"Dau Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05896,
+    12.15862,
+    109.05896,
+    12.15862
+],
+  "geometry": {"coordinates":[109.05896,12.15862],"type":"Point"}
+}

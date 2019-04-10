@@ -1,0 +1,70 @@
+{
+  "id": 1343777503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01232,22.6407,105.01232,22.6407",
+    "geom:latitude":22.6407,
+    "geom:longitude":105.01232,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Pac Mieng",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309481,
+    "gn:latitude":22.6407,
+    "gn:longitude":105.01232,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"P\u00e1c Mi\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00e1c Mi\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309481
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e3d467b51680b5fa9907a2a83df883c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1343777503,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1343777503,
+    "wof:lastmodified":1537714256,
+    "wof:name":"Pac Mieng",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01232,
+    22.6407,
+    105.01232,
+    22.6407
+],
+  "geometry": {"coordinates":[105.01232,22.6407],"type":"Point"}
+}

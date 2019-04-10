@@ -1,0 +1,64 @@
+{
+  "id": 1209370231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88232,10.7453,105.88232,10.7453",
+    "geom:latitude":10.7453,
+    "geom:longitude":105.88232,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ba Mon",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101523,
+    "gn:latitude":10.7453,
+    "gn:longitude":105.88232,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00e0 M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e0 M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101523
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9922f800276eb622a6fb8fcd70c372f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209370231
+        }
+    ],
+    "wof:id":1209370231,
+    "wof:lastmodified":1537714458,
+    "wof:name":"Ba Mon",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88232,
+    10.7453,
+    105.88232,
+    10.7453
+],
+  "geometry": {"coordinates":[105.88232000000001,10.7453],"type":"Point"}
+}

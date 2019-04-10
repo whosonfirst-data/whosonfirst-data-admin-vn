@@ -1,0 +1,81 @@
+{
+  "id": 1125820615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48333,10.38333,104.48333,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":104.48333,
+    "gn:gn_country":"VN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40000,
+    "gn:population":40000,
+    "iso:country":"VN",
+    "lbl:latitude":10.38333,
+    "lbl:longitude":104.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0442\u044c\u0435\u043d"
+    ],
+    "qs_pg:aaroncc":"VN",
+    "qs_pg:gn_country":"VN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1581052,
+    "qs_pg:gn_pop":40000,
+    "qs_pg:name":"H\u00e0 Ti\u00ean",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":133503,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581052,
+        "qs_pg:id":133503
+    },
+    "wof:country":"VN",
+    "wof:created":1497292032,
+    "wof:geomhash":"fbfddac78d07e169d754f3ea4b067f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782221,
+            "locality_id":1125820615,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1125820615,
+    "wof:lastmodified":1509394073,
+    "wof:name":"H\u00e0 Ti\u00ean",
+    "wof:parent_id":1108782221,
+    "wof:placetype":"locality",
+    "wof:population":40000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48333,
+    10.38333,
+    104.48333,
+    10.38333
+],
+  "geometry": {"coordinates":[104.48333,10.38333],"type":"Point"}
+}

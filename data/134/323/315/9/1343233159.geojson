@@ -1,0 +1,72 @@
+{
+  "id": 1343233159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58333,20.88333,106.58333,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":106.58333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vu Ban",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562454,
+    "gn:latitude":20.88333,
+    "gn:longitude":106.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u1ee5 B\u1ea3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yu Ban",
+        "V\u1ee5 B\u1ea3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562454
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aed7f698867ff3dc2b161929708399e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781279,
+            "locality_id":1343233159,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1343233159,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Vu Ban",
+    "wof:parent_id":1108781279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58333,
+    20.88333,
+    106.58333,
+    20.88333
+],
+  "geometry": {"coordinates":[106.58333,20.88333],"type":"Point"}
+}

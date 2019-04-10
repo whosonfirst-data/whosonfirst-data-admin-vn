@@ -1,0 +1,73 @@
+{
+  "id": 1259898931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16619,21.17139,106.16619,21.17139",
+    "geom:latitude":21.17139,
+    "geom:longitude":106.16619,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Binh Lam",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590540,
+    "gn:latitude":21.17139,
+    "gn:longitude":106.16619,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"B\u00ecnh L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1eb1ng L\u00e2m"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh L\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590540
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aec087680bdd1d297cdb3a54f7ba2840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1259898931,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259898931,
+    "wof:lastmodified":1537714119,
+    "wof:name":"Binh Lam",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16619,
+    21.17139,
+    106.16619,
+    21.17139
+],
+  "geometry": {"coordinates":[106.16619,21.17139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293604679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,16.93333,107.16667,16.93333",
+    "geom:latitude":16.93333,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ha Loi Tay",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581248,
+    "gn:latitude":16.93333,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u00e0 L\u1ee3i T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e0 L\u01a1i",
+        "H\u00e0 L\u1ee3i T\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581248
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6377986d3bce360f52b529d6b2625c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781547,
+            "locality_id":1293604679,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1293604679,
+    "wof:lastmodified":1537713973,
+    "wof:name":"Ha Loi Tay",
+    "wof:parent_id":1108781547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    16.93333,
+    107.16667,
+    16.93333
+],
+  "geometry": {"coordinates":[107.16667,16.93333],"type":"Point"}
+}

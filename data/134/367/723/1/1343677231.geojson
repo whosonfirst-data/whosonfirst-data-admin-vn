@@ -1,0 +1,70 @@
+{
+  "id": 1343677231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02741,21.79284,103.02741,21.79284",
+    "geom:latitude":21.79284,
+    "geom:longitude":103.02741,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Nam Chim",
+    "gn:country_code":"VN",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425731,
+    "gn:latitude":21.79284,
+    "gn:longitude":103.02741,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"N\u1eadm Chim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadm Chim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425731
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9b8e5ab215d9248bdd07e2fb70544c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1343677231,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1343677231,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Nam Chim",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02741,
+    21.79284,
+    103.02741,
+    21.79284
+],
+  "geometry": {"coordinates":[103.02741,21.79284],"type":"Point"}
+}

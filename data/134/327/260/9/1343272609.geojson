@@ -1,0 +1,73 @@
+{
+  "id": 1343272609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40277,20.59266,105.40277,20.59266",
+    "geom:latitude":20.59266,
+    "geom:longitude":105.40277,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Voi Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562442,
+    "gn:latitude":20.59266,
+    "gn:longitude":105.40277,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"V\u00f4i Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vui Th\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "V\u00f4i Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562442
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"47c2546617b8e1fa32813dafee9cf46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781059,
+            "locality_id":1343272609,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1343272609,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Voi Thuong",
+    "wof:parent_id":1108781059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40277,
+    20.59266,
+    105.40277,
+    20.59266
+],
+  "geometry": {"coordinates":[105.40277,20.59266],"type":"Point"}
+}

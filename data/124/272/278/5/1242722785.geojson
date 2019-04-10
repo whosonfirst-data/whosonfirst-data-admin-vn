@@ -1,0 +1,74 @@
+{
+  "id": 1242722785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7362,19.35137,105.7362,19.35137",
+    "geom:latitude":19.35137,
+    "geom:longitude":105.7362,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Chi Trung",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585452,
+    "gn:latitude":19.35137,
+    "gn:longitude":105.7362,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ch\u00ed Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qui Thung",
+        "Ch\u1ec9 Trung"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00ed Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585452
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9737842b08d122dc6334955c8fe05bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1242722785,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242722785,
+    "wof:lastmodified":1537714024,
+    "wof:name":"Chi Trung",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7362,
+    19.35137000000001,
+    105.7362,
+    19.35137000000001
+],
+  "geometry": {"coordinates":[105.7362,19.35137000000001],"type":"Point"}
+}

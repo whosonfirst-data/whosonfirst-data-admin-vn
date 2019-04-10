@@ -1,0 +1,70 @@
+{
+  "id": 1243374413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87275,18.367,105.87275,18.367",
+    "geom:latitude":18.367,
+    "geom:longitude":105.87275,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hanh Tien",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275309,
+    "gn:latitude":18.367,
+    "gn:longitude":105.87275,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"H\u1ea1nh Ti\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea1nh Ti\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275309
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c5e34006d9fb91459f4943ecd4311cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1243374413,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243374413,
+    "wof:lastmodified":1537714675,
+    "wof:name":"Hanh Tien",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87275,
+    18.367,
+    105.87275,
+    18.367
+],
+  "geometry": {"coordinates":[105.87275,18.367],"type":"Point"}
+}

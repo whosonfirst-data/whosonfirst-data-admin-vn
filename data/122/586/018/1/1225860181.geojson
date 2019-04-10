@@ -1,0 +1,70 @@
+{
+  "id": 1225860181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30239,22.31641,103.30239,22.31641",
+    "geom:latitude":22.31641,
+    "geom:longitude":103.30239,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Tha Giang Phin",
+    "gn:country_code":"VN",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456866,
+    "gn:latitude":22.31641,
+    "gn:longitude":103.30239,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Th\u00e0 Gi\u00e0ng Ph\u00ecn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00e0 Gi\u00e0ng Ph\u00ecn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456866
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"be96aaaed8612f402daed3110e7b1189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1225860181,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1225860181,
+    "wof:lastmodified":1537714317,
+    "wof:name":"Tha Giang Phin",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30239,
+    22.31641,
+    103.30239,
+    22.31641
+],
+  "geometry": {"coordinates":[103.30239,22.31641],"type":"Point"}
+}

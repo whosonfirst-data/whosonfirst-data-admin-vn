@@ -1,0 +1,70 @@
+{
+  "id": 1209929753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28675,21.43887,105.28675,21.43887",
+    "geom:latitude":21.43887,
+    "geom:longitude":105.28675,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Nau Pho",
+    "gn:country_code":"VN",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200613,
+    "gn:latitude":21.43887,
+    "gn:longitude":105.28675,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u1eadu Ph\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eadu Ph\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200613
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e9e742bc83969c0362df014568ae0f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781177,
+            "locality_id":1209929753,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1209929753,
+    "wof:lastmodified":1537714236,
+    "wof:name":"Nau Pho",
+    "wof:parent_id":1108781177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28675,
+    21.43887,
+    105.28675,
+    21.43887
+],
+  "geometry": {"coordinates":[105.28675,21.43887],"type":"Point"}
+}

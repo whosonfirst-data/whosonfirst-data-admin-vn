@@ -1,0 +1,106 @@
+{
+  "id": 1108780797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001098,
+    "geom:area_square_m":12677112.647727,
+    "geom:bbox":"105.830403973,20.9836426002,105.883348886,21.0224110694",
+    "geom:latitude":21.004992,
+    "geom:longitude":105.854822,
+    "iso:country":"VN",
+    "lbl:latitude":21.008048,
+    "lbl:longitude":105.857028,
+    "meso:admin_1":"Ha Noi",
+    "meso:gadm_admin":"Hai B\u00e0 Tr\u01b0ng",
+    "meso:gadm_hasc2":"VN.HN.HB",
+    "meso:gaul_adm2":"Hai Ba Trung",
+    "meso:local_id":"1007",
+    "meso:mps_x":105.857028,
+    "meso:mps_y":21.008048,
+    "meso:name_en":"Hai Ba Trung",
+    "meso:source":"AOTM",
+    "mps:latitude":21.008048,
+    "mps:longitude":105.857028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u4e8c\u5fb5\u592b\u4eba\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Hai Ba Trung"
+    ],
+    "name:fre_x_preferred":[
+        "District de Hai Ba Trung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30d0\u30fc\u30c1\u30e5\u30f3\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc774\ubc14\ucbe9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u0431\u0430\u0447\u044b\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Hai B\u00e0 Tr\u01b0ng"
+    ],
+    "name:vie_x_preferred":[
+        "Hai B\u00e0 Tr\u01b0ng"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"10",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ha Noi",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HI",
+    "statoids:name":"Hai Ba Trung",
+    "statoids:population":"302959",
+    "statoids:statoid":"VN.HI.HB",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1134523"
+    },
+    "wof:country":"VN",
+    "wof:created":1481740892,
+    "wof:geomhash":"a3beddd1752a6ab35d4271fcf5488e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780797,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1108780797,
+    "wof:lastmodified":1514502615,
+    "wof:name":"Hai Ba Trung",
+    "wof:parent_id":85680653,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":302959,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83040397277269,
+    20.98364260023836,
+    105.88334888591146,
+    21.02241106940495
+],
+  "geometry": {"coordinates":[[[105.83136976209521,20.99694952372686],[105.84082577953126,21.00370195287658],[105.83505629851688,21.01588835499834],[105.83840699043886,21.01957382393839],[105.84697998302718,21.01994743130965],[105.85314783890541,21.01730767813213],[105.85508358642269,21.01813393608862],[105.85586503875604,21.01800366416727],[105.86715031057831,21.02241106940495],[105.87188070847293,21.01330736661441],[105.87712727325328,21.01255832359182],[105.88334888591146,21.00950148791254],[105.88330875233407,21.00486150135161],[105.8666527792556,20.99286427629767],[105.86285782173017,20.99675149976283],[105.85127678633758,20.99851364493151],[105.84428691726856,20.98364260023836],[105.83445067078932,20.98663888134315],[105.83040397277269,20.99309379932562],[105.83136976209521,20.99694952372686]]],"type":"Polygon"}
+}

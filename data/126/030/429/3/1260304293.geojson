@@ -1,0 +1,72 @@
+{
+  "id": 1260304293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,20.25,106.08333,20.25",
+    "geom:latitude":20.25,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Phu Sa Trai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569962,
+    "gn:latitude":20.25,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Phu Sa Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phu Sa Thuong",
+        "Phu Sa Trai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569962
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"675340315d11a4f961d9f5a410ae9cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781381,
+            "locality_id":1260304293,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1260304293,
+    "wof:lastmodified":1537713822,
+    "wof:name":"Phu Sa Trai",
+    "wof:parent_id":1108781381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    20.25,
+    106.08333,
+    20.25
+],
+  "geometry": {"coordinates":[106.08333,20.25],"type":"Point"}
+}

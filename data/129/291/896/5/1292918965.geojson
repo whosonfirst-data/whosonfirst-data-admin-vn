@@ -1,0 +1,67 @@
+{
+  "id": 1292918965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65,10.05,105.65,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":105.65,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Ba Se",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588211,
+    "gn:latitude":10.05,
+    "gn:longitude":105.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ba Se",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680799,
+        1108782267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588211
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea4b524625335068d5894ba9388aeb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782267,
+            "locality_id":1292918965,
+            "region_id":85680799
+        }
+    ],
+    "wof:id":1292918965,
+    "wof:lastmodified":1536609812,
+    "wof:name":"Ba Se",
+    "wof:parent_id":1108782267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65,
+    10.05,
+    105.65,
+    10.05
+],
+  "geometry": {"coordinates":[105.65000000000001,10.05],"type":"Point"}
+}

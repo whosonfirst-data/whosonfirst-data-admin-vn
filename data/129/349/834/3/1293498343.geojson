@@ -1,0 +1,70 @@
+{
+  "id": 1293498343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34396,21.2671,105.34396,21.2671",
+    "geom:latitude":21.2671,
+    "geom:longitude":105.34396,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Phong De",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200799,
+    "gn:latitude":21.2671,
+    "gn:longitude":105.34396,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"Phong \u0110\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phong \u0110\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200799
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ce73f49136dee2576c752d8089bc5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781187,
+            "locality_id":1293498343,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1293498343,
+    "wof:lastmodified":1537714240,
+    "wof:name":"Phong De",
+    "wof:parent_id":1108781187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34396,
+    21.2671,
+    105.34396,
+    21.2671
+],
+  "geometry": {"coordinates":[105.34396,21.2671],"type":"Point"}
+}

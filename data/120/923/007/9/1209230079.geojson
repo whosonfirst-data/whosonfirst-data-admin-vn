@@ -1,0 +1,64 @@
+{
+  "id": 1209230079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43239,12.8147,108.43239,12.8147",
+    "geom:latitude":12.8147,
+    "geom:longitude":108.43239,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Mua",
+    "gn:country_code":"VN",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262614,
+    "gn:latitude":12.8147,
+    "gn:longitude":108.43239,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Bu\u00f4n Mua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Bu\u00f4n Mua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262614
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c3bf2c3c556b52425e15b0089249234a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209230079
+        }
+    ],
+    "wof:id":1209230079,
+    "wof:lastmodified":1537714658,
+    "wof:name":"Buon Mua",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43238999999998,
+    12.8147,
+    108.43238999999998,
+    12.8147
+],
+  "geometry": {"coordinates":[108.43238999999998,12.8147],"type":"Point"}
+}

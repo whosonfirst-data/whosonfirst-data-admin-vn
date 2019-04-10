@@ -1,0 +1,64 @@
+{
+  "id": 1209116823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22496,20.86924,106.22496,20.86924",
+    "geom:latitude":20.86924,
+    "geom:longitude":106.22496,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Loi Khe",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575819,
+    "gn:latitude":20.86924,
+    "gn:longitude":106.22496,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"L\u00f4i Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00f4i Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575819
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"30de16ce2d2697bc31950b1b9880cbbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116823
+        }
+    ],
+    "wof:id":1209116823,
+    "wof:lastmodified":1537713898,
+    "wof:name":"Loi Khe",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22496,
+    20.86924,
+    106.22496,
+    20.86924
+],
+  "geometry": {"coordinates":[106.22496,20.86924],"type":"Point"}
+}

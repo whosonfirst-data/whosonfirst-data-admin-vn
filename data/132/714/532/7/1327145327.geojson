@@ -1,0 +1,76 @@
+{
+  "id": 1327145327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.60586,11.64711,106.60586,11.64711",
+    "geom:latitude":11.64711,
+    "geom:longitude":106.60586,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Binh Long",
+    "gn:country_code":"VN",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580349,
+    "gn:latitude":11.64711,
+    "gn:longitude":106.60586,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"B\u00ecnh Long",
+    "gn:population":15000,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00ecnh Long",
+        "An L\u00f4c",
+        "H\u1edbn Qu\u1ea3n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580349,
+        "wk:page":"An_L%E1%BB%99c"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f85708661b2b2575c8e7601cc0522ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781921,
+            "locality_id":1327145327,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1327145327,
+    "wof:lastmodified":1537713964,
+    "wof:name":"Binh Long",
+    "wof:parent_id":1108781921,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.60586,
+    11.64711,
+    106.60586,
+    11.64711
+],
+  "geometry": {"coordinates":[106.60586000000001,11.64711],"type":"Point"}
+}

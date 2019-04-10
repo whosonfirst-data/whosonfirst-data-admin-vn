@@ -1,0 +1,73 @@
+{
+  "id": 1226058087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79024,21.95099,104.79024,21.95099",
+    "geom:latitude":21.95099,
+    "geom:longitude":104.79024,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Khe Co Mot",
+    "gn:country_code":"VN",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318368,
+    "gn:latitude":21.95099,
+    "gn:longitude":104.79024,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Khe Co M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khe Co M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "Khe Co 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318368
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f01012859651e2b6fa363fe4234016c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1226058087,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1226058087,
+    "wof:lastmodified":1537714697,
+    "wof:name":"Khe Co Mot",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79024,
+    21.95099,
+    104.79024,
+    21.95099
+],
+  "geometry": {"coordinates":[104.79024,21.95099],"type":"Point"}
+}

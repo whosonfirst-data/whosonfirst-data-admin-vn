@@ -1,0 +1,70 @@
+{
+  "id": 1343280801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.37561,22.55354,104.37561,22.55354",
+    "geom:latitude":22.55354,
+    "geom:longitude":104.37561,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Tung Pin Lung",
+    "gn:country_code":"VN",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869353,
+    "gn:latitude":22.55354,
+    "gn:longitude":104.37561,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n T\u00fang P\u00edn L\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u00fang P\u00edn L\u1ee7ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869353
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e13eca9ec2d88453a8909a6fd9e7c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1343280801,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343280801,
+    "wof:lastmodified":1537714530,
+    "wof:name":"Ban Tung Pin Lung",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.37561,
+    22.55354,
+    104.37561,
+    22.55354
+],
+  "geometry": {"coordinates":[104.37560999999999,22.55354],"type":"Point"}
+}

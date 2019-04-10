@@ -1,0 +1,67 @@
+{
+  "id": 1209824503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5,10.33333,105.5,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":105.5,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ben Pha Vam Cong",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588000,
+    "gn:latitude":10.33333,
+    "gn:longitude":105.5,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ebfn Ph\u00e0 V\u00e0m C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588000
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34378db24707bd68811dce55ec81c5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782187,
+            "locality_id":1209824503,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1209824503,
+    "wof:lastmodified":1536375149,
+    "wof:name":"Ben Pha Vam Cong",
+    "wof:parent_id":1108782187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5,
+    10.33333,
+    105.5,
+    10.33333
+],
+  "geometry": {"coordinates":[105.5,10.33333],"type":"Point"}
+}

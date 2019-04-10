@@ -1,0 +1,67 @@
+{
+  "id": 1344167907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,20.31667,105.81667,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Trinh Don",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563852,
+    "gn:latitude":20.31667,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Tr\u1ec9nh \u0110\u1ed3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563852
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c56f5afacc91bd815361e54d863cf4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781375,
+            "locality_id":1344167907,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1344167907,
+    "wof:lastmodified":1536720824,
+    "wof:name":"Trinh Don",
+    "wof:parent_id":1108781375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    20.31667,
+    105.81667,
+    20.31667
+],
+  "geometry": {"coordinates":[105.81667,20.31667],"type":"Point"}
+}

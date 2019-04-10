@@ -1,0 +1,67 @@
+{
+  "id": 1226758297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.28333,13.11667,109.28333,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":109.28333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Phu Vang",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569849,
+    "gn:latitude":13.11667,
+    "gn:longitude":109.28333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u00fa Vang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569849
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17fb955f29834f431212ed731bc4cc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781691,
+            "locality_id":1226758297,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1226758297,
+    "wof:lastmodified":1536697619,
+    "wof:name":"Phu Vang",
+    "wof:parent_id":1108781691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.28333,
+    13.11667,
+    109.28333,
+    13.11667
+],
+  "geometry": {"coordinates":[109.28333000000001,13.11667],"type":"Point"}
+}

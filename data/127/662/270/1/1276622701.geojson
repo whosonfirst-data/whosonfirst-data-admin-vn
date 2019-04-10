@@ -1,0 +1,67 @@
+{
+  "id": 1276622701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.13333,11.4,108.13333,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":108.13333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dalou",
+    "gn:country_code":"VN",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584058,
+    "gn:latitude":11.4,
+    "gn:longitude":108.13333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dalou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584058
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7dd2a4b4491639ed9c700086b8540528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1276622701,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1276622701,
+    "wof:lastmodified":1536887958,
+    "wof:name":"Dalou",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.13333,
+    11.4,
+    108.13333,
+    11.4
+],
+  "geometry": {"coordinates":[108.13333,11.4],"type":"Point"}
+}

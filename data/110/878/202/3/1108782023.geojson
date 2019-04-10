@@ -1,0 +1,103 @@
+{
+  "id": 1108782023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001426,
+    "geom:area_square_m":17316352.171159,
+    "geom:bbox":"106.599069503,10.749296332,106.645311682,10.8178278405",
+    "geom:latitude":10.783255,
+    "geom:longitude":106.619881,
+    "iso:country":"VN",
+    "lbl:latitude":10.781358,
+    "lbl:longitude":106.622158,
+    "meso:admin_1":"TP. Ho Chi Minh",
+    "meso:gadm_admin":"Tan Phu",
+    "meso:gadm_hasc2":"VN.HC.TP",
+    "meso:gaul_adm2":"Tan Phu",
+    "meso:local_id":"79767",
+    "meso:mps_x":106.622158,
+    "meso:mps_y":10.781358,
+    "meso:name_en":"Tan Phu",
+    "meso:source":"AOTM",
+    "mps:latitude":10.781358,
+    "mps:longitude":106.622158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u65b0\u5bcc\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Tan Phu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30d5\u30fc\u533a"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u0646 \u0641\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Tan Phu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0622\u0646 \u0641\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Ph\u00fa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"16",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ho Chi Minh City",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HC",
+    "statoids:name":"Tan Phu",
+    "statoids:population":"335389",
+    "statoids:statoid":"VN.HC.TP",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7682100"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741684,
+    "wof:geomhash":"6d1dd99daa9530b2d623a2fb916f359b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782023,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1108782023,
+    "wof:lastmodified":1514502820,
+    "wof:name":"Tan Phu",
+    "wof:parent_id":85680809,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":335389,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59906950258417,
+    10.74929633202166,
+    106.64531168208428,
+    10.81782784054667
+],
+  "geometry": {"coordinates":[[[106.60911163620828,10.81782784054667],[106.61469207419306,10.81072936932359],[106.62746507799694,10.80687721412083],[106.62765500490437,10.80610718937607],[106.62552841961694,10.79920854562124],[106.62549648628044,10.79337995332744],[106.62628526267491,10.7927998803014],[106.63094724853914,10.78658660442081],[106.63910766439837,10.78719828509421],[106.63977315647746,10.78688781368505],[106.64531168208428,10.77947036272671],[106.6445542268202,10.77544006330561],[106.63457910221882,10.77009498366575],[106.63040665824352,10.76979627813494],[106.6278381580415,10.76652971802325],[106.62884169085201,10.75952647498545],[106.62273759137288,10.750160812568],[106.61879168511888,10.74929633202166],[106.61014281063923,10.74991677656114],[106.60876755989378,10.75095782494354],[106.61037532810975,10.76266062853056],[106.61461633269884,10.76604877033733],[106.6111728350441,10.78410911484827],[106.61117930518746,10.7841344066281],[106.61065022916972,10.787384869728],[106.60712748634987,10.79061491435916],[106.60613332335517,10.79295366283892],[106.59920350556769,10.79927792754134],[106.59906950258417,10.80112352256135],[106.60450957451283,10.81447487372932],[106.60911163620828,10.81782784054667]]],"type":"Polygon"}
+}

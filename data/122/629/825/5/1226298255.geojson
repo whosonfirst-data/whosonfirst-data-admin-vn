@@ -1,0 +1,70 @@
+{
+  "id": 1226298255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79143,10.73202,105.79143,10.73202",
+    "geom:latitude":10.73202,
+    "geom:longitude":105.79143,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Vinh Buu",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101490,
+    "gn:latitude":10.73202,
+    "gn:longitude":105.79143,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"V\u0129nh B\u1eedu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh B\u1eedu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101490
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"473557c410af0162cfe716e2ba8465a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782065,
+            "locality_id":1226298255,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1226298255,
+    "wof:lastmodified":1537714457,
+    "wof:name":"Vinh Buu",
+    "wof:parent_id":1108782065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79143,
+    10.73202,
+    105.79143,
+    10.73202
+],
+  "geometry": {"coordinates":[105.79143000000001,10.73202],"type":"Point"}
+}

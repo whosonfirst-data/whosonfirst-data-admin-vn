@@ -1,0 +1,73 @@
+{
+  "id": 1326640593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10927,9.17893,105.10927,9.17893",
+    "geom:latitude":9.17893,
+    "geom:longitude":105.10927,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ong Muon",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592682,
+    "gn:latitude":9.17893,
+    "gn:longitude":105.10927,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"\u00d4ng Mu\u1ed9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p \u00d4ng Mu\u1ed9n"
+    ],
+    "name:vie_x_preferred":[
+        "\u00d4ng Mu\u1ed9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592682
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4cf7bbcb140be31c23df36fb9cc74e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782331,
+            "locality_id":1326640593,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1326640593,
+    "wof:lastmodified":1537714166,
+    "wof:name":"Ong Muon",
+    "wof:parent_id":1108782331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10927,
+    9.17893,
+    105.10927,
+    9.17893
+],
+  "geometry": {"coordinates":[105.10927,9.17893],"type":"Point"}
+}

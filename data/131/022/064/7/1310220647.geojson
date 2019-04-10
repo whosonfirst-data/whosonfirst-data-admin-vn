@@ -1,0 +1,70 @@
+{
+  "id": 1310220647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,9.8,106.0,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Dai An",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593599,
+    "gn:latitude":9.8,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dai An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p \u0110\u1ea1i An"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593599
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0f698cdfba4795bd97c7c71b9cd2a6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782291,
+            "locality_id":1310220647,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1310220647,
+    "wof:lastmodified":1537714189,
+    "wof:name":"Dai An",
+    "wof:parent_id":1108782291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    9.8,
+    106.0,
+    9.8
+],
+  "geometry": {"coordinates":[106.0,9.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343968845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,18.05,105.71667,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Khe Trai",
+    "gn:country_code":"VN",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579337,
+    "gn:latitude":18.05,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khe Tr\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579337
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de13ae0880ac6b9a5ba180fbe229bbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1343968845,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343968845,
+    "wof:lastmodified":1537007071,
+    "wof:name":"Khe Trai",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    18.05,
+    105.71667,
+    18.05
+],
+  "geometry": {"coordinates":[105.71666999999999,18.05],"type":"Point"}
+}

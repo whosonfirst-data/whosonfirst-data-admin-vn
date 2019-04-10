@@ -1,0 +1,67 @@
+{
+  "id": 1260090425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55,22.11667,104.55,22.11667",
+    "geom:latitude":22.11667,
+    "geom:longitude":104.55,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lang Chi Noc",
+    "gn:country_code":"VN",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577604,
+    "gn:latitude":22.11667,
+    "gn:longitude":104.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u00e0ng Chi N\u01a1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577604
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a896d94104c8ca48616a4caf12099316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1260090425,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1260090425,
+    "wof:lastmodified":1536977348,
+    "wof:name":"Lang Chi Noc",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55,
+    22.11667000000001,
+    104.55,
+    22.11667000000001
+],
+  "geometry": {"coordinates":[104.55,22.11667000000001],"type":"Point"}
+}

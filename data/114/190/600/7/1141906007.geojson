@@ -1,0 +1,278 @@
+{
+  "id": 1141906007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.133300661,16.8499981032,107.133300661,16.8499981032",
+    "geom:latitude":16.849998,
+    "geom:longitude":107.133301,
+    "iso:country":"VN",
+    "lbl:latitude":16.849998,
+    "lbl:longitude":107.133301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0646\u062c \u0647\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u0982 \u09b9\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e1c\u6cb3\u9547"
+    ],
+    "name:cze_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:dan_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:dut_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:eng_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:fin_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:fre_x_preferred":[
+        "D\u00f4ng H\u00e0"
+    ],
+    "name:ger_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:glg_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03bf\u03bd\u03b3\u03ba \u03a7\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0acb\u0a82\u0a97 \u0ab9\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0902\u0917 \u0939\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:ita_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30f3\u30cf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cbe\u0c82\u0c97\u0ccd \u0cb9\u0ccd\u0caf\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3d9\ud558"
+    ],
+    "name:lav_x_preferred":[
+        "Dongha"
+    ],
+    "name:lit_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u093e\u0901\u0917 \u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:nob_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:pdc_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648\u0646\u06af \u0647\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:por_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0433\u0445\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0ddc\u0db1\u0dca\u0d9c\u0dca \u0dc4\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043d\u0433 \u0425\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0b99\u0bcd \u0bb9\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c4b\u0c02\u0c17\u0c4d \u0c39\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e07\u0e2b\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Dong Ha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0433\u0445\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0646\u06af \u06c1\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
+    "name:war_x_preferred":[
+        "Dong Ha"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Vietnam",
+    "ne:ADM0_A3":"VNM",
+    "ne:ADM1NAME":"Qu?ng Tr?",
+    "ne:ADMIN1_COD":64,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":1582926,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Dong Ha",
+    "ne:GN_POP":17662,
+    "ne:GTOPO30":6.0,
+    "ne:ISO_A2":"VN",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":16.849998,
+    "ne:LONGITUDE":107.133301,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Dong Ha",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Dong Ha",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":17662,
+    "ne:POP_MIN":17662,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Vietnam",
+    "ne:SOV_A3":"VNM",
+    "ne:TIMEZONE":"Asia/Ho_Chi_Minh",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":9.0,
+    "reversegeo:latitude":16.849998,
+    "reversegeo:longitude":107.133301,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q33343"
+    },
+    "wof:country":"VN",
+    "wof:created":1499130528,
+    "wof:geomhash":"5859454997ed45100f1aa7c72511726d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781553,
+            "locality_id":1141906007,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1141906007,
+    "wof:lastmodified":1514502597,
+    "wof:name":"Dong Ha",
+    "wof:parent_id":1108781553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.13330066061451,
+    16.8499981032075,
+    107.13330066061451,
+    16.8499981032075
+],
+  "geometry": {"coordinates":[107.13330066061451,16.8499981032075],"type":"Point"}
+}

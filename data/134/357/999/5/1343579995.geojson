@@ -1,0 +1,67 @@
+{
+  "id": 1343579995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41667,22.23333,104.41667,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":104.41667,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Bon",
+    "gn:country_code":"VN",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577724,
+    "gn:latitude":22.23333,
+    "gn:longitude":104.41667,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"L\u00e0ng B\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577724
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5b462927f1729aaab54ee749db9e1179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780951,
+            "locality_id":1343579995,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343579995,
+    "wof:lastmodified":1537068275,
+    "wof:name":"Lang Bon",
+    "wof:parent_id":1108780951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41667,
+    22.23333,
+    104.41667,
+    22.23333
+],
+  "geometry": {"coordinates":[104.41667,22.23333],"type":"Point"}
+}

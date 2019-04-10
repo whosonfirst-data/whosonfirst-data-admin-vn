@@ -1,0 +1,66 @@
+{
+  "id": 1209530557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23333,17.93333,106.23333,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":106.23333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ba Hung",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591365,
+    "gn:latitude":17.93333,
+    "gn:longitude":106.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ba H\u01b0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba Nung",
+        "Ba H\u01b0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2fe92bf90335cd54ddc6b3be5f82c0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209530557
+        }
+    ],
+    "wof:id":1209530557,
+    "wof:lastmodified":1537714136,
+    "wof:name":"Ba Hung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23333,
+    17.93332999999999,
+    106.23333,
+    17.93332999999999
+],
+  "geometry": {"coordinates":[106.23333,17.93332999999999],"type":"Point"}
+}

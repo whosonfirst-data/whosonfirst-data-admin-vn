@@ -1,0 +1,64 @@
+{
+  "id": 1209456381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56584,21.8917,103.56584,21.8917",
+    "geom:latitude":21.8917,
+    "geom:longitude":103.56584,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Nam Lo",
+    "gn:country_code":"VN",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178887,
+    "gn:latitude":21.8917,
+    "gn:longitude":103.56584,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"B\u1ea3n N\u1eadm L\u00f2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n N\u1eadm L\u00f2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178887
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89519ce581b5f92b9e1ba186af68e96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209456381
+        }
+    ],
+    "wof:id":1209456381,
+    "wof:lastmodified":1537714606,
+    "wof:name":"Ban Nam Lo",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56584,
+    21.8917,
+    103.56584,
+    21.8917
+],
+  "geometry": {"coordinates":[103.56583999999999,21.8917],"type":"Point"}
+}

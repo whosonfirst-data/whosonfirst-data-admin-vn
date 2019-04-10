@@ -1,0 +1,70 @@
+{
+  "id": 1242696937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32097,21.37655,105.32097,21.37655",
+    "geom:latitude":21.37655,
+    "geom:longitude":105.32097,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Co Tich",
+    "gn:country_code":"VN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584733,
+    "gn:latitude":21.37655,
+    "gn:longitude":105.32097,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ed5 Tich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed5 Tich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584733
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bfc746a1f08cddb33155bb8be7dda83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781165,
+            "locality_id":1242696937,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1242696937,
+    "wof:lastmodified":1537714017,
+    "wof:name":"Co Tich",
+    "wof:parent_id":1108781165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32097,
+    21.37655,
+    105.32097,
+    21.37655
+],
+  "geometry": {"coordinates":[105.32097,21.37655],"type":"Point"}
+}

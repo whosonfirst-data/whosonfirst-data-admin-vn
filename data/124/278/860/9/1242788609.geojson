@@ -1,0 +1,67 @@
+{
+  "id": 1242788609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.68333,10.81667,107.68333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":107.68333,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Da Mai",
+    "gn:country_code":"VN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584046,
+    "gn:latitude":10.81667,
+    "gn:longitude":107.68333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00e1 M\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cc4b83e8c440b395d5f654976e05e4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781769,
+            "locality_id":1242788609,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1242788609,
+    "wof:lastmodified":1536759834,
+    "wof:name":"Da Mai",
+    "wof:parent_id":1108781769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.68333,
+    10.81667,
+    107.68333,
+    10.81667
+],
+  "geometry": {"coordinates":[107.68333,10.81667],"type":"Point"}
+}

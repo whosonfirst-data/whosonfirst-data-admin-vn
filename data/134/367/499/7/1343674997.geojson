@@ -1,0 +1,67 @@
+{
+  "id": 1343674997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0,10.58333,105.0,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":105.0,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bu Hoc",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587263,
+    "gn:latitude":10.58333,
+    "gn:longitude":105.0,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"B\u00f9 H\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587263
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"adb1b9629eef729683f7779fae059acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782209,
+            "locality_id":1343674997,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1343674997,
+    "wof:lastmodified":1536934786,
+    "wof:name":"Bu Hoc",
+    "wof:parent_id":1108782209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0,
+    10.58333,
+    105.0,
+    10.58333
+],
+  "geometry": {"coordinates":[105.0,10.58333],"type":"Point"}
+}

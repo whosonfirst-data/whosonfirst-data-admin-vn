@@ -1,0 +1,61 @@
+{
+  "id": 1209121431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,22.16667,104.2,22.16667",
+    "geom:latitude":22.16667,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577443,
+    "gn:latitude":22.16667,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577443
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f933990bcddbe509cfb813e084e8aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121431
+        }
+    ],
+    "wof:id":1209121431,
+    "wof:lastmodified":1536297085,
+    "wof:name":"Lang Dinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    22.16667,
+    104.2,
+    22.16667
+],
+  "geometry": {"coordinates":[104.2,22.16667],"type":"Point"}
+}

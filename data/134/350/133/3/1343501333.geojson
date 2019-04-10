@@ -1,0 +1,73 @@
+{
+  "id": 1343501333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56882,20.55832,106.56882,20.55832",
+    "geom:latitude":20.55832,
+    "geom:longitude":106.56882,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Giemdiem",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1583497,
+    "gn:latitude":20.55832,
+    "gn:longitude":106.56882,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Giemdiem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u1ec5m \u0110i\u00ean"
+    ],
+    "name:vie_x_preferred":[
+        "Di\u00eam \u0110i\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583497
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f655084722d93eb671a0d9a077ae9594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781323,
+            "locality_id":1343501333,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1343501333,
+    "wof:lastmodified":1537714001,
+    "wof:name":"Giemdiem",
+    "wof:parent_id":1108781323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56882,
+    20.55832,
+    106.56882,
+    20.55832
+],
+  "geometry": {"coordinates":[106.56882,20.55832],"type":"Point"}
+}

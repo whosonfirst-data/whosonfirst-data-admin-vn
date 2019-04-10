@@ -1,0 +1,71 @@
+{
+  "id": 1260095467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66861,9.56028,105.66861,9.56028",
+    "geom:latitude":9.56028,
+    "geom:longitude":105.66861,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Dien Hoi",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593566,
+    "gn:latitude":9.56028,
+    "gn:longitude":105.66861,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u1ea4p \u0110i\u1ec1n H\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110i\u1ec1n H\u1ed9i",
+        "\u1ea4p \u0110i\u1ec1n H\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593566
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f1fe82b830d36e52624d50dc7f384f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782303,
+            "locality_id":1260095467,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1260095467,
+    "wof:lastmodified":1537714188,
+    "wof:name":"Ap Dien Hoi",
+    "wof:parent_id":1108782303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66861000000002,
+    9.56028,
+    105.66861000000002,
+    9.56028
+],
+  "geometry": {"coordinates":[105.66861000000002,9.56028],"type":"Point"}
+}

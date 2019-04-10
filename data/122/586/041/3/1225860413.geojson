@@ -1,0 +1,70 @@
+{
+  "id": 1225860413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88683,17.747,105.88683,17.747",
+    "geom:latitude":17.747,
+    "geom:longitude":105.88683,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Dang Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646694,
+    "gn:latitude":17.747,
+    "gn:longitude":105.88683,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0110\u1eb7ng H\u00f3a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1eb7ng H\u00f3a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646694
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"296c8ba8b8c590ae57d4cebb1a07c336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1225860413,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1225860413,
+    "wof:lastmodified":1537714389,
+    "wof:name":"Dang Hoa",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88683,
+    17.747,
+    105.88683,
+    17.747
+],
+  "geometry": {"coordinates":[105.88683,17.747],"type":"Point"}
+}

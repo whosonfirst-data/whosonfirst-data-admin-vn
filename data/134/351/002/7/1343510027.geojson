@@ -1,0 +1,70 @@
+{
+  "id": 1343510027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.60312,21.67535,103.60312,21.67535",
+    "geom:latitude":21.67535,
+    "geom:longitude":103.60312,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Hoc",
+    "gn:country_code":"VN",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631030,
+    "gn:latitude":21.67535,
+    "gn:longitude":103.60312,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ea3n H\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n H\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108780997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d4726160e2351e87ff58327f001ab571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780997,
+            "locality_id":1343510027,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1343510027,
+    "wof:lastmodified":1537714725,
+    "wof:name":"Ban Hoc",
+    "wof:parent_id":1108780997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.60312,
+    21.67535,
+    103.60312,
+    21.67535
+],
+  "geometry": {"coordinates":[103.60312,21.67535],"type":"Point"}
+}

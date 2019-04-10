@@ -1,0 +1,79 @@
+{
+  "id": 1276182489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.12585,12.17225,108.12585,12.17225",
+    "geom:latitude":12.17225,
+    "geom:longitude":108.12585,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Buon Pi Ko",
+    "gn:country_code":"VN",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587454,
+    "gn:latitude":12.17225,
+    "gn:longitude":108.12585,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n Pi K\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Phi Ko",
+        "Ban Peco",
+        "Ban Phi Ko",
+        "Bon Pi Ko"
+    ],
+    "name:vie_x_preferred":[
+        "Pi K\u00f3"
+    ],
+    "name:vie_x_variant":[
+        "Bu\u00f4n Pi K\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587454
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"921da567be2b618eaac33a60e381a547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781889,
+            "locality_id":1276182489,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1276182489,
+    "wof:lastmodified":1537714064,
+    "wof:name":"Buon Pi Ko",
+    "wof:parent_id":1108781889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.12585,
+    12.17225,
+    108.12585,
+    12.17225
+],
+  "geometry": {"coordinates":[108.12585,12.17225],"type":"Point"}
+}

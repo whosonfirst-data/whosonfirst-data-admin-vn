@@ -1,0 +1,61 @@
+{
+  "id": 1209634229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31667,10.15,105.31667,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":105.31667,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Ap Phung",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592567,
+    "gn:latitude":10.15,
+    "gn:longitude":105.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u1ee5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592567
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b82f5e26f5807ae4edaddd5736c93eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634229
+        }
+    ],
+    "wof:id":1209634229,
+    "wof:lastmodified":1536281093,
+    "wof:name":"Ap Phung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31667,
+    10.15,
+    105.31667,
+    10.15
+],
+  "geometry": {"coordinates":[105.31667,10.15],"type":"Point"}
+}

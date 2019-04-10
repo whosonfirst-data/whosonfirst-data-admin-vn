@@ -1,0 +1,71 @@
+{
+  "id": 1276567739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.8,15.05,108.8,15.05",
+    "geom:latitude":15.05,
+    "geom:longitude":108.8,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Hiep Pho Hai",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580900,
+    "gn:latitude":15.05,
+    "gn:longitude":108.8,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Hi\u1ec7p Ph\u1ed5 Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hop Pho",
+        "Hi\u1ec7p Ph\u1ed5 Hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580900
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"46d30adca734b8cc03bcbc959d72f09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781655,
+            "locality_id":1276567739,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1276567739,
+    "wof:lastmodified":1537713970,
+    "wof:name":"Hiep Pho Hai",
+    "wof:parent_id":1108781655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.8,
+    15.05,
+    108.8,
+    15.05
+],
+  "geometry": {"coordinates":[108.8,15.05],"type":"Point"}
+}

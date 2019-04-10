@@ -1,0 +1,73 @@
+{
+  "id": 1310024623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91527,21.77495,104.91527,21.77495",
+    "geom:latitude":21.77495,
+    "geom:longitude":104.91527,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dong Dao",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582991,
+    "gn:latitude":21.77495,
+    "gn:longitude":104.91527,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"\u0110\u00f4ng \u0110ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ed9ng \u0110\u00e0o"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng \u0110ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582991
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8adc554b131cb6ca6bd609a74463e41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1310024623,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1310024623,
+    "wof:lastmodified":1537713995,
+    "wof:name":"Dong Dao",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91527,
+    21.77495,
+    104.91527,
+    21.77495
+],
+  "geometry": {"coordinates":[104.91527000000001,21.77495],"type":"Point"}
+}

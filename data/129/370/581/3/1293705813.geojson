@@ -1,0 +1,73 @@
+{
+  "id": 1293705813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42093,21.8725,105.42093,21.8725",
+    "geom:latitude":21.8725,
+    "geom:longitude":105.42093,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Ho",
+    "gn:country_code":"VN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573818,
+    "gn:latitude":21.8725,
+    "gn:longitude":105.42093,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u00e0 Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Ha"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 Ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573818
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e157b71e7d154895292b3a481e7fccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780933,
+            "locality_id":1293705813,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1293705813,
+    "wof:lastmodified":1537713874,
+    "wof:name":"Na Ho",
+    "wof:parent_id":1108780933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42093,
+    21.8725,
+    105.42093,
+    21.8725
+],
+  "geometry": {"coordinates":[105.42093,21.8725],"type":"Point"}
+}

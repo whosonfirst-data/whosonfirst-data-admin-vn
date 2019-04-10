@@ -1,0 +1,73 @@
+{
+  "id": 1243086627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.96512,16.75143,106.96512,16.75143",
+    "geom:latitude":16.75143,
+    "geom:longitude":106.96512,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Doc Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565650,
+    "gn:latitude":16.75143,
+    "gn:longitude":106.96512,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"\u0110\u1ed1c Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n \u0110\u1ed1c K\u1ec9nh"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ed1c Kinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565650
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6faabd30fbed6ce1d6e5c054a692618a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781551,
+            "locality_id":1243086627,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1243086627,
+    "wof:lastmodified":1537713763,
+    "wof:name":"Doc Kinh",
+    "wof:parent_id":1108781551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.96512,
+    16.75143,
+    106.96512,
+    16.75143
+],
+  "geometry": {"coordinates":[106.96512,16.75143],"type":"Point"}
+}

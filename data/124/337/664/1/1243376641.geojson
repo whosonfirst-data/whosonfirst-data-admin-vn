@@ -1,0 +1,70 @@
+{
+  "id": 1243376641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03891,10.51321,105.03891,10.51321",
+    "geom:latitude":10.51321,
+    "geom:longitude":105.03891,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tan Hiep",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375985,
+    "gn:latitude":10.51321,
+    "gn:longitude":105.03891,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"T\u00e2n Hi\u1ec7p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n Hi\u1ec7p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375985
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ca2abb5d98ee695e9eb97498ee64be1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782209,
+            "locality_id":1243376641,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1243376641,
+    "wof:lastmodified":1537714300,
+    "wof:name":"Tan Hiep",
+    "wof:parent_id":1108782209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03891000000002,
+    10.51321,
+    105.03891000000002,
+    10.51321
+],
+  "geometry": {"coordinates":[105.03891000000002,10.51321],"type":"Point"}
+}

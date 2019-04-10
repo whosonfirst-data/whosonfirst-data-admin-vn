@@ -1,0 +1,67 @@
+{
+  "id": 1242788375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,18.7,105.78333,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Trao Nha",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563976,
+    "gn:latitude":18.7,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u1ea3o Nha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563976
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db4db6375aeb83c4425f8362c9d6e6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781507,
+            "locality_id":1242788375,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1242788375,
+    "wof:lastmodified":1536760160,
+    "wof:name":"Trao Nha",
+    "wof:parent_id":1108781507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    18.7,
+    105.78333,
+    18.7
+],
+  "geometry": {"coordinates":[105.78333000000001,18.7],"type":"Point"}
+}

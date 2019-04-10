@@ -1,0 +1,67 @@
+{
+  "id": 1209869647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,19.95,105.58333,19.95",
+    "geom:latitude":19.95,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Coc Thon",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585030,
+    "gn:latitude":19.95,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"C\u1ed1c Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585030
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73fbf7ccaea4ef91402e86c031d04af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781419,
+            "locality_id":1209869647,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1209869647,
+    "wof:lastmodified":1536375015,
+    "wof:name":"Coc Thon",
+    "wof:parent_id":1108781419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    19.95,
+    105.58333,
+    19.95
+],
+  "geometry": {"coordinates":[105.58333,19.95],"type":"Point"}
+}

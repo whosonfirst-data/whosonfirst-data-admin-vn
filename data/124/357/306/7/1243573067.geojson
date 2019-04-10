@@ -1,0 +1,74 @@
+{
+  "id": 1243573067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.79621,11.2897,106.79621,11.2897",
+    "geom:latitude":11.2897,
+    "geom:longitude":106.79621,
+    "gn:admin1_code":"75.0",
+    "gn:admin2_code":"722.0",
+    "gn:asciiname":"Phuoc Vinh",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570619,
+    "gn:latitude":11.2897,
+    "gn:longitude":106.79621,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"Phuoc Vinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Phuoc Vinh"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc V\u0129nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570619
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1771d3d45acffae6639d2cb7258a19c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1243573067,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1243573067,
+    "wof:lastmodified":1537713832,
+    "wof:name":"Phuoc Vinh",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.79621000000002,
+    11.2897,
+    106.79621000000002,
+    11.2897
+],
+  "geometry": {"coordinates":[106.79621000000002,11.2897],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209307265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,22.63333,106.65,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lenh Cam",
+    "gn:country_code":"VN",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576107,
+    "gn:latitude":22.63333,
+    "gn:longitude":106.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"L\u1ec7nh C\u1ea5m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576107
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c12da24f13cd9054bc8651f812d85f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209307265
+        }
+    ],
+    "wof:id":1209307265,
+    "wof:lastmodified":1536291151,
+    "wof:name":"Lenh Cam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    22.63333,
+    106.65,
+    22.63333
+],
+  "geometry": {"coordinates":[106.65000000000001,22.63333],"type":"Point"}
+}

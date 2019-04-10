@@ -1,0 +1,67 @@
+{
+  "id": 1276563751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03333,12.95,109.03333,12.95",
+    "geom:latitude":12.95,
+    "geom:longitude":109.03333,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Bun Ba Ung",
+    "gn:country_code":"VN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1587201,
+    "gn:latitude":12.95,
+    "gn:longitude":109.03333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bun Ba Ung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587201
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"90a9d8d9b337be22b1eaa1550b494f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781707,
+            "locality_id":1276563751,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1276563751,
+    "wof:lastmodified":1536967068,
+    "wof:name":"Bun Ba Ung",
+    "wof:parent_id":1108781707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03333,
+    12.95,
+    109.03333,
+    12.95
+],
+  "geometry": {"coordinates":[109.03333000000001,12.95],"type":"Point"}
+}

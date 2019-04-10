@@ -1,0 +1,71 @@
+{
+  "id": 1242793221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.73333,21.63333,105.73333,21.63333",
+    "geom:latitude":21.63333,
+    "geom:longitude":105.73333,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cu Van",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584522,
+    "gn:latitude":21.63333,
+    "gn:longitude":105.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u01b0 V\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cu Yan",
+        "C\u01b0 V\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584522
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3b28d6626fde89b99261c90981e1e012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1242793221,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1242793221,
+    "wof:lastmodified":1537714015,
+    "wof:name":"Cu Van",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.73333,
+    21.63333,
+    105.73333,
+    21.63333
+],
+  "geometry": {"coordinates":[105.73333,21.63333],"type":"Point"}
+}

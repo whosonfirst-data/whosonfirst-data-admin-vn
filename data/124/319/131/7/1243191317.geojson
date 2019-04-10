@@ -1,0 +1,70 @@
+{
+  "id": 1243191317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01831,18.34673,106.01831,18.34673",
+    "geom:latitude":18.34673,
+    "geom:longitude":106.01831,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Dai Hai",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357253,
+    "gn:latitude":18.34673,
+    "gn:longitude":106.01831,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"\u0110\u1ea1i H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357253
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a2d94f45c2302b7e058df624117a339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1243191317,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243191317,
+    "wof:lastmodified":1537714714,
+    "wof:name":"Dai Hai",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01831,
+    18.34673,
+    106.01831,
+    18.34673
+],
+  "geometry": {"coordinates":[106.01831,18.34673],"type":"Point"}
+}

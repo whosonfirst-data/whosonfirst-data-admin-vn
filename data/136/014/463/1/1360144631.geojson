@@ -1,0 +1,75 @@
+{
+  "id": 1360144631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.72769,21.10478,106.72769,21.10478",
+    "geom:latitude":21.10478,
+    "geom:longitude":106.72769,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nam Mau",
+    "gn:country_code":"VN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573346,
+    "gn:latitude":21.10478,
+    "gn:longitude":106.72769,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Nam M\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Mao",
+        "Nam M\u1eabu"
+    ],
+    "name:vie_x_preferred":[
+        "Nam M\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573346,
+        "wk:page":"Nam_M%E1%BA%ABu"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a2935f5ce56226fc162701127f403355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781117,
+            "locality_id":1360144631,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1360144631,
+    "wof:lastmodified":1537713868,
+    "wof:name":"Nam Mau",
+    "wof:parent_id":1108781117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.72769,
+    21.10478,
+    106.72769,
+    21.10478
+],
+  "geometry": {"coordinates":[106.72769,21.10478],"type":"Point"}
+}

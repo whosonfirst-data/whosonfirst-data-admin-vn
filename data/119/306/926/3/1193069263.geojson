@@ -1,0 +1,70 @@
+{
+  "id": 1193069263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7925,21.02573,103.7925,21.02573",
+    "geom:latitude":21.02573,
+    "geom:longitude":103.7925,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Pung Kieng",
+    "gn:country_code":"VN",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893424,
+    "gn:latitude":21.02573,
+    "gn:longitude":103.7925,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"P\u00fang Ki\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "P\u00fang Ki\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893424
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dfc2b5550c305dba0e611b675c08f008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781015,
+            "locality_id":1193069263,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1193069263,
+    "wof:lastmodified":1537714556,
+    "wof:name":"Pung Kieng",
+    "wof:parent_id":1108781015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7925,
+    21.02573,
+    103.7925,
+    21.02573
+],
+  "geometry": {"coordinates":[103.7925,21.02573],"type":"Point"}
+}

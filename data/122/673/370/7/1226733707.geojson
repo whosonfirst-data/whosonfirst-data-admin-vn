@@ -1,0 +1,71 @@
+{
+  "id": 1226733707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35,10.8,105.35,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":105.35,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hong Ngu",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580400,
+    "gn:latitude":10.8,
+    "gn:longitude":105.35,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"H\u1ed3ng Ng\u1ef1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u1ed3ng Ng\u1ef1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580400,
+        "wk:page":"H%E1%BB%93ng_Ng%E1%BB%B1"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9ad3e87fc456f401f3f21101a5cdca10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782173,
+            "locality_id":1226733707,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1226733707,
+    "wof:lastmodified":1537713964,
+    "wof:name":"Hong Ngu",
+    "wof:parent_id":1108782173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35,
+    10.8,
+    105.35,
+    10.8
+],
+  "geometry": {"coordinates":[105.34999999999999,10.8],"type":"Point"}
+}

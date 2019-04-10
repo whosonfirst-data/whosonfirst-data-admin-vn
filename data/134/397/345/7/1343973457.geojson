@@ -1,0 +1,75 @@
+{
+  "id": 1343973457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22262,21.23744,106.22262,21.23744",
+    "geom:latitude":21.23744,
+    "geom:longitude":106.22262,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Thanh Cam",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566211,
+    "gn:latitude":21.23744,
+    "gn:longitude":106.22262,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Thanh C\u1ea3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang G\u1ed3m",
+        "Thanh Lam",
+        "Thanh Cam"
+    ],
+    "name:vie_x_preferred":[
+        "Thanh C\u1ea3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566211
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8e38e8696125e071cd47b25b489bd2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781157,
+            "locality_id":1343973457,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1343973457,
+    "wof:lastmodified":1537713774,
+    "wof:name":"Thanh Cam",
+    "wof:parent_id":1108781157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22262,
+    21.23744,
+    106.22262,
+    21.23744
+],
+  "geometry": {"coordinates":[106.22262000000001,21.23744],"type":"Point"}
+}

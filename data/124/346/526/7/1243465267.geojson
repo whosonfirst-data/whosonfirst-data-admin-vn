@@ -1,0 +1,70 @@
+{
+  "id": 1243465267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06579,21.78564,105.06579,21.78564",
+    "geom:latitude":21.78564,
+    "geom:longitude":105.06579,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ninh Mon",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137852,
+    "gn:latitude":21.78564,
+    "gn:longitude":105.06579,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ninh M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ninh M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137852
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3e557e52edd3944b2eef5055d304732e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1243465267,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1243465267,
+    "wof:lastmodified":1537714215,
+    "wof:name":"Ninh Mon",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06579,
+    21.78564,
+    105.06579,
+    21.78564
+],
+  "geometry": {"coordinates":[105.06579000000001,21.78564],"type":"Point"}
+}

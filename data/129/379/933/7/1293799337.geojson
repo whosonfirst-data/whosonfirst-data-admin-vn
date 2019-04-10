@@ -1,0 +1,67 @@
+{
+  "id": 1293799337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8,21.78333,104.8,21.78333",
+    "geom:latitude":21.78333,
+    "geom:longitude":104.8,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Dam Chon",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584029,
+    "gn:latitude":21.78333,
+    "gn:longitude":104.8,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ea7m Ch\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584029
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9abe9b38c8cd80dc2933c707a62a4e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781031,
+            "locality_id":1293799337,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1293799337,
+    "wof:lastmodified":1536833485,
+    "wof:name":"Dam Chon",
+    "wof:parent_id":1108781031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8,
+    21.78333,
+    104.8,
+    21.78333
+],
+  "geometry": {"coordinates":[104.8,21.78333],"type":"Point"}
+}

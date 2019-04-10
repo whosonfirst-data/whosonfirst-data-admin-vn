@@ -1,0 +1,70 @@
+{
+  "id": 1242989873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31983,20.74203,105.31983,20.74203",
+    "geom:latitude":20.74203,
+    "geom:longitude":105.31983,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Bac Son",
+    "gn:country_code":"VN",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551595,
+    "gn:latitude":20.74203,
+    "gn:longitude":105.31983,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"B\u1eafc S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1eafc S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551595
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"20e76ac6b722653df81e71cbbaff532f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781051,
+            "locality_id":1242989873,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1242989873,
+    "wof:lastmodified":1537714349,
+    "wof:name":"Bac Son",
+    "wof:parent_id":1108781051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31983,
+    20.74203,
+    105.31983,
+    20.74203
+],
+  "geometry": {"coordinates":[105.31983,20.74203],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343474077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16052,16.9318,107.16052,16.9318",
+    "geom:latitude":16.9318,
+    "geom:longitude":107.16052,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ha Loi Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650840,
+    "gn:latitude":16.9318,
+    "gn:longitude":107.16052,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00e0 L\u1ee3i Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0 L\u1ee3i Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650840
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d442e6d132b62e47c22588f72fbd4bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781547,
+            "locality_id":1343474077,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1343474077,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Ha Loi Thuong",
+    "wof:parent_id":1108781547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16052,
+    16.9318,
+    107.16052,
+    16.9318
+],
+  "geometry": {"coordinates":[107.16052000000001,16.9318],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226453217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22253,21.06016,106.22253,21.06016",
+    "geom:latitude":21.06016,
+    "geom:longitude":106.22253,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Khoai Khe",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579289,
+    "gn:latitude":21.06016,
+    "gn:longitude":106.22253,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Kho\u00e1i Kh\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kho\u00e1i Kh\u00e8"
+    ],
+    "name:vie_x_preferred":[
+        "Kho\u00e1i Kh\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579289
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d5827b56240fdd16bdbecfc2547c5a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1226453217,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1226453217,
+    "wof:lastmodified":1537713951,
+    "wof:name":"Khoai Khe",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22253,
+    21.06016,
+    106.22253,
+    21.06016
+],
+  "geometry": {"coordinates":[106.22253000000001,21.06016],"type":"Point"}
+}

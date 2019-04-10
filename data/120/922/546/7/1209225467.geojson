@@ -1,0 +1,61 @@
+{
+  "id": 1209225467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48333,18.68333,105.48333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":105.48333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Khoa Truong",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579278,
+    "gn:latitude":18.68333,
+    "gn:longitude":105.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kh\u1ecda Tr\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579278
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3eb41f7583d762523a1501339d05c23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209225467
+        }
+    ],
+    "wof:id":1209225467,
+    "wof:lastmodified":1536293812,
+    "wof:name":"Khoa Truong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48333,
+    18.68333,
+    105.48333,
+    18.68333
+],
+  "geometry": {"coordinates":[105.48333,18.68333],"type":"Point"}
+}

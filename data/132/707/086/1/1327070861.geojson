@@ -1,0 +1,72 @@
+{
+  "id": 1327070861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,19.56667,105.75,19.56667",
+    "geom:latitude":19.56667,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Cau Xom",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585919,
+    "gn:latitude":19.56667,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"C\u00e2u X\u00f3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tao Th\u00f4n",
+        "C\u00e2u X\u00f3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585919
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b5dd76de36577d9a364324e9ac3bf798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1327070861,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1327070861,
+    "wof:lastmodified":1537714029,
+    "wof:name":"Cau Xom",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    19.56667,
+    105.75,
+    19.56667
+],
+  "geometry": {"coordinates":[105.75,19.56667],"type":"Point"}
+}

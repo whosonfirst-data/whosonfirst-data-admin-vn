@@ -1,0 +1,72 @@
+{
+  "id": 1259894739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33333,16.61667,107.33333,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":107.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Thon Van Phong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565221,
+    "gn:latitude":16.61667,
+    "gn:longitude":107.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n V\u0103n Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u0103n Qui Ph\u01b0\u01a1ng",
+        "Th\u00f4n V\u0103n Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565221
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba7e58e44e80439fb1dc741f86b12187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1259894739,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1259894739,
+    "wof:lastmodified":1537713743,
+    "wof:name":"Thon Van Phong",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33333,
+    16.61667000000001,
+    107.33333,
+    16.61667000000001
+],
+  "geometry": {"coordinates":[107.33333,16.61667000000001],"type":"Point"}
+}

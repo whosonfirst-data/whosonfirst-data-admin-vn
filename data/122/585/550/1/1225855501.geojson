@@ -1,0 +1,67 @@
+{
+  "id": 1225855501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79611,9.52444,105.79611,9.52444",
+    "geom:latitude":9.52444,
+    "geom:longitude":105.79611,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Cau Ba",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593674,
+    "gn:latitude":9.52444,
+    "gn:longitude":105.79611,
+    "gn:modification_date":"2000-11-21",
+    "gn:name":"\u1ea4p C\u1eadu Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593674
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d1af7a7241239adc81f9967f231bd953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782305,
+            "locality_id":1225855501,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1225855501,
+    "wof:lastmodified":1536998760,
+    "wof:name":"Ap Cau Ba",
+    "wof:parent_id":1108782305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79611,
+    9.52444,
+    105.79611,
+    9.52444
+],
+  "geometry": {"coordinates":[105.79611,9.52444],"type":"Point"}
+}

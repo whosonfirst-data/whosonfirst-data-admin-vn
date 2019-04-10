@@ -1,0 +1,67 @@
+{
+  "id": 1327348879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21667,11.75,107.21667,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":107.21667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu Tom",
+    "gn:country_code":"VN",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586710,
+    "gn:latitude":11.75,
+    "gn:longitude":107.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Tom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586710
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8ab628e09b45ae4ba188375bbd365a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1327348879,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1327348879,
+    "wof:lastmodified":1536801380,
+    "wof:name":"Bu Tom",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21667,
+    11.75,
+    107.21667,
+    11.75
+],
+  "geometry": {"coordinates":[107.21666999999999,11.75],"type":"Point"}
+}

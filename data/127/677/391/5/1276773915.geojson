@@ -1,0 +1,67 @@
+{
+  "id": 1276773915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,20.21667,105.98333,20.21667",
+    "geom:latitude":20.21667,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Ha Thon",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581061,
+    "gn:latitude":20.21667,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ha Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680667,
+        1108781369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581061
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fa89986b405397c267b80c3100536fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781369,
+            "locality_id":1276773915,
+            "region_id":85680667
+        }
+    ],
+    "wof:id":1276773915,
+    "wof:lastmodified":1536685389,
+    "wof:name":"Ha Thon",
+    "wof:parent_id":1108781369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    20.21667,
+    105.98333,
+    20.21667
+],
+  "geometry": {"coordinates":[105.98333,20.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226661531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18333,19.28333,105.18333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":105.18333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Que",
+    "gn:country_code":"VN",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588982,
+    "gn:latitude":19.28333,
+    "gn:longitude":105.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Qu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588982
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c76de4360603ef8d13316162e3e1d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781465,
+            "locality_id":1226661531,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1226661531,
+    "wof:lastmodified":1536835610,
+    "wof:name":"Ban Que",
+    "wof:parent_id":1108781465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18333,
+    19.28333,
+    105.18333,
+    19.28333
+],
+  "geometry": {"coordinates":[105.18333,19.28333],"type":"Point"}
+}

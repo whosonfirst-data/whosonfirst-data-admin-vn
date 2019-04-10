@@ -1,0 +1,74 @@
+{
+  "id": 1327352521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91227,8.86022,104.91227,8.86022",
+    "geom:latitude":8.86022,
+    "geom:longitude":104.91227,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Ca Bat",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561919,
+    "gn:latitude":8.86022,
+    "gn:longitude":104.91227,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"C\u1ea3 B\u00e1t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cai Bat",
+        "X\u00f3m C\u00e1i B\u00e1t"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea3 B\u00e1t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680839,
+        1108782341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561919
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b453786980f7bbd7a0924adfe12a6d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782341,
+            "locality_id":1327352521,
+            "region_id":85680839
+        }
+    ],
+    "wof:id":1327352521,
+    "wof:lastmodified":1537713695,
+    "wof:name":"Ca Bat",
+    "wof:parent_id":1108782341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91227,
+    8.86022,
+    104.91227,
+    8.86022
+],
+  "geometry": {"coordinates":[104.91227000000001,8.86022],"type":"Point"}
+}

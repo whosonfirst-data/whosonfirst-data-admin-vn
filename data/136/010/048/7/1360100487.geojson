@@ -1,0 +1,71 @@
+{
+  "id": 1360100487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.76667,11.25,106.76667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":106.76667,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Ap Phuoc Hoa II",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592542,
+    "gn:latitude":11.25,
+    "gn:longitude":106.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ph\u01b0\u1edbc H\u00f2a II",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ph\u01b0\u1edbc H\u00f2a",
+        "\u1ea4p Ph\u01b0\u1edbc H\u00f2a II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680735,
+        1108781959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592542
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e18d76f848268f5fbf70e4fc8a2f03f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781959,
+            "locality_id":1360100487,
+            "region_id":85680735
+        }
+    ],
+    "wof:id":1360100487,
+    "wof:lastmodified":1537714162,
+    "wof:name":"Ap Phuoc Hoa II",
+    "wof:parent_id":1108781959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76667,
+    11.25,
+    106.76667,
+    11.25
+],
+  "geometry": {"coordinates":[106.76667,11.25],"type":"Point"}
+}

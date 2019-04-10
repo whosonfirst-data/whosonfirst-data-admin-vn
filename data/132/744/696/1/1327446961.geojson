@@ -1,0 +1,73 @@
+{
+  "id": 1327446961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.03554,12.26934,108.03554,12.26934",
+    "geom:latitude":12.26934,
+    "geom:longitude":108.03554,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Buon Pe Gour",
+    "gn:country_code":"VN",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8746532,
+    "gn:latitude":12.26934,
+    "gn:longitude":108.03554,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bu\u00f4n P\u00e9 Gour",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pegour"
+    ],
+    "name:vie_x_variant":[
+        "Bu\u00f4n P\u00e9 Gour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8746532
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c269b740f3c9a193e9e6e26e5a8871f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781875,
+            "locality_id":1327446961,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1327446961,
+    "wof:lastmodified":1537714419,
+    "wof:name":"Buon Pe Gour",
+    "wof:parent_id":1108781875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.03554,
+    12.26934,
+    108.03554,
+    12.26934
+],
+  "geometry": {"coordinates":[108.03554,12.26934],"type":"Point"}
+}

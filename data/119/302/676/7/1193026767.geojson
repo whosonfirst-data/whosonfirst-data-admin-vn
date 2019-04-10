@@ -1,0 +1,73 @@
+{
+  "id": 1193026767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22586,22.53827,104.22586,22.53827",
+    "geom:latitude":22.53827,
+    "geom:longitude":104.22586,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Nam Cio",
+    "gn:country_code":"VN",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573491,
+    "gn:latitude":22.53827,
+    "gn:longitude":104.22586,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Nam Cio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Gia"
+    ],
+    "name:vie_x_preferred":[
+        "Nam Cio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573491
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ce88ef3a58eb74699c2ac3a7309e53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1193026767,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1193026767,
+    "wof:lastmodified":1537713869,
+    "wof:name":"Nam Cio",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22586,
+    22.53827,
+    104.22586,
+    22.53827
+],
+  "geometry": {"coordinates":[104.22586,22.53827],"type":"Point"}
+}

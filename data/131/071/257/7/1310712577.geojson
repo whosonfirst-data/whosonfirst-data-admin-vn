@@ -1,0 +1,71 @@
+{
+  "id": 1310712577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48333,10.96667,107.48333,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":107.48333,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ap Tran Tao",
+    "gn:country_code":"VN",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591886,
+    "gn:latitude":10.96667,
+    "gn:longitude":107.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Tr\u00e2n T\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tran Tao",
+        "\u1ea4p Tr\u00e2n T\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591886
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a954defe856ff7a7de9fa2ac7cde7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781985,
+            "locality_id":1310712577,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1310712577,
+    "wof:lastmodified":1537714145,
+    "wof:name":"Ap Tran Tao",
+    "wof:parent_id":1108781985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48333,
+    10.96667,
+    107.48333,
+    10.96667
+],
+  "geometry": {"coordinates":[107.48333,10.96667],"type":"Point"}
+}

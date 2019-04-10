@@ -1,0 +1,70 @@
+{
+  "id": 1243592099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.26667,15.65,108.26667,15.65",
+    "geom:latitude":15.65,
+    "geom:longitude":108.26667,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Chau Nho",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582609,
+    "gn:latitude":15.65,
+    "gn:longitude":108.26667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Chau Nho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u00f4ng S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582609
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b82a9ab638f07ce352f8c4a12fa70122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1243592099,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1243592099,
+    "wof:lastmodified":1537713990,
+    "wof:name":"Chau Nho",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.26667,
+    15.65,
+    108.26667,
+    15.65
+],
+  "geometry": {"coordinates":[108.26667,15.65],"type":"Point"}
+}

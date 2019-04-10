@@ -1,0 +1,71 @@
+{
+  "id": 1343469485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.91667,14.95,108.91667,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":108.91667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Lam Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577856,
+    "gn:latitude":14.95,
+    "gn:longitude":108.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e2m Th\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quat Lam",
+        "L\u00e2m Th\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577856
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"29537a78ef9ec765bdc5d43108ac251c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781657,
+            "locality_id":1343469485,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1343469485,
+    "wof:lastmodified":1537713931,
+    "wof:name":"Lam Thuong",
+    "wof:parent_id":1108781657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.91667,
+    14.95,
+    108.91667,
+    14.95
+],
+  "geometry": {"coordinates":[108.91667,14.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293211263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86667,22.21667,105.86667,22.21667",
+    "geom:latitude":22.21667,
+    "geom:longitude":105.86667,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ke Loung",
+    "gn:country_code":"VN",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579825,
+    "gn:latitude":22.21667,
+    "gn:longitude":105.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ke Loung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579825
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"34777f4b3feffd06bbb90b0a74bac926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780913,
+            "locality_id":1293211263,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1293211263,
+    "wof:lastmodified":1536688252,
+    "wof:name":"Ke Loung",
+    "wof:parent_id":1108780913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86667,
+    22.21667,
+    105.86667,
+    22.21667
+],
+  "geometry": {"coordinates":[105.86667,22.21667],"type":"Point"}
+}

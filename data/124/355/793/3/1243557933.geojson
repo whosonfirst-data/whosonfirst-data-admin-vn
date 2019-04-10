@@ -1,0 +1,71 @@
+{
+  "id": 1243557933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30204,10.75702,105.30204,10.75702",
+    "geom:latitude":10.75702,
+    "geom:longitude":105.30204,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Long Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375956,
+    "gn:latitude":10.75702,
+    "gn:longitude":105.30204,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Long H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Long H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375956,
+        "wk:page":"Long_H%C3%B2a"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"070dc8b1ec973cede9152f5502ed39d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782177,
+            "locality_id":1243557933,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1243557933,
+    "wof:lastmodified":1537714299,
+    "wof:name":"Long Hoa",
+    "wof:parent_id":1108782177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30204,
+    10.75702,
+    105.30204,
+    10.75702
+],
+  "geometry": {"coordinates":[105.30204000000001,10.75702],"type":"Point"}
+}

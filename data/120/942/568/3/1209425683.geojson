@@ -1,0 +1,64 @@
+{
+  "id": 1209425683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43423,18.46473,105.43423,18.46473",
+    "geom:latitude":18.46473,
+    "geom:longitude":105.43423,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Tung Linh",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8637615,
+    "gn:latitude":18.46473,
+    "gn:longitude":105.43423,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"T\u00f9ng L\u0129nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00f9ng L\u0129nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637615
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"78229def4959959747031e7ea88eed1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425683
+        }
+    ],
+    "wof:id":1209425683,
+    "wof:lastmodified":1537714385,
+    "wof:name":"Tung Linh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43423,
+    18.46473,
+    105.43423,
+    18.46473
+],
+  "geometry": {"coordinates":[105.43423,18.46473],"type":"Point"}
+}

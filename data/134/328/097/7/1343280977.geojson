@@ -1,0 +1,70 @@
+{
+  "id": 1343280977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.12245,13.74212,108.12245,13.74212",
+    "geom:latitude":13.74212,
+    "geom:longitude":108.12245,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Lang Klan",
+    "gn:country_code":"VN",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8701441,
+    "gn:latitude":13.74212,
+    "gn:longitude":108.12245,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e0ng Klan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Klan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8701441
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5bdfe85641fe3aa8390d18ec802211f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781817,
+            "locality_id":1343280977,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1343280977,
+    "wof:lastmodified":1537714408,
+    "wof:name":"Lang Klan",
+    "wof:parent_id":1108781817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.12245,
+    13.74212,
+    108.12245,
+    13.74212
+],
+  "geometry": {"coordinates":[108.12245,13.74212],"type":"Point"}
+}

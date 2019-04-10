@@ -1,0 +1,71 @@
+{
+  "id": 1293303455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.01667,11.75,107.01667,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":107.01667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bu Dienn",
+    "gn:country_code":"VN",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587283,
+    "gn:latitude":11.75,
+    "gn:longitude":107.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu Dienn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu Diem",
+        "Bu Dienn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587283
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e8a764247b893d10868ba2fd53200ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1293303455,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1293303455,
+    "wof:lastmodified":1537714061,
+    "wof:name":"Bu Dienn",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.01667,
+    11.75,
+    107.01667,
+    11.75
+],
+  "geometry": {"coordinates":[107.01667,11.75],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343868931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.80796,16.54164,106.80796,16.54164",
+    "geom:latitude":16.54164,
+    "geom:longitude":106.80796,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Thon Hun",
+    "gn:country_code":"VN",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577166,
+    "gn:latitude":16.54164,
+    "gn:longitude":106.80796,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Th\u00f4n H\u00f9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Klung"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00f4n H\u00f9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577166
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"58e8a7d816b71fca4b870f7b6c80b2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1343868931,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1343868931,
+    "wof:lastmodified":1537713919,
+    "wof:name":"Thon Hun",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.80796,
+    16.54164,
+    106.80796,
+    16.54164
+],
+  "geometry": {"coordinates":[106.80795999999999,16.54164],"type":"Point"}
+}

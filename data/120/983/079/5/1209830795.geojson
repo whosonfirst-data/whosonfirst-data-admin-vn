@@ -1,0 +1,75 @@
+{
+  "id": 1209830795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56792,11.68059,106.56792,11.68059",
+    "geom:latitude":11.68059,
+    "geom:longitude":106.56792,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ka Lan",
+    "gn:country_code":"VN",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593239,
+    "gn:latitude":11.68059,
+    "gn:longitude":106.56792,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ka Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Kalili",
+        "\u1ea4p Katall",
+        "\u1ea4p Kalali"
+    ],
+    "name:vie_x_preferred":[
+        "Ka Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593239
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d347d6f5ea02bbf1a7435c45552c6107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781921,
+            "locality_id":1209830795,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1209830795,
+    "wof:lastmodified":1537714181,
+    "wof:name":"Ka Lan",
+    "wof:parent_id":1108781921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56792,
+    11.68059,
+    106.56792,
+    11.68059
+],
+  "geometry": {"coordinates":[106.56792,11.68059],"type":"Point"}
+}

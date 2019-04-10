@@ -1,0 +1,73 @@
+{
+  "id": 1343777435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48445,20.89995,105.48445,20.89995",
+    "geom:latitude":20.89995,
+    "geom:longitude":105.48445,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Rong Yong",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568295,
+    "gn:latitude":20.89995,
+    "gn:longitude":105.48445,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"R\u1ed3ng Yong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u1ed1ng Vong"
+    ],
+    "name:vie_x_preferred":[
+        "R\u1ed3ng Yong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568295
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e00c9be29050d9159f5e947a9b6f7f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1343777435,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1343777435,
+    "wof:lastmodified":1537713797,
+    "wof:name":"Rong Yong",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48445,
+    20.89995,
+    105.48445,
+    20.89995
+],
+  "geometry": {"coordinates":[105.48445,20.89995],"type":"Point"}
+}

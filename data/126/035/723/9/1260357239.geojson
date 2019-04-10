@@ -1,0 +1,67 @@
+{
+  "id": 1260357239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,10.58333,105.98333,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nhon Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572077,
+    "gn:latitude":10.58333,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Nh\u01a1n Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572077
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0ffd6b7c36a6e5ab1e1c2481fd8bd7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782071,
+            "locality_id":1260357239,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1260357239,
+    "wof:lastmodified":1536610604,
+    "wof:name":"Nhon Ninh",
+    "wof:parent_id":1108782071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    10.58333,
+    105.98333,
+    10.58333
+],
+  "geometry": {"coordinates":[105.98333,10.58333],"type":"Point"}
+}

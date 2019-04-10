@@ -1,0 +1,72 @@
+{
+  "id": 1242889403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.7,12.88333,108.7,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":108.7,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Tay",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1588653,
+    "gn:latitude":12.88333,
+    "gn:longitude":108.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Tay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Buon Tay",
+        "Ban Tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588653
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3be2ee1b8f67795cfd4c0d86987372a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781853,
+            "locality_id":1242889403,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1242889403,
+    "wof:lastmodified":1537714082,
+    "wof:name":"Ban Tay",
+    "wof:parent_id":1108781853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.7,
+    12.88333,
+    108.7,
+    12.88333
+],
+  "geometry": {"coordinates":[108.7,12.88333],"type":"Point"}
+}

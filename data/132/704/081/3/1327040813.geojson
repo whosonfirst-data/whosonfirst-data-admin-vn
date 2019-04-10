@@ -1,0 +1,70 @@
+{
+  "id": 1327040813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52568,20.87148,105.52568,20.87148",
+    "geom:latitude":20.87148,
+    "geom:longitude":105.52568,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Luong Son",
+    "gn:country_code":"VN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8551496,
+    "gn:latitude":20.87148,
+    "gn:longitude":105.52568,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"L\u01b0\u01a1ng S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u01b0\u01a1ng S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551496
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc9e027b53db271969f8f53e352fd8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1327040813,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1327040813,
+    "wof:lastmodified":1537714347,
+    "wof:name":"Luong Son",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52568,
+    20.87148,
+    105.52568,
+    20.87148
+],
+  "geometry": {"coordinates":[105.52567999999999,20.87148],"type":"Point"}
+}

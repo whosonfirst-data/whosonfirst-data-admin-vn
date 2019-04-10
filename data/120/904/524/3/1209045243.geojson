@@ -1,0 +1,64 @@
+{
+  "id": 1209045243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41319,10.40696,106.41319,10.40696",
+    "geom:latitude":10.40696,
+    "geom:longitude":106.41319,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Dang Phong",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337987,
+    "gn:latitude":10.40696,
+    "gn:longitude":106.41319,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"\u0110\u0103ng Ph\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u0103ng Ph\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337987
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d717dbc6816a56ec1648d21b32513259",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209045243
+        }
+    ],
+    "wof:id":1209045243,
+    "wof:lastmodified":1537714286,
+    "wof:name":"Dang Phong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41319,
+    10.40696,
+    106.41319,
+    10.40696
+],
+  "geometry": {"coordinates":[106.41319,10.40696],"type":"Point"}
+}

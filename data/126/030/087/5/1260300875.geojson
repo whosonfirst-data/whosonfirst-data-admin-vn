@@ -1,0 +1,73 @@
+{
+  "id": 1260300875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16814,21.01243,106.16814,21.01243",
+    "geom:latitude":21.01243,
+    "geom:longitude":106.16814,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Quang Lap",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568773,
+    "gn:latitude":21.01243,
+    "gn:longitude":106.16814,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Qu\u1ea3ng L\u1ea1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qu\u1ea3ng N\u1ea1p"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea3ng L\u1ea1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568773
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f5e592719cce8790b5d8fdd756b32a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1260300875,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1260300875,
+    "wof:lastmodified":1537713803,
+    "wof:name":"Quang Lap",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16814,
+    21.01243,
+    106.16814,
+    21.01243
+],
+  "geometry": {"coordinates":[106.16813999999999,21.01243],"type":"Point"}
+}

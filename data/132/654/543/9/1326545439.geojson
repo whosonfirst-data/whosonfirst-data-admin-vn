@@ -1,0 +1,70 @@
+{
+  "id": 1326545439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02256,18.34352,106.02256,18.34352",
+    "geom:latitude":18.34352,
+    "geom:longitude":106.02256,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bac Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357254,
+    "gn:latitude":18.34352,
+    "gn:longitude":106.02256,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"B\u1eafc H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1eafc H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357254
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7e5190f2a9ea60d14a80935ddfa1aa0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781515,
+            "locality_id":1326545439,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1326545439,
+    "wof:lastmodified":1537714714,
+    "wof:name":"Bac Hoa",
+    "wof:parent_id":1108781515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02256,
+    18.34352,
+    106.02256,
+    18.34352
+],
+  "geometry": {"coordinates":[106.02256,18.34352],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292918887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76667,22.2,104.76667,22.2",
+    "geom:latitude":22.2,
+    "geom:longitude":104.76667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Bua",
+    "gn:country_code":"VN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577718,
+    "gn:latitude":22.2,
+    "gn:longitude":104.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng B\u00faa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e967df5e63a2b3afe6d4616dcebddace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1292918887,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1292918887,
+    "wof:lastmodified":1536609936,
+    "wof:name":"Lang Bua",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76667,
+    22.2,
+    104.76667,
+    22.2
+],
+  "geometry": {"coordinates":[104.76667,22.2],"type":"Point"}
+}

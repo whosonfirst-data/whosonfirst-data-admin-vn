@@ -1,0 +1,67 @@
+{
+  "id": 1276346287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66667,21.45,106.66667,21.45",
+    "geom:latitude":21.45,
+    "geom:longitude":106.66667,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Lang Quan",
+    "gn:country_code":"VN",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576737,
+    "gn:latitude":21.45,
+    "gn:longitude":106.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576737
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b08f4c8965e1c79e012544bf9ef85629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781153,
+            "locality_id":1276346287,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1276346287,
+    "wof:lastmodified":1536761245,
+    "wof:name":"Lang Quan",
+    "wof:parent_id":1108781153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66667,
+    21.45,
+    106.66667,
+    21.45
+],
+  "geometry": {"coordinates":[106.66667,21.45],"type":"Point"}
+}

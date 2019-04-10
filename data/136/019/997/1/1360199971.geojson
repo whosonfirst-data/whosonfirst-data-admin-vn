@@ -1,0 +1,73 @@
+{
+  "id": 1360199971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90399,22.33634,105.90399,22.33634",
+    "geom:latitude":22.33634,
+    "geom:longitude":105.90399,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Bo Lech",
+    "gn:country_code":"VN",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311709,
+    "gn:latitude":22.33634,
+    "gn:longitude":105.90399,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"B\u00f3 L\u1ebfch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f3 L\u00each"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f3 L\u1ebfch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311709
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"df0d9823de3a04c167e1f9600a04fa6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1360199971,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1360199971,
+    "wof:lastmodified":1537714266,
+    "wof:name":"Bo Lech",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90399,
+    22.33634,
+    105.90399,
+    22.33634
+],
+  "geometry": {"coordinates":[105.90398999999999,22.33634],"type":"Point"}
+}

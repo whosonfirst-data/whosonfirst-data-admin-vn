@@ -1,0 +1,75 @@
+{
+  "id": 1293408713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.17269,10.45672,107.17269,10.45672",
+    "geom:latitude":10.45672,
+    "geom:longitude":107.17269,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Phuoc Co",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592552,
+    "gn:latitude":10.45672,
+    "gn:longitude":107.17269,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Ph\u01b0\u1edbc C\u01a1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Phuoc Co",
+        "Phuoc Co",
+        "\u1ea4p Ph\u01b0\u1edbc C\u01a1"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc C\u01a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680781,
+        1108781989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592552
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4089d5abd54152cc96e9c75a25b38a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781989,
+            "locality_id":1293408713,
+            "region_id":85680781
+        }
+    ],
+    "wof:id":1293408713,
+    "wof:lastmodified":1537714163,
+    "wof:name":"Phuoc Co",
+    "wof:parent_id":1108781989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.17269,
+    10.45672,
+    107.17269,
+    10.45672
+],
+  "geometry": {"coordinates":[107.17269,10.45672],"type":"Point"}
+}

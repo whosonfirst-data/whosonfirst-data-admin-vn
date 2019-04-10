@@ -1,0 +1,64 @@
+{
+  "id": 1209526091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06079,22.04101,105.06079,22.04101",
+    "geom:latitude":22.04101,
+    "geom:longitude":105.06079,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Nam Yen",
+    "gn:country_code":"VN",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541598,
+    "gn:latitude":22.04101,
+    "gn:longitude":105.06079,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"N\u00e0m Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0m Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541598
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"70631819a8ee5dd4934d12398fe3413b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209526091
+        }
+    ],
+    "wof:id":1209526091,
+    "wof:lastmodified":1537714337,
+    "wof:name":"Nam Yen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06079,
+    22.04101,
+    105.06079,
+    22.04101
+],
+  "geometry": {"coordinates":[105.06079,22.04101],"type":"Point"}
+}

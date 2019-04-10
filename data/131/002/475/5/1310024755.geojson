@@ -1,0 +1,71 @@
+{
+  "id": 1310024755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55773,22.09096,106.55773,22.09096",
+    "geom:latitude":22.09096,
+    "geom:longitude":106.55773,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khon Sao",
+    "gn:country_code":"VN",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579192,
+    "gn:latitude":22.09096,
+    "gn:longitude":106.55773,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kh\u00f2n Sao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u00f2n Sao",
+        "Khon Sao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579192
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f647f9b378a186b62b48670db12f385a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1310024755,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1310024755,
+    "wof:lastmodified":1537713950,
+    "wof:name":"Khon Sao",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55773,
+    22.09096,
+    106.55773,
+    22.09096
+],
+  "geometry": {"coordinates":[106.55773000000001,22.09096],"type":"Point"}
+}

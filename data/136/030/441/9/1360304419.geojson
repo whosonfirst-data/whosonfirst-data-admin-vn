@@ -1,0 +1,72 @@
+{
+  "id": 1360304419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,18.18333,106.2,18.18333",
+    "geom:latitude":18.18333,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Yen Cai",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560339,
+    "gn:latitude":18.18333,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00ean C\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qon Cai",
+        "Con Cai",
+        "Y\u00ean C\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560339
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cab9c225900b8f0b228858f64d63c3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781517,
+            "locality_id":1360304419,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360304419,
+    "wof:lastmodified":1537713662,
+    "wof:name":"Yen Cai",
+    "wof:parent_id":1108781517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    18.18333,
+    106.2,
+    18.18333
+],
+  "geometry": {"coordinates":[106.2,18.18333],"type":"Point"}
+}

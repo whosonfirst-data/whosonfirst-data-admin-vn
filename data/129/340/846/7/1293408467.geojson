@@ -1,0 +1,70 @@
+{
+  "id": 1293408467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,20.7,106.0,20.7",
+    "geom:latitude":20.7,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Duc Triem",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582217,
+    "gn:latitude":20.7,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Duc Triem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110\u1ee9c Chi\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582217
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6e8d1d973536ba801f20fb4d762dd673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781335,
+            "locality_id":1293408467,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1293408467,
+    "wof:lastmodified":1537713986,
+    "wof:name":"Duc Triem",
+    "wof:parent_id":1108781335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    20.7,
+    106.0,
+    20.7
+],
+  "geometry": {"coordinates":[106.0,20.7],"type":"Point"}
+}

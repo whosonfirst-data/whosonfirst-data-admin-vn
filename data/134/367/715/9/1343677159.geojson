@@ -1,0 +1,67 @@
+{
+  "id": 1343677159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,17.86667,105.85,17.86667",
+    "geom:latitude":17.86667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Xom Vot",
+    "gn:country_code":"VN",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560723,
+    "gn:latitude":17.86667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m V\u1ecdt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560723
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c4b9069567236596b5dab04767f7217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1343677159,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1343677159,
+    "wof:lastmodified":1536931627,
+    "wof:name":"Xom Vot",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    17.86667000000001,
+    105.85,
+    17.86667000000001
+],
+  "geometry": {"coordinates":[105.84999999999999,17.86667000000001],"type":"Point"}
+}

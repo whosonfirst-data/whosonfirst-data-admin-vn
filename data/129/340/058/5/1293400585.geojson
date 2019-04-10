@@ -1,0 +1,70 @@
+{
+  "id": 1293400585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37208,18.86321,105.37208,18.86321",
+    "geom:latitude":18.86321,
+    "geom:longitude":105.37208,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Dong Minh",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201074,
+    "gn:latitude":18.86321,
+    "gn:longitude":105.37208,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u0110\u1ed3ng Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng Minh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201074
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"70de42a5e2bd38d72a22c6533b93861a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781481,
+            "locality_id":1293400585,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293400585,
+    "wof:lastmodified":1537714636,
+    "wof:name":"Dong Minh",
+    "wof:parent_id":1108781481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37208,
+    18.86321,
+    105.37208,
+    18.86321
+],
+  "geometry": {"coordinates":[105.37208,18.86321],"type":"Point"}
+}

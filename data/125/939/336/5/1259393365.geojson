@@ -1,0 +1,70 @@
+{
+  "id": 1259393365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.14685,13.29473,109.14685,13.29473",
+    "geom:latitude":13.29473,
+    "geom:longitude":109.14685,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Luong Gia",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8719488,
+    "gn:latitude":13.29473,
+    "gn:longitude":109.14685,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"L\u01b0\u01a1ng Gia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u01b0\u01a1ng Gia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8719488
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d29301149b94b39c215276d37f025627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781699,
+            "locality_id":1259393365,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1259393365,
+    "wof:lastmodified":1537714413,
+    "wof:name":"Luong Gia",
+    "wof:parent_id":1108781699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.14685,
+    13.29473,
+    109.14685,
+    13.29473
+],
+  "geometry": {"coordinates":[109.14685,13.29473],"type":"Point"}
+}

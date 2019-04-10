@@ -1,0 +1,94 @@
+{
+  "id": 1108781263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000831,
+    "geom:area_square_m":9600244.509022,
+    "geom:bbox":"106.682481456,20.8367716915,106.719456164,20.875389099",
+    "geom:latitude":20.857643,
+    "geom:longitude":106.700668,
+    "iso:country":"VN",
+    "lbl:latitude":20.856914,
+    "lbl:longitude":106.698847,
+    "meso:admin_1":"Hai Phong",
+    "meso:gadm_admin":"Ng\u00f4 Quy\u1ec1n",
+    "meso:gadm_hasc2":"VN.HP.NQ",
+    "meso:gaul_adm2":"Ngo Quyen",
+    "meso:local_id":"31304",
+    "meso:mps_x":106.698847,
+    "meso:mps_y":20.856914,
+    "meso:name_en":"Ngo Quyen",
+    "meso:source":"AOTM",
+    "mps:latitude":20.856914,
+    "mps:longitude":106.698847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5434\u6743\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Ngo Quyen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30af\u30a8\u30f3"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u00f4 Quy\u1ec1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"11",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Hai Phong",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HP",
+    "statoids:name":"Ngo Quyen",
+    "statoids:population":"158997",
+    "statoids:statoid":"VN.HP.NQ",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q7022442"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741189,
+    "wof:geomhash":"e0e0855f3a09930a9428a493125ac7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781263,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1108781263,
+    "wof:lastmodified":1514502725,
+    "wof:name":"Ngo Quyen",
+    "wof:parent_id":85680645,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":158997,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.68248145646456,
+    20.83677169154149,
+    106.71945616394406,
+    20.87538909900002
+],
+  "geometry": {"coordinates":[[[106.71945616394406,20.87096676213621],[106.7113577838322,20.85843359927469],[106.711318732622,20.85238547060746],[106.71200250349581,20.85121665345531],[106.70924677951173,20.84181694800537],[106.6972691121496,20.83677169154149],[106.69498711546036,20.83839621844498],[106.69283783720067,20.84488529683397],[106.68845882837721,20.84902783186335],[106.6869243679853,20.84954165728534],[106.6836884789294,20.85825774710373],[106.68372345,20.85827827500003],[106.68369293200016,20.86166572600013],[106.68248145646456,20.86417480099943],[106.68312674632395,20.86443098228928],[106.68536780455466,20.86636510419429],[106.69083404500009,20.86711120600017],[106.69747161900005,20.87036132800017],[106.70330810500013,20.87455558800008],[106.70502471900011,20.87458419800015],[106.70580291700014,20.87538909900002],[106.71083068800004,20.87538909900002],[106.71833038300019,20.87125015300006],[106.71945616394406,20.87096676213621]]],"type":"Polygon"}
+}

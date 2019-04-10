@@ -1,0 +1,70 @@
+{
+  "id": 1242981601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65574,22.34142,104.65574,22.34142",
+    "geom:latitude":22.34142,
+    "geom:longitude":104.65574,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Yen Phu",
+    "gn:country_code":"VN",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474153,
+    "gn:latitude":22.34142,
+    "gn:longitude":104.65574,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Y\u00ean Ph\u00fa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean Ph\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474153
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"99878d311785f181358aea45d9052e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780871,
+            "locality_id":1242981601,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1242981601,
+    "wof:lastmodified":1537714323,
+    "wof:name":"Yen Phu",
+    "wof:parent_id":1108780871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65574,
+    22.34142,
+    104.65574,
+    22.34142
+],
+  "geometry": {"coordinates":[104.65573999999999,22.34142],"type":"Point"}
+}

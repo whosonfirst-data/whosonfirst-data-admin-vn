@@ -1,0 +1,67 @@
+{
+  "id": 1293019871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59279,22.02844,106.59279,22.02844",
+    "geom:latitude":22.02844,
+    "geom:longitude":106.59279,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Pac Ca",
+    "gn:country_code":"VN",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311015,
+    "gn:latitude":22.02844,
+    "gn:longitude":106.59279,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"P\u00e1c Ca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311015
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f8523e21ef98b791ccddc94d751ee6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1293019871,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1293019871,
+    "wof:lastmodified":1536964034,
+    "wof:name":"Pac Ca",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59279,
+    22.02844,
+    106.59279,
+    22.02844
+],
+  "geometry": {"coordinates":[106.59278999999999,22.02844],"type":"Point"}
+}

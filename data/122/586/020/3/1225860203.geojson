@@ -1,0 +1,67 @@
+{
+  "id": 1225860203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02778,23.17917,105.02778,23.17917",
+    "geom:latitude":23.17917,
+    "geom:longitude":105.02778,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Na King",
+    "gn:country_code":"VN",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573720,
+    "gn:latitude":23.17917,
+    "gn:longitude":105.02778,
+    "gn:modification_date":"2000-12-07",
+    "gn:name":"Na King",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573720
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bb483dc0b8ddeedc316e974a41d42e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780855,
+            "locality_id":1225860203,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1225860203,
+    "wof:lastmodified":1536991933,
+    "wof:name":"Na King",
+    "wof:parent_id":1108780855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02778,
+    23.17917000000001,
+    105.02778,
+    23.17917000000001
+],
+  "geometry": {"coordinates":[105.02778000000001,23.17917000000001],"type":"Point"}
+}

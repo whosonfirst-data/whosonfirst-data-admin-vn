@@ -1,0 +1,70 @@
+{
+  "id": 1225963325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83941,20.59451,105.83941,20.59451",
+    "geom:latitude":20.59451,
+    "geom:longitude":105.83941,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Khuyen Cong",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579043,
+    "gn:latitude":20.59451,
+    "gn:longitude":105.83941,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Khuy\u1ebfn C\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khuy\u1ebfn C\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579043
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0348ce93f2cda8faace5d743a3add8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781337,
+            "locality_id":1225963325,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1225963325,
+    "wof:lastmodified":1537713947,
+    "wof:name":"Khuyen Cong",
+    "wof:parent_id":1108781337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83941000000002,
+    20.59451,
+    105.83941000000002,
+    20.59451
+],
+  "geometry": {"coordinates":[105.83941000000002,20.59451],"type":"Point"}
+}

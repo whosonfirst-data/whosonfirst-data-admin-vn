@@ -1,0 +1,70 @@
+{
+  "id": 1242889303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.664,22.19691,102.664,22.19691",
+    "geom:latitude":22.19691,
+    "geom:longitude":102.664,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pa Tiet",
+    "gn:country_code":"VN",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456824,
+    "gn:latitude":22.19691,
+    "gn:longitude":102.664,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Pa Ti\u1ebft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Pa Ti\u1ebft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456824
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7828664ab4cec9d6af5bb594fdc0babe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1242889303,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1242889303,
+    "wof:lastmodified":1537714316,
+    "wof:name":"Pa Tiet",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.664,
+    22.19691,
+    102.664,
+    22.19691
+],
+  "geometry": {"coordinates":[102.664,22.19691],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226061659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86405,18.30294,105.86405,18.30294",
+    "geom:latitude":18.30294,
+    "geom:longitude":105.86405,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hoang Can",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580733,
+    "gn:latitude":18.30294,
+    "gn:longitude":105.86405,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ho\u00e0ng C\u1ea5n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho\u00e0ng C\u1ea7n"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng C\u1ea5n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580733
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0eb393ab23366246ae38a86678a127bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1226061659,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1226061659,
+    "wof:lastmodified":1537713968,
+    "wof:name":"Hoang Can",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86405,
+    18.30294,
+    105.86405,
+    18.30294
+],
+  "geometry": {"coordinates":[105.86405000000001,18.30294],"type":"Point"}
+}

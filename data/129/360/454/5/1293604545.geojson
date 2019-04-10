@@ -1,0 +1,67 @@
+{
+  "id": 1293604545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59719,22.03569,106.59719,22.03569",
+    "geom:latitude":22.03569,
+    "geom:longitude":106.59719,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Hat Hut",
+    "gn:country_code":"VN",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311047,
+    "gn:latitude":22.03569,
+    "gn:longitude":106.59719,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"H\u00e1t H\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311047
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0dd56cde371f0fb5d5a9b0bb5c8b48dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1293604545,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1293604545,
+    "wof:lastmodified":1536616009,
+    "wof:name":"Hat Hut",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59719,
+    22.03569,
+    106.59719,
+    22.03569
+],
+  "geometry": {"coordinates":[106.59719,22.03569],"type":"Point"}
+}

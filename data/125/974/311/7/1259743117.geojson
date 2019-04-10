@@ -1,0 +1,67 @@
+{
+  "id": 1259743117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.3,21.26667,107.3,21.26667",
+    "geom:latitude":21.26667,
+    "geom:longitude":107.3,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dam Buon",
+    "gn:country_code":"VN",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584032,
+    "gn:latitude":21.26667,
+    "gn:longitude":107.3,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"D\u1ea7m Bu\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584032
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d3fc42d793ca163bb496f2b1371b2241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781129,
+            "locality_id":1259743117,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1259743117,
+    "wof:lastmodified":1536980720,
+    "wof:name":"Dam Buon",
+    "wof:parent_id":1108781129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.3,
+    21.26667,
+    107.3,
+    21.26667
+],
+  "geometry": {"coordinates":[107.3,21.26667],"type":"Point"}
+}

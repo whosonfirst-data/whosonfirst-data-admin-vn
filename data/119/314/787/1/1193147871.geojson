@@ -1,0 +1,73 @@
+{
+  "id": 1193147871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99546,11.01492,106.99546,11.01492",
+    "geom:latitude":11.01492,
+    "geom:longitude":106.99546,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Cau Xai",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561862,
+    "gn:latitude":11.01492,
+    "gn:longitude":106.99546,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"C\u1ea7u X\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m C\u1ea7u X\u00e0i"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7u X\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561862
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"52ec5e582223cb7d6cfe7316e0a7d638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781975,
+            "locality_id":1193147871,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1193147871,
+    "wof:lastmodified":1537713693,
+    "wof:name":"Cau Xai",
+    "wof:parent_id":1108781975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99546,
+    11.01492,
+    106.99546,
+    11.01492
+],
+  "geometry": {"coordinates":[106.99545999999999,11.01492],"type":"Point"}
+}

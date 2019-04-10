@@ -1,0 +1,61 @@
+{
+  "id": 1209630481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,18.93333,105.28333,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nhan Boi",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572220,
+    "gn:latitude":18.93333,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nh\u00e2n B\u00f2i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572220
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"00d7bf590a2fe1605480d0240822ba0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630481
+        }
+    ],
+    "wof:id":1209630481,
+    "wof:lastmodified":1536281205,
+    "wof:name":"Nhan Boi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    18.93333,
+    105.28333,
+    18.93333
+],
+  "geometry": {"coordinates":[105.28333000000001,18.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326945675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,18.31667,105.9,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thien Niem",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565879,
+    "gn:latitude":18.31667,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thi\u00ean Ni\u1ec7m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565879
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71a86ed53f0b64e06f009476e8156d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781495,
+            "locality_id":1326945675,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1326945675,
+    "wof:lastmodified":1536884841,
+    "wof:name":"Thien Niem",
+    "wof:parent_id":1108781495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    18.31667,
+    105.9,
+    18.31667
+],
+  "geometry": {"coordinates":[105.90000000000001,18.31667],"type":"Point"}
+}

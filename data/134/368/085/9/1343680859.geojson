@@ -1,0 +1,71 @@
+{
+  "id": 1343680859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36667,21.55,105.36667,21.55",
+    "geom:latitude":21.55,
+    "geom:longitude":105.36667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Huong Lac",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580121,
+    "gn:latitude":21.55,
+    "gn:longitude":105.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u01b0\u01a1ng L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u01b0\u01a1ng L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580121,
+        "wk:page":"H%C6%B0%C6%A1ng_L%E1%BA%A1c"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"26abcde470aa86ebdcee43a5e015254e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780935,
+            "locality_id":1343680859,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343680859,
+    "wof:lastmodified":1537713961,
+    "wof:name":"Huong Lac",
+    "wof:parent_id":1108780935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36667,
+    21.55,
+    105.36667,
+    21.55
+],
+  "geometry": {"coordinates":[105.36667,21.55],"type":"Point"}
+}

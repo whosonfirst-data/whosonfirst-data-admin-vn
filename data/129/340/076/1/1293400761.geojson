@@ -1,0 +1,73 @@
+{
+  "id": 1293400761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68137,22.15824,103.68137,22.15824",
+    "geom:latitude":22.15824,
+    "geom:longitude":103.68137,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Pinh Ho",
+    "gn:country_code":"VN",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569727,
+    "gn:latitude":22.15824,
+    "gn:longitude":103.68137,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n P\u00ecnh H\u1ed3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping Ho"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n P\u00ecnh H\u1ed3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569727
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"15ee9bf47b78fb178ca8224efc39765e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1293400761,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1293400761,
+    "wof:lastmodified":1537713818,
+    "wof:name":"Ban Pinh Ho",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68137,
+    22.15824,
+    103.68137,
+    22.15824
+],
+  "geometry": {"coordinates":[103.68137,22.15824],"type":"Point"}
+}

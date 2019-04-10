@@ -1,0 +1,73 @@
+{
+  "id": 1210031727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.67888,22.41694,102.67888,22.41694",
+    "geom:latitude":22.41694,
+    "geom:longitude":102.67888,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nam Khao",
+    "gn:country_code":"VN",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589499,
+    "gn:latitude":22.41694,
+    "gn:longitude":102.67888,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"N\u1eadm Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n N\u1eb1m Khao"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm Khao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589499
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c9bc726b0845c9d9bed8d19afeefb422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1210031727,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1210031727,
+    "wof:lastmodified":1537714097,
+    "wof:name":"Nam Khao",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.67888,
+    22.41694,
+    102.67888,
+    22.41694
+],
+  "geometry": {"coordinates":[102.67888000000001,22.41694],"type":"Point"}
+}

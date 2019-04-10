@@ -1,0 +1,67 @@
+{
+  "id": 1259990221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61667,22.63333,104.61667,22.63333",
+    "geom:latitude":22.63333,
+    "geom:longitude":104.61667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ho Tao",
+    "gn:country_code":"VN",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580326,
+    "gn:latitude":22.63333,
+    "gn:longitude":104.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ho Tao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580326
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d0b6e59af39f3bc631db072bcec58d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780865,
+            "locality_id":1259990221,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1259990221,
+    "wof:lastmodified":1536623372,
+    "wof:name":"Ho Tao",
+    "wof:parent_id":1108780865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61667,
+    22.63333,
+    104.61667,
+    22.63333
+],
+  "geometry": {"coordinates":[104.61667,22.63333],"type":"Point"}
+}

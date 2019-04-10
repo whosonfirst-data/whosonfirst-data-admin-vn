@@ -1,0 +1,70 @@
+{
+  "id": 1344072481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9282,20.83971,105.9282,20.83971",
+    "geom:latitude":20.83971,
+    "geom:longitude":105.9282,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Phuong Tru",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570011,
+    "gn:latitude":20.83971,
+    "gn:longitude":105.9282,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Ph\u01b0\u01a1ng Tr\u00f9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u01a1ng Tr\u00f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570011
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"acc78fc1dcb57176ae510885bdf7c2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781305,
+            "locality_id":1344072481,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1344072481,
+    "wof:lastmodified":1537713823,
+    "wof:name":"Phuong Tru",
+    "wof:parent_id":1108781305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9282,
+    20.83971,
+    105.9282,
+    20.83971
+],
+  "geometry": {"coordinates":[105.9282,20.83971],"type":"Point"}
+}

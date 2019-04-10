@@ -1,0 +1,73 @@
+{
+  "id": 1193073055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16667,11.36667,106.16667,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":106.16667,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Xom Bai Trai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562060,
+    "gn:latitude":11.36667,
+    "gn:longitude":106.16667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m B\u00e3i Tr\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay Trai",
+        "Bai Trai",
+        "X\u00f3m B\u00e3i Tr\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562060
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de6d221c639a8742f0c381bee769037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781931,
+            "locality_id":1193073055,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1193073055,
+    "wof:lastmodified":1537713698,
+    "wof:name":"Xom Bai Trai",
+    "wof:parent_id":1108781931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16667,
+    11.36667,
+    106.16667,
+    11.36667
+],
+  "geometry": {"coordinates":[106.16667,11.36667],"type":"Point"}
+}

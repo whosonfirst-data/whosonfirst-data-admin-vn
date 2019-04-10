@@ -1,0 +1,70 @@
+{
+  "id": 1309819015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63067,9.33613,105.63067,9.33613",
+    "geom:latitude":9.33613,
+    "geom:longitude":105.63067,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Bau Rang",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341101,
+    "gn:latitude":9.33613,
+    "gn:longitude":105.63067,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u00e0u R\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00e0u R\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341101
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ae79b1af79b97f25a3025b1074aa4595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782323,
+            "locality_id":1309819015,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1309819015,
+    "wof:lastmodified":1537714297,
+    "wof:name":"Bau Rang",
+    "wof:parent_id":1108782323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63067,
+    9.33613,
+    105.63067,
+    9.33613
+],
+  "geometry": {"coordinates":[105.63066999999999,9.33613],"type":"Point"}
+}

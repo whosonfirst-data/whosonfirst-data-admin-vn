@@ -1,0 +1,67 @@
+{
+  "id": 1310520385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.31667,14.2,108.31667,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":108.31667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kong H'dang",
+    "gn:country_code":"VN",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1578661,
+    "gn:latitude":14.2,
+    "gn:longitude":108.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kong H\u2019dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578661
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43adf4a4b6f56020d013ebceaac0869e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781807,
+            "locality_id":1310520385,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1310520385,
+    "wof:lastmodified":1536895189,
+    "wof:name":"Kong H'dang",
+    "wof:parent_id":1108781807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.31667,
+    14.2,
+    108.31667,
+    14.2
+],
+  "geometry": {"coordinates":[108.31667,14.2],"type":"Point"}
+}

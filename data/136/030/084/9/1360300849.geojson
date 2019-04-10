@@ -1,0 +1,71 @@
+{
+  "id": 1360300849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88333,11.68333,106.88333,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":106.88333,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Phu Rieng Sron",
+    "gn:country_code":"VN",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1569966,
+    "gn:latitude":11.68333,
+    "gn:longitude":106.88333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Ph\u00fa Ri\u1ec1ng Sron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Phu Rieng",
+        "Ph\u00fa Ri\u1ec1ng Sron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569966
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a22cce72a8b899740df9c4694cb3250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1360300849,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1360300849,
+    "wof:lastmodified":1537713822,
+    "wof:name":"Phu Rieng Sron",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88333,
+    11.68333,
+    106.88333,
+    11.68333
+],
+  "geometry": {"coordinates":[106.88333,11.68333],"type":"Point"}
+}

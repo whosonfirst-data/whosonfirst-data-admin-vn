@@ -1,0 +1,70 @@
+{
+  "id": 1293705677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54844,19.07085,105.54844,19.07085",
+    "geom:latitude":19.07085,
+    "geom:longitude":105.54844,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Da Son",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178503,
+    "gn:latitude":19.07085,
+    "gn:longitude":105.54844,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"D\u00e0 S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "D\u00e0 S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178503
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c22c19e4c393f46d019b5744e898b623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1293705677,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293705677,
+    "wof:lastmodified":1537714604,
+    "wof:name":"Da Son",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54844,
+    19.07085,
+    105.54844,
+    19.07085
+],
+  "geometry": {"coordinates":[105.54844,19.07085],"type":"Point"}
+}

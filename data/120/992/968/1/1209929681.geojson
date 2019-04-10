@@ -1,0 +1,70 @@
+{
+  "id": 1209929681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51891,19.51463,104.51891,19.51463",
+    "geom:latitude":19.51463,
+    "geom:longitude":104.51891,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nhan Mai",
+    "gn:country_code":"VN",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9909423,
+    "gn:latitude":19.51463,
+    "gn:longitude":104.51891,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Nh\u1ea1n Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u1ea1n Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9909423
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"de385d7f06b7d9f0b4524ffe8d7ab748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781461,
+            "locality_id":1209929681,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1209929681,
+    "wof:lastmodified":1537714559,
+    "wof:name":"Nhan Mai",
+    "wof:parent_id":1108781461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51891,
+    19.51463,
+    104.51891,
+    19.51463
+],
+  "geometry": {"coordinates":[104.51891000000001,19.51463],"type":"Point"}
+}

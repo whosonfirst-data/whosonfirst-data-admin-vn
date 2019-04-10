@@ -1,0 +1,73 @@
+{
+  "id": 1226187087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7,20.3,104.7,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":104.7,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Ban Ghun",
+    "gn:country_code":"VN",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590596,
+    "gn:latitude":20.3,
+    "gn:longitude":104.7,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"B\u1ea3n Ghun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chun"
+    ],
+    "name:und_x_variant":[
+        "B\u1ea3n Ghun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590596
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e7db27d6cf11a01152f5131cc90d6777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1226187087,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226187087,
+    "wof:lastmodified":1537714121,
+    "wof:name":"Ban Ghun",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7,
+    20.3,
+    104.7,
+    20.3
+],
+  "geometry": {"coordinates":[104.7,20.3],"type":"Point"}
+}

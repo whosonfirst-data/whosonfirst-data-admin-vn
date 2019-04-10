@@ -1,0 +1,74 @@
+{
+  "id": 1243465099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4775,22.2076,105.4775,22.2076",
+    "geom:latitude":22.2076,
+    "geom:longitude":105.4775,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Cau",
+    "gn:country_code":"VN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590211,
+    "gn:latitude":22.2076,
+    "gn:longitude":105.4775,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"B\u1ea3n C\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e1n C\u1eadu",
+        "B\u1ea3n Kao"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n C\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590211
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fab43343e439dd9a0572e30dcaeb9ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780915,
+            "locality_id":1243465099,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1243465099,
+    "wof:lastmodified":1537714111,
+    "wof:name":"Ban Cau",
+    "wof:parent_id":1108780915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4775,
+    22.2076,
+    105.4775,
+    22.2076
+],
+  "geometry": {"coordinates":[105.47750000000001,22.2076],"type":"Point"}
+}

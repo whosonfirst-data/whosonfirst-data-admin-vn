@@ -1,0 +1,67 @@
+{
+  "id": 1310047067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.01667,21.2,104.01667,21.2",
+    "geom:latitude":21.2,
+    "geom:longitude":104.01667,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Vay",
+    "gn:country_code":"VN",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588422,
+    "gn:latitude":21.2,
+    "gn:longitude":104.01667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Vay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588422
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e805eadf015aa10605a6589b3754e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1310047067,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310047067,
+    "wof:lastmodified":1537077603,
+    "wof:name":"Ban Vay",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.01667,
+    21.2,
+    104.01667,
+    21.2
+],
+  "geometry": {"coordinates":[104.01667,21.2],"type":"Point"}
+}

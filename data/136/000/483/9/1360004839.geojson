@@ -1,0 +1,70 @@
+{
+  "id": 1360004839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05906,17.03122,107.05906,17.03122",
+    "geom:latitude":17.03122,
+    "geom:longitude":107.05906,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Liem Cong Phuong",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321503,
+    "gn:latitude":17.03122,
+    "gn:longitude":107.05906,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Li\u00eam C\u00f4ng Ph\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Li\u00eam C\u00f4ng Ph\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321503
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd0aab50bff457a08b73f3b1f1b30f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1360004839,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1360004839,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Liem Cong Phuong",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05906,
+    17.03122,
+    107.05906,
+    17.03122
+],
+  "geometry": {"coordinates":[107.05906,17.03122],"type":"Point"}
+}

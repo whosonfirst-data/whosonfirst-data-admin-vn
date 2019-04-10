@@ -1,0 +1,66 @@
+{
+  "id": 1209263847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.15,21.03333,107.15,21.03333",
+    "geom:latitude":21.03333,
+    "geom:longitude":107.15,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Vu Oai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562409,
+    "gn:latitude":21.03333,
+    "gn:longitude":107.15,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u0169 Oai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yu Dai",
+        "V\u0169 Oai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562409
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a95442c3781200c41aafa9554d42c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209263847
+        }
+    ],
+    "wof:id":1209263847,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Vu Oai",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.15,
+    21.03333,
+    107.15,
+    21.03333
+],
+  "geometry": {"coordinates":[107.15000000000001,21.03333],"type":"Point"}
+}

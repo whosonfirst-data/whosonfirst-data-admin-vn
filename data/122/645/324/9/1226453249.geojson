@@ -1,0 +1,74 @@
+{
+  "id": 1226453249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48925,21.19789,105.48925,21.19789",
+    "geom:latitude":21.19789,
+    "geom:longitude":105.48925,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Quang Cu",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568827,
+    "gn:latitude":21.19789,
+    "gn:longitude":105.48925,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Quang C\u01b0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quang Huc",
+        "Qu\u1ea3ng C\u01b0"
+    ],
+    "name:vie_x_preferred":[
+        "Quang C\u01b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568827
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"04b6ba12edeff1d3e9619be115c98556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781211,
+            "locality_id":1226453249,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1226453249,
+    "wof:lastmodified":1537713804,
+    "wof:name":"Quang Cu",
+    "wof:parent_id":1108781211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48925,
+    21.19789,
+    105.48925,
+    21.19789
+],
+  "geometry": {"coordinates":[105.48925,21.19789],"type":"Point"}
+}

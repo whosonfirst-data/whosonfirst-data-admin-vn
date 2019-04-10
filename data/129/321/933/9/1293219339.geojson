@@ -1,0 +1,70 @@
+{
+  "id": 1293219339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8,9.45,105.8,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":105.8,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Thanh Quoi",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593580,
+    "gn:latitude":9.45,
+    "gn:longitude":105.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Thanh Quoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p \u0110\u00e0o Vi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593580
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"36c1c86d9f1c72de89a1d67f7f2c0ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782301,
+            "locality_id":1293219339,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1293219339,
+    "wof:lastmodified":1537714189,
+    "wof:name":"Thanh Quoi",
+    "wof:parent_id":1108782301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8,
+    9.45,
+    105.8,
+    9.45
+],
+  "geometry": {"coordinates":[105.8,9.45],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243282755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54066,19.50658,104.54066,19.50658",
+    "geom:latitude":19.50658,
+    "geom:longitude":104.54066,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nhan Can",
+    "gn:country_code":"VN",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9909421,
+    "gn:latitude":19.50658,
+    "gn:longitude":104.54066,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Nh\u1ea1n C\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u1ea1n C\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9909421
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2b92a9dac077aebec7d00f43edac464c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781461,
+            "locality_id":1243282755,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1243282755,
+    "wof:lastmodified":1537714559,
+    "wof:name":"Nhan Can",
+    "wof:parent_id":1108781461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54066,
+    19.50658,
+    104.54066,
+    19.50658
+],
+  "geometry": {"coordinates":[104.54066,19.50658],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343680771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99167,9.95917,105.99167,9.95917",
+    "geom:latitude":9.95917,
+    "geom:longitude":105.99167,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Xom Nha Dong",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561170,
+    "gn:latitude":9.95917,
+    "gn:longitude":105.99167,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"X\u00f3m Nh\u00e0 \u0110\u1ed3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c3p Nh\u00e0 \u0110\u1ed3ng",
+        "X\u00f3m Nh\u00e0 \u0110\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561170
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e59b02b507e5a582fb8dc567c959bf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782163,
+            "locality_id":1343680771,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1343680771,
+    "wof:lastmodified":1537713680,
+    "wof:name":"Xom Nha Dong",
+    "wof:parent_id":1108782163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99167,
+    9.95917,
+    105.99167,
+    9.95917
+],
+  "geometry": {"coordinates":[105.99167,9.95917],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226058235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5465,18.96563,105.5465,18.96563",
+    "geom:latitude":18.96563,
+    "geom:longitude":105.5465,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Hau Luat",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581013,
+    "gn:latitude":18.96563,
+    "gn:longitude":105.5465,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"H\u1eadu Lu\u1eadt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1eadu Lu\u1eadt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581013
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75b53e981f3b48a25257e79b57e5c05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781477,
+            "locality_id":1226058235,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1226058235,
+    "wof:lastmodified":1537713971,
+    "wof:name":"Hau Luat",
+    "wof:parent_id":1108781477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5465,
+    18.96563,
+    105.5465,
+    18.96563
+],
+  "geometry": {"coordinates":[105.54649999999999,18.96563],"type":"Point"}
+}

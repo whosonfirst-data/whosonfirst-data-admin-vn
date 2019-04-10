@@ -1,0 +1,67 @@
+{
+  "id": 1310124751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3,23.15,105.3,23.15",
+    "geom:latitude":23.15,
+    "geom:longitude":105.3,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Loung Phin",
+    "gn:country_code":"VN",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575509,
+    "gn:latitude":23.15,
+    "gn:longitude":105.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loung Phin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575509
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c82b78607edbb76849bd70f1f901bb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780851,
+            "locality_id":1310124751,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1310124751,
+    "wof:lastmodified":1536968427,
+    "wof:name":"Loung Phin",
+    "wof:parent_id":1108780851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3,
+    23.15,
+    105.3,
+    23.15
+],
+  "geometry": {"coordinates":[105.3,23.15],"type":"Point"}
+}

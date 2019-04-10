@@ -1,0 +1,64 @@
+{
+  "id": 1209630615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07298,21.49147,106.07298,21.49147",
+    "geom:latitude":21.49147,
+    "geom:longitude":106.07298,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Tien Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867364,
+    "gn:latitude":21.49147,
+    "gn:longitude":106.07298,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ti\u1ebfn Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ebfn Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4eb3a2453c180e726cca48e0db2544ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630615
+        }
+    ],
+    "wof:id":1209630615,
+    "wof:lastmodified":1537714503,
+    "wof:name":"Tien Thanh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07298,
+    21.49147,
+    106.07298,
+    21.49147
+],
+  "geometry": {"coordinates":[106.07298,21.49147],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259998417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,17.9,105.88333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Xom Si Ha",
+    "gn:country_code":"VN",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560993,
+    "gn:latitude":17.9,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Si Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560993
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b09e4c13ffe955862be23408291b0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781525,
+            "locality_id":1259998417,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1259998417,
+    "wof:lastmodified":1536611067,
+    "wof:name":"Xom Si Ha",
+    "wof:parent_id":1108781525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    17.9,
+    105.88333,
+    17.9
+],
+  "geometry": {"coordinates":[105.88333,17.9],"type":"Point"}
+}

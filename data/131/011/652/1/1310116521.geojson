@@ -1,0 +1,73 @@
+{
+  "id": 1310116521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.42959,13.40244,108.42959,13.40244",
+    "geom:latitude":13.40244,
+    "geom:longitude":108.42959,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Khu Pho Bon",
+    "gn:country_code":"VN",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865092,
+    "gn:latitude":13.40244,
+    "gn:longitude":108.42959,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Khu Ph\u1ed1 B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khu Ph\u1ed1 B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "Khu Ph\u1ed1 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865092
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4090bac012d1b54d8445cda524c2e638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781823,
+            "locality_id":1310116521,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1310116521,
+    "wof:lastmodified":1537714497,
+    "wof:name":"Khu Pho Bon",
+    "wof:parent_id":1108781823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.42959,
+    13.40244,
+    108.42959,
+    13.40244
+],
+  "geometry": {"coordinates":[108.42959,13.40244],"type":"Point"}
+}

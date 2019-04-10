@@ -1,0 +1,73 @@
+{
+  "id": 1310215747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.64032,11.66339,106.64032,11.66339",
+    "geom:latitude":11.66339,
+    "geom:longitude":106.64032,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Quan Loi",
+    "gn:country_code":"VN",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562194,
+    "gn:latitude":11.66339,
+    "gn:longitude":106.64032,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Qu\u1ea3n L\u1ee3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00e3 T\u00e2n L\u1ee3i"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea3n L\u1ee3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562194
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"edeee87e18a1647e3da4c1dd97b88f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781921,
+            "locality_id":1310215747,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1310215747,
+    "wof:lastmodified":1537713701,
+    "wof:name":"Quan Loi",
+    "wof:parent_id":1108781921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.64032,
+    11.66339,
+    106.64032,
+    11.66339
+],
+  "geometry": {"coordinates":[106.64032,11.66339],"type":"Point"}
+}

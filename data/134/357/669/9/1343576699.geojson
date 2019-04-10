@@ -1,0 +1,67 @@
+{
+  "id": 1343576699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08333,22.56667,104.08333,22.56667",
+    "geom:latitude":22.56667,
+    "geom:longitude":104.08333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Sa Dom",
+    "gn:country_code":"VN",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568209,
+    "gn:latitude":22.56667,
+    "gn:longitude":104.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sa Dom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568209
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b02463302b7574a649c1549327c3eca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780941,
+            "locality_id":1343576699,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343576699,
+    "wof:lastmodified":1537072874,
+    "wof:name":"Sa Dom",
+    "wof:parent_id":1108780941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08333,
+    22.56667,
+    104.08333,
+    22.56667
+],
+  "geometry": {"coordinates":[104.08333,22.56667],"type":"Point"}
+}

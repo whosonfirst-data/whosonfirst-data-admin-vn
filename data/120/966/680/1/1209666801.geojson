@@ -1,0 +1,64 @@
+{
+  "id": 1209666801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42307,10.47197,106.42307,10.47197",
+    "geom:latitude":10.47197,
+    "geom:longitude":106.42307,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Trung Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337771,
+    "gn:latitude":10.47197,
+    "gn:longitude":106.42307,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Trung Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Trung Th\u1ea1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337771
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8046f02a742217f7485cf323ead45ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209666801
+        }
+    ],
+    "wof:id":1209666801,
+    "wof:lastmodified":1537714282,
+    "wof:name":"Trung Thanh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42307,
+    10.47197,
+    106.42307,
+    10.47197
+],
+  "geometry": {"coordinates":[106.42307,10.47197],"type":"Point"}
+}

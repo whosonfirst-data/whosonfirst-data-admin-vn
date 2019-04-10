@@ -1,0 +1,67 @@
+{
+  "id": 1242588329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33333,17.76667,106.33333,17.76667",
+    "geom:latitude":17.76667,
+    "geom:longitude":106.33333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Xom Phan",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561102,
+    "gn:latitude":17.76667,
+    "gn:longitude":106.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"X\u00f3m Phan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561102
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a18ac4d3c9c6e63f79936831edd3407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781529,
+            "locality_id":1242588329,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1242588329,
+    "wof:lastmodified":1537046161,
+    "wof:name":"Xom Phan",
+    "wof:parent_id":1108781529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33333,
+    17.76667,
+    106.33333,
+    17.76667
+],
+  "geometry": {"coordinates":[106.33333,17.76667],"type":"Point"}
+}

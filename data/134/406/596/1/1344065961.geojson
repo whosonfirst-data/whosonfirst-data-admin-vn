@@ -1,0 +1,71 @@
+{
+  "id": 1344065961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35573,10.59236,105.35573,10.59236",
+    "geom:latitude":10.59236,
+    "geom:longitude":105.35573,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Phu My",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8540990,
+    "gn:latitude":10.59236,
+    "gn:longitude":105.35573,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ph\u00fa M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u00fa M\u1ef9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540990,
+        "wk:page":"Ph%C3%BA_M%E1%BB%B9%2C_An_Giang"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c31f1e266d4dff30dca4768b9e47690f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782203,
+            "locality_id":1344065961,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1344065961,
+    "wof:lastmodified":1537714337,
+    "wof:name":"Phu My",
+    "wof:parent_id":1108782203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35573,
+    10.59236,
+    105.35573,
+    10.59236
+],
+  "geometry": {"coordinates":[105.35572999999999,10.59236],"type":"Point"}
+}

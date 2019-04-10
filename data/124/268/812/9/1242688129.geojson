@@ -1,0 +1,73 @@
+{
+  "id": 1242688129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93544,22.30081,104.93544,22.30081",
+    "geom:latitude":22.30081,
+    "geom:longitude":104.93544,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lang Dem",
+    "gn:country_code":"VN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577462,
+    "gn:latitude":22.30081,
+    "gn:longitude":104.93544,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"L\u00e0ng \u0110\u1ebbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Dem"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng \u0110\u1ebbm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577462
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"41ad799d12e22bf9a6c3c3e33737961d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780931,
+            "locality_id":1242688129,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1242688129,
+    "wof:lastmodified":1537713924,
+    "wof:name":"Lang Dem",
+    "wof:parent_id":1108780931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93544,
+    22.30081,
+    104.93544,
+    22.30081
+],
+  "geometry": {"coordinates":[104.93544,22.30081],"type":"Point"}
+}

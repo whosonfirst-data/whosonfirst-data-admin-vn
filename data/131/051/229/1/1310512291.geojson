@@ -1,0 +1,67 @@
+{
+  "id": 1310512291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.98333,13.73333,108.98333,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":108.98333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Canh Hung",
+    "gn:country_code":"VN",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1586258,
+    "gn:latitude":13.73333,
+    "gn:longitude":108.98333,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Canh Hung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586258
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"196477f6183c0f40d8c4901efe13252b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781689,
+            "locality_id":1310512291,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1310512291,
+    "wof:lastmodified":1536907300,
+    "wof:name":"Canh Hung",
+    "wof:parent_id":1108781689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.98333,
+    13.73333,
+    108.98333,
+    13.73333
+],
+  "geometry": {"coordinates":[108.98333,13.73333],"type":"Point"}
+}

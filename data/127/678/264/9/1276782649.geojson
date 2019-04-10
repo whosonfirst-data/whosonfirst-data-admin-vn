@@ -1,0 +1,67 @@
+{
+  "id": 1276782649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.53333,14.83333,108.53333,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":108.53333,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Vidrian",
+    "gn:country_code":"VN",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562847,
+    "gn:latitude":14.83333,
+    "gn:longitude":108.53333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Vidrian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562847
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab878ece6b6fbbda1c85f87fff8f53b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1276782649,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1276782649,
+    "wof:lastmodified":1536673836,
+    "wof:name":"Vidrian",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.53333,
+    14.83333,
+    108.53333,
+    14.83333
+],
+  "geometry": {"coordinates":[108.53333000000001,14.83333],"type":"Point"}
+}

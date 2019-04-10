@@ -1,0 +1,70 @@
+{
+  "id": 1243187791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21054,9.62195,106.21054,9.62195",
+    "geom:latitude":9.62195,
+    "geom:longitude":106.21054,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Le Minh Chau",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534893,
+    "gn:latitude":9.62195,
+    "gn:longitude":106.21054,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"L\u00ea Minh Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00ea Minh Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534893
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"40dd00c981604ffff15a21bcbc86ffa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782295,
+            "locality_id":1243187791,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1243187791,
+    "wof:lastmodified":1537714491,
+    "wof:name":"Le Minh Chau",
+    "wof:parent_id":1108782295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21054,
+    9.62195,
+    106.21054,
+    9.62195
+],
+  "geometry": {"coordinates":[106.21053999999999,9.62195],"type":"Point"}
+}

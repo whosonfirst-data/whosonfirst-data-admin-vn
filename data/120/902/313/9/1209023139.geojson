@@ -1,0 +1,64 @@
+{
+  "id": 1209023139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29038,22.6768,103.29038,22.6768",
+    "geom:latitude":22.6768,
+    "geom:longitude":103.29038,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Nung Than",
+    "gn:country_code":"VN",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356486,
+    "gn:latitude":22.6768,
+    "gn:longitude":103.29038,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"N\u00f9ng Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00f9ng Than"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356486
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7da435363bb8f855c6b5941e073e601a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023139
+        }
+    ],
+    "wof:id":1209023139,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Nung Than",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29038,
+    22.6768,
+    103.29038,
+    22.6768
+],
+  "geometry": {"coordinates":[103.29038,22.6768],"type":"Point"}
+}

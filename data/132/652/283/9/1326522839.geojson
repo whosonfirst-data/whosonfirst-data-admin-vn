@@ -1,0 +1,67 @@
+{
+  "id": 1326522839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45,22.48333,106.45,22.48333",
+    "geom:latitude":22.48333,
+    "geom:longitude":106.45,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Song Sien",
+    "gn:country_code":"VN",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567690,
+    "gn:latitude":22.48333,
+    "gn:longitude":106.45,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Song Sien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567690
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b168098c855966d6f06c67e75a56851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780901,
+            "locality_id":1326522839,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1326522839,
+    "wof:lastmodified":1536996852,
+    "wof:name":"Song Sien",
+    "wof:parent_id":1108780901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45,
+    22.48333,
+    106.45,
+    22.48333
+],
+  "geometry": {"coordinates":[106.45,22.48333],"type":"Point"}
+}

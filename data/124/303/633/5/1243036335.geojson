@@ -1,0 +1,67 @@
+{
+  "id": 1243036335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.41667,11.51667,107.41667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":107.41667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Buon Gor",
+    "gn:country_code":"VN",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587003,
+    "gn:latitude":11.51667,
+    "gn:longitude":107.41667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Bu\u00f4n Gor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587003
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ee37dff718ffe3ec9b2be0690921d62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781907,
+            "locality_id":1243036335,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1243036335,
+    "wof:lastmodified":1536899838,
+    "wof:name":"Buon Gor",
+    "wof:parent_id":1108781907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.41667,
+    11.51667,
+    107.41667,
+    11.51667
+],
+  "geometry": {"coordinates":[107.41667,11.51667],"type":"Point"}
+}

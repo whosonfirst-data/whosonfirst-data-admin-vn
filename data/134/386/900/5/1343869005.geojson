@@ -1,0 +1,67 @@
+{
+  "id": 1343869005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.81667,21.88333,106.81667,21.88333",
+    "geom:latitude":21.88333,
+    "geom:longitude":106.81667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Quang Hang",
+    "gn:country_code":"VN",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568808,
+    "gn:latitude":21.88333,
+    "gn:longitude":106.81667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Quang Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568808
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c0e9db676c76a29c33b309a73cafb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781095,
+            "locality_id":1343869005,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1343869005,
+    "wof:lastmodified":1536654156,
+    "wof:name":"Quang Hang",
+    "wof:parent_id":1108781095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.81667,
+    21.88333,
+    106.81667,
+    21.88333
+],
+  "geometry": {"coordinates":[106.81667,21.88333],"type":"Point"}
+}

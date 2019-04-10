@@ -1,0 +1,73 @@
+{
+  "id": 1276782917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97689,9.46555,105.97689,9.46555",
+    "geom:latitude":9.46555,
+    "geom:longitude":105.97689,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Thanh Ninh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592046,
+    "gn:latitude":9.46555,
+    "gn:longitude":105.97689,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Th\u1ea1nh Ninh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Th\u1ea1nh Ninh"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ea1nh Ninh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592046
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f94dc6d760ef64c35bf1d32c3cbefc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782309,
+            "locality_id":1276782917,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1276782917,
+    "wof:lastmodified":1537714150,
+    "wof:name":"Thanh Ninh",
+    "wof:parent_id":1108782309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97689,
+    9.46555,
+    105.97689,
+    9.46555
+],
+  "geometry": {"coordinates":[105.97689,9.46555],"type":"Point"}
+}

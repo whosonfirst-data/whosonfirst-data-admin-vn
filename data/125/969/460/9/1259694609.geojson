@@ -1,0 +1,70 @@
+{
+  "id": 1259694609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.95244,12.3706,108.95244,12.3706",
+    "geom:latitude":12.3706,
+    "geom:longitude":108.95244,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ben Le",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630742,
+    "gn:latitude":12.3706,
+    "gn:longitude":108.95244,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u1ebfn L\u1ec5",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ebfn L\u1ec5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630742
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a1dde862de91890826650b80c48799c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781729,
+            "locality_id":1259694609,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1259694609,
+    "wof:lastmodified":1537714722,
+    "wof:name":"Ben Le",
+    "wof:parent_id":1108781729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.95244,
+    12.3706,
+    108.95244,
+    12.3706
+],
+  "geometry": {"coordinates":[108.95244,12.3706],"type":"Point"}
+}

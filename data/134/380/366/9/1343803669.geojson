@@ -1,0 +1,73 @@
+{
+  "id": 1343803669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.92342,21.54356,107.92342,21.54356",
+    "geom:latitude":21.54356,
+    "geom:longitude":107.92342,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Thon Sau",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8596101,
+    "gn:latitude":21.54356,
+    "gn:longitude":107.92342,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Th\u00f4n S\u00e1u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n S\u00e1u"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596101
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1dd18be760cef8a5889c476639e185cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781113,
+            "locality_id":1343803669,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1343803669,
+    "wof:lastmodified":1537714363,
+    "wof:name":"Thon Sau",
+    "wof:parent_id":1108781113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.92342,
+    21.54356,
+    107.92342,
+    21.54356
+],
+  "geometry": {"coordinates":[107.92341999999999,21.54356],"type":"Point"}
+}

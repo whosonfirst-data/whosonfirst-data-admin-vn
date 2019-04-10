@@ -1,0 +1,73 @@
+{
+  "id": 1310024721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07746,20.35956,106.07746,20.35956",
+    "geom:latitude":20.35956,
+    "geom:longitude":106.07746,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Tien Huong",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564663,
+    "gn:latitude":20.35956,
+    "gn:longitude":106.07746,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Ti\u00ean H\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tien H\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u00ean H\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564663
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5485f2632ee948f941e27cdfc9071667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781351,
+            "locality_id":1310024721,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1310024721,
+    "wof:lastmodified":1537713735,
+    "wof:name":"Tien Huong",
+    "wof:parent_id":1108781351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07746000000002,
+    20.35956,
+    106.07746000000002,
+    20.35956
+],
+  "geometry": {"coordinates":[106.07746000000002,20.35956],"type":"Point"}
+}

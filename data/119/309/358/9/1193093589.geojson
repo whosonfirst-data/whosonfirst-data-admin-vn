@@ -1,0 +1,71 @@
+{
+  "id": 1193093589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36667,9.86667,105.36667,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":105.36667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ap Cai Duoc Nho",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593719,
+    "gn:latitude":9.86667,
+    "gn:longitude":105.36667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u1ea4p C\u00e1i \u0110u\u1ed1c Nh\u1ecf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cai Duoc Nho",
+        "\u1ea4p C\u00e1i \u0110u\u1ed1c Nh\u1ecf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e0692e85c6bfc02f2c787dab9be1d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782233,
+            "locality_id":1193093589,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1193093589,
+    "wof:lastmodified":1537714193,
+    "wof:name":"Ap Cai Duoc Nho",
+    "wof:parent_id":1108782233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36667,
+    9.86667,
+    105.36667,
+    9.86667
+],
+  "geometry": {"coordinates":[105.36667,9.86667],"type":"Point"}
+}

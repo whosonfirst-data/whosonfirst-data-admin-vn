@@ -1,0 +1,70 @@
+{
+  "id": 1343476695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42042,22.2344,105.42042,22.2344",
+    "geom:latitude":22.2344,
+    "geom:longitude":105.42042,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ngoc Hoa",
+    "gn:country_code":"VN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309319,
+    "gn:latitude":22.2344,
+    "gn:longitude":105.42042,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ng\u1ecdc H\u00f2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc H\u00f2a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309319
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc0c643b46287172770c0d90a27c5736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1343476695,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1343476695,
+    "wof:lastmodified":1537714253,
+    "wof:name":"Ngoc Hoa",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42042,
+    22.2344,
+    105.42042,
+    22.2344
+],
+  "geometry": {"coordinates":[105.42041999999999,22.2344],"type":"Point"}
+}

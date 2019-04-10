@@ -1,0 +1,73 @@
+{
+  "id": 1276996269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.47352,22.67838,105.47352,22.67838",
+    "geom:latitude":22.67838,
+    "geom:longitude":105.47352,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Na Doong",
+    "gn:country_code":"VN",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573858,
+    "gn:latitude":22.67838,
+    "gn:longitude":105.47352,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"N\u00e0 \u0110\u00f3ong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na \u0110\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00e0 \u0110\u00f3ong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573858
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6d9228d3a00a00e97a75dec63bf0df78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1276996269,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1276996269,
+    "wof:lastmodified":1537713875,
+    "wof:name":"Na Doong",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.47352,
+    22.67838,
+    105.47352,
+    22.67838
+],
+  "geometry": {"coordinates":[105.47351999999999,22.67838],"type":"Point"}
+}

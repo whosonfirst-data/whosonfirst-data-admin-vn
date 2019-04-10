@@ -1,0 +1,75 @@
+{
+  "id": 1226057621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51667,23.2,105.51667,23.2",
+    "geom:latitude":23.2,
+    "geom:longitude":105.51667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Loung Lan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575531,
+    "gn:latitude":23.2,
+    "gn:longitude":105.51667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Loung Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lound Lan",
+        "Lung Lan",
+        "Loung Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669791,
+        102191569,
+        85632695,
+        136253041,
+        1108732431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575531
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c34c23a71c1a32b8e3a56d422b4f4526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732431,
+            "empire_id":136253041,
+            "locality_id":1226057621,
+            "region_id":85669791
+        }
+    ],
+    "wof:id":1226057621,
+    "wof:lastmodified":1537713895,
+    "wof:name":"Loung Lan",
+    "wof:parent_id":1108732431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51667,
+    23.2,
+    105.51667,
+    23.2
+],
+  "geometry": {"coordinates":[105.51667,23.2],"type":"Point"}
+}

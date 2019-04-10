@@ -1,0 +1,73 @@
+{
+  "id": 1193197089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10297,21.4984,104.10297,21.4984",
+    "geom:latitude":21.4984,
+    "geom:longitude":104.10297,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Nong Quai",
+    "gn:country_code":"VN",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571848,
+    "gn:latitude":21.4984,
+    "gn:longitude":104.10297,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Nong Qu\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nom Quay"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Nong Qu\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571848
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e71810f577f130d7b7b4e9f0868bfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781003,
+            "locality_id":1193197089,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1193197089,
+    "wof:lastmodified":1537713848,
+    "wof:name":"Ban Nong Quai",
+    "wof:parent_id":1108781003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10297,
+    21.4984,
+    104.10297,
+    21.4984
+],
+  "geometry": {"coordinates":[104.10297,21.4984],"type":"Point"}
+}

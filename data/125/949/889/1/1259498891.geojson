@@ -1,0 +1,70 @@
+{
+  "id": 1259498891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15226,9.45506,106.15226,9.45506",
+    "geom:latitude":9.45506,
+    "geom:longitude":106.15226,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Nam Chanh",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534882,
+    "gn:latitude":9.45506,
+    "gn:longitude":106.15226,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Nam Ch\u00e1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam Ch\u00e1nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534882
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f9a324afcaddfeb10be0a56222af72b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782309,
+            "locality_id":1259498891,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1259498891,
+    "wof:lastmodified":1537714491,
+    "wof:name":"Nam Chanh",
+    "wof:parent_id":1108782309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15226,
+    9.45506,
+    106.15226,
+    9.45506
+],
+  "geometry": {"coordinates":[106.15226,9.45506],"type":"Point"}
+}

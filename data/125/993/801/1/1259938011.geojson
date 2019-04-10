@@ -1,0 +1,73 @@
+{
+  "id": 1259938011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,11.51667,108.08333,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ap Klong Jum",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593188,
+    "gn:latitude":11.51667,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p Klong Jum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klong Jum",
+        "Klondioum",
+        "\u1ea4p Klong Jum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593188
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"109920e323092329c61af671ee3c7452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781899,
+            "locality_id":1259938011,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1259938011,
+    "wof:lastmodified":1537714180,
+    "wof:name":"Ap Klong Jum",
+    "wof:parent_id":1108781899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    11.51667,
+    108.08333,
+    11.51667
+],
+  "geometry": {"coordinates":[108.08333,11.51667],"type":"Point"}
+}

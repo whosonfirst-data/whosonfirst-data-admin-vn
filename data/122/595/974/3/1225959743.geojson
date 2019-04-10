@@ -1,0 +1,70 @@
+{
+  "id": 1225959743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13251,21.48414,105.13251,21.48414",
+    "geom:latitude":21.48414,
+    "geom:longitude":105.13251,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Yen Noi",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560136,
+    "gn:latitude":21.48414,
+    "gn:longitude":105.13251,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00ean N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560136
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"816d7a1669e2381c2e139854586e5e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781175,
+            "locality_id":1225959743,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1225959743,
+    "wof:lastmodified":1537713659,
+    "wof:name":"Yen Noi",
+    "wof:parent_id":1108781175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13251,
+    21.48414,
+    105.13251,
+    21.48414
+],
+  "geometry": {"coordinates":[105.13251,21.48414],"type":"Point"}
+}

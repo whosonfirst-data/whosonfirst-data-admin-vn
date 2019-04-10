@@ -1,0 +1,73 @@
+{
+  "id": 1310024665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.91243,11.52345,108.91243,11.52345",
+    "geom:latitude":11.52345,
+    "geom:longitude":108.91243,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"La Chu",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565505,
+    "gn:latitude":11.52345,
+    "gn:longitude":108.91243,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"La Ch\u1eef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n La Ch\u1eef"
+    ],
+    "name:vie_x_preferred":[
+        "La Ch\u1eef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565505
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d4710ef76c02f357e0e8775ebf3a667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781735,
+            "locality_id":1310024665,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1310024665,
+    "wof:lastmodified":1537713758,
+    "wof:name":"La Chu",
+    "wof:parent_id":1108781735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.91243,
+    11.52345,
+    108.91243,
+    11.52345
+],
+  "geometry": {"coordinates":[108.91243,11.52345],"type":"Point"}
+}

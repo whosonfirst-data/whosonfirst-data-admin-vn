@@ -1,0 +1,61 @@
+{
+  "id": 1209625999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.8,17.18333,106.8,17.18333",
+    "geom:latitude":17.18333,
+    "geom:longitude":106.8,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Mai Xa Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575005,
+    "gn:latitude":17.18333,
+    "gn:longitude":106.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mai X\u00e1 Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575005
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"256c8fd535840f5d1ee3d75d4d1b2478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209625999
+        }
+    ],
+    "wof:id":1209625999,
+    "wof:lastmodified":1536281352,
+    "wof:name":"Mai Xa Thuong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8,
+    17.183329999999998,
+    106.8,
+    17.183329999999998
+],
+  "geometry": {"coordinates":[106.8,17.18333],"type":"Point"}
+}

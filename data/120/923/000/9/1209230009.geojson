@@ -1,0 +1,66 @@
+{
+  "id": 1209230009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2,12.4,109.2,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":109.2,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Ngoc Diem",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565423,
+    "gn:latitude":12.4,
+    "gn:longitude":109.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ng\u1ecdc Di\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoc Giem",
+        "Ng\u1ecdc Di\u00eam",
+        "Th\u00f4n Ng\u1ecdc Di\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565423
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ce239d33dcc5d7c3f7a8c0e6be5375a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209230009
+        }
+    ],
+    "wof:id":1209230009,
+    "wof:lastmodified":1537713754,
+    "wof:name":"Thon Ngoc Diem",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2,
+    12.4,
+    109.2,
+    12.4
+],
+  "geometry": {"coordinates":[109.2,12.4],"type":"Point"}
+}

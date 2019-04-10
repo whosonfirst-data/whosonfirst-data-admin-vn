@@ -1,0 +1,71 @@
+{
+  "id": 1226058143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93333,22.6,104.93333,22.6",
+    "geom:latitude":22.6,
+    "geom:longitude":104.93333,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Pac Phat",
+    "gn:country_code":"VN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571412,
+    "gn:latitude":22.6,
+    "gn:longitude":104.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pac Phat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pac Pha",
+        "Pac Phat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571412
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"db81fd819b44dd676499c43e2c8a53ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780861,
+            "locality_id":1226058143,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226058143,
+    "wof:lastmodified":1537713844,
+    "wof:name":"Pac Phat",
+    "wof:parent_id":1108780861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93333,
+    22.6,
+    104.93333,
+    22.6
+],
+  "geometry": {"coordinates":[104.93333,22.6],"type":"Point"}
+}

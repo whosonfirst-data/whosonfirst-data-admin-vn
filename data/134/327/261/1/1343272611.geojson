@@ -1,0 +1,73 @@
+{
+  "id": 1343272611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00992,22.35053,106.00992,22.35053",
+    "geom:latitude":22.35053,
+    "geom:longitude":106.00992,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Giang",
+    "gn:country_code":"VN",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590652,
+    "gn:latitude":22.35053,
+    "gn:longitude":106.00992,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"B\u1ea3n Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Dzian"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5ec490f2f6f049fe45c923570d8cf00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1343272611,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1343272611,
+    "wof:lastmodified":1537714122,
+    "wof:name":"Ban Giang",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00992,
+    22.35053,
+    106.00992,
+    22.35053
+],
+  "geometry": {"coordinates":[106.00991999999999,22.35053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260020437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24593,20.45038,105.24593,20.45038",
+    "geom:latitude":20.45038,
+    "geom:longitude":105.24593,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Khuyen",
+    "gn:country_code":"VN",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549718,
+    "gn:latitude":20.45038,
+    "gn:longitude":105.24593,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"L\u00e0ng Khuy\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Khuy\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549718
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c6f4bfc327ecb6f8fe964c1fe05bc942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1260020437,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1260020437,
+    "wof:lastmodified":1537714343,
+    "wof:name":"Lang Khuyen",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24593,
+    20.45038,
+    105.24593,
+    20.45038
+],
+  "geometry": {"coordinates":[105.24593,20.45038],"type":"Point"}
+}

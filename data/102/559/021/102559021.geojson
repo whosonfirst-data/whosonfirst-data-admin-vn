@@ -1,0 +1,64 @@
+{
+  "id": 102559021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.807222222,21.2211111111,105.807222222,21.2211111111",
+    "geom:latitude":21.221111,
+    "geom:longitude":105.807222,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"39",
+    "oa:type":"large_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424984,
+        "planet_id":1,
+        "state_id":20070090
+    },
+    "wof:belongsto":[
+        85632763,
+        85680653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12522936,
+        "iata:code":"HAN",
+        "icao:code":"VVNB",
+        "oa:id":"26700",
+        "wd:id":"Q844098"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"23af475c31297f0833bcd22b02bb6b52",
+    "wof:hierarchy":[
+        {
+            "campus_id":102559021,
+            "country_id":85632763,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":102559021,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Noi Bai Airport",
+    "wof:parent_id":85680653,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    105.80722222222,
+    21.221111111111,
+    105.80722222222,
+    21.221111111111
+],
+  "geometry": {"coordinates":[105.80722222222001,21.221111111111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310220521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,21.1,105.63333,21.1",
+    "geom:latitude":21.1,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Thanh Mac",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566110,
+    "gn:latitude":21.1,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Thanh M\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thanh Ma",
+        "Thanh M\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566110
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ed3557597372085e5a641c1809b7c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780827,
+            "locality_id":1310220521,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1310220521,
+    "wof:lastmodified":1537713772,
+    "wof:name":"Thanh Mac",
+    "wof:parent_id":1108780827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    21.1,
+    105.63333,
+    21.1
+],
+  "geometry": {"coordinates":[105.63333,21.1],"type":"Point"}
+}

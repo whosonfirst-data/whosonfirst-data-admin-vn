@@ -1,0 +1,70 @@
+{
+  "id": 1226661505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01033,21.24618,105.01033,21.24618",
+    "geom:latitude":21.24618,
+    "geom:longitude":105.01033,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Co Son",
+    "gn:country_code":"VN",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200117,
+    "gn:latitude":21.24618,
+    "gn:longitude":105.01033,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Co S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Co S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200117
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7a4749f502879b242bce5e5bcaa5e293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781193,
+            "locality_id":1226661505,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1226661505,
+    "wof:lastmodified":1537714230,
+    "wof:name":"Co Son",
+    "wof:parent_id":1108781193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01033,
+    21.24618,
+    105.01033,
+    21.24618
+],
+  "geometry": {"coordinates":[105.01033,21.24618],"type":"Point"}
+}

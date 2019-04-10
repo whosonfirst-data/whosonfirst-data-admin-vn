@@ -1,0 +1,64 @@
+{
+  "id": 1209023267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08575,17.03378,107.08575,17.03378",
+    "geom:latitude":17.03378,
+    "geom:longitude":107.08575,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Hac Hien",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321497,
+    "gn:latitude":17.03378,
+    "gn:longitude":107.08575,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"H\u1ea1c Hi\u1ec1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ea1c Hi\u1ec1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321497
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43c19645743308678c474a8e8a2786d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023267
+        }
+    ],
+    "wof:id":1209023267,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Hac Hien",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08575,
+    17.03378,
+    107.08575,
+    17.03378
+],
+  "geometry": {"coordinates":[107.08575,17.03378],"type":"Point"}
+}

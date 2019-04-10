@@ -1,0 +1,70 @@
+{
+  "id": 1360104005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29532,21.80587,106.29532,21.80587",
+    "geom:latitude":21.80587,
+    "geom:longitude":106.29532,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Lang Ngoang",
+    "gn:country_code":"VN",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889960,
+    "gn:latitude":21.80587,
+    "gn:longitude":106.29532,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u00e0ng Ngo\u1ea1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Ngo\u1ea1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889960
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"435140a3d0ea963a8b105826ddcf58bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1360104005,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1360104005,
+    "wof:lastmodified":1537714551,
+    "wof:name":"Lang Ngoang",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29532,
+    21.80587,
+    106.29532,
+    21.80587
+],
+  "geometry": {"coordinates":[106.29532,21.80587],"type":"Point"}
+}

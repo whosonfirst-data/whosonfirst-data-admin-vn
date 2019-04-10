@@ -1,0 +1,65 @@
+{
+  "id": 1209625899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2,17.35,106.2,17.35",
+    "geom:latitude":17.35,
+    "geom:longitude":106.2,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Vin Vuc Ni",
+    "gn:country_code":"VN",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562543,
+    "gn:latitude":17.35,
+    "gn:longitude":106.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vin V\u1ef1c Ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinh Vue Ni",
+        "Vin V\u1ef1c Ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562543
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b2d963ad0cadc36178949c4c4fdab92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209625899
+        }
+    ],
+    "wof:id":1209625899,
+    "wof:lastmodified":1537713708,
+    "wof:name":"Vin Vuc Ni",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2,
+    17.35,
+    106.2,
+    17.35
+],
+  "geometry": {"coordinates":[106.2,17.35],"type":"Point"}
+}

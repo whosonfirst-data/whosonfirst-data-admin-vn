@@ -1,0 +1,61 @@
+{
+  "id": 1209430333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21667,20.9,106.21667,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":106.21667,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Huong Giang",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580127,
+    "gn:latitude":20.9,
+    "gn:longitude":106.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u01b0\u01a1ng Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580127
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2a5470a768afafe35d3397ad414c84e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430333
+        }
+    ],
+    "wof:id":1209430333,
+    "wof:lastmodified":1536287254,
+    "wof:name":"Huong Giang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21667,
+    20.9,
+    106.21667,
+    20.9
+],
+  "geometry": {"coordinates":[106.21666999999999,20.9],"type":"Point"}
+}

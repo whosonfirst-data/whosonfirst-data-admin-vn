@@ -1,0 +1,67 @@
+{
+  "id": 1310447281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.75,21.5,107.75,21.5",
+    "geom:latitude":21.5,
+    "geom:longitude":107.75,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Tsi Liong Pu",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563529,
+    "gn:latitude":21.5,
+    "gn:longitude":107.75,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tsi Liong Pu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563529
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0faae08c2fc7cffabddb224392fb4c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781125,
+            "locality_id":1310447281,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1310447281,
+    "wof:lastmodified":1537000219,
+    "wof:name":"Tsi Liong Pu",
+    "wof:parent_id":1108781125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.75,
+    21.5,
+    107.75,
+    21.5
+],
+  "geometry": {"coordinates":[107.75,21.5],"type":"Point"}
+}

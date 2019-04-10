@@ -1,0 +1,70 @@
+{
+  "id": 1360103853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84864,18.46443,105.84864,18.46443",
+    "geom:latitude":18.46443,
+    "geom:longitude":105.84864,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hong Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275105,
+    "gn:latitude":18.46443,
+    "gn:longitude":105.84864,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"H\u1ed3ng Th\u1ee7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng Th\u1ee7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275105
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"986106afd9f7e4b6d899824b8d6743e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1360103853,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1360103853,
+    "wof:lastmodified":1537714666,
+    "wof:name":"Hong Thuy",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84864,
+    18.46443,
+    105.84864,
+    18.46443
+],
+  "geometry": {"coordinates":[105.84864,18.46443],"type":"Point"}
+}

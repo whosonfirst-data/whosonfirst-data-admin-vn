@@ -1,0 +1,67 @@
+{
+  "id": 1210034861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.53333,21.5,106.53333,21.5",
+    "geom:latitude":21.5,
+    "geom:longitude":106.53333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pho Cam",
+    "gn:country_code":"VN",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570905,
+    "gn:latitude":21.5,
+    "gn:longitude":106.53333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ph\u00f4 C\u1ea9m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6d370c2bc6b49b3527ec21980af5235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781153,
+            "locality_id":1210034861,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1210034861,
+    "wof:lastmodified":1536386944,
+    "wof:name":"Pho Cam",
+    "wof:parent_id":1108781153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.53333,
+    21.5,
+    106.53333,
+    21.5
+],
+  "geometry": {"coordinates":[106.53333000000001,21.5],"type":"Point"}
+}

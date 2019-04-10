@@ -1,0 +1,71 @@
+{
+  "id": 1259393329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98006,9.32439,105.98006,9.32439",
+    "geom:latitude":9.32439,
+    "geom:longitude":105.98006,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Vinh Chau",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1562773,
+    "gn:latitude":9.32439,
+    "gn:longitude":105.98006,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"V\u0129nh Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0129nh Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562773,
+        "wk:page":"V%C4%A9nh_Ch%C3%A2u"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"76610327bb25f746be85dcedb1881bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782307,
+            "locality_id":1259393329,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1259393329,
+    "wof:lastmodified":1537713712,
+    "wof:name":"Vinh Chau",
+    "wof:parent_id":1108782307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98006,
+    9.32439,
+    105.98006,
+    9.32439
+],
+  "geometry": {"coordinates":[105.98005999999999,9.32439],"type":"Point"}
+}

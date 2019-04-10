@@ -1,0 +1,73 @@
+{
+  "id": 1259998357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.3982,16.69338,107.3982,16.69338",
+    "geom:latitude":16.69338,
+    "geom:longitude":107.3982,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ke Mon",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565521,
+    "gn:latitude":16.69338,
+    "gn:longitude":107.3982,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"K\u1ebf M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n K\u1ebf M\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "K\u1ebf M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565521
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4f4b6f56a1cb51abde5f766ad6f1866f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1259998357,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1259998357,
+    "wof:lastmodified":1537713758,
+    "wof:name":"Ke Mon",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.3982,
+    16.69338,
+    107.3982,
+    16.69338
+],
+  "geometry": {"coordinates":[107.3982,16.69338],"type":"Point"}
+}

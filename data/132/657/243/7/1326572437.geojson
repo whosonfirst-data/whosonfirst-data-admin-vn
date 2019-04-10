@@ -1,0 +1,73 @@
+{
+  "id": 1326572437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4847,10.38281,106.4847,10.38281",
+    "geom:latitude":10.38281,
+    "geom:longitude":106.4847,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tan Binh Hai B",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337825,
+    "gn:latitude":10.38281,
+    "gn:longitude":106.4847,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"T\u00e2n B\u00ecnh Hai B",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n B\u00ecnh Hai B"
+    ],
+    "name:vie_x_variant":[
+        "T\u00e2n B\u00ecnh 2B"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337825
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4d1d0e7062ddb39638764820d4b9036e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782105,
+            "locality_id":1326572437,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1326572437,
+    "wof:lastmodified":1537714283,
+    "wof:name":"Tan Binh Hai B",
+    "wof:parent_id":1108782105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4847,
+    10.38281,
+    106.4847,
+    10.38281
+],
+  "geometry": {"coordinates":[106.4847,10.38281],"type":"Point"}
+}

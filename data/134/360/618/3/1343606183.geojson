@@ -1,0 +1,67 @@
+{
+  "id": 1343606183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41667,20.35,105.41667,20.35",
+    "geom:latitude":20.35,
+    "geom:longitude":105.41667,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xom Sai",
+    "gn:country_code":"VN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561005,
+    "gn:latitude":20.35,
+    "gn:longitude":105.41667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m S\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561005
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9f3ad239ecc7fa1dc1e4d874187d4fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781399,
+            "locality_id":1343606183,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1343606183,
+    "wof:lastmodified":1537032001,
+    "wof:name":"Xom Sai",
+    "wof:parent_id":1108781399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41667,
+    20.35,
+    105.41667,
+    20.35
+],
+  "geometry": {"coordinates":[105.41667,20.35],"type":"Point"}
+}

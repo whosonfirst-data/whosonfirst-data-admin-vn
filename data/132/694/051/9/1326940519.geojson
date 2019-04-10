@@ -1,0 +1,67 @@
+{
+  "id": 1326940519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,21.88333,104.2,21.88333",
+    "geom:latitude":21.88333,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ping Ho",
+    "gn:country_code":"VN",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569729,
+    "gn:latitude":21.88333,
+    "gn:longitude":104.2,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ping Ho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569729
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d59def477c6b98c85c6c5b315f4ca9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781029,
+            "locality_id":1326940519,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1326940519,
+    "wof:lastmodified":1536892441,
+    "wof:name":"Ping Ho",
+    "wof:parent_id":1108781029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    21.88333,
+    104.2,
+    21.88333
+],
+  "geometry": {"coordinates":[104.2,21.88333],"type":"Point"}
+}

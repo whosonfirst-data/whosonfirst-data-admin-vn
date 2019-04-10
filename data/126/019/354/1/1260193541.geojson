@@ -1,0 +1,71 @@
+{
+  "id": 1260193541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31667,11.81667,107.31667,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":107.31667,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Buon Dang",
+    "gn:country_code":"VN",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587092,
+    "gn:latitude":11.81667,
+    "gn:longitude":107.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Dang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bon Pu Dang",
+        "Bu\u00f4n Dang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587092
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c4dfca084448628a9bb3316d6e9f8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781925,
+            "locality_id":1260193541,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1260193541,
+    "wof:lastmodified":1537714055,
+    "wof:name":"Buon Dang",
+    "wof:parent_id":1108781925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31667,
+    11.81667,
+    107.31667,
+    11.81667
+],
+  "geometry": {"coordinates":[107.31667,11.81667],"type":"Point"}
+}

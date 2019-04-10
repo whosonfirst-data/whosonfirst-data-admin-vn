@@ -1,0 +1,73 @@
+{
+  "id": 1259802627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02817,10.16943,106.02817,10.16943",
+    "geom:latitude":10.16943,
+    "geom:longitude":106.02817,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Phuoc Loc",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592528,
+    "gn:latitude":10.16943,
+    "gn:longitude":106.02817,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ph\u01b0\u1edbc L\u1ed9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Ph\u01b0\u1edbc L\u1ed9c"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc L\u1ed9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680853,
+        1108782155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592528
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dabd9ff421b286de388e140d46ac1d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782155,
+            "locality_id":1259802627,
+            "region_id":85680853
+        }
+    ],
+    "wof:id":1259802627,
+    "wof:lastmodified":1537714162,
+    "wof:name":"Phuoc Loc",
+    "wof:parent_id":1108782155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02817,
+    10.16943,
+    106.02817,
+    10.16943
+],
+  "geometry": {"coordinates":[106.02817,10.16943],"type":"Point"}
+}

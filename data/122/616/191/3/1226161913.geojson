@@ -1,0 +1,67 @@
+{
+  "id": 1226161913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68333,18.45,105.68333,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":105.68333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Dong Tay",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582586,
+    "gn:latitude":18.45,
+    "gn:longitude":105.68333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng T\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582586
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"273fdd1eda7bd51d4f7be10d3dd3ab7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1226161913,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1226161913,
+    "wof:lastmodified":1537052188,
+    "wof:name":"Dong Tay",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68333,
+    18.45,
+    105.68333,
+    18.45
+],
+  "geometry": {"coordinates":[105.68333,18.45],"type":"Point"}
+}

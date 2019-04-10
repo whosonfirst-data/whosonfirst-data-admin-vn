@@ -1,0 +1,67 @@
+{
+  "id": 1260295667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75507,22.43649,105.75507,22.43649",
+    "geom:latitude":22.43649,
+    "geom:longitude":105.75507,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Tat Dai",
+    "gn:country_code":"VN",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311394,
+    "gn:latitude":22.43649,
+    "gn:longitude":105.75507,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"T\u00e1t D\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311394
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d1e2d77905dc2937195b1d95b7852311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1260295667,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1260295667,
+    "wof:lastmodified":1536695702,
+    "wof:name":"Tat Dai",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75507,
+    22.43649,
+    105.75507,
+    22.43649
+],
+  "geometry": {"coordinates":[105.75507,22.43649],"type":"Point"}
+}

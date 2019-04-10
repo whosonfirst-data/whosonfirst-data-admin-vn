@@ -1,0 +1,67 @@
+{
+  "id": 1309759557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83333,19.78333,105.83333,19.78333",
+    "geom:latitude":19.78333,
+    "geom:longitude":105.83333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Duy Tieu",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582064,
+    "gn:latitude":19.78333,
+    "gn:longitude":105.83333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Duy Ti\u1ebfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582064
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7127d9db0f3f6f2fd5e4eb0551d2aed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781387,
+            "locality_id":1309759557,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1309759557,
+    "wof:lastmodified":1536997105,
+    "wof:name":"Duy Tieu",
+    "wof:parent_id":1108781387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83333,
+    19.78333,
+    105.83333,
+    19.78333
+],
+  "geometry": {"coordinates":[105.83333,19.78333],"type":"Point"}
+}

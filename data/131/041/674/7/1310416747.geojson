@@ -1,0 +1,73 @@
+{
+  "id": 1310416747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2165,22.35598,103.2165,22.35598",
+    "geom:latitude":22.35598,
+    "geom:longitude":103.2165,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ta Phin Ba",
+    "gn:country_code":"VN",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456851,
+    "gn:latitude":22.35598,
+    "gn:longitude":103.2165,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"T\u1ea3 Ph\u00ecn Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u1ea3 Ph\u00ecn Ba"
+    ],
+    "name:vie_x_variant":[
+        "T\u1ea3 Ph\u00ecn 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456851
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b856cf65a8d9a413a927c10e9c22bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1310416747,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310416747,
+    "wof:lastmodified":1537714317,
+    "wof:name":"Ta Phin Ba",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2165,
+    22.35598,
+    103.2165,
+    22.35598
+],
+  "geometry": {"coordinates":[103.2165,22.35598],"type":"Point"}
+}

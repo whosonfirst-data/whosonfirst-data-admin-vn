@@ -1,0 +1,73 @@
+{
+  "id": 1293902601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,13.08333,108.15,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ban Hal",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590483,
+    "gn:latitude":13.08333,
+    "gn:longitude":108.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Hal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Hal",
+        "Buon Hai",
+        "Ban Hal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590483
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ad533716255812afa51e6b894d61e6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781845,
+            "locality_id":1293902601,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293902601,
+    "wof:lastmodified":1537714119,
+    "wof:name":"Ban Hal",
+    "wof:parent_id":1108781845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    13.08333,
+    108.15,
+    13.08333
+],
+  "geometry": {"coordinates":[108.15000000000001,13.08333],"type":"Point"}
+}

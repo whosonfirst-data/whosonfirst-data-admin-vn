@@ -1,0 +1,74 @@
+{
+  "id": 1327450603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.14679,21.9962,103.14679,21.9962",
+    "geom:latitude":21.9962,
+    "geom:longitude":103.14679,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ho Cang",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590375,
+    "gn:latitude":21.9962,
+    "gn:longitude":103.14679,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ho Cang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban He Cang",
+        "B\u1ea3n H\u00f4 Cang"
+    ],
+    "name:vie_x_preferred":[
+        "Ho Cang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590375
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ba1094ce04ecbc0b52333088617b305e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780961,
+            "locality_id":1327450603,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1327450603,
+    "wof:lastmodified":1537714116,
+    "wof:name":"Ho Cang",
+    "wof:parent_id":1108780961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14679,
+    21.9962,
+    103.14679,
+    21.9962
+],
+  "geometry": {"coordinates":[103.14679,21.9962],"type":"Point"}
+}

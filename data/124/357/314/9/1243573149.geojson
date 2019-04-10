@@ -1,0 +1,67 @@
+{
+  "id": 1243573149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43333,12.28333,108.43333,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":108.43333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Bon N'chieng",
+    "gn:country_code":"VN",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587463,
+    "gn:latitude":12.28333,
+    "gn:longitude":108.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bon N\u2019chi\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587463
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"24250e57ebc205f86c0985029ebea46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1243573149,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1243573149,
+    "wof:lastmodified":1536620902,
+    "wof:name":"Bon N'chieng",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43333,
+    12.28333,
+    108.43333,
+    12.28333
+],
+  "geometry": {"coordinates":[108.43333,12.28333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292922553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.03333,14.06667,109.03333,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":109.03333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Vinh Long",
+    "gn:country_code":"VN",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562691,
+    "gn:latitude":14.06667,
+    "gn:longitude":109.03333,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"V\u0129nh Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u0129nh Long",
+        "Khanh Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562691
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7f36907d1d024bb3a31607dfe3d74534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781681,
+            "locality_id":1292922553,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1292922553,
+    "wof:lastmodified":1537713710,
+    "wof:name":"Vinh Long",
+    "wof:parent_id":1108781681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.03333,
+    14.06667,
+    109.03333,
+    14.06667
+],
+  "geometry": {"coordinates":[109.03333000000001,14.06667],"type":"Point"}
+}

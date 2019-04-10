@@ -1,0 +1,67 @@
+{
+  "id": 1309814149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48333,20.9,105.48333,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":105.48333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Suc Sich",
+    "gn:country_code":"VN",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567506,
+    "gn:latitude":20.9,
+    "gn:longitude":105.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00fac Sich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567506
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f556649fcd0cea5863824527b5bf2a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781047,
+            "locality_id":1309814149,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1309814149,
+    "wof:lastmodified":1536919556,
+    "wof:name":"Suc Sich",
+    "wof:parent_id":1108781047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48333,
+    20.9,
+    105.48333,
+    20.9
+],
+  "geometry": {"coordinates":[105.48333,20.9],"type":"Point"}
+}

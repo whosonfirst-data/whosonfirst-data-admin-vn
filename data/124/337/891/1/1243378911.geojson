@@ -1,0 +1,67 @@
+{
+  "id": 1243378911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0,11.88333,107.0,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":107.0,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Dong Sre Viet",
+    "gn:country_code":"VN",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582608,
+    "gn:latitude":11.88333,
+    "gn:longitude":107.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dong Sr\u00e9 Vi\u1ebdt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680749,
+        1108781913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582608
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e6c3c7e393c40867165501a3c131b1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781913,
+            "locality_id":1243378911,
+            "region_id":85680749
+        }
+    ],
+    "wof:id":1243378911,
+    "wof:lastmodified":1536903040,
+    "wof:name":"Dong Sre Viet",
+    "wof:parent_id":1108781913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0,
+    11.88333,
+    107.0,
+    11.88333
+],
+  "geometry": {"coordinates":[107.0,11.88333],"type":"Point"}
+}

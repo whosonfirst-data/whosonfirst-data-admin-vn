@@ -1,0 +1,65 @@
+{
+  "id": 1209023255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05,22.01667,104.05,22.01667",
+    "geom:latitude":22.01667,
+    "geom:longitude":104.05,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lang Mu",
+    "gn:country_code":"VN",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576939,
+    "gn:latitude":22.01667,
+    "gn:longitude":104.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Mu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Mu",
+        "L\u00e0ng Mu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576939
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a1b517495a9853f6a79bf88c7ee485a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023255
+        }
+    ],
+    "wof:id":1209023255,
+    "wof:lastmodified":1537713915,
+    "wof:name":"Lang Mu",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05,
+    22.01667,
+    104.05,
+    22.01667
+],
+  "geometry": {"coordinates":[104.05,22.01667],"type":"Point"}
+}

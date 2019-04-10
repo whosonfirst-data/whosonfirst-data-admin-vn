@@ -1,0 +1,73 @@
+{
+  "id": 1343571933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20458,21.16222,106.20458,21.16222",
+    "geom:latitude":21.16222,
+    "geom:longitude":106.20458,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Yen Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340774,
+    "gn:latitude":21.16222,
+    "gn:longitude":106.20458,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Y\u00ean \u0110\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Y\u00ean \u0110\u1ecbnh"
+    ],
+    "name:vie_x_variant":[
+        "Y\u00ean \u0110\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340774
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fdcc4b31218a9c8ea03bda4ed1bac600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1343571933,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1343571933,
+    "wof:lastmodified":1537714292,
+    "wof:name":"Yen Dinh",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20458,
+    21.16222,
+    106.20458,
+    21.16222
+],
+  "geometry": {"coordinates":[106.20458000000001,21.16222],"type":"Point"}
+}

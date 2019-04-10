@@ -1,0 +1,67 @@
+{
+  "id": 1326540647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,20.68333,105.75,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Ngo Xa",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572305,
+    "gn:latitude":20.68333,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ng\u1ecd X\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572305
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1d94743b7b4d0a75a90c80de66f192ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780845,
+            "locality_id":1326540647,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1326540647,
+    "wof:lastmodified":1536971434,
+    "wof:name":"Ngo Xa",
+    "wof:parent_id":1108780845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    20.68333,
+    105.75,
+    20.68333
+],
+  "geometry": {"coordinates":[105.75,20.68333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242918183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,19.55,105.7,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Thai Tuong",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566306,
+    "gn:latitude":19.55,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Th\u00e1i T\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thai Tuoug",
+        "Th\u00e1i T\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566306
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a1e7e9f93671059ad90fe35907492ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781439,
+            "locality_id":1242918183,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1242918183,
+    "wof:lastmodified":1537713775,
+    "wof:name":"Thai Tuong",
+    "wof:parent_id":1108781439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    19.55,
+    105.7,
+    19.55
+],
+  "geometry": {"coordinates":[105.7,19.55],"type":"Point"}
+}

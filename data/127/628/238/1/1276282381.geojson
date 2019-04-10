@@ -1,0 +1,73 @@
+{
+  "id": 1276282381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32194,10.43322,106.32194,10.43322",
+    "geom:latitude":10.43322,
+    "geom:longitude":106.32194,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Than Dao",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592106,
+    "gn:latitude":10.43322,
+    "gn:longitude":106.32194,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u00e2n \u0110\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Th\u00e2n \u0110\u1ea1o"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e2n \u0110\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592106
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8618ed008d0d28308a019181a31a1470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782103,
+            "locality_id":1276282381,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1276282381,
+    "wof:lastmodified":1537714151,
+    "wof:name":"Than Dao",
+    "wof:parent_id":1108782103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32193999999998,
+    10.43322,
+    106.32193999999998,
+    10.43322
+],
+  "geometry": {"coordinates":[106.32193999999998,10.43322],"type":"Point"}
+}

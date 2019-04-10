@@ -1,0 +1,73 @@
+{
+  "id": 1259833069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59111,20.02,105.59111,20.02",
+    "geom:latitude":20.02,
+    "geom:longitude":105.59111,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Huong Thieu Yen",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560305,
+    "gn:latitude":20.02,
+    "gn:longitude":105.59111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u01b0\u01a1ng Thi\u00eau Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thi\u00eau Y\u00ean",
+        "Y\u00ean D\u1ecbnh",
+        "H\u01b0\u01a1ng Thi\u00eau Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560305
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dbf34a4d4ca42eee26118c82b4657021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781417,
+            "locality_id":1259833069,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1259833069,
+    "wof:lastmodified":1537713662,
+    "wof:name":"Huong Thieu Yen",
+    "wof:parent_id":1108781417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59111,
+    20.02,
+    105.59111,
+    20.02
+],
+  "geometry": {"coordinates":[105.59111,20.02],"type":"Point"}
+}

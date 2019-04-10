@@ -1,0 +1,73 @@
+{
+  "id": 1226253617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.76229,14.33053,108.76229,14.33053",
+    "geom:latitude":14.33053,
+    "geom:longitude":108.76229,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Lang Khong Nam",
+    "gn:country_code":"VN",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8708547,
+    "gn:latitude":14.33053,
+    "gn:longitude":108.76229,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u00e0ng Kh\u00f4ng N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Kh\u00f4ng N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "L\u00e0ng 05"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680753,
+        1108781677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8708547
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"209e8aaeedda9ffb7f941230bb26572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781677,
+            "locality_id":1226253617,
+            "region_id":85680753
+        }
+    ],
+    "wof:id":1226253617,
+    "wof:lastmodified":1537714410,
+    "wof:name":"Lang Khong Nam",
+    "wof:parent_id":1108781677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.76229,
+    14.33053,
+    108.76229,
+    14.33053
+],
+  "geometry": {"coordinates":[108.76228999999999,14.33053],"type":"Point"}
+}

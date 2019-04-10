@@ -1,0 +1,67 @@
+{
+  "id": 1293803029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4,23.26667,105.4,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":105.4,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ta Lang",
+    "gn:country_code":"VN",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567261,
+    "gn:latitude":23.26667,
+    "gn:longitude":105.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ta Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567261
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"80fff66136faa21b34966a74ff25b151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780853,
+            "locality_id":1293803029,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293803029,
+    "wof:lastmodified":1536828332,
+    "wof:name":"Ta Lang",
+    "wof:parent_id":1108780853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4,
+    23.26667,
+    105.4,
+    23.26667
+],
+  "geometry": {"coordinates":[105.40000000000001,23.26667],"type":"Point"}
+}

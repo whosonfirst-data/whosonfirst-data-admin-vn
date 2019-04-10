@@ -1,0 +1,70 @@
+{
+  "id": 1210035333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00099,21.90597,105.00099,21.90597",
+    "geom:latitude":21.90597,
+    "geom:longitude":105.00099,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Deo Quan",
+    "gn:country_code":"VN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137820,
+    "gn:latitude":21.90597,
+    "gn:longitude":105.00099,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"\u0110\u00e8o Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00e8o Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137820
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"013fe28059bfeef57b0bb299e5d45cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781039,
+            "locality_id":1210035333,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1210035333,
+    "wof:lastmodified":1537714214,
+    "wof:name":"Deo Quan",
+    "wof:parent_id":1108781039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00099,
+    21.90597,
+    105.00099,
+    21.90597
+],
+  "geometry": {"coordinates":[105.00099,21.90597],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193155903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69484,18.4954,105.69484,18.4954",
+    "geom:latitude":18.4954,
+    "geom:longitude":105.69484,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Hong Nguyet",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354020,
+    "gn:latitude":18.4954,
+    "gn:longitude":105.69484,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u1ed3ng Nguy\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed3ng Nguy\u1ec7t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354020
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e0b5d202f561775f16d53d6a4390e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781497,
+            "locality_id":1193155903,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1193155903,
+    "wof:lastmodified":1537714705,
+    "wof:name":"Hong Nguyet",
+    "wof:parent_id":1108781497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69484,
+    18.4954,
+    105.69484,
+    18.4954
+],
+  "geometry": {"coordinates":[105.69484,18.4954],"type":"Point"}
+}

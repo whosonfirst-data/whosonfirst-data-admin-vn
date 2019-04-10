@@ -1,0 +1,64 @@
+{
+  "id": 1209472357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01279,10.84005,106.01279,10.84005",
+    "geom:latitude":10.84005,
+    "geom:longitude":106.01279,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Binh Bac",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101528,
+    "gn:latitude":10.84005,
+    "gn:longitude":106.01279,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh B\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh B\u1eafc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101528
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bc22bd2e8be3916f11f38b2932288cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209472357
+        }
+    ],
+    "wof:id":1209472357,
+    "wof:lastmodified":1537714459,
+    "wof:name":"Binh Bac",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01279,
+    10.84005,
+    106.01279,
+    10.84005
+],
+  "geometry": {"coordinates":[106.01279,10.84005],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293117629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.10792,17.02678,107.10792,17.02678",
+    "geom:latitude":17.02678,
+    "geom:longitude":107.10792,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Hoa Ly",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321493,
+    "gn:latitude":17.02678,
+    "gn:longitude":107.10792,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"H\u00f2a L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a L\u00fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321493
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"739a889d6df52dabd010758c17939034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1293117629,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1293117629,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Hoa Ly",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.10792,
+    17.02678,
+    107.10792,
+    17.02678
+],
+  "geometry": {"coordinates":[107.10791999999999,17.02678],"type":"Point"}
+}

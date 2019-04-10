@@ -1,0 +1,61 @@
+{
+  "id": 1209116783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51667,22.66667,102.51667,22.66667",
+    "geom:latitude":22.66667,
+    "geom:longitude":102.51667,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Le Rang",
+    "gn:country_code":"VN",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589946,
+    "gn:latitude":22.66667,
+    "gn:longitude":102.51667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n L\u00e8 R\u1eb1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589946
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"afecede8d2ed65c88c4719a8f6282059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116783
+        }
+    ],
+    "wof:id":1209116783,
+    "wof:lastmodified":1536297227,
+    "wof:name":"Ban Le Rang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51667,
+    22.66667,
+    102.51667,
+    22.66667
+],
+  "geometry": {"coordinates":[102.51667,22.66667],"type":"Point"}
+}

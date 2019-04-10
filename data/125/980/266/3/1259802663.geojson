@@ -1,0 +1,77 @@
+{
+  "id": 1259802663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.35027,12.94643,108.35027,12.94643",
+    "geom:latitude":12.94643,
+    "geom:longitude":108.35027,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Bu Wiao",
+    "gn:country_code":"VN",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586778,
+    "gn:latitude":12.94643,
+    "gn:longitude":108.35027,
+    "gn:modification_date":"2015-05-05",
+    "gn:name":"Bu Wiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May",
+        "Ban Ueo",
+        "Buon Ueo",
+        "Bu\u00f4n Wiao",
+        "Buon Kmrang"
+    ],
+    "name:vie_x_preferred":[
+        "Bu Wiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586778
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"83c74046e1fffab9d472ad26bc3c30c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781849,
+            "locality_id":1259802663,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1259802663,
+    "wof:lastmodified":1537714040,
+    "wof:name":"Bu Wiao",
+    "wof:parent_id":1108781849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.35027,
+    12.94643,
+    108.35027,
+    12.94643
+],
+  "geometry": {"coordinates":[108.35026999999999,12.94643],"type":"Point"}
+}

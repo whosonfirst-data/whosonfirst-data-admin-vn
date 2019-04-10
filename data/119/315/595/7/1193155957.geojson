@@ -1,0 +1,76 @@
+{
+  "id": 1193155957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41515,22.76279,105.41515,22.76279",
+    "geom:latitude":22.76279,
+    "geom:longitude":105.41515,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ban Ba Tan",
+    "gn:country_code":"VN",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588693,
+    "gn:latitude":22.76279,
+    "gn:longitude":105.41515,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Ba T\u1eafn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Tan"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n T\u1eafn"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n Ba T\u1eafn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588693
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c1af8663d79e3eb84e2a5e69eb291435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1193155957,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1193155957,
+    "wof:lastmodified":1537714083,
+    "wof:name":"Ban Ba Tan",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41515,
+    22.76279,
+    105.41515,
+    22.76279
+],
+  "geometry": {"coordinates":[105.41515,22.76279],"type":"Point"}
+}

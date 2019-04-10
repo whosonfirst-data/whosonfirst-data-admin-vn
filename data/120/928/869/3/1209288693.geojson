@@ -1,0 +1,61 @@
+{
+  "id": 1209288693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69666,10.80325,106.69666,10.80325",
+    "geom:latitude":10.80325,
+    "geom:longitude":106.69666,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Quan Binh Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":9645087,
+    "gn:latitude":10.80325,
+    "gn:longitude":106.69666,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Qu\u1eadn B\u00ecnh Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645087
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7cc3d1a45d4023299c48755954a15bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209288693
+        }
+    ],
+    "wof:id":1209288693,
+    "wof:lastmodified":1536291770,
+    "wof:name":"Quan Binh Thanh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69666,
+    10.80325,
+    106.69666,
+    10.80325
+],
+  "geometry": {"coordinates":[106.69665999999999,10.80325],"type":"Point"}
+}

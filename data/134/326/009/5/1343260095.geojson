@@ -1,0 +1,73 @@
+{
+  "id": 1343260095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90553,22.86511,105.90553,22.86511",
+    "geom:latitude":22.86511,
+    "geom:longitude":105.90553,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pa Chang",
+    "gn:country_code":"VN",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571457,
+    "gn:latitude":22.86511,
+    "gn:longitude":105.90553,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"P\u00e1 Ch\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u1ea3 Chang"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00e1 Ch\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571457
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51b9e9f725db77318890a6c1e07adc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780881,
+            "locality_id":1343260095,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1343260095,
+    "wof:lastmodified":1537713845,
+    "wof:name":"Pa Chang",
+    "wof:parent_id":1108780881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90553,
+    22.86511,
+    105.90553,
+    22.86511
+],
+  "geometry": {"coordinates":[105.90553,22.86511],"type":"Point"}
+}

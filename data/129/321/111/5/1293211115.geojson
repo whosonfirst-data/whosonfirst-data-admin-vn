@@ -1,0 +1,72 @@
+{
+  "id": 1293211115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48333,9.61667,105.48333,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":105.48333,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Ap Nga Cay",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592814,
+    "gn:latitude":9.61667,
+    "gn:longitude":105.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u1ea4p Ng\u00e3 C\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Giao Du",
+        "Giao Du",
+        "\u1ea4p Ng\u00e3 C\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680827,
+        1108782285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592814
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c83a4a8f5945bebfac231874742fa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782285,
+            "locality_id":1293211115,
+            "region_id":85680827
+        }
+    ],
+    "wof:id":1293211115,
+    "wof:lastmodified":1537714170,
+    "wof:name":"Ap Nga Cay",
+    "wof:parent_id":1108782285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48333,
+    9.61667,
+    105.48333,
+    9.61667
+],
+  "geometry": {"coordinates":[105.48333,9.61667],"type":"Point"}
+}

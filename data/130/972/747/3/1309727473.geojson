@@ -1,0 +1,70 @@
+{
+  "id": 1309727473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87481,18.26539,105.87481,18.26539",
+    "geom:latitude":18.26539,
+    "geom:longitude":105.87481,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thach Yen",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275502,
+    "gn:latitude":18.26539,
+    "gn:longitude":105.87481,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Th\u1ea1ch Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u1ea1ch Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275502
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"944f32ce5517e664fdf4129ee7f2bae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1309727473,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1309727473,
+    "wof:lastmodified":1537714683,
+    "wof:name":"Thach Yen",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87481,
+    18.26539,
+    105.87481,
+    18.26539
+],
+  "geometry": {"coordinates":[105.87481,18.26539],"type":"Point"}
+}

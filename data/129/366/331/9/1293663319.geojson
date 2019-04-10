@@ -1,0 +1,73 @@
+{
+  "id": 1293663319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.8582,10.83478,106.8582,10.83478",
+    "geom:latitude":10.83478,
+    "geom:longitude":106.8582,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Long Dai",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593111,
+    "gn:latitude":10.83478,
+    "gn:longitude":106.8582,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Long \u0110\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p Long \u0110\u1ea1i"
+    ],
+    "name:vie_x_preferred":[
+        "Long \u0110\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680791,
+        1108781967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593111
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"133b07c1be6b0476c0528be1449e84ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781967,
+            "locality_id":1293663319,
+            "region_id":85680791
+        }
+    ],
+    "wof:id":1293663319,
+    "wof:lastmodified":1537714177,
+    "wof:name":"Long Dai",
+    "wof:parent_id":1108781967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8582,
+    10.83478,
+    106.8582,
+    10.83478
+],
+  "geometry": {"coordinates":[106.8582,10.83478],"type":"Point"}
+}

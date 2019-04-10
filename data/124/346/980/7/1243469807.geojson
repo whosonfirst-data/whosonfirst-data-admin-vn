@@ -1,0 +1,77 @@
+{
+  "id": 1243469807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03728,22.29434,105.03728,22.29434",
+    "geom:latitude":22.29434,
+    "geom:longitude":105.03728,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Khau Den",
+    "gn:country_code":"VN",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577461,
+    "gn:latitude":22.29434,
+    "gn:longitude":105.03728,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Khau \u0110en",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Dang",
+        "L\u00e0ng D\u00e8ng"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng \u0110en"
+    ],
+    "name:vie_x_variant":[
+        "Khau \u0110en"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577461
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7446b650578b2f7780795047aa4cf69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1243469807,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1243469807,
+    "wof:lastmodified":1537713924,
+    "wof:name":"Khau Den",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03728,
+    22.29434,
+    105.03728,
+    22.29434
+],
+  "geometry": {"coordinates":[105.03728,22.29434],"type":"Point"}
+}

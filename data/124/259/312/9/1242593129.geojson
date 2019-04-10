@@ -1,0 +1,73 @@
+{
+  "id": 1242593129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23889,21.13198,106.23889,21.13198",
+    "geom:latitude":21.13198,
+    "geom:longitude":106.23889,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Cau Tu",
+    "gn:country_code":"VN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584527,
+    "gn:latitude":21.13198,
+    "gn:longitude":106.23889,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"C\u1ea7u T\u1ef1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u1ef1u T\u1ef1"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7u T\u1ef1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584527
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dc663c80267c712b0258a6a2ddfa25c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1242593129,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1242593129,
+    "wof:lastmodified":1537714015,
+    "wof:name":"Cau Tu",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23888999999998,
+    21.13198,
+    106.23888999999998,
+    21.13198
+],
+  "geometry": {"coordinates":[106.23888999999998,21.13198],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226453243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41667,22.33333,106.41667,22.33333",
+    "geom:latitude":22.33333,
+    "geom:longitude":106.41667,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Pac Sliec",
+    "gn:country_code":"VN",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571399,
+    "gn:latitude":22.33333,
+    "gn:longitude":106.41667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Pac Sliec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571399
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"101f7005171857c8f358500a24165832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781087,
+            "locality_id":1226453243,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226453243,
+    "wof:lastmodified":1536633194,
+    "wof:name":"Pac Sliec",
+    "wof:parent_id":1108781087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41667,
+    22.33333,
+    106.41667,
+    22.33333
+],
+  "geometry": {"coordinates":[106.41667,22.33333],"type":"Point"}
+}

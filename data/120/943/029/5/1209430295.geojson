@@ -1,0 +1,64 @@
+{
+  "id": 1209430295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.25335,16.01618,108.25335,16.01618",
+    "geom:latitude":16.01618,
+    "geom:longitude":108.25335,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Ngu Hanh Son",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8656412,
+    "gn:latitude":16.01618,
+    "gn:longitude":108.25335,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Ng\u0169 H\u00e0nh S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ng\u0169 H\u00e0nh S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8656412
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"16989867f8aaa2bf6e8cf734b2b14e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209430295
+        }
+    ],
+    "wof:id":1209430295,
+    "wof:lastmodified":1537714396,
+    "wof:name":"Ngu Hanh Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.25335,
+    16.01618,
+    108.25335,
+    16.01618
+],
+  "geometry": {"coordinates":[108.25335,16.01618],"type":"Point"}
+}

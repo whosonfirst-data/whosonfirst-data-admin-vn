@@ -1,0 +1,74 @@
+{
+  "id": 1310116669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46172,22.53496,105.46172,22.53496",
+    "geom:latitude":22.53496,
+    "geom:longitude":105.46172,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Trung Muong",
+    "gn:country_code":"VN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563432,
+    "gn:latitude":22.53496,
+    "gn:longitude":105.46172,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trung M\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tong Muong",
+        "Tung Muong"
+    ],
+    "name:vie_x_preferred":[
+        "Trung M\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563432
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b5f615d231a956b2e3e9eb3f04f14c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1310116669,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310116669,
+    "wof:lastmodified":1537713721,
+    "wof:name":"Trung Muong",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46172,
+    22.53496,
+    105.46172,
+    22.53496
+],
+  "geometry": {"coordinates":[105.46172,22.53496],"type":"Point"}
+}

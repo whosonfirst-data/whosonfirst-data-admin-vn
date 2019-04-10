@@ -1,0 +1,70 @@
+{
+  "id": 1242693097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35244,20.88668,105.35244,20.88668",
+    "geom:latitude":20.88668,
+    "geom:longitude":105.35244,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ky Son",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8551505,
+    "gn:latitude":20.88668,
+    "gn:longitude":105.35244,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"K\u1ef3 S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "K\u1ef3 S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551505
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b368d28e4e44260186f5c975143f257b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781045,
+            "locality_id":1242693097,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1242693097,
+    "wof:lastmodified":1537714347,
+    "wof:name":"Ky Son",
+    "wof:parent_id":1108781045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35244,
+    20.88668,
+    105.35244,
+    20.88668
+],
+  "geometry": {"coordinates":[105.35244,20.88668],"type":"Point"}
+}

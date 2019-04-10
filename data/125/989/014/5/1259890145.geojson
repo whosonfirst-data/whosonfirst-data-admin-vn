@@ -1,0 +1,67 @@
+{
+  "id": 1259890145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23333,22.26667,106.23333,22.26667",
+    "geom:latitude":22.26667,
+    "geom:longitude":106.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Na Neu",
+    "gn:country_code":"VN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573077,
+    "gn:latitude":22.26667,
+    "gn:longitude":106.23333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Na Neu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573077
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"02acb0cbccc0768ae9ca6d8b1e4eb7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780919,
+            "locality_id":1259890145,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1259890145,
+    "wof:lastmodified":1536769940,
+    "wof:name":"Na Neu",
+    "wof:parent_id":1108780919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23333,
+    22.26667,
+    106.23333,
+    22.26667
+],
+  "geometry": {"coordinates":[106.23333,22.26667],"type":"Point"}
+}

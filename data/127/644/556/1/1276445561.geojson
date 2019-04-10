@@ -1,0 +1,77 @@
+{
+  "id": 1276445561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37642,10.42972,105.37642,10.42972",
+    "geom:latitude":10.42972,
+    "geom:longitude":105.37642,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hoa Long Hai",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593341,
+    "gn:latitude":10.42972,
+    "gn:longitude":105.37642,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"H\u00f2a Long Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Long",
+        "\u1ea4p H\u00f2a Long"
+    ],
+    "name:vie_x_preferred":[
+        "H\u00f2a Long Hai"
+    ],
+    "name:vie_x_variant":[
+        "H\u00f2a Long 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a48e356654ae207dedf0caab7c70ea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782213,
+            "locality_id":1276445561,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1276445561,
+    "wof:lastmodified":1537714183,
+    "wof:name":"Hoa Long Hai",
+    "wof:parent_id":1108782213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37642,
+    10.42972,
+    105.37642,
+    10.42972
+],
+  "geometry": {"coordinates":[105.37642,10.42972],"type":"Point"}
+}

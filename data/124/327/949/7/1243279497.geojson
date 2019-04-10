@@ -1,0 +1,73 @@
+{
+  "id": 1243279497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17318,21.19453,106.17318,21.19453",
+    "geom:latitude":21.19453,
+    "geom:longitude":106.17318,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Bui Ben",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587986,
+    "gn:latitude":21.19453,
+    "gn:longitude":106.17318,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"B\u00f9i B\u1ebfn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ebfn Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f9i B\u1ebfn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680685,
+        1108781157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587986
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4b7515d0cc45234931d741afb9fb663f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781157,
+            "locality_id":1243279497,
+            "region_id":85680685
+        }
+    ],
+    "wof:id":1243279497,
+    "wof:lastmodified":1537714071,
+    "wof:name":"Bui Ben",
+    "wof:parent_id":1108781157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17318,
+    21.19453,
+    106.17318,
+    21.19453
+],
+  "geometry": {"coordinates":[106.17318,21.19453],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276351185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93333,22.45,103.93333,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":103.93333,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Coc San",
+    "gn:country_code":"VN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585035,
+    "gn:latitude":22.45,
+    "gn:longitude":103.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"C\u1ed1c San",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585035
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4a7e2cdca8e706c28eb48f86a90277c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1276351185,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1276351185,
+    "wof:lastmodified":1536754560,
+    "wof:name":"Coc San",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93333,
+    22.45,
+    103.93333,
+    22.45
+],
+  "geometry": {"coordinates":[103.93333,22.45],"type":"Point"}
+}

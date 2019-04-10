@@ -1,0 +1,70 @@
+{
+  "id": 1360100543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3229,21.09173,106.3229,21.09173",
+    "geom:latitude":21.09173,
+    "geom:longitude":106.3229,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Co Chau",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8607274,
+    "gn:latitude":21.09173,
+    "gn:longitude":106.3229,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"C\u1ed5 Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u1ed5 Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8607274
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3ad97f6351ef7aeca108a3b91ab207b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781237,
+            "locality_id":1360100543,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1360100543,
+    "wof:lastmodified":1537714364,
+    "wof:name":"Co Chau",
+    "wof:parent_id":1108781237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3229,
+    21.09173,
+    106.3229,
+    21.09173
+],
+  "geometry": {"coordinates":[106.3229,21.09173],"type":"Point"}
+}

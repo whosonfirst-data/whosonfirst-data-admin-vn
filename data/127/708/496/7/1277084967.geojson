@@ -1,0 +1,67 @@
+{
+  "id": 1277084967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,21.0,105.61667,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Dong Bot",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583075,
+    "gn:latitude":21.0,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed3ng B\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583075
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"693e4f62e175e01b5ae8c713c1665d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780831,
+            "locality_id":1277084967,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1277084967,
+    "wof:lastmodified":1536764680,
+    "wof:name":"Dong Bot",
+    "wof:parent_id":1108780831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    21.0,
+    105.61667,
+    21.0
+],
+  "geometry": {"coordinates":[105.61667,21.0],"type":"Point"}
+}

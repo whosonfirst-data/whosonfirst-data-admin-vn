@@ -1,0 +1,67 @@
+{
+  "id": 1276346167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.76667,14.7,108.76667,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":108.76667,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Lang Luoi",
+    "gn:country_code":"VN",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1577060,
+    "gn:latitude":14.7,
+    "gn:longitude":108.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Lu\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577060
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"862bbe5ba957b2dbd8cbb9b84b2726dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781661,
+            "locality_id":1276346167,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1276346167,
+    "wof:lastmodified":1536761402,
+    "wof:name":"Lang Luoi",
+    "wof:parent_id":1108781661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.76667,
+    14.7,
+    108.76667,
+    14.7
+],
+  "geometry": {"coordinates":[108.76667,14.7],"type":"Point"}
+}

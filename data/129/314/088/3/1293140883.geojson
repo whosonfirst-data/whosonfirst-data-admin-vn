@@ -1,0 +1,67 @@
+{
+  "id": 1293140883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4,20.41667,106.4,20.41667",
+    "geom:latitude":20.41667,
+    "geom:longitude":106.4,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Phung Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570301,
+    "gn:latitude":20.41667,
+    "gn:longitude":106.4,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Ph\u1ee5ng Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680689,
+        1108781329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570301
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a241c94adbab30255759eda67a55461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781329,
+            "locality_id":1293140883,
+            "region_id":85680689
+        }
+    ],
+    "wof:id":1293140883,
+    "wof:lastmodified":1536790166,
+    "wof:name":"Phung Thuong",
+    "wof:parent_id":1108781329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4,
+    20.41667,
+    106.4,
+    20.41667
+],
+  "geometry": {"coordinates":[106.40000000000001,20.41667],"type":"Point"}
+}

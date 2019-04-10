@@ -1,0 +1,73 @@
+{
+  "id": 1277075019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,10.1,106.7,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Con Kem",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561738,
+    "gn:latitude":10.1,
+    "gn:longitude":106.7,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"C\u1ed3n K\u1ebdm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m C\u1ed3n K\u1ebbm"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ed3n K\u1ebdm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561738
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2b5fc41a03f99bd29a36129da9e72daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782123,
+            "locality_id":1277075019,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1277075019,
+    "wof:lastmodified":1537713691,
+    "wof:name":"Con Kem",
+    "wof:parent_id":1108782123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    10.1,
+    106.7,
+    10.1
+],
+  "geometry": {"coordinates":[106.7,10.1],"type":"Point"}
+}

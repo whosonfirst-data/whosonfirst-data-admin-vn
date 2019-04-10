@@ -1,0 +1,67 @@
+{
+  "id": 1226191001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6,21.28333,104.6,21.28333",
+    "geom:latitude":21.28333,
+    "geom:longitude":104.6,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Som Buc",
+    "gn:country_code":"VN",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567764,
+    "gn:latitude":21.28333,
+    "gn:longitude":104.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Som B\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567764
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c28ab084fd6ac4327d4d72853bc3344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781007,
+            "locality_id":1226191001,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1226191001,
+    "wof:lastmodified":1537011873,
+    "wof:name":"Som Buc",
+    "wof:parent_id":1108781007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6,
+    21.28333,
+    104.6,
+    21.28333
+],
+  "geometry": {"coordinates":[104.59999999999999,21.28333],"type":"Point"}
+}

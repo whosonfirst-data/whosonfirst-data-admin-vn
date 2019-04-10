@@ -1,0 +1,67 @@
+{
+  "id": 1242596141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68333,18.61667,105.68333,18.61667",
+    "geom:latitude":18.61667,
+    "geom:longitude":105.68333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Cu Thon",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584515,
+    "gn:latitude":18.61667,
+    "gn:longitude":105.68333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"C\u1ee5 Th\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68b625a965efd8b290329d16bde9fd5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781491,
+            "locality_id":1242596141,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1242596141,
+    "wof:lastmodified":1537035386,
+    "wof:name":"Cu Thon",
+    "wof:parent_id":1108781491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68333,
+    18.61667000000001,
+    105.68333,
+    18.61667000000001
+],
+  "geometry": {"coordinates":[105.68333,18.61667000000001],"type":"Point"}
+}

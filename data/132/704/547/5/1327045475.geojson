@@ -1,0 +1,70 @@
+{
+  "id": 1327045475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21241,21.0239,106.21241,21.0239",
+    "geom:latitude":21.0239,
+    "geom:longitude":106.21241,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Loc Giang",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9871756,
+    "gn:latitude":21.0239,
+    "gn:longitude":106.21241,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"L\u1ed9c Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ed9c Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9871756
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"57273ccee25755d9566b6e675136541b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781231,
+            "locality_id":1327045475,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1327045475,
+    "wof:lastmodified":1537714545,
+    "wof:name":"Loc Giang",
+    "wof:parent_id":1108781231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21241,
+    21.0239,
+    106.21241,
+    21.0239
+],
+  "geometry": {"coordinates":[106.21241000000001,21.0239],"type":"Point"}
+}

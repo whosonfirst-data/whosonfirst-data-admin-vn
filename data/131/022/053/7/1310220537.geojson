@@ -1,0 +1,74 @@
+{
+  "id": 1310220537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.34503,16.57782,107.34503,16.57782",
+    "geom:latitude":16.57782,
+    "geom:longitude":107.34503,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Van Trach Hoc",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565215,
+    "gn:latitude":16.57782,
+    "gn:longitude":107.34503,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"V\u0103n Tr\u1ea1ch H\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Trinh",
+        "Th\u00f4n V\u00e2n Tr\u1ea1ch H\u00f2a"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0103n Tr\u1ea1ch H\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565215
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6f978071d1cee2de543ff34f2ab8cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1310220537,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1310220537,
+    "wof:lastmodified":1537713743,
+    "wof:name":"Van Trach Hoc",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.34503,
+    16.57782000000001,
+    107.34503,
+    16.57782000000001
+],
+  "geometry": {"coordinates":[107.34502999999999,16.57782000000001],"type":"Point"}
+}

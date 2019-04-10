@@ -1,0 +1,73 @@
+{
+  "id": 1326622765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68046,22.94924,105.68046,22.94924",
+    "geom:latitude":22.94924,
+    "geom:longitude":105.68046,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Thi Tran Bao Lac",
+    "gn:country_code":"VN",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1588278,
+    "gn:latitude":22.94924,
+    "gn:longitude":105.68046,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Th\u1ecb Tr\u1ea5n B\u1ea3o L\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3o L\u1ea1c"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb Tr\u1ea5n B\u1ea3o L\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588278
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"cf2372deee4cdd67a0fc10b753a9df0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780879,
+            "locality_id":1326622765,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1326622765,
+    "wof:lastmodified":1537714075,
+    "wof:name":"Thi Tran Bao Lac",
+    "wof:parent_id":1108780879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68046,
+    22.94924,
+    105.68046,
+    22.94924
+],
+  "geometry": {"coordinates":[105.68046,22.94924],"type":"Point"}
+}

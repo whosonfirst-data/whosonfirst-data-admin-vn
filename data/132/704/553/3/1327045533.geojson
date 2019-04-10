@@ -1,0 +1,73 @@
+{
+  "id": 1327045533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73333,16.5,106.73333,16.5",
+    "geom:latitude":16.5,
+    "geom:longitude":106.73333,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Sa Doan Mo",
+    "gn:country_code":"VN",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568210,
+    "gn:latitude":16.5,
+    "gn:longitude":106.73333,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Sa Doan Mo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa Doan"
+    ],
+    "name:vie_x_preferred":[
+        "Sa Doan Mo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568210
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79d319c0173a79ccb7c5848f53cda4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1327045533,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1327045533,
+    "wof:lastmodified":1537713796,
+    "wof:name":"Sa Doan Mo",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73333,
+    16.5,
+    106.73333,
+    16.5
+],
+  "geometry": {"coordinates":[106.73333,16.5],"type":"Point"}
+}

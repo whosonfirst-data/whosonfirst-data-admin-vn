@@ -1,0 +1,70 @@
+{
+  "id": 1259694501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11074,17.08004,107.11074,17.08004",
+    "geom:latitude":17.08004,
+    "geom:longitude":107.11074,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Vinh Moc",
+    "gn:country_code":"VN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321484,
+    "gn:latitude":17.08004,
+    "gn:longitude":107.11074,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"V\u1ecbnh M\u00f3c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u1ecbnh M\u00f3c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321484
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3bac8fdd482ce0d1c82b4794296091e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1259694501,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1259694501,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Vinh Moc",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11074,
+    17.08004,
+    107.11074,
+    17.08004
+],
+  "geometry": {"coordinates":[107.11074000000001,17.08004],"type":"Point"}
+}

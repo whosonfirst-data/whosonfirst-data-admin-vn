@@ -1,0 +1,73 @@
+{
+  "id": 1327246823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.76126,11.31091,108.76126,11.31091",
+    "geom:latitude":11.31091,
+    "geom:longitude":108.76126,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Vinh Hai",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591764,
+    "gn:latitude":11.31091,
+    "gn:longitude":108.76126,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"V\u0129nh H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p V\u0129nh H\u1ea3o"
+    ],
+    "name:vie_x_preferred":[
+        "V\u0129nh H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591764
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"062c454b4d2de217b7fe3be7aa597348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781755,
+            "locality_id":1327246823,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1327246823,
+    "wof:lastmodified":1537714142,
+    "wof:name":"Vinh Hai",
+    "wof:parent_id":1108781755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.76126,
+    11.31091,
+    108.76126,
+    11.31091
+],
+  "geometry": {"coordinates":[108.76125999999999,11.31091],"type":"Point"}
+}

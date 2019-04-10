@@ -1,0 +1,64 @@
+{
+  "id": 1209015409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20934,21.97866,105.20934,21.97866",
+    "geom:latitude":21.97866,
+    "geom:longitude":105.20934,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Cha",
+    "gn:country_code":"VN",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138096,
+    "gn:latitude":21.97866,
+    "gn:longitude":105.20934,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"L\u00e0ng Ch\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng Ch\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138096
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"591ca5694442c6771043a4dbaf4aa04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015409
+        }
+    ],
+    "wof:id":1209015409,
+    "wof:lastmodified":1537714217,
+    "wof:name":"Lang Cha",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20934,
+    21.97866,
+    105.20934,
+    21.97866
+],
+  "geometry": {"coordinates":[105.20934,21.97866],"type":"Point"}
+}

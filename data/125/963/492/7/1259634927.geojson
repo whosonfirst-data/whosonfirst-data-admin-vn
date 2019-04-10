@@ -1,0 +1,70 @@
+{
+  "id": 1259634927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12256,10.31095,106.12256,10.31095",
+    "geom:latitude":10.31095,
+    "geom:longitude":106.12256,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Binh Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113595,
+    "gn:latitude":10.31095,
+    "gn:longitude":106.12256,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u00ecnh Th\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Th\u00e0nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680739,
+        1108782101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113595
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dbebfc18d6bea7ffb8685bc1f6b78d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782101,
+            "locality_id":1259634927,
+            "region_id":85680739
+        }
+    ],
+    "wof:id":1259634927,
+    "wof:lastmodified":1537714461,
+    "wof:name":"Binh Thanh",
+    "wof:parent_id":1108782101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12256,
+    10.31095,
+    106.12256,
+    10.31095
+],
+  "geometry": {"coordinates":[106.12255999999999,10.31095],"type":"Point"}
+}

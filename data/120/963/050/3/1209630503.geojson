@@ -1,0 +1,64 @@
+{
+  "id": 1209630503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01963,21.4117,106.01963,21.4117",
+    "geom:latitude":21.4117,
+    "geom:longitude":106.01963,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Pham Giang",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867620,
+    "gn:latitude":21.4117,
+    "gn:longitude":106.01963,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ph\u1ea9m Giang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ph\u1ea9m Giang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867620
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2c9e45c6b15e90cb069f00a84e2133eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209630503
+        }
+    ],
+    "wof:id":1209630503,
+    "wof:lastmodified":1537714510,
+    "wof:name":"Pham Giang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01963,
+    21.4117,
+    106.01963,
+    21.4117
+],
+  "geometry": {"coordinates":[106.01963000000001,21.4117],"type":"Point"}
+}

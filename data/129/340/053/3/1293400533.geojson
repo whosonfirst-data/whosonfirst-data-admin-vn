@@ -1,0 +1,73 @@
+{
+  "id": 1293400533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.10356,12.3947,108.10356,12.3947",
+    "geom:latitude":12.3947,
+    "geom:longitude":108.10356,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Dong Giang Mot",
+    "gn:country_code":"VN",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10046703,
+    "gn:latitude":12.3947,
+    "gn:longitude":108.10356,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"\u0110\u00f4ng Giang M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng Giang M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u00f4ng Giang 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10046703
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"726b0df4b45632c66de25919e854c3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1293400533,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1293400533,
+    "wof:lastmodified":1537714579,
+    "wof:name":"Dong Giang Mot",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.10356000000002,
+    12.3947,
+    108.10356000000002,
+    12.3947
+],
+  "geometry": {"coordinates":[108.10356000000002,12.3947],"type":"Point"}
+}

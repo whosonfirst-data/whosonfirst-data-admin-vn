@@ -1,0 +1,74 @@
+{
+  "id": 1259401807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.03752,17.09468,107.03752,17.09468",
+    "geom:latitude":17.09468,
+    "geom:longitude":107.03752,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Huynh Cong Dong",
+    "gn:country_code":"VN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580727,
+    "gn:latitude":17.09468,
+    "gn:longitude":107.03752,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Hu\u1ef3nh C\u00f4ng \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoang Cang",
+        "Ho\u00e0ng C\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "Hu\u1ef3nh C\u00f4ng \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580727
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"39ac1240ebb43191ee0998f6c20261ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1259401807,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1259401807,
+    "wof:lastmodified":1537713968,
+    "wof:name":"Huynh Cong Dong",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.03752,
+    17.09468,
+    107.03752,
+    17.09468
+],
+  "geometry": {"coordinates":[107.03752,17.09468],"type":"Point"}
+}

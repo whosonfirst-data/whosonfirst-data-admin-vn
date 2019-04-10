@@ -1,0 +1,71 @@
+{
+  "id": 1277089759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90507,22.34049,105.90507,22.34049",
+    "geom:latitude":22.34049,
+    "geom:longitude":105.90507,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ban Khet",
+    "gn:country_code":"VN",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590172,
+    "gn:latitude":22.34049,
+    "gn:longitude":105.90507,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Kh\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Kh\u00e9t",
+        "B\u1ea3n Ket"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590172
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2dd920e62818998ceae37e09d0ddb09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780909,
+            "locality_id":1277089759,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1277089759,
+    "wof:lastmodified":1537714110,
+    "wof:name":"Ban Khet",
+    "wof:parent_id":1108780909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90507,
+    22.34049,
+    105.90507,
+    22.34049
+],
+  "geometry": {"coordinates":[105.90506999999999,22.34049],"type":"Point"}
+}

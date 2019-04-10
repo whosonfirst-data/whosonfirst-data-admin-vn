@@ -1,0 +1,66 @@
+{
+  "id": 1209268029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28333,19.88333,105.28333,19.88333",
+    "geom:latitude":19.88333,
+    "geom:longitude":105.28333,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Lang Nhiem",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576840,
+    "gn:latitude":19.88333,
+    "gn:longitude":105.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u00e0ng Nhi\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Nhiam",
+        "L\u00e0ng Nhi\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576840
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"adb288ea2b7e82e44eafbf16c057424c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209268029
+        }
+    ],
+    "wof:id":1209268029,
+    "wof:lastmodified":1537713913,
+    "wof:name":"Lang Nhiem",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28333,
+    19.88333,
+    105.28333,
+    19.88333
+],
+  "geometry": {"coordinates":[105.28333000000001,19.88333],"type":"Point"}
+}

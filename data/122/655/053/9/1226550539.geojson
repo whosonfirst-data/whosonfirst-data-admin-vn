@@ -1,0 +1,73 @@
+{
+  "id": 1226550539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48117,22.60713,105.48117,22.60713",
+    "geom:latitude":22.60713,
+    "geom:longitude":105.48117,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ban Nam Cam",
+    "gn:country_code":"VN",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309716,
+    "gn:latitude":22.60713,
+    "gn:longitude":105.48117,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u1ea3n N\u1eadm C\u1eb1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u1eb7m C\u1eb1m"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u1eadm C\u1eb1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309716
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e016ba8502ff0a8fe8bd308798e12e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1226550539,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1226550539,
+    "wof:lastmodified":1537714264,
+    "wof:name":"Ban Nam Cam",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48117,
+    22.60713,
+    105.48117,
+    22.60713
+],
+  "geometry": {"coordinates":[105.48117000000001,22.60713],"type":"Point"}
+}

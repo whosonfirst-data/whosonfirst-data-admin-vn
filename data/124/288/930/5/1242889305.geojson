@@ -1,0 +1,73 @@
+{
+  "id": 1242889305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38509,20.42245,105.38509,20.42245",
+    "geom:latitude":20.42245,
+    "geom:longitude":105.38509,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Xom Chieng",
+    "gn:country_code":"VN",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560856,
+    "gn:latitude":20.42245,
+    "gn:longitude":105.38509,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"X\u00f3m Chi\u1ec1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "X\u00f3m Tieng"
+    ],
+    "name:vie_x_preferred":[
+        "X\u00f3m Chi\u1ec1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560856
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0e02a550a4337d453b35a5dfd6c20d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781059,
+            "locality_id":1242889305,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1242889305,
+    "wof:lastmodified":1537713672,
+    "wof:name":"Xom Chieng",
+    "wof:parent_id":1108781059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38509,
+    20.42245,
+    105.38509,
+    20.42245
+],
+  "geometry": {"coordinates":[105.38509000000001,20.42245],"type":"Point"}
+}

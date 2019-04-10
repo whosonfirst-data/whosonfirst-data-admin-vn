@@ -1,0 +1,67 @@
+{
+  "id": 1343501849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,20.05,105.55,20.05",
+    "geom:latitude":20.05,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"My Diem",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574189,
+    "gn:latitude":20.05,
+    "gn:longitude":105.55,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"M\u1ef9 Di\u1ec1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574189
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bd217cde0e7b25e8fe1cfee955c2b040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781417,
+            "locality_id":1343501849,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1343501849,
+    "wof:lastmodified":1536686436,
+    "wof:name":"My Diem",
+    "wof:parent_id":1108781417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    20.05,
+    105.55,
+    20.05
+],
+  "geometry": {"coordinates":[105.55,20.05],"type":"Point"}
+}

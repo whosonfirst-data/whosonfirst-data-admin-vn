@@ -1,0 +1,72 @@
+{
+  "id": 1259895381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77306,9.30556,105.77306,9.30556",
+    "geom:latitude":9.30556,
+    "geom:longitude":105.77306,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Xom Tra Moi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560822,
+    "gn:latitude":9.30556,
+    "gn:longitude":105.77306,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m Tr\u00e0 M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Tra Mot",
+        "X\u00f3m Tr\u00e0 M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680833,
+        1108782311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560822
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6117714bf1b3dc8102061419e1b294c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782311,
+            "locality_id":1259895381,
+            "region_id":85680833
+        }
+    ],
+    "wof:id":1259895381,
+    "wof:lastmodified":1537713670,
+    "wof:name":"Xom Tra Moi",
+    "wof:parent_id":1108782311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77306000000002,
+    9.30556,
+    105.77306000000002,
+    9.30556
+],
+  "geometry": {"coordinates":[105.77306000000002,9.30556],"type":"Point"}
+}

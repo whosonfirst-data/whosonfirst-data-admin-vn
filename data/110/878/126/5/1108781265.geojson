@@ -1,0 +1,94 @@
+{
+  "id": 1108781265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001184,
+    "geom:area_square_m":13680472.446894,
+    "geom:bbox":"106.655067702,20.8142829577,106.697515715,20.8582577471",
+    "geom:latitude":20.836875,
+    "geom:longitude":106.678349,
+    "iso:country":"VN",
+    "lbl:latitude":20.837111,
+    "lbl:longitude":106.680875,
+    "meso:admin_1":"Hai Phong",
+    "meso:gadm_admin":"L\u00ea Ch\u00e2n",
+    "meso:gadm_hasc2":"VN.HP.LC",
+    "meso:gaul_adm2":"An Hai",
+    "meso:local_id":"31305",
+    "meso:mps_x":106.680875,
+    "meso:mps_y":20.837111,
+    "meso:name_en":"Le Chan",
+    "meso:source":"AOTM",
+    "mps:latitude":20.837111,
+    "mps:longitude":106.680875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u9ece\u771f\u90e1"
+    ],
+    "name:eng_x_preferred":[
+        "Le Chan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30c1\u30e3\u30f3"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00ea Ch\u00e2n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"12",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Hai Phong",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HP",
+    "statoids:name":"Le Chan",
+    "statoids:population":"189609",
+    "statoids:statoid":"VN.HP.LC",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q6506676"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741190,
+    "wof:geomhash":"9eb8b50d3081ead154a3dc15da0939db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781265,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1108781265,
+    "wof:lastmodified":1514502688,
+    "wof:name":"Le Chan",
+    "wof:parent_id":85680645,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":189609,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65506770213732,
+    20.81428295770164,
+    106.69751571479505,
+    20.85825774710373
+],
+  "geometry": {"coordinates":[[[106.66262329018969,20.85662376369239],[106.67000462594166,20.85555545186414],[106.6741275762833,20.85724108841005],[106.67414093000014,20.85705566400003],[106.68164062500006,20.85705566400003],[106.6836884789294,20.85825774710373],[106.6869243679853,20.84954165728534],[106.68845882837721,20.84902783186335],[106.69283783720067,20.84488529683397],[106.69498711546036,20.83839621844498],[106.6972691121496,20.83677169154149],[106.69710049328648,20.82493009817292],[106.69751571479505,20.82408626118804],[106.68886961661617,20.81601553801912],[106.67928584409603,20.81737226945213],[106.67528942286584,20.81428295770164],[106.66852779185274,20.81871298710131],[106.66744862246618,20.82758258067418],[106.66882137568398,20.83011528993755],[106.66524281087869,20.83760656632155],[106.65506770213732,20.84027658934195],[106.65946135947276,20.84834582111676],[106.65995842959028,20.85275747665618],[106.66262329018969,20.85662376369239]]],"type":"Polygon"}
+}

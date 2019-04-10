@@ -1,0 +1,73 @@
+{
+  "id": 1293049759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.09575,21.20057,104.09575,21.20057",
+    "geom:latitude":21.20057,
+    "geom:longitude":104.09575,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tieu Khu Chin",
+    "gn:country_code":"VN",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314618,
+    "gn:latitude":21.20057,
+    "gn:longitude":104.09575,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ti\u1ec3u Khu Ch\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ec3u Khu Ch\u00edn"
+    ],
+    "name:vie_x_variant":[
+        "Ti\u1ec3u Khu 9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314618
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"60fe6a72eadf4a5a06fbbb9d19aae42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1293049759,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1293049759,
+    "wof:lastmodified":1537714690,
+    "wof:name":"Tieu Khu Chin",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.09575,
+    21.20057000000001,
+    104.09575,
+    21.20057000000001
+],
+  "geometry": {"coordinates":[104.09575,21.20057000000001],"type":"Point"}
+}

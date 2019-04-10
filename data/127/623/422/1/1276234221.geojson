@@ -1,0 +1,70 @@
+{
+  "id": 1276234221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26401,10.25036,106.26401,10.25036",
+    "geom:latitude":10.25036,
+    "geom:longitude":106.26401,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cho Moi",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337649,
+    "gn:latitude":10.25036,
+    "gn:longitude":106.26401,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Ch\u1ee3 M\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ch\u1ee3 M\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337649
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1406073963156ff3bc0f262236399f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1276234221,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1276234221,
+    "wof:lastmodified":1537714280,
+    "wof:name":"Cho Moi",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26401,
+    10.25036,
+    106.26401,
+    10.25036
+],
+  "geometry": {"coordinates":[106.26401,10.25036],"type":"Point"}
+}

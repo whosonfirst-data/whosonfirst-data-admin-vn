@@ -1,0 +1,73 @@
+{
+  "id": 1276673423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.44806,9.76194,106.44806,9.76194",
+    "geom:latitude":9.76194,
+    "geom:longitude":106.44806,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ap My Hoi",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592922,
+    "gn:latitude":9.76194,
+    "gn:longitude":106.44806,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p M\u1ef9 H\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u1ef9 H\u1ed9i",
+        "\u1ea4p M\u1ef9 N\u1ed9i",
+        "\u1ea4p M\u1ef9 H\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592922
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e16ac09702ef1a4a318a7425e0624ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782143,
+            "locality_id":1276673423,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1276673423,
+    "wof:lastmodified":1537714172,
+    "wof:name":"Ap My Hoi",
+    "wof:parent_id":1108782143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.44806,
+    9.76194,
+    106.44806,
+    9.76194
+],
+  "geometry": {"coordinates":[106.44806,9.76194],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326449327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51488,22.16056,103.51488,22.16056",
+    "geom:latitude":22.16056,
+    "geom:longitude":103.51488,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Nam Coong",
+    "gn:country_code":"VN",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573538,
+    "gn:latitude":22.16056,
+    "gn:longitude":103.51488,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n N\u1eadm Co\u00f3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Coung",
+        "Nam Cong"
+    ],
+    "name:vie_x_preferred":[
+        "N\u1eadm Co\u00f3ng"
+    ],
+    "name:vie_x_variant":[
+        "B\u1ea3n N\u1eadm Co\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573538
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"437cf817371688cfb47f38e895d00a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780985,
+            "locality_id":1326449327,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1326449327,
+    "wof:lastmodified":1537713870,
+    "wof:name":"Ban Nam Coong",
+    "wof:parent_id":1108780985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51488,
+    22.16056,
+    103.51488,
+    22.16056
+],
+  "geometry": {"coordinates":[103.51488000000001,22.16056],"type":"Point"}
+}

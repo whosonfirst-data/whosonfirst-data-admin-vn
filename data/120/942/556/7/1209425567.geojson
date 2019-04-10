@@ -1,0 +1,64 @@
+{
+  "id": 1209425567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59734,17.19192,106.59734,17.19192",
+    "geom:latitude":17.19192,
+    "geom:longitude":106.59734,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Cay Sung",
+    "gn:country_code":"VN",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646704,
+    "gn:latitude":17.19192,
+    "gn:longitude":106.59734,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"C\u00e2y Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y Sung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646704
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"816e8b8a84fe23fb36dcba353f6756c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209425567
+        }
+    ],
+    "wof:id":1209425567,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Cay Sung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59734,
+    17.19192,
+    106.59734,
+    17.19192
+],
+  "geometry": {"coordinates":[106.59734,17.19192],"type":"Point"}
+}

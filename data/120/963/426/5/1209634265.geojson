@@ -1,0 +1,64 @@
+{
+  "id": 1209634265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98162,18.35386,105.98162,18.35386",
+    "geom:latitude":18.35386,
+    "geom:longitude":105.98162,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bac Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275378,
+    "gn:latitude":18.35386,
+    "gn:longitude":105.98162,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"B\u1eafc Dinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1eafc Dinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275378
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3b4f5b0947954a33a966f9aad09a69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634265
+        }
+    ],
+    "wof:id":1209634265,
+    "wof:lastmodified":1537714678,
+    "wof:name":"Bac Dinh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98162,
+    18.35386,
+    105.98162,
+    18.35386
+],
+  "geometry": {"coordinates":[105.98162000000001,18.35386],"type":"Point"}
+}

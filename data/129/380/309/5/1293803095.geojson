@@ -1,0 +1,75 @@
+{
+  "id": 1293803095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16076,21.18697,106.16076,21.18697",
+    "geom:latitude":21.18697,
+    "geom:longitude":106.16076,
+    "gn:admin1_code":"74.0",
+    "gn:admin2_code":"259.0",
+    "gn:asciiname":"Cung Kiem",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:elevation":"12.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340760,
+    "gn:latitude":21.18697,
+    "gn:longitude":106.16076,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"Cung Ki\u1ec7m",
+    "gn:population":80000,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Cung Ki\u1ec7m"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"11caba5fe45709a230729d2318fdef39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1293803095,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1293803095,
+    "wof:lastmodified":1537714292,
+    "wof:name":"Cung Kiem",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:population":80000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16076,
+    21.18697,
+    106.16076,
+    21.18697
+],
+  "geometry": {"coordinates":[106.16076,21.18697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309722719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16078,22.85,105.16078,22.85",
+    "geom:latitude":22.85,
+    "geom:longitude":105.16078,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Po Peng",
+    "gn:country_code":"VN",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309410,
+    "gn:latitude":22.85,
+    "gn:longitude":105.16078,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"P\u00f3 P\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00f3 P\u00e8ng"
+    ],
+    "name:vie_x_variant":[
+        "P\u00f3 P\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309410
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"443abc3f3c4ea41acecdf4a95bb40f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780863,
+            "locality_id":1309722719,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1309722719,
+    "wof:lastmodified":1537714255,
+    "wof:name":"Po Peng",
+    "wof:parent_id":1108780863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16078,
+    22.85,
+    105.16078,
+    22.85
+],
+  "geometry": {"coordinates":[105.16078,22.85],"type":"Point"}
+}

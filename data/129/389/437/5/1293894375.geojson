@@ -1,0 +1,67 @@
+{
+  "id": 1293894375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,19.3,105.63333,19.3",
+    "geom:latitude":19.3,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nuoc Soi",
+    "gn:country_code":"VN",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571700,
+    "gn:latitude":19.3,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u01b0\u1edbc S\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2eabcf39dae10bee0c6da2593e3a055a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1293894375,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293894375,
+    "wof:lastmodified":1536697843,
+    "wof:name":"Nuoc Soi",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    19.3,
+    105.63333,
+    19.3
+],
+  "geometry": {"coordinates":[105.63333,19.3],"type":"Point"}
+}

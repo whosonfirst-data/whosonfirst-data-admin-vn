@@ -1,0 +1,73 @@
+{
+  "id": 1243282759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45599,22.5086,102.45599,22.5086",
+    "geom:latitude":22.5086,
+    "geom:longitude":102.45599,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Mu Ca",
+    "gn:country_code":"VN",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589661,
+    "gn:latitude":22.5086,
+    "gn:longitude":102.45599,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"M\u00f9 C\u1ea3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Mu C\u1ea3"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00f9 C\u1ea3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589661
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e64a78fece717ba3fd66c637704aec53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780981,
+            "locality_id":1243282759,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1243282759,
+    "wof:lastmodified":1537714100,
+    "wof:name":"Mu Ca",
+    "wof:parent_id":1108780981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45599,
+    22.5086,
+    102.45599,
+    22.5086
+],
+  "geometry": {"coordinates":[102.45599,22.5086],"type":"Point"}
+}

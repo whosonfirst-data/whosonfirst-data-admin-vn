@@ -1,0 +1,67 @@
+{
+  "id": 1326841189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53333,20.5,105.53333,20.5",
+    "geom:latitude":20.5,
+    "geom:longitude":105.53333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Binh Hiem",
+    "gn:country_code":"VN",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587860,
+    "gn:latitude":20.5,
+    "gn:longitude":105.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00ecnh Hi\u1ec3m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587860
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"87e0399606adacbdb55864885bf2b553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781059,
+            "locality_id":1326841189,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1326841189,
+    "wof:lastmodified":1537034281,
+    "wof:name":"Binh Hiem",
+    "wof:parent_id":1108781059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53333,
+    20.5,
+    105.53333,
+    20.5
+],
+  "geometry": {"coordinates":[105.53333000000001,20.5],"type":"Point"}
+}

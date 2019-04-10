@@ -1,0 +1,71 @@
+{
+  "id": 1226550575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06667,21.81667,106.06667,21.81667",
+    "geom:latitude":21.81667,
+    "geom:longitude":106.06667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Vou Tien",
+    "gn:country_code":"VN",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562469,
+    "gn:latitude":21.81667,
+    "gn:longitude":106.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vou Tien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vi\u0169 Ti\u00ean",
+        "Vou Tien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562469
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6403f01e454634a73b8fadab5e8c5c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781077,
+            "locality_id":1226550575,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1226550575,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Vou Tien",
+    "wof:parent_id":1108781077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06667,
+    21.81667,
+    106.06667,
+    21.81667
+],
+  "geometry": {"coordinates":[106.06667,21.81667],"type":"Point"}
+}

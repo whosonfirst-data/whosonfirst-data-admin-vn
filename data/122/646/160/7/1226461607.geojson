@@ -1,0 +1,72 @@
+{
+  "id": 1226461607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.41667,12.85,108.41667,12.85",
+    "geom:latitude":12.85,
+    "geom:longitude":108.41667,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon Duon Tai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587055,
+    "gn:latitude":12.85,
+    "gn:longitude":108.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bu\u00f4n Du\u00f4n Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Du\u00f4n Tay",
+        "Bu\u00f4n Du\u00f4n Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587055
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8424f77b2d452a1ebba34285315f8f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781851,
+            "locality_id":1226461607,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1226461607,
+    "wof:lastmodified":1537714053,
+    "wof:name":"Buon Duon Tai",
+    "wof:parent_id":1108781851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.41667,
+    12.85,
+    108.41667,
+    12.85
+],
+  "geometry": {"coordinates":[108.41667,12.85],"type":"Point"}
+}

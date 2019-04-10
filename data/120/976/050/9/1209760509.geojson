@@ -1,0 +1,67 @@
+{
+  "id": 1209760509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55,20.23333,105.55,20.23333",
+    "geom:latitude":20.23333,
+    "geom:longitude":105.55,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Moc Dong",
+    "gn:country_code":"VN",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574559,
+    "gn:latitude":20.23333,
+    "gn:longitude":105.55,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"M\u1ed9c \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574559
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"92076922a8f527d58725c99acde3108b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781409,
+            "locality_id":1209760509,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1209760509,
+    "wof:lastmodified":1536388732,
+    "wof:name":"Moc Dong",
+    "wof:parent_id":1108781409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55,
+    20.23333,
+    105.55,
+    20.23333
+],
+  "geometry": {"coordinates":[105.55,20.23333],"type":"Point"}
+}

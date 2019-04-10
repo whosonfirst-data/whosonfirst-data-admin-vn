@@ -1,0 +1,72 @@
+{
+  "id": 1259494121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,18.41667,105.85,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xuan Giang Ha",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560611,
+    "gn:latitude":18.41667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Xuan Giang H\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giang Ha",
+        "Xuan Grang Ha",
+        "Xuan Giang H\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560611
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b4ae6512cbd32f463cec5a15c58a74db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781513,
+            "locality_id":1259494121,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1259494121,
+    "wof:lastmodified":1537713666,
+    "wof:name":"Xuan Giang Ha",
+    "wof:parent_id":1108781513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    18.41667,
+    105.85,
+    18.41667
+],
+  "geometry": {"coordinates":[105.84999999999999,18.41667],"type":"Point"}
+}

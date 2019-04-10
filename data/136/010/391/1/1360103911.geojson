@@ -1,0 +1,67 @@
+{
+  "id": 1360103911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,22.11667,106.38333,22.11667",
+    "geom:latitude":22.11667,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Yeng",
+    "gn:country_code":"VN",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588317,
+    "gn:latitude":22.11667,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea3n Yeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588317
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a6dd50f28593a2a9b5fe3c10c12012c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1360103911,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1360103911,
+    "wof:lastmodified":1536919065,
+    "wof:name":"Ban Yeng",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    22.11667000000001,
+    106.38333,
+    22.11667000000001
+],
+  "geometry": {"coordinates":[106.38333,22.11667000000001],"type":"Point"}
+}

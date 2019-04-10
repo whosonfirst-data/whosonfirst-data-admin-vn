@@ -1,0 +1,74 @@
+{
+  "id": 1293889925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4084,10.09045,106.4084,10.09045",
+    "geom:latitude":10.09045,
+    "geom:longitude":106.4084,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Giong Cui",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561522,
+    "gn:latitude":10.09045,
+    "gn:longitude":106.4084,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Gi\u1ed3ng C\u00f9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Giong Cui",
+        "X\u00f3m Gi\u1ed3ng Cui"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u1ed3ng C\u00f9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561522
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dac143b171ea0d82afcdba2ca64607f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782119,
+            "locality_id":1293889925,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1293889925,
+    "wof:lastmodified":1537713687,
+    "wof:name":"Giong Cui",
+    "wof:parent_id":1108782119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4084,
+    10.09045,
+    106.4084,
+    10.09045
+],
+  "geometry": {"coordinates":[106.4084,10.09045],"type":"Point"}
+}

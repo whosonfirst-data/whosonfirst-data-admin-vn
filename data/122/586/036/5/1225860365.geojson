@@ -1,0 +1,71 @@
+{
+  "id": 1225860365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.75,14.66667,107.75,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":107.75,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dak Mot Iop",
+    "gn:country_code":"VN",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584156,
+    "gn:latitude":14.66667,
+    "gn:longitude":107.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dak Mot Iop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dak Mot Lop",
+        "Dak Mot Iop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584156
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7253a5b03cae102f103351848916445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781781,
+            "locality_id":1225860365,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1225860365,
+    "wof:lastmodified":1537714010,
+    "wof:name":"Dak Mot Iop",
+    "wof:parent_id":1108781781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.75,
+    14.66667,
+    107.75,
+    14.66667
+],
+  "geometry": {"coordinates":[107.75,14.66667],"type":"Point"}
+}

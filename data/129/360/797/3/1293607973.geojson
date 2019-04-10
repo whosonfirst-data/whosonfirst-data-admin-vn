@@ -1,0 +1,70 @@
+{
+  "id": 1293607973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50747,21.31383,105.50747,21.31383",
+    "geom:latitude":21.31383,
+    "geom:longitude":105.50747,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Hoang Noi",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8609241,
+    "gn:latitude":21.31383,
+    "gn:longitude":105.50747,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ho\u00e0ng N\u1ed9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng N\u1ed9i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8609241
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dd8b34b6f24116894f6bc47952c90010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781211,
+            "locality_id":1293607973,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1293607973,
+    "wof:lastmodified":1537714369,
+    "wof:name":"Hoang Noi",
+    "wof:parent_id":1108781211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50747,
+    21.31383,
+    105.50747,
+    21.31383
+],
+  "geometry": {"coordinates":[105.50747,21.31383],"type":"Point"}
+}

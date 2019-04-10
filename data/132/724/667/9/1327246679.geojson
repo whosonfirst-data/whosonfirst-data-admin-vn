@@ -1,0 +1,73 @@
+{
+  "id": 1327246679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5355,21.00324,106.5355,21.00324",
+    "geom:latitude":21.00324,
+    "geom:longitude":106.5355,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"An Cuong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560323,
+    "gn:latitude":21.00324,
+    "gn:longitude":106.5355,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"An C\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00ean C\u01b0\u01a1ng"
+    ],
+    "name:vie_x_preferred":[
+        "An C\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560323
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"49356b851d025782a528e81b398fd1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781241,
+            "locality_id":1327246679,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1327246679,
+    "wof:lastmodified":1537713662,
+    "wof:name":"An Cuong",
+    "wof:parent_id":1108781241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5355,
+    21.00324,
+    106.5355,
+    21.00324
+],
+  "geometry": {"coordinates":[106.5355,21.00324],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209023269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17612,21.31562,106.17612,21.31562",
+    "geom:latitude":21.31562,
+    "geom:longitude":106.17612,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Xom Nui",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9868003,
+    "gn:latitude":21.31562,
+    "gn:longitude":106.17612,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"X\u00f3m N\u00fai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m N\u00fai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9868003
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e66a38dd168c904254ff48a68251c119",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209023269
+        }
+    ],
+    "wof:id":1209023269,
+    "wof:lastmodified":1537714521,
+    "wof:name":"Xom Nui",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17612,
+    21.31562000000001,
+    106.17612,
+    21.31562000000001
+],
+  "geometry": {"coordinates":[106.17612,21.31562000000001],"type":"Point"}
+}

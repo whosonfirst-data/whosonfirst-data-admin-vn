@@ -1,0 +1,73 @@
+{
+  "id": 1309822595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.25,13.36667,109.25,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":109.25,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"An Binh Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594509,
+    "gn:latitude":13.36667,
+    "gn:longitude":109.25,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"An B\u00ecnh Th\u1ea1nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da",
+        "An B\u00ecnh Th\u1ea1nh",
+        "Xuan Dai",
+        "Anh Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594509
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"eee2ea892e5819312349d8dc05e65164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781693,
+            "locality_id":1309822595,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1309822595,
+    "wof:lastmodified":1537714208,
+    "wof:name":"An Binh Thanh",
+    "wof:parent_id":1108781693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.25,
+    13.36667,
+    109.25,
+    13.36667
+],
+  "geometry": {"coordinates":[109.25,13.36667],"type":"Point"}
+}

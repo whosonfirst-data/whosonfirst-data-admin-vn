@@ -1,0 +1,71 @@
+{
+  "id": 1276888565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,18.66667,105.7,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Yen Dung",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560285,
+    "gn:latitude":18.66667,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Y\u00ean Dung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00ean Dang",
+        "Y\u00ean Dung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560285
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71ae86849966a975283c7fc15fd141ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781447,
+            "locality_id":1276888565,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1276888565,
+    "wof:lastmodified":1537713662,
+    "wof:name":"Yen Dung",
+    "wof:parent_id":1108781447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    18.66667,
+    105.7,
+    18.66667
+],
+  "geometry": {"coordinates":[105.7,18.66667],"type":"Point"}
+}

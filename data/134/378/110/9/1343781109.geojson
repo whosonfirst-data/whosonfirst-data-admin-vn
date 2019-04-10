@@ -1,0 +1,70 @@
+{
+  "id": 1343781109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75591,21.29022,105.75591,21.29022",
+    "geom:latitude":21.29022,
+    "geom:longitude":105.75591,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Go Gao",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8616149,
+    "gn:latitude":21.29022,
+    "gn:longitude":105.75591,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"G\u00f2 G\u1ea1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "G\u00f2 G\u1ea1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680653,
+        1108780805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8616149
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dbbc476510c356b0e22cf34b5ca0040f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780805,
+            "locality_id":1343781109,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":1343781109,
+    "wof:lastmodified":1537714375,
+    "wof:name":"Go Gao",
+    "wof:parent_id":1108780805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75591,
+    21.29022,
+    105.75591,
+    21.29022
+],
+  "geometry": {"coordinates":[105.75591,21.29022],"type":"Point"}
+}

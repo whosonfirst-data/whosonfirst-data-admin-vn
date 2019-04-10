@@ -1,0 +1,70 @@
+{
+  "id": 1293802861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58512,19.30572,105.58512,19.30572",
+    "geom:latitude":19.30572,
+    "geom:longitude":105.58512,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Nam Viet",
+    "gn:country_code":"VN",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372451,
+    "gn:latitude":19.30572,
+    "gn:longitude":105.58512,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Nam Vi\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam Vi\u1ec7t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372451
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a6056dbeeb1b9fba9d9b8073f70fab58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781467,
+            "locality_id":1293802861,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1293802861,
+    "wof:lastmodified":1537714721,
+    "wof:name":"Nam Viet",
+    "wof:parent_id":1108781467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58512,
+    19.30572,
+    105.58512,
+    19.30572
+],
+  "geometry": {"coordinates":[105.58512,19.30572],"type":"Point"}
+}

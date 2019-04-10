@@ -1,0 +1,70 @@
+{
+  "id": 1243083019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33786,22.40309,105.33786,22.40309",
+    "geom:latitude":22.40309,
+    "geom:longitude":105.33786,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Na Cay",
+    "gn:country_code":"VN",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309206,
+    "gn:latitude":22.40309,
+    "gn:longitude":105.33786,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"N\u00e0 C\u00e1y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 C\u00e1y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309206
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3cbb0d2b171dd4e6b52355edb17e8a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1243083019,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1243083019,
+    "wof:lastmodified":1537714250,
+    "wof:name":"Na Cay",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33786,
+    22.40309,
+    105.33786,
+    22.40309
+],
+  "geometry": {"coordinates":[105.33786000000001,22.40309],"type":"Point"}
+}

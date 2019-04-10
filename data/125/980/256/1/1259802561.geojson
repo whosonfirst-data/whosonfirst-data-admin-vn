@@ -1,0 +1,70 @@
+{
+  "id": 1259802561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.39666,13.45565,108.39666,13.45565",
+    "geom:latitude":13.45565,
+    "geom:longitude":108.39666,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Y Yen",
+    "gn:country_code":"VN",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9865078,
+    "gn:latitude":13.45565,
+    "gn:longitude":108.39666,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u00dd Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u00dd Y\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9865078
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"68772c54ec90a13056120da6c48bb845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781827,
+            "locality_id":1259802561,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1259802561,
+    "wof:lastmodified":1537714497,
+    "wof:name":"Y Yen",
+    "wof:parent_id":1108781827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.39666,
+    13.45565,
+    108.39666,
+    13.45565
+],
+  "geometry": {"coordinates":[108.39666,13.45565],"type":"Point"}
+}

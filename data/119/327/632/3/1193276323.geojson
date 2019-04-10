@@ -1,0 +1,67 @@
+{
+  "id": 1193276323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28333,10.13333,106.28333,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":106.28333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ap Tan Qui",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592177,
+    "gn:latitude":10.13333,
+    "gn:longitude":106.28333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"\u1ea4p T\u00e2n Q\u1ee9i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592177
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6d65021595048ac821d8c4fc6d1b97df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1193276323,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1193276323,
+    "wof:lastmodified":1536365746,
+    "wof:name":"Ap Tan Qui",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28333,
+    10.13333,
+    106.28333,
+    10.13333
+],
+  "geometry": {"coordinates":[106.28333000000001,10.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310560725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65,20.9,104.65,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":104.65,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tam Tiao",
+    "gn:country_code":"VN",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567095,
+    "gn:latitude":20.9,
+    "gn:longitude":104.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tam Tiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567095
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b2614512970a374c69477e48ba71fdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781009,
+            "locality_id":1310560725,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310560725,
+    "wof:lastmodified":1536836369,
+    "wof:name":"Tam Tiao",
+    "wof:parent_id":1108781009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65,
+    20.9,
+    104.65,
+    20.9
+],
+  "geometry": {"coordinates":[104.65000000000001,20.9],"type":"Point"}
+}

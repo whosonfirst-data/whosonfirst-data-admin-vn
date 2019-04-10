@@ -1,0 +1,71 @@
+{
+  "id": 1326745879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2,12.28333,109.2,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":109.2,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Ba Lang",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565728,
+    "gn:latitude":12.28333,
+    "gn:longitude":109.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Ba L\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuoc Hau",
+        "Th\u00f4n Ba L\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565728
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"738599ab8e3e26065bb621871d71c01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781715,
+            "locality_id":1326745879,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1326745879,
+    "wof:lastmodified":1537713766,
+    "wof:name":"Thon Ba Lang",
+    "wof:parent_id":1108781715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2,
+    12.28333,
+    109.2,
+    12.28333
+],
+  "geometry": {"coordinates":[109.2,12.28333],"type":"Point"}
+}

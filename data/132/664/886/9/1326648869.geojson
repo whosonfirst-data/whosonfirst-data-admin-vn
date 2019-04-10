@@ -1,0 +1,73 @@
+{
+  "id": 1326648869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.89767,11.6142,108.89767,11.6142",
+    "geom:latitude":11.6142,
+    "geom:longitude":108.89767,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Phuoc Thien",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565361,
+    "gn:latitude":11.6142,
+    "gn:longitude":108.89767,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"Ph\u01b0\u1edbc Thi\u1ec7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u00f4n Ph\u01b0\u1edbc Thi\u1ec7n"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1edbc Thi\u1ec7n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565361
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6832279d036a93d4eec13d4393496ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781747,
+            "locality_id":1326648869,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1326648869,
+    "wof:lastmodified":1537713750,
+    "wof:name":"Phuoc Thien",
+    "wof:parent_id":1108781747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.89767,
+    11.6142,
+    108.89767,
+    11.6142
+],
+  "geometry": {"coordinates":[108.89767000000001,11.6142],"type":"Point"}
+}

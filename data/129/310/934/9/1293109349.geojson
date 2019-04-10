@@ -1,0 +1,70 @@
+{
+  "id": 1293109349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43309,21.43264,105.43309,21.43264",
+    "geom:latitude":21.43264,
+    "geom:longitude":105.43309,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Nhao Son",
+    "gn:country_code":"VN",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8201877,
+    "gn:latitude":21.43264,
+    "gn:longitude":105.43309,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Nh\u1ea1o S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nh\u1ea1o S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680663,
+        1108781213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8201877
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e28c647bc5ac63c9d6fb49b4807f441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781213,
+            "locality_id":1293109349,
+            "region_id":85680663
+        }
+    ],
+    "wof:id":1293109349,
+    "wof:lastmodified":1537714245,
+    "wof:name":"Nhao Son",
+    "wof:parent_id":1108781213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43309,
+    21.43264,
+    105.43309,
+    21.43264
+],
+  "geometry": {"coordinates":[105.43309000000001,21.43264],"type":"Point"}
+}

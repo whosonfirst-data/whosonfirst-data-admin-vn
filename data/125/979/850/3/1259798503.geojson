@@ -1,0 +1,67 @@
+{
+  "id": 1259798503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,20.3,105.98333,20.3",
+    "geom:latitude":20.3,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bach Cu",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591515,
+    "gn:latitude":20.3,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u1ea1ch C\u1eeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591515
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"18e3d975c7186911d38659ec35e4a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781353,
+            "locality_id":1259798503,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1259798503,
+    "wof:lastmodified":1536901561,
+    "wof:name":"Bach Cu",
+    "wof:parent_id":1108781353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    20.3,
+    105.98333,
+    20.3
+],
+  "geometry": {"coordinates":[105.98333,20.3],"type":"Point"}
+}

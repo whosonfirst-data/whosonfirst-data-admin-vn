@@ -1,0 +1,67 @@
+{
+  "id": 1276499825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4,20.25,105.4,20.25",
+    "geom:latitude":20.25,
+    "geom:longitude":105.4,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Cam Ngoc",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586365,
+    "gn:latitude":20.25,
+    "gn:longitude":105.4,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Cam Ng\u1ecdc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586365
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1aa7ed50e5da147d9e79ea49b6e703a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781407,
+            "locality_id":1276499825,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1276499825,
+    "wof:lastmodified":1537050950,
+    "wof:name":"Cam Ngoc",
+    "wof:parent_id":1108781407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4,
+    20.25,
+    105.4,
+    20.25
+],
+  "geometry": {"coordinates":[105.40000000000001,20.25],"type":"Point"}
+}

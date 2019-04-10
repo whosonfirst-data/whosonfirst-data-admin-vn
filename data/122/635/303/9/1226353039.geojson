@@ -1,0 +1,70 @@
+{
+  "id": 1226353039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.05723,11.80734,109.05723,11.80734",
+    "geom:latitude":11.80734,
+    "geom:longitude":109.05723,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ma Trai",
+    "gn:country_code":"VN",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8993993,
+    "gn:latitude":11.80734,
+    "gn:longitude":109.05723,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ma Trai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ma Trai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8993993
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ce160f3e57d98ab1e77f552c4fa8d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781743,
+            "locality_id":1226353039,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1226353039,
+    "wof:lastmodified":1537714426,
+    "wof:name":"Ma Trai",
+    "wof:parent_id":1108781743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.05723,
+    11.80734,
+    109.05723,
+    11.80734
+],
+  "geometry": {"coordinates":[109.05723,11.80734],"type":"Point"}
+}

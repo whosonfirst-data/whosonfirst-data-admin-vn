@@ -1,0 +1,65 @@
+{
+  "id": 1209634189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38333,19.4,104.38333,19.4",
+    "geom:latitude":19.4,
+    "geom:longitude":104.38333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Ban Han",
+    "gn:country_code":"VN",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590479,
+    "gn:latitude":19.4,
+    "gn:longitude":104.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Han",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ha",
+        "B\u1ea3n Han"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590479
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4a5cd5c995b3420ba8a4a0a561db5ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209634189
+        }
+    ],
+    "wof:id":1209634189,
+    "wof:lastmodified":1537714118,
+    "wof:name":"Ban Han",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38333,
+    19.4,
+    104.38333,
+    19.4
+],
+  "geometry": {"coordinates":[104.38333,19.4],"type":"Point"}
+}

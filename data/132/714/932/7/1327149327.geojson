@@ -1,0 +1,67 @@
+{
+  "id": 1327149327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31667,21.11667,106.31667,21.11667",
+    "geom:latitude":21.11667,
+    "geom:longitude":106.31667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hoa Lac Pho",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580775,
+    "gn:latitude":21.11667,
+    "gn:longitude":106.31667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"H\u00f2a Lac Ph\u1ed1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680637,
+        1108781237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580775
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec4ad0fd797fd67f35c2bf41e4470e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781237,
+            "locality_id":1327149327,
+            "region_id":85680637
+        }
+    ],
+    "wof:id":1327149327,
+    "wof:lastmodified":1537086262,
+    "wof:name":"Hoa Lac Pho",
+    "wof:parent_id":1108781237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31667,
+    21.11667000000001,
+    106.31667,
+    21.11667000000001
+],
+  "geometry": {"coordinates":[106.31667,21.11667000000001],"type":"Point"}
+}

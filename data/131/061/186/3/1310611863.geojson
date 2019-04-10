@@ -1,0 +1,67 @@
+{
+  "id": 1310611863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16667,21.06667,105.16667,21.06667",
+    "geom:latitude":21.06667,
+    "geom:longitude":105.16667,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Huong Can",
+    "gn:country_code":"VN",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580137,
+    "gn:latitude":21.06667,
+    "gn:longitude":105.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"H\u01b0\u01a1ng C\u1ea7n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580137
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f1685d3f97778cd1a1a8572014bb0921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781189,
+            "locality_id":1310611863,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1310611863,
+    "wof:lastmodified":1536763755,
+    "wof:name":"Huong Can",
+    "wof:parent_id":1108781189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16667,
+    21.06667,
+    105.16667,
+    21.06667
+],
+  "geometry": {"coordinates":[105.16667,21.06667],"type":"Point"}
+}

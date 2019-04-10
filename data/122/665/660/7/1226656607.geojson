@@ -1,0 +1,73 @@
+{
+  "id": 1226656607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83335,22.44905,103.83335,22.44905",
+    "geom:latitude":22.44905,
+    "geom:longitude":103.83335,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Lo Sui Tung",
+    "gn:country_code":"VN",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575584,
+    "gn:latitude":22.44905,
+    "gn:longitude":103.83335,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"L\u00f2 S\u00fai T\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lo Sui Tong"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00f2 S\u00fai T\u1ee7ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575584
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"536bc0344bc4b6c561a161adeb4d9ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1226656607,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1226656607,
+    "wof:lastmodified":1537713895,
+    "wof:name":"Lo Sui Tung",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83335,
+    22.44905,
+    103.83335,
+    22.44905
+],
+  "geometry": {"coordinates":[103.83335,22.44905],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209121517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04212,9.86196,106.04212,9.86196",
+    "geom:latitude":9.86196,
+    "geom:longitude":106.04212,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Chong No Ba",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593631,
+    "gn:latitude":9.86196,
+    "gn:longitude":106.04212,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ch\u00f4ng N\u00f4 Ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom Chong No",
+        "Ch\u00f4ng N\u00f4",
+        "\u1ea4p Ch\u00f4ng N\u00f4"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00f4ng N\u00f4 Ba"
+    ],
+    "name:vie_x_variant":[
+        "Ch\u00f4ng N\u00f4 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593631
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b5fe0d17199723aa4e0d8037348bfaa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209121517
+        }
+    ],
+    "wof:id":1209121517,
+    "wof:lastmodified":1537714191,
+    "wof:name":"Chong No Ba",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04212,
+    9.86196,
+    106.04212,
+    9.86196
+],
+  "geometry": {"coordinates":[106.04212,9.86196],"type":"Point"}
+}

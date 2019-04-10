@@ -1,0 +1,72 @@
+{
+  "id": 1260198487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93639,9.52361,105.93639,9.52361",
+    "geom:latitude":9.52361,
+    "geom:longitude":105.93639,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ap Ta Bam",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592341,
+    "gn:latitude":9.52361,
+    "gn:longitude":105.93639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1ea4p T\u00e0 B\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xom T\u00e0 B\u00e2m",
+        "\u1ea4p T\u00e0 B\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592341
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e7a1936082c745b1060d5f9210d81ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782301,
+            "locality_id":1260198487,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1260198487,
+    "wof:lastmodified":1537714156,
+    "wof:name":"Ap Ta Bam",
+    "wof:parent_id":1108782301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93639,
+    9.52361,
+    105.93639,
+    9.52361
+],
+  "geometry": {"coordinates":[105.93639,9.52361],"type":"Point"}
+}

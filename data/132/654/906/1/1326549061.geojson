@@ -1,0 +1,73 @@
+{
+  "id": 1326549061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3416,22.64224,103.3416,22.64224",
+    "geom:latitude":22.64224,
+    "geom:longitude":103.3416,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Pin Thau Chai",
+    "gn:country_code":"VN",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569700,
+    "gn:latitude":22.64224,
+    "gn:longitude":103.3416,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"P\u00ecn Th\u1eadu Ch\u00e1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pin Th\u1eadu Ch\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00ecn Th\u1eadu Ch\u00e1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569700
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"60bb14fa0e97a5998bd45e3ab227fd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1326549061,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1326549061,
+    "wof:lastmodified":1537713817,
+    "wof:name":"Pin Thau Chai",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3416,
+    22.64224,
+    103.3416,
+    22.64224
+],
+  "geometry": {"coordinates":[103.3416,22.64224],"type":"Point"}
+}

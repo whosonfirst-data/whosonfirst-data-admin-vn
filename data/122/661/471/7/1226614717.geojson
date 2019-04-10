@@ -1,0 +1,74 @@
+{
+  "id": 1226614717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73192,10.22935,104.73192,10.22935",
+    "geom:latitude":10.22935,
+    "geom:longitude":104.73192,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Giong Ke",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593435,
+    "gn:latitude":10.22935,
+    "gn:longitude":104.73192,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Gi\u1ed3ng K\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tho Son",
+        "\u1ea4p Gi\u1ed3ng K\u00e8"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u1ed3ng K\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680815,
+        1108782227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593435
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"01eccb0a885cf67675161ec6afe639fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782227,
+            "locality_id":1226614717,
+            "region_id":85680815
+        }
+    ],
+    "wof:id":1226614717,
+    "wof:lastmodified":1537714185,
+    "wof:name":"Giong Ke",
+    "wof:parent_id":1108782227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73192,
+    10.22935,
+    104.73192,
+    10.22935
+],
+  "geometry": {"coordinates":[104.73192,10.22935],"type":"Point"}
+}

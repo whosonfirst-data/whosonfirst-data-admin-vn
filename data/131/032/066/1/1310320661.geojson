@@ -1,0 +1,74 @@
+{
+  "id": 1310320661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61607,22.29247,103.61607,22.29247",
+    "geom:latitude":22.29247,
+    "geom:longitude":103.61607,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ban Na Hum",
+    "gn:country_code":"VN",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573779,
+    "gn:latitude":22.29247,
+    "gn:longitude":103.61607,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"B\u1ea3n Na Hum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "No Hum",
+        "Na Hum"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Na Hum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573779
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c85d38ec425aa7e4a9bf9df5536ba399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780979,
+            "locality_id":1310320661,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1310320661,
+    "wof:lastmodified":1537713873,
+    "wof:name":"Ban Na Hum",
+    "wof:parent_id":1108780979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61607,
+    22.29247,
+    103.61607,
+    22.29247
+],
+  "geometry": {"coordinates":[103.61606999999999,22.29247],"type":"Point"}
+}

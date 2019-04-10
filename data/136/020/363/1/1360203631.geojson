@@ -1,0 +1,71 @@
+{
+  "id": 1360203631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43333,19.03333,105.43333,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":105.43333,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Phuc Tho",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570674,
+    "gn:latitude":19.03333,
+    "gn:longitude":105.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00fac Th\u1ecd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phuc To",
+        "Ph\u00fac Th\u1ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570674
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a7d9307ddc9b0cc4b1d13ed5f3d5a06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781479,
+            "locality_id":1360203631,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1360203631,
+    "wof:lastmodified":1537713833,
+    "wof:name":"Phuc Tho",
+    "wof:parent_id":1108781479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43333,
+    19.03333,
+    105.43333,
+    19.03333
+],
+  "geometry": {"coordinates":[105.43333,19.03333],"type":"Point"}
+}

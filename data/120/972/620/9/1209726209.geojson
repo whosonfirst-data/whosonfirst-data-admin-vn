@@ -1,0 +1,70 @@
+{
+  "id": 1209726209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86964,9.47552,105.86964,9.47552",
+    "geom:latitude":9.47552,
+    "geom:longitude":105.86964,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Hoa Duc",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534863,
+    "gn:latitude":9.47552,
+    "gn:longitude":105.86964,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"H\u00f2a \u0110\u1ee9c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00f2a \u0110\u1ee9c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534863
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"99398015fab30948d37e8531d0f097f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782301,
+            "locality_id":1209726209,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1209726209,
+    "wof:lastmodified":1537714490,
+    "wof:name":"Hoa Duc",
+    "wof:parent_id":1108782301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86964,
+    9.47552,
+    105.86964,
+    9.47552
+],
+  "geometry": {"coordinates":[105.86964,9.47552],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309822673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28415,22.58105,103.28415,22.58105",
+    "geom:latitude":22.58105,
+    "geom:longitude":103.28415,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Mo Si Cau",
+    "gn:country_code":"VN",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574448,
+    "gn:latitude":22.58105,
+    "gn:longitude":103.28415,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"M\u1ed3 S\u00ec C\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo Si Cao"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ed3 S\u00ec C\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574448
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"75bcb337faed163563abbe3297d77672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1309822673,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1309822673,
+    "wof:lastmodified":1537713884,
+    "wof:name":"Mo Si Cau",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28415,
+    22.58105,
+    103.28415,
+    22.58105
+],
+  "geometry": {"coordinates":[103.28415,22.58105],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360234181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7,21.13333,106.7,21.13333",
+    "geom:latitude":21.13333,
+    "geom:longitude":106.7,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Khe Chuoi",
+    "gn:country_code":"VN",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579485,
+    "gn:latitude":21.13333,
+    "gn:longitude":106.7,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Kh\u00ea Chu\u00f4i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579485
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"280164874a01d8d68c0a7650f2717bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781135,
+            "locality_id":1360234181,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1360234181,
+    "wof:lastmodified":1536731059,
+    "wof:name":"Khe Chuoi",
+    "wof:parent_id":1108781135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7,
+    21.13333,
+    106.7,
+    21.13333
+],
+  "geometry": {"coordinates":[106.7,21.13333],"type":"Point"}
+}

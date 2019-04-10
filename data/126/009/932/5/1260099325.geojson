@@ -1,0 +1,67 @@
+{
+  "id": 1260099325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71667,21.56667,105.71667,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":105.71667,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Bi Ra",
+    "gn:country_code":"VN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587719,
+    "gn:latitude":21.56667,
+    "gn:longitude":105.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bi R\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587719
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3a6c39d86b5914e738f3093b54a32e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781065,
+            "locality_id":1260099325,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1260099325,
+    "wof:lastmodified":1536965084,
+    "wof:name":"Bi Ra",
+    "wof:parent_id":1108781065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71667,
+    21.56667,
+    105.71667,
+    21.56667
+],
+  "geometry": {"coordinates":[105.71666999999999,21.56667],"type":"Point"}
+}

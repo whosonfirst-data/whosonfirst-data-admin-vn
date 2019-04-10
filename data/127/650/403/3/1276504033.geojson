@@ -1,0 +1,75 @@
+{
+  "id": 1276504033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07965,10.68581,106.07965,10.68581",
+    "geom:latitude":10.68581,
+    "geom:longitude":106.07965,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Xom Da Dien",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561714,
+    "gn:latitude":10.68581,
+    "gn:longitude":106.07965,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Xom Da Dien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da Dien",
+        "Xom Da Dien",
+        "X\u00f3m \u0110\u00e1 Bi\u00ean"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e1 Bi\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561714
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"09132faedbaa51e2a80d9c7485422a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782073,
+            "locality_id":1276504033,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1276504033,
+    "wof:lastmodified":1537713690,
+    "wof:name":"Xom Da Dien",
+    "wof:parent_id":1108782073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07965,
+    10.68581,
+    106.07965,
+    10.68581
+],
+  "geometry": {"coordinates":[106.07965,10.68581],"type":"Point"}
+}

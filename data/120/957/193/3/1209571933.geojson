@@ -1,0 +1,61 @@
+{
+  "id": 1209571933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76667,10.5,104.76667,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":104.76667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Xom Met Lung",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561269,
+    "gn:latitude":10.5,
+    "gn:longitude":104.76667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m M\u1eb9t Lung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561269
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0c0d299cedfdfd861e9a42ccd73e9d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209571933
+        }
+    ],
+    "wof:id":1209571933,
+    "wof:lastmodified":1536283057,
+    "wof:name":"Xom Met Lung",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76667,
+    10.5,
+    104.76667,
+    10.5
+],
+  "geometry": {"coordinates":[104.76667,10.5],"type":"Point"}
+}

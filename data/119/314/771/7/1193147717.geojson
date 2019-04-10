@@ -1,0 +1,71 @@
+{
+  "id": 1193147717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85,22.05,103.85,22.05",
+    "geom:latitude":22.05,
+    "geom:longitude":103.85,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Ouei Lan",
+    "gn:country_code":"VN",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571518,
+    "gn:latitude":22.05,
+    "gn:longitude":103.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ouei Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bue Lan",
+        "Ouei Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571518
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a617c7c0b91b8b8891d06f985a66f2f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780991,
+            "locality_id":1193147717,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1193147717,
+    "wof:lastmodified":1537713846,
+    "wof:name":"Ouei Lan",
+    "wof:parent_id":1108780991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85,
+    22.05,
+    103.85,
+    22.05
+],
+  "geometry": {"coordinates":[103.84999999999999,22.05],"type":"Point"}
+}

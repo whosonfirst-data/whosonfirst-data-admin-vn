@@ -1,0 +1,74 @@
+{
+  "id": 1293702265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.97208,12.48609,108.97208,12.48609",
+    "geom:latitude":12.48609,
+    "geom:longitude":108.97208,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Suoi Mit",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1586821,
+    "gn:latitude":12.48609,
+    "gn:longitude":108.97208,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Su\u1ed1i M\u00edt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u1ed1i Mit",
+        "Bu\u00f4n Su\u1ed1i M\u00edt"
+    ],
+    "name:vie_x_preferred":[
+        "Su\u1ed1i M\u00edt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1586821
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"717e7dc985f464d452d50465d5a35046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781727,
+            "locality_id":1293702265,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1293702265,
+    "wof:lastmodified":1537714042,
+    "wof:name":"Suoi Mit",
+    "wof:parent_id":1108781727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.97208,
+    12.48609,
+    108.97208,
+    12.48609
+],
+  "geometry": {"coordinates":[108.97208000000001,12.48609],"type":"Point"}
+}

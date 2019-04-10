@@ -1,0 +1,70 @@
+{
+  "id": 1226457985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42902,22.07439,106.42902,22.07439",
+    "geom:latitude":22.07439,
+    "geom:longitude":106.42902,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Van Can",
+    "gn:country_code":"VN",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522402,
+    "gn:latitude":22.07439,
+    "gn:longitude":106.42902,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"V\u0103n Can",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u0103n Can"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522402
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8c8e891bd2497b8eaaed1974dc3b983e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781089,
+            "locality_id":1226457985,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1226457985,
+    "wof:lastmodified":1537714328,
+    "wof:name":"Van Can",
+    "wof:parent_id":1108781089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42902,
+    22.07439,
+    106.42902,
+    22.07439
+],
+  "geometry": {"coordinates":[106.42901999999999,22.07439],"type":"Point"}
+}

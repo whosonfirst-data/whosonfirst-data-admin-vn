@@ -1,0 +1,71 @@
+{
+  "id": 1310121623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.13333,12.25,109.13333,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":109.13333,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Thon Xuan Son",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565175,
+    "gn:latitude":12.25,
+    "gn:longitude":109.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Xu\u00e2n S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinh Xuong",
+        "Th\u00f4n Xu\u00e2n S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680719,
+        1108781715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565175
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c65118c1ad5c7e79447fd639766ffafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781715,
+            "locality_id":1310121623,
+            "region_id":85680719
+        }
+    ],
+    "wof:id":1310121623,
+    "wof:lastmodified":1537713741,
+    "wof:name":"Thon Xuan Son",
+    "wof:parent_id":1108781715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.13333,
+    12.25,
+    109.13333,
+    12.25
+],
+  "geometry": {"coordinates":[109.13333,12.25],"type":"Point"}
+}

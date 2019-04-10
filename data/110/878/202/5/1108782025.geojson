@@ -1,0 +1,106 @@
+{
+  "id": 1108782025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000635,
+    "geom:area_square_m":7708232.777868,
+    "geom:bbox":"106.652286091,10.7878303365,106.685200888,10.8185351172",
+    "geom:latitude":10.803263,
+    "geom:longitude":106.667667,
+    "iso:country":"VN",
+    "lbl:latitude":10.802075,
+    "lbl:longitude":106.66798,
+    "meso:admin_1":"TP. Ho Chi Minh",
+    "meso:gadm_admin":"Ph\u00fa Nhu\u1eadn",
+    "meso:gadm_hasc2":"VN.HC.PN",
+    "meso:gaul_adm2":"Phu Nhuan",
+    "meso:local_id":"79768",
+    "meso:mps_x":106.66798,
+    "meso:mps_y":10.802075,
+    "meso:name_en":"Phu Nhuan",
+    "meso:source":"AOTM",
+    "mps:latitude":10.802075,
+    "mps:longitude":106.66798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5bcc\u6da6\u90e1"
+    ],
+    "name:dut_x_preferred":[
+        "Ph\u00fa Nhu\u1eadn"
+    ],
+    "name:eng_x_preferred":[
+        "Phu Nhuan"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Phu Nhuan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30fc\u30cb\u30e3\u30f3\u533a"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Phu Nhuan"
+    ],
+    "name:rum_x_preferred":[
+        "Phu Nhuan"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa Nhu\u1eadn"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2003-01-01",
+    "statoids:area_km":"5",
+    "statoids:as_of_date":"2003-01-01",
+    "statoids:capital":"Ho Chi Minh City",
+    "statoids:country":"VN",
+    "statoids:hasc":"VN.HC",
+    "statoids:name":"Phu Nhuan",
+    "statoids:population":"181243",
+    "statoids:statoid":"VN.HC.PN",
+    "statoids:timezone":"7",
+    "statoids:type":"urban district",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2194003"
+    },
+    "wof:country":"VN",
+    "wof:created":1481741685,
+    "wof:geomhash":"d263bf1476fcfa5a2276ea4be90ef94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782025,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1108782025,
+    "wof:lastmodified":1514502745,
+    "wof:name":"Phu Nhuan",
+    "wof:parent_id":85680809,
+    "wof:placetype":"county",
+    "wof:placetype_local":"urban district",
+    "wof:population":181243,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65228609122343,
+    10.78783033654228,
+    106.6852008875632,
+    10.8185351171578
+],
+  "geometry": {"coordinates":[[[106.65902323992901,10.81800212862515],[106.66171259067777,10.8185351171578],[106.6682391885614,10.81123095224674],[106.67093082427284,10.81107097762855],[106.6783311202242,10.81526852951662],[106.67834561929898,10.81526755238152],[106.68230490466858,10.81001285824028],[106.68265955773373,10.80793587112819],[106.6852008875632,10.8019592354829],[106.68320571577878,10.79577905080106],[106.678787383737,10.7957899462768],[106.67283738042298,10.79213265193276],[106.66710776881764,10.79271827850564],[106.66033525095713,10.78783033654228],[106.65927845362486,10.78818576121155],[106.65538789171738,10.79566145464932],[106.65345071146851,10.79762318623234],[106.65380306958414,10.80581913297297],[106.65228609122343,10.80818092486157],[106.65902323992901,10.81800212862515]]],"type":"Polygon"}
+}

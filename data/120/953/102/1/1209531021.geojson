@@ -1,0 +1,64 @@
+{
+  "id": 1209531021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99175,22.47334,103.99175,22.47334",
+    "geom:latitude":22.47334,
+    "geom:longitude":103.99175,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Tan Lap",
+    "gn:country_code":"VN",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631652,
+    "gn:latitude":22.47334,
+    "gn:longitude":103.99175,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"T\u00e2n L\u1eadp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "T\u00e2n L\u1eadp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631652
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1981834ac1de69d85dcc99d2cfaf203a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531021
+        }
+    ],
+    "wof:id":1209531021,
+    "wof:lastmodified":1537714729,
+    "wof:name":"Tan Lap",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99175,
+    22.47334,
+    103.99175,
+    22.47334
+],
+  "geometry": {"coordinates":[103.99175,22.47334],"type":"Point"}
+}

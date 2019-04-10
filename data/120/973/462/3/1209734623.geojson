@@ -1,0 +1,73 @@
+{
+  "id": 1209734623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21264,20.03331,106.21264,20.03331",
+    "geom:latitude":20.03331,
+    "geom:longitude":106.21264,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Thinh Hai",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571953,
+    "gn:latitude":20.03331,
+    "gn:longitude":106.21264,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Th\u1ecbnh H\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninh H\u1ea3i"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecbnh H\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571953
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4bdb380ca80b8917518e9d8e482d5f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781367,
+            "locality_id":1209734623,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1209734623,
+    "wof:lastmodified":1537713849,
+    "wof:name":"Thinh Hai",
+    "wof:parent_id":1108781367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21264,
+    20.03331,
+    106.21264,
+    20.03331
+],
+  "geometry": {"coordinates":[106.21263999999999,20.03331],"type":"Point"}
+}

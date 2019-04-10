@@ -1,0 +1,74 @@
+{
+  "id": 1327045465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52475,22.17042,105.52475,22.17042",
+    "geom:latitude":22.17042,
+    "geom:longitude":105.52475,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Pac Cop",
+    "gn:country_code":"VN",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571448,
+    "gn:latitude":22.17042,
+    "gn:longitude":105.52475,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"P\u00e1c C\u1ed1p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pac Hoa",
+        "Pac Hop"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00e1c C\u1ed1p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571448
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f38f67be5985c4b1c4fa178247595796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780915,
+            "locality_id":1327045465,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1327045465,
+    "wof:lastmodified":1537713845,
+    "wof:name":"Pac Cop",
+    "wof:parent_id":1108780915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52475,
+    22.17042,
+    105.52475,
+    22.17042
+],
+  "geometry": {"coordinates":[105.52475,22.17042],"type":"Point"}
+}

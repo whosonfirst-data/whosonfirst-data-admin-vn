@@ -1,0 +1,70 @@
+{
+  "id": 1293697661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.83005,16.90003,106.83005,16.90003",
+    "geom:latitude":16.90003,
+    "geom:longitude":106.83005,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Cay Tang",
+    "gn:country_code":"VN",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650946,
+    "gn:latitude":16.90003,
+    "gn:longitude":106.83005,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"C\u00e2y T\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y T\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650946
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e722ee56cfa8ca4be53e387244095604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1293697661,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1293697661,
+    "wof:lastmodified":1537714393,
+    "wof:name":"Cay Tang",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.83005,
+    16.90002999999999,
+    106.83005,
+    16.90002999999999
+],
+  "geometry": {"coordinates":[106.83005,16.90002999999999],"type":"Point"}
+}

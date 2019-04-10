@@ -1,0 +1,67 @@
+{
+  "id": 1343873713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.95,11.05,107.95,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":107.95,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Dang Gia",
+    "gn:country_code":"VN",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1583967,
+    "gn:latitude":11.05,
+    "gn:longitude":107.95,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Dang Gia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583967
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"257f2ce3c6991af7455b7e3b48e2ab40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781763,
+            "locality_id":1343873713,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1343873713,
+    "wof:lastmodified":1536646964,
+    "wof:name":"Dang Gia",
+    "wof:parent_id":1108781763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.95,
+    11.05,
+    107.95,
+    11.05
+],
+  "geometry": {"coordinates":[107.95,11.05],"type":"Point"}
+}

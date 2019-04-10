@@ -1,0 +1,74 @@
+{
+  "id": 1327013513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59938,20.82981,106.59938,20.82981",
+    "geom:latitude":20.82981,
+    "geom:longitude":106.59938,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kieu Ha",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1578963,
+    "gn:latitude":20.82981,
+    "gn:longitude":106.59938,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Ki\u1ec1u H\u1ea1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kien Yen Ha",
+        "Ki\u1ec1u Y\u1ec1u H\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Ki\u1ec1u H\u1ea1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1578963
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8dbe75a505677bc91f11bed1abb40f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781279,
+            "locality_id":1327013513,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1327013513,
+    "wof:lastmodified":1537713946,
+    "wof:name":"Kieu Ha",
+    "wof:parent_id":1108781279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59938,
+    20.82981,
+    106.59938,
+    20.82981
+],
+  "geometry": {"coordinates":[106.59938,20.82981],"type":"Point"}
+}

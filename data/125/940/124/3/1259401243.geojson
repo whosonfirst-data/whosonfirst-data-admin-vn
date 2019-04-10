@@ -1,0 +1,67 @@
+{
+  "id": 1259401243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,21.15,106.25,21.15",
+    "geom:latitude":21.15,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Yen Trach",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560057,
+    "gn:latitude":21.15,
+    "gn:longitude":106.25,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Y\u00e9n Trach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680659,
+        1108781221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560057
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b0edb494e5a878fb9a45cf85f935dfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781221,
+            "locality_id":1259401243,
+            "region_id":85680659
+        }
+    ],
+    "wof:id":1259401243,
+    "wof:lastmodified":1536976284,
+    "wof:name":"Yen Trach",
+    "wof:parent_id":1108781221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    21.15,
+    106.25,
+    21.15
+],
+  "geometry": {"coordinates":[106.25,21.15],"type":"Point"}
+}

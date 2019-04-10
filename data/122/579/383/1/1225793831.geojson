@@ -1,0 +1,73 @@
+{
+  "id": 1225793831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.09257,21.02335,104.09257,21.02335",
+    "geom:latitude":21.02335,
+    "geom:longitude":104.09257,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Ta Vat",
+    "gn:country_code":"VN",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588743,
+    "gn:latitude":21.02335,
+    "gn:longitude":104.09257,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"B\u1ea3n Ta V\u1eaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n Ta Bat"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ta V\u1eaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588743
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"00a8123b2170860a5a9e67ed18f8a1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1225793831,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1225793831,
+    "wof:lastmodified":1537714084,
+    "wof:name":"Ban Ta Vat",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.09257,
+    21.02335,
+    104.09257,
+    21.02335
+],
+  "geometry": {"coordinates":[104.09256999999999,21.02335],"type":"Point"}
+}

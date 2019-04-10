@@ -1,0 +1,67 @@
+{
+  "id": 1193262033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73333,20.83333,106.73333,20.83333",
+    "geom:latitude":20.83333,
+    "geom:longitude":106.73333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ha Doan",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581368,
+    "gn:latitude":20.83333,
+    "gn:longitude":106.73333,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"H\u1ea1 \u0110o\u1ea1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581368
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aef0bff75f801e6cee13546df218b810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781261,
+            "locality_id":1193262033,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1193262033,
+    "wof:lastmodified":1536379823,
+    "wof:name":"Ha Doan",
+    "wof:parent_id":1108781261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73333,
+    20.83333,
+    106.73333,
+    20.83333
+],
+  "geometry": {"coordinates":[106.73333,20.83333],"type":"Point"}
+}

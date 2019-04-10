@@ -1,0 +1,71 @@
+{
+  "id": 1209865351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.76611,21.64139,107.76611,21.64139",
+    "geom:latitude":21.64139,
+    "geom:longitude":107.76611,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nam Si",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573199,
+    "gn:latitude":21.64139,
+    "gn:longitude":107.76611,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Nam Si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tann San",
+        "Nam Si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573199
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1dcf0963b2e3b29db58e35fb43e43d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781113,
+            "locality_id":1209865351,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1209865351,
+    "wof:lastmodified":1537713866,
+    "wof:name":"Nam Si",
+    "wof:parent_id":1108781113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.76611,
+    21.64139,
+    107.76611,
+    21.64139
+],
+  "geometry": {"coordinates":[107.76611,21.64139],"type":"Point"}
+}

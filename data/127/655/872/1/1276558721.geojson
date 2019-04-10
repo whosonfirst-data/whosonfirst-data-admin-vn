@@ -1,0 +1,74 @@
+{
+  "id": 1276558721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33012,9.74691,106.33012,9.74691",
+    "geom:latitude":9.74691,
+    "geom:longitude":106.33012,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Soc Ruong",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567799,
+    "gn:latitude":9.74691,
+    "gn:longitude":106.33012,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"S\u1ed1c Ru\u1ed9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ru\u1ed9ng",
+        "S\u00f3c Ru\u1ed9ng"
+    ],
+    "name:vie_x_preferred":[
+        "S\u1ed1c Ru\u1ed9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567799
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"daf60ca7b305d703d4c610b7c1a0c823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782145,
+            "locality_id":1276558721,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1276558721,
+    "wof:lastmodified":1537713792,
+    "wof:name":"Soc Ruong",
+    "wof:parent_id":1108782145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33012,
+    9.74691,
+    106.33012,
+    9.74691
+],
+  "geometry": {"coordinates":[106.33011999999999,9.74691],"type":"Point"}
+}

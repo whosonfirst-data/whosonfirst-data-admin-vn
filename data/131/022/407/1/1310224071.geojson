@@ -1,0 +1,76 @@
+{
+  "id": 1310224071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15954,12.38127,108.15954,12.38127",
+    "geom:latitude":12.38127,
+    "geom:longitude":108.15954,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Buon To",
+    "gn:country_code":"VN",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587061,
+    "gn:latitude":12.38127,
+    "gn:longitude":108.15954,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bu\u00f4n T\u01a1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Dien",
+        "Bu\u00f4n Dren",
+        "Tram de Ban Tur",
+        "Ban Tur"
+    ],
+    "name:vie_x_preferred":[
+        "Bu\u00f4n T\u01a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587061
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"304722cda39329b4e5b6f0c6166791c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781861,
+            "locality_id":1310224071,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1310224071,
+    "wof:lastmodified":1537714054,
+    "wof:name":"Buon To",
+    "wof:parent_id":1108781861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15954,
+    12.38127,
+    108.15954,
+    12.38127
+],
+  "geometry": {"coordinates":[108.15954000000001,12.38127],"type":"Point"}
+}

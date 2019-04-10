@@ -1,0 +1,74 @@
+{
+  "id": 1310712573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23913,22.14844,105.23913,22.14844",
+    "geom:latitude":22.14844,
+    "geom:longitude":105.23913,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Lang Huc",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1577259,
+    "gn:latitude":22.14844,
+    "gn:longitude":105.23913,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"L\u00e0ng H\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e0ng Houc",
+        "L\u00e0ng Houe"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e0ng H\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1577259
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a694dbcdfae92db73194211ddd997e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780927,
+            "locality_id":1310712573,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1310712573,
+    "wof:lastmodified":1537713921,
+    "wof:name":"Lang Huc",
+    "wof:parent_id":1108780927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23913,
+    22.14844,
+    105.23913,
+    22.14844
+],
+  "geometry": {"coordinates":[105.23913,22.14844],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209019849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43417,21.71214,103.43417,21.71214",
+    "geom:latitude":21.71214,
+    "geom:longitude":103.43417,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Phieng Pi",
+    "gn:country_code":"VN",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425749,
+    "gn:latitude":21.71214,
+    "gn:longitude":103.43417,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Phi\u00eang Pi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Phi\u00eang Pi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425749
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8f5e1d2497dd5fad55b02c2771558f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209019849
+        }
+    ],
+    "wof:id":1209019849,
+    "wof:lastmodified":1537714310,
+    "wof:name":"Phieng Pi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43417,
+    21.71214,
+    103.43417,
+    21.71214
+],
+  "geometry": {"coordinates":[103.43416999999999,21.71214],"type":"Point"}
+}

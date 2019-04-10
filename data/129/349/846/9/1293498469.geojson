@@ -1,0 +1,73 @@
+{
+  "id": 1293498469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8694,18.48617,105.8694,18.48617",
+    "geom:latitude":18.48617,
+    "geom:longitude":105.8694,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xom Bon",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275113,
+    "gn:latitude":18.48617,
+    "gn:longitude":105.8694,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"X\u00f3m B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f3m 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275113
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f4466a4019c0b341619e9d5e20e8cf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1293498469,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1293498469,
+    "wof:lastmodified":1537714667,
+    "wof:name":"Xom Bon",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8694,
+    18.48617,
+    105.8694,
+    18.48617
+],
+  "geometry": {"coordinates":[105.8694,18.48617],"type":"Point"}
+}

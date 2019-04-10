@@ -1,0 +1,67 @@
+{
+  "id": 1343873237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63333,18.56667,105.63333,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":105.63333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hieu My",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580884,
+    "gn:latitude":18.56667,
+    "gn:longitude":105.63333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Hi\u1ec7u M\u1ef9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580884
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2078e825e5a317ddd791342e3b918f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781501,
+            "locality_id":1343873237,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343873237,
+    "wof:lastmodified":1536647707,
+    "wof:name":"Hieu My",
+    "wof:parent_id":1108781501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63333,
+    18.56667,
+    105.63333,
+    18.56667
+],
+  "geometry": {"coordinates":[105.63333,18.56667],"type":"Point"}
+}

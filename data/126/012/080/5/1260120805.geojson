@@ -1,0 +1,73 @@
+{
+  "id": 1260120805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,19.95,105.7,19.95",
+    "geom:latitude":19.95,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Mai Trung",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575012,
+    "gn:latitude":19.95,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mai Trung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mai Trang",
+        "Mai Trung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575012,
+        "wk:page":"Mai_Trung"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"10a591a3610da26ef2c6b8fe40019c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781417,
+            "locality_id":1260120805,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1260120805,
+    "wof:lastmodified":1537713889,
+    "wof:name":"Mai Trung",
+    "wof:parent_id":1108781417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    19.95,
+    105.7,
+    19.95
+],
+  "geometry": {"coordinates":[105.7,19.95],"type":"Point"}
+}

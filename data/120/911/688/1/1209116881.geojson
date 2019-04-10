@@ -1,0 +1,71 @@
+{
+  "id": 1209116881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.73527,13.97691,108.73527,13.97691",
+    "geom:latitude":13.97691,
+    "geom:longitude":108.73527,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"An Thuong Nam",
+    "gn:country_code":"VN",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1594199,
+    "gn:latitude":13.97691,
+    "gn:longitude":108.73527,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"An Th\u01b0\u1ee3ng N\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thuong An",
+        "An Th\u01b0\u1ee3ng"
+    ],
+    "name:vie_x_preferred":[
+        "An Th\u01b0\u1ee3ng N\u0103m"
+    ],
+    "name:vie_x_variant":[
+        "An Th\u01b0\u1ee3ng 5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1594199
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec0c6d13c4d59192952db16ba6c90b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116881
+        }
+    ],
+    "wof:id":1209116881,
+    "wof:lastmodified":1537714204,
+    "wof:name":"An Thuong Nam",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.73527,
+    13.97691,
+    108.73527,
+    13.97691
+],
+  "geometry": {"coordinates":[108.73527,13.97691],"type":"Point"}
+}

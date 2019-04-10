@@ -1,0 +1,71 @@
+{
+  "id": 1360004911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.989,20.64173,105.989,20.64173",
+    "geom:latitude":20.64173,
+    "geom:longitude":105.989,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Hoa Mac",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1580754,
+    "gn:latitude":20.64173,
+    "gn:longitude":105.989,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"H\u00f2a M\u1ea1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoa Mao",
+        "H\u00f2a M\u1ea1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580754
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0a552c797c9b26f5deb685ec8b5b209f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781335,
+            "locality_id":1360004911,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1360004911,
+    "wof:lastmodified":1537713968,
+    "wof:name":"Hoa Mac",
+    "wof:parent_id":1108781335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.989,
+    20.64173,
+    105.989,
+    20.64173
+],
+  "geometry": {"coordinates":[105.989,20.64173],"type":"Point"}
+}

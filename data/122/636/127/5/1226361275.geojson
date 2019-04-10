@@ -1,0 +1,71 @@
+{
+  "id": 1226361275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.77985,16.70852,106.77985,16.70852",
+    "geom:latitude":16.70852,
+    "geom:longitude":106.77985,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"465.0",
+    "gn:asciiname":"GJong Cho",
+    "gn:country_code":"VN",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8650939,
+    "gn:latitude":16.70852,
+    "gn:longitude":106.77985,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"\u0110\u1ed3ng Ch\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "\u0110\u1ed3ng Ch\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8650939
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"9e0ac480f1b402da6cb8a6e5c81c3188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781545,
+            "locality_id":1226361275,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1226361275,
+    "wof:lastmodified":1537714392,
+    "wof:name":"GJong Cho",
+    "wof:parent_id":1108781545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.77985,
+    16.70852,
+    106.77985,
+    16.70852
+],
+  "geometry": {"coordinates":[106.77985,16.70852],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209116355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93333,21.36667,105.93333,21.36667",
+    "geom:latitude":21.36667,
+    "geom:longitude":105.93333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Thai Tho",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566310,
+    "gn:latitude":21.36667,
+    "gn:longitude":105.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00e1i Th\u1ecd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cao G\u00f4",
+        "Th\u00e1i Th\u1ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566310
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"924233de00ee6ea8ffd6bcdb1e7410fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209116355
+        }
+    ],
+    "wof:id":1209116355,
+    "wof:lastmodified":1537713775,
+    "wof:name":"Thai Tho",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93333,
+    21.36667000000001,
+    105.93333,
+    21.36667000000001
+],
+  "geometry": {"coordinates":[105.93333,21.36667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242746339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.98333,12.05,107.98333,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":107.98333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pang Giong",
+    "gn:country_code":"VN",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571291,
+    "gn:latitude":12.05,
+    "gn:longitude":107.98333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Pang Giong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680743,
+        1108781869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571291
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"340600de399c4bc273018d52a40b4cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781869,
+            "locality_id":1242746339,
+            "region_id":85680743
+        }
+    ],
+    "wof:id":1242746339,
+    "wof:lastmodified":1536819871,
+    "wof:name":"Pang Giong",
+    "wof:parent_id":1108781869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.98333,
+    12.05,
+    107.98333,
+    12.05
+],
+  "geometry": {"coordinates":[107.98333,12.05],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225855565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7,18.4,105.7,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":105.7,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"San Dinh",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568124,
+    "gn:latitude":18.4,
+    "gn:longitude":105.7,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"San \u0110\u1ecbnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sam Dinh",
+        "San \u0110\u1ecbnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568124
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"047bd2db6e8d4116c07fe51447d8b454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781509,
+            "locality_id":1225855565,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1225855565,
+    "wof:lastmodified":1537713795,
+    "wof:name":"San Dinh",
+    "wof:parent_id":1108781509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7,
+    18.4,
+    105.7,
+    18.4
+],
+  "geometry": {"coordinates":[105.7,18.4],"type":"Point"}
+}

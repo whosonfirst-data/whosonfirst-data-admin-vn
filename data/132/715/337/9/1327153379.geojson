@@ -1,0 +1,67 @@
+{
+  "id": 1327153379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,21.71667,105.95,21.71667",
+    "geom:latitude":21.71667,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Dong Hon",
+    "gn:country_code":"VN",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582887,
+    "gn:latitude":21.71667,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dong Hon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582887
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0b09e6f35264f122b429220b8abe33b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781077,
+            "locality_id":1327153379,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1327153379,
+    "wof:lastmodified":1537080544,
+    "wof:name":"Dong Hon",
+    "wof:parent_id":1108781077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    21.71667,
+    105.95,
+    21.71667
+],
+  "geometry": {"coordinates":[105.95,21.71667],"type":"Point"}
+}

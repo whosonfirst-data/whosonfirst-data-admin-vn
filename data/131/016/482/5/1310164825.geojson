@@ -1,0 +1,73 @@
+{
+  "id": 1310164825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08593,21.19335,104.08593,21.19335",
+    "geom:latitude":21.19335,
+    "geom:longitude":104.08593,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tieu Khu Muoi Hai",
+    "gn:country_code":"VN",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314631,
+    "gn:latitude":21.19335,
+    "gn:longitude":104.08593,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ti\u1ec3u Khu M\u01b0\u1eddi Hai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ti\u1ec3u Khu M\u01b0\u1eddi Hai"
+    ],
+    "name:vie_x_variant":[
+        "Ti\u1ec3u Khu 12"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314631
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"70f56368f6adeb914cff79d3a9443a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1310164825,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1310164825,
+    "wof:lastmodified":1537714691,
+    "wof:name":"Tieu Khu Muoi Hai",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08593,
+    21.19335,
+    104.08593,
+    21.19335
+],
+  "geometry": {"coordinates":[104.08593,21.19335],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260198327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30349,22.63399,103.30349,22.63399",
+    "geom:latitude":22.63399,
+    "geom:longitude":103.30349,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sang Cai",
+    "gn:country_code":"VN",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356493,
+    "gn:latitude":22.63399,
+    "gn:longitude":103.30349,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"S\u1ea3ng C\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u1ea3ng C\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356493
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d977beab244b72e1a93a3e59349e9570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1260198327,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1260198327,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Sang Cai",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30349,
+    22.63399,
+    103.30349,
+    22.63399
+],
+  "geometry": {"coordinates":[103.30349,22.63399],"type":"Point"}
+}

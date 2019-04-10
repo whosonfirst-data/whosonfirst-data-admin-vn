@@ -1,0 +1,70 @@
+{
+  "id": 1276248003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43496,22.54585,105.43496,22.54585",
+    "geom:latitude":22.54585,
+    "geom:longitude":105.43496,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Khau Pau",
+    "gn:country_code":"VN",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8338163,
+    "gn:latitude":22.54585,
+    "gn:longitude":105.43496,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Khau P\u1ea5u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Khau P\u1ea5u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8338163
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"16175b90d9f3b5bc595d0573c1052477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1276248003,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1276248003,
+    "wof:lastmodified":1537714290,
+    "wof:name":"Khau Pau",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43496,
+    22.54585,
+    105.43496,
+    22.54585
+],
+  "geometry": {"coordinates":[105.43496,22.54585],"type":"Point"}
+}

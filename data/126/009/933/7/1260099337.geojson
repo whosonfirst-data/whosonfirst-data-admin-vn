@@ -1,0 +1,67 @@
+{
+  "id": 1260099337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.45,15.06667,108.45,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":108.45,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Lang Mung",
+    "gn:country_code":"VN",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576933,
+    "gn:latitude":15.06667,
+    "gn:longitude":108.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e0ng Mung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680767,
+        1108781647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576933
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"92eceb6e0e8ff770fe7bdaa7d84e905c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781647,
+            "locality_id":1260099337,
+            "region_id":85680767
+        }
+    ],
+    "wof:id":1260099337,
+    "wof:lastmodified":1536965071,
+    "wof:name":"Lang Mung",
+    "wof:parent_id":1108781647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.45,
+    15.06667,
+    108.45,
+    15.06667
+],
+  "geometry": {"coordinates":[108.45,15.06667],"type":"Point"}
+}

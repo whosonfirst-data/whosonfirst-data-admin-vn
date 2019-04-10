@@ -1,0 +1,73 @@
+{
+  "id": 1243565275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.12117,16.03219,108.12117,16.03219",
+    "geom:latitude":16.03219,
+    "geom:longitude":108.12117,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Dai La",
+    "gn:country_code":"VN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593597,
+    "gn:latitude":16.03219,
+    "gn:longitude":108.12117,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"\u0110\u1ea1i La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p \u0110\u1ea1i La"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i La"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680779,
+        1108781591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593597
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d457e72aca9db4b36fe715a0b9cb92a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781591,
+            "locality_id":1243565275,
+            "region_id":85680779
+        }
+    ],
+    "wof:id":1243565275,
+    "wof:lastmodified":1537714189,
+    "wof:name":"Dai La",
+    "wof:parent_id":1108781591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.12117,
+    16.03219,
+    108.12117,
+    16.03219
+],
+  "geometry": {"coordinates":[108.12117000000001,16.03219],"type":"Point"}
+}

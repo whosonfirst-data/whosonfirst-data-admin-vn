@@ -1,0 +1,70 @@
+{
+  "id": 1226357981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27663,23.19557,105.27663,23.19557",
+    "geom:latitude":23.19557,
+    "geom:longitude":105.27663,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Ba Tung",
+    "gn:country_code":"VN",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474092,
+    "gn:latitude":23.19557,
+    "gn:longitude":105.27663,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Ba T\u1ee7ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Ba T\u1ee7ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474092
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"53f5ca46d483f71625f7bbe0c477aac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780851,
+            "locality_id":1226357981,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1226357981,
+    "wof:lastmodified":1537714321,
+    "wof:name":"Ba Tung",
+    "wof:parent_id":1108780851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27663,
+    23.19557,
+    105.27663,
+    23.19557
+],
+  "geometry": {"coordinates":[105.27663,23.19557],"type":"Point"}
+}

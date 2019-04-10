@@ -1,0 +1,73 @@
+{
+  "id": 1343877325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77882,18.11616,105.77882,18.11616",
+    "geom:latitude":18.11616,
+    "geom:longitude":105.77882,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thanh Lien",
+    "gn:country_code":"VN",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1566127,
+    "gn:latitude":18.11616,
+    "gn:longitude":105.77882,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Thanh Li\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thanh Li\u00ean Th\u00f4n"
+    ],
+    "name:vie_x_preferred":[
+        "Thanh Li\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566127
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6c312a833d5cb88b36ad6813fe37a3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1343877325,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1343877325,
+    "wof:lastmodified":1537713772,
+    "wof:name":"Thanh Lien",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77882,
+    18.11616,
+    105.77882,
+    18.11616
+],
+  "geometry": {"coordinates":[105.77882,18.11616],"type":"Point"}
+}

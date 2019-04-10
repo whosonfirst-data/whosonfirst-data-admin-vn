@@ -1,0 +1,70 @@
+{
+  "id": 1259502455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11462,21.56104,103.11462,21.56104",
+    "geom:latitude":21.56104,
+    "geom:longitude":103.11462,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Ho Dom",
+    "gn:country_code":"VN",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425769,
+    "gn:latitude":21.56104,
+    "gn:longitude":103.11462,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"H\u1ed1 D\u1ed1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u1ed1 D\u1ed1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425769
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fd151b2593a34578f7c4bf2d66d68db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780969,
+            "locality_id":1259502455,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1259502455,
+    "wof:lastmodified":1537714311,
+    "wof:name":"Ho Dom",
+    "wof:parent_id":1108780969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11462,
+    21.56104,
+    103.11462,
+    21.56104
+],
+  "geometry": {"coordinates":[103.11462,21.56104],"type":"Point"}
+}

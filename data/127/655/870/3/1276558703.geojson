@@ -1,0 +1,73 @@
+{
+  "id": 1276558703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.78286,17.11343,106.78286,17.11343",
+    "geom:latitude":17.11343,
+    "geom:longitude":106.78286,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Cay Bong Mot",
+    "gn:country_code":"VN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646712,
+    "gn:latitude":17.11343,
+    "gn:longitude":106.78286,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"C\u00e2y B\u00f4ng M\u1ed9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "C\u00e2y B\u00f4ng M\u1ed9t"
+    ],
+    "name:vie_x_variant":[
+        "C\u00e2y B\u00f4ng 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646712
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d103d5fe58220030c9bae5176565dcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781535,
+            "locality_id":1276558703,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1276558703,
+    "wof:lastmodified":1537714390,
+    "wof:name":"Cay Bong Mot",
+    "wof:parent_id":1108781535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.78286,
+    17.11342999999999,
+    106.78286,
+    17.11342999999999
+],
+  "geometry": {"coordinates":[106.78286,17.11342999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243503159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08806,21.1407,104.08806,21.1407",
+    "geom:latitude":21.1407,
+    "geom:longitude":104.08806,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ban Co Chai",
+    "gn:country_code":"VN",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1590831,
+    "gn:latitude":21.1407,
+    "gn:longitude":104.08806,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"B\u1ea3n Co Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n C\u00f4 Chai"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Co Chai"
+    ],
+    "name:vie_x_variant":[
+        "Co Chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680615,
+        1108781013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1590831
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6b8645abe83a792afc0d6f1798ca7e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781013,
+            "locality_id":1243503159,
+            "region_id":85680615
+        }
+    ],
+    "wof:id":1243503159,
+    "wof:lastmodified":1537714126,
+    "wof:name":"Ban Co Chai",
+    "wof:parent_id":1108781013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08806,
+    21.1407,
+    104.08806,
+    21.1407
+],
+  "geometry": {"coordinates":[104.08806,21.1407],"type":"Point"}
+}

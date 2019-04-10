@@ -1,0 +1,73 @@
+{
+  "id": 1225860235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61298,18.84666,105.61298,18.84666",
+    "geom:latitude":18.84666,
+    "geom:longitude":105.61298,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Xom Chin",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181905,
+    "gn:latitude":18.84666,
+    "gn:longitude":105.61298,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"X\u00f3m Ch\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m Ch\u00edn"
+    ],
+    "name:vie_x_variant":[
+        "X\u00f3m 9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"a3d833b0134be1248a0d4e41d692d78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781485,
+            "locality_id":1225860235,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1225860235,
+    "wof:lastmodified":1537714608,
+    "wof:name":"Xom Chin",
+    "wof:parent_id":1108781485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61298,
+    18.84666,
+    105.61298,
+    18.84666
+],
+  "geometry": {"coordinates":[105.61297999999999,18.84666],"type":"Point"}
+}

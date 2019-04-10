@@ -1,0 +1,70 @@
+{
+  "id": 1293215993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02097,22.39788,105.02097,22.39788",
+    "geom:latitude":22.39788,
+    "geom:longitude":105.02097,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Mong",
+    "gn:country_code":"VN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309051,
+    "gn:latitude":22.39788,
+    "gn:longitude":105.02097,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u00e0ng M\u1ed9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u00e0ng M\u1ed9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309051
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"56ddc27db144877c62b2a1ba5e43579a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780869,
+            "locality_id":1293215993,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293215993,
+    "wof:lastmodified":1537714246,
+    "wof:name":"Lang Mong",
+    "wof:parent_id":1108780869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02097,
+    22.39788,
+    105.02097,
+    22.39788
+],
+  "geometry": {"coordinates":[105.02097000000001,22.39788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243473341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.15,22.38333,104.15,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":104.15,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"San Cap",
+    "gn:country_code":"VN",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568129,
+    "gn:latitude":22.38333,
+    "gn:longitude":104.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"San Cap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568129
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6da4ecf4b085bc985d7fd3141b5e11ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780949,
+            "locality_id":1243473341,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1243473341,
+    "wof:lastmodified":1536767196,
+    "wof:name":"San Cap",
+    "wof:parent_id":1108780949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.15,
+    22.38333,
+    104.15,
+    22.38333
+],
+  "geometry": {"coordinates":[104.15000000000001,22.38333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276459149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2,13.08333,109.2,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":109.2,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Mau Lam",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1574782,
+    "gn:latitude":13.08333,
+    "gn:longitude":109.2,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"M\u1eadu L\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680733,
+        1108781711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1574782
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4d517141648492a0ca45f699d3722ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781711,
+            "locality_id":1276459149,
+            "region_id":85680733
+        }
+    ],
+    "wof:id":1276459149,
+    "wof:lastmodified":1536607215,
+    "wof:name":"Mau Lam",
+    "wof:parent_id":1108781711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2,
+    13.08333,
+    109.2,
+    13.08333
+],
+  "geometry": {"coordinates":[109.2,13.08333],"type":"Point"}
+}

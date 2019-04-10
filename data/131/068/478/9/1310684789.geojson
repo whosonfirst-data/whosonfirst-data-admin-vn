@@ -1,0 +1,70 @@
+{
+  "id": 1310684789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55575,20.82294,106.55575,20.82294",
+    "geom:latitude":20.82294,
+    "geom:longitude":106.55575,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"An Lao",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8595083,
+    "gn:latitude":20.82294,
+    "gn:longitude":106.55575,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"An L\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An L\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595083
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"69a6858f0aaffc147fd90707497897a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781281,
+            "locality_id":1310684789,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1310684789,
+    "wof:lastmodified":1537714361,
+    "wof:name":"An Lao",
+    "wof:parent_id":1108781281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55575,
+    20.82294,
+    106.55575,
+    20.82294
+],
+  "geometry": {"coordinates":[106.55575,20.82294],"type":"Point"}
+}

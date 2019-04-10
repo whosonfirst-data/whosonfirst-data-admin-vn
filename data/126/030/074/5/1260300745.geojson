@@ -1,0 +1,72 @@
+{
+  "id": 1260300745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35,21.78333,106.35,21.78333",
+    "geom:latitude":21.78333,
+    "geom:longitude":106.35,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Tong Quan",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564366,
+    "gn:latitude":21.78333,
+    "gn:longitude":106.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tong Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tong Ouan",
+        "Tong Quan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"85df03b878dcf051781beb78b32b8b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781099,
+            "locality_id":1260300745,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1260300745,
+    "wof:lastmodified":1537713732,
+    "wof:name":"Tong Quan",
+    "wof:parent_id":1108781099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35,
+    21.78333,
+    106.35,
+    21.78333
+],
+  "geometry": {"coordinates":[106.34999999999999,21.78333],"type":"Point"}
+}

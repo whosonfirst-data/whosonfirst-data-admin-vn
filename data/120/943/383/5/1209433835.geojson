@@ -1,0 +1,61 @@
+{
+  "id": 1209433835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33333,18.08333,106.33333,18.08333",
+    "geom:latitude":18.08333,
+    "geom:longitude":106.33333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Van Yen",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562901,
+    "gn:latitude":18.08333,
+    "gn:longitude":106.33333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0103n Y\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562901
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ab8f1e077163061cc780d70d73c870eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209433835
+        }
+    ],
+    "wof:id":1209433835,
+    "wof:lastmodified":1536287160,
+    "wof:name":"Van Yen",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33333,
+    18.08333,
+    106.33333,
+    18.08333
+],
+  "geometry": {"coordinates":[106.33333,18.08333],"type":"Point"}
+}

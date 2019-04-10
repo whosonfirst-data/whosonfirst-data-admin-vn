@@ -1,0 +1,70 @@
+{
+  "id": 1210027121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72649,22.00155,104.72649,22.00155",
+    "geom:latitude":22.00155,
+    "geom:longitude":104.72649,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Van Van",
+    "gn:country_code":"VN",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526522,
+    "gn:latitude":22.00155,
+    "gn:longitude":104.72649,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"V\u00e2n V\u00e0n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "V\u00e2n V\u00e0n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526522
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3f43d231e5d8ce30eeaad48e0b80c37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781025,
+            "locality_id":1210027121,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1210027121,
+    "wof:lastmodified":1537714334,
+    "wof:name":"Van Van",
+    "wof:parent_id":1108781025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72649,
+    22.00155,
+    104.72649,
+    22.00155
+],
+  "geometry": {"coordinates":[104.72649,22.00155],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243364329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52944,9.88556,106.52944,9.88556",
+    "geom:latitude":9.88556,
+    "geom:longitude":106.52944,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xom Ben Trai",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1561982,
+    "gn:latitude":9.88556,
+    "gn:longitude":106.52944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"X\u00f3m B\u1ebfn Tr\u1ea1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ebfn Tr\u1ea1i",
+        "X\u00f3m B\u1ebfn Tr\u1ea1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1561982
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"dba0511664c451d68e8f31c453d8edd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782127,
+            "locality_id":1243364329,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1243364329,
+    "wof:lastmodified":1537713696,
+    "wof:name":"Xom Ben Trai",
+    "wof:parent_id":1108782127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52944,
+    9.88556,
+    106.52944,
+    9.88556
+],
+  "geometry": {"coordinates":[106.52943999999999,9.88556],"type":"Point"}
+}

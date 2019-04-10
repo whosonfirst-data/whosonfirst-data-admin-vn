@@ -1,0 +1,63 @@
+{
+  "id": 1209734413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.63333,17.46667,106.63333,17.46667",
+    "geom:latitude":17.46667,
+    "geom:longitude":106.63333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Trung Binh",
+    "gn:country_code":"VN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563750,
+    "gn:latitude":17.46667,
+    "gn:longitude":106.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trung B\u00ednh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563750
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"074a21f0fc5bdc38c523f4252bb0bf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209734413,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209734413,
+    "wof:lastmodified":1536375246,
+    "wof:name":"Trung Binh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.63333,
+    17.46667,
+    106.63333,
+    17.46667
+],
+  "geometry": {"coordinates":[106.63333,17.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226158369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25,20.08333,106.25,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":106.25,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Xuan Thuy",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560497,
+    "gn:latitude":20.08333,
+    "gn:longitude":106.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Xuan Thuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680677,
+        1108781367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560497
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"102d560db15cd2fa5d7adf7bed39e65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781367,
+            "locality_id":1226158369,
+            "region_id":85680677
+        }
+    ],
+    "wof:id":1226158369,
+    "wof:lastmodified":1537056933,
+    "wof:name":"Xuan Thuy",
+    "wof:parent_id":1108781367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25,
+    20.08333,
+    106.25,
+    20.08333
+],
+  "geometry": {"coordinates":[106.25,20.08333],"type":"Point"}
+}

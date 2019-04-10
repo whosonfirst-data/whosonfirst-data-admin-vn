@@ -1,0 +1,70 @@
+{
+  "id": 1242788449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89398,18.43063,105.89398,18.43063",
+    "geom:latitude":18.43063,
+    "geom:longitude":105.89398,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Thanh Tan",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275170,
+    "gn:latitude":18.43063,
+    "gn:longitude":105.89398,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Thanh T\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thanh T\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275170
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"331b2dc01e051ff9c405eaf1c34cf426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1242788449,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1242788449,
+    "wof:lastmodified":1537714669,
+    "wof:name":"Thanh Tan",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89398,
+    18.43063,
+    105.89398,
+    18.43063
+],
+  "geometry": {"coordinates":[105.89398,18.43063],"type":"Point"}
+}

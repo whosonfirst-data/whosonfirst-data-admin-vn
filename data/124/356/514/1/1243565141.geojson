@@ -1,0 +1,70 @@
+{
+  "id": 1243565141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.36265,22.7283,103.36265,22.7283",
+    "geom:latitude":22.7283,
+    "geom:longitude":103.36265,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Hang E",
+    "gn:country_code":"VN",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356460,
+    "gn:latitude":22.7283,
+    "gn:longitude":103.36265,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"H\u00e1ng \u00c9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e1ng \u00c9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680607,
+        1108780987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356460
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3236812f71291a668fa3fcec2cb31c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780987,
+            "locality_id":1243565141,
+            "region_id":85680607
+        }
+    ],
+    "wof:id":1243565141,
+    "wof:lastmodified":1537714712,
+    "wof:name":"Hang E",
+    "wof:parent_id":1108780987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.36265,
+    22.7283,
+    103.36265,
+    22.7283
+],
+  "geometry": {"coordinates":[103.36265,22.7283],"type":"Point"}
+}

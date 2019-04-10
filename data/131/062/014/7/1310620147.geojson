@@ -1,0 +1,73 @@
+{
+  "id": 1310620147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94392,22.45935,103.94392,22.45935",
+    "geom:latitude":22.45935,
+    "geom:longitude":103.94392,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Luong Do",
+    "gn:country_code":"VN",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1575265,
+    "gn:latitude":22.45935,
+    "gn:longitude":103.94392,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Lu\u1ed5ng \u0110\u1ecf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu\u1ed1ng \u0110\u00f2"
+    ],
+    "name:vie_x_preferred":[
+        "Lu\u1ed5ng \u0110\u1ecf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1575265
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d69f691f6bd4b979499a572457c3abde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1310620147,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1310620147,
+    "wof:lastmodified":1537713892,
+    "wof:name":"Luong Do",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94392,
+    22.45935,
+    103.94392,
+    22.45935
+],
+  "geometry": {"coordinates":[103.94392000000001,22.45935],"type":"Point"}
+}

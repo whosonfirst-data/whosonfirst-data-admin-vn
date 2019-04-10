@@ -1,0 +1,61 @@
+{
+  "id": 1209531203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,13.23333,108.08333,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Plei Tung Thang",
+    "gn:country_code":"VN",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569230,
+    "gn:latitude":13.23333,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Plei Tung Thang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569230
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5601df4588be2d4ae0b6471dfa4251fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209531203
+        }
+    ],
+    "wof:id":1209531203,
+    "wof:lastmodified":1536284274,
+    "wof:name":"Plei Tung Thang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    13.23333,
+    108.08333,
+    13.23333
+],
+  "geometry": {"coordinates":[108.08333,13.23333],"type":"Point"}
+}

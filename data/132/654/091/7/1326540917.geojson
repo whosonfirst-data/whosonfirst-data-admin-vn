@@ -1,0 +1,71 @@
+{
+  "id": 1326540917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.73333,11.83333,108.73333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":108.73333,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Thon Gia Bo",
+    "gn:country_code":"VN",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565617,
+    "gn:latitude":11.83333,
+    "gn:longitude":108.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Th\u00f4n Gia B\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gia B\u00f4",
+        "Th\u00f4n Gia B\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680727,
+        1108781747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565617
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"481c6e3362021eb15333e0c1ebe8d204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781747,
+            "locality_id":1326540917,
+            "region_id":85680727
+        }
+    ],
+    "wof:id":1326540917,
+    "wof:lastmodified":1537713762,
+    "wof:name":"Thon Gia Bo",
+    "wof:parent_id":1108781747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.73333,
+    11.83333,
+    108.73333,
+    11.83333
+],
+  "geometry": {"coordinates":[108.73333,11.83333],"type":"Point"}
+}

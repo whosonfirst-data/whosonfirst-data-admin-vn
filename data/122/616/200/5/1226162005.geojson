@@ -1,0 +1,73 @@
+{
+  "id": 1226162005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.60061,21.68299,105.60061,21.68299",
+    "geom:latitude":21.68299,
+    "geom:longitude":105.60061,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Na Hoan",
+    "gn:country_code":"VN",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573783,
+    "gn:latitude":21.68299,
+    "gn:longitude":105.60061,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Na Ho\u00e0n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Houan"
+    ],
+    "name:vie_x_preferred":[
+        "Na Ho\u00e0n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573783
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef36a3391ac8ee94ae066c3f495551e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781079,
+            "locality_id":1226162005,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1226162005,
+    "wof:lastmodified":1537713873,
+    "wof:name":"Na Hoan",
+    "wof:parent_id":1108781079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.60061,
+    21.68299,
+    105.60061,
+    21.68299
+],
+  "geometry": {"coordinates":[105.60061,21.68299],"type":"Point"}
+}

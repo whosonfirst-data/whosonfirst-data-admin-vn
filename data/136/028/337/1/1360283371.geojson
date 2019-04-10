@@ -1,0 +1,72 @@
+{
+  "id": 1360283371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6,22.85,106.6,22.85",
+    "geom:latitude":22.85,
+    "geom:longitude":106.6,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pac Con",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1571468,
+    "gn:latitude":22.85,
+    "gn:longitude":106.6,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u00e1c C\u1ecdn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e1o Con",
+        "P\u00e1c C\u1ecdn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680859,
+        1108780887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1571468
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"43a5245f47b1ac1625ca27e6b4e082fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780887,
+            "locality_id":1360283371,
+            "region_id":85680859
+        }
+    ],
+    "wof:id":1360283371,
+    "wof:lastmodified":1537713845,
+    "wof:name":"Pac Con",
+    "wof:parent_id":1108780887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6,
+    22.85,
+    106.6,
+    22.85
+],
+  "geometry": {"coordinates":[106.59999999999999,22.85],"type":"Point"}
+}

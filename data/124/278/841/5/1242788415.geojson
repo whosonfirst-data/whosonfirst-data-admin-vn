@@ -1,0 +1,70 @@
+{
+  "id": 1242788415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90021,18.406,105.90021,18.406",
+    "geom:latitude":18.406,
+    "geom:longitude":105.90021,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Trung Chau",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10275178,
+    "gn:latitude":18.406,
+    "gn:longitude":105.90021,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Trung Ch\u00e2u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Trung Ch\u00e2u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10275178
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5d8b3c8be44406b05caad50545a70227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781519,
+            "locality_id":1242788415,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1242788415,
+    "wof:lastmodified":1537714669,
+    "wof:name":"Trung Chau",
+    "wof:parent_id":1108781519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90021000000002,
+    18.406,
+    105.90021000000002,
+    18.406
+],
+  "geometry": {"coordinates":[105.90021000000002,18.406],"type":"Point"}
+}

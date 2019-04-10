@@ -1,0 +1,73 @@
+{
+  "id": 1310121491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,20.66667,106.13333,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"81.0",
+    "gn:admin2_code":"323.0",
+    "gn:asciiname":"Hai Yen",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581282,
+    "gn:latitude":20.66667,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"2017-04-04",
+    "gn:name":"Hai Yen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai An",
+        "Hai Yen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680649,
+        1108781311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581282
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3eff39d92605ea7af5b83e01b86a212c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781311,
+            "locality_id":1310121491,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":1310121491,
+    "wof:lastmodified":1537713974,
+    "wof:name":"Hai Yen",
+    "wof:parent_id":1108781311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    20.66667,
+    106.13333,
+    20.66667
+],
+  "geometry": {"coordinates":[106.13333,20.66667],"type":"Point"}
+}

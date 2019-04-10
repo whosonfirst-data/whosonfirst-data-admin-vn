@@ -1,0 +1,70 @@
+{
+  "id": 1360004745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42512,21.79696,106.42512,21.79696",
+    "geom:latitude":21.79696,
+    "geom:longitude":106.42512,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Lo Chai",
+    "gn:country_code":"VN",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9889991,
+    "gn:latitude":21.79696,
+    "gn:longitude":106.42512,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"L\u1ed9 Ch\u1ea3i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u1ed9 Ch\u1ea3i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9889991
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d8b0e7c89ba3d534754e97d5e5e6e024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781097,
+            "locality_id":1360004745,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1360004745,
+    "wof:lastmodified":1537714552,
+    "wof:name":"Lo Chai",
+    "wof:parent_id":1108781097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42512,
+    21.79696,
+    106.42512,
+    21.79696
+],
+  "geometry": {"coordinates":[106.42512000000001,21.79696],"type":"Point"}
+}

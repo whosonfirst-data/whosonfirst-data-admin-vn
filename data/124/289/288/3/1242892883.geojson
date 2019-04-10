@@ -1,0 +1,67 @@
+{
+  "id": 1242892883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13333,17.85,106.13333,17.85",
+    "geom:latitude":17.85,
+    "geom:longitude":106.13333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Huyen Nuu",
+    "gn:country_code":"VN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580022,
+    "gn:latitude":17.85,
+    "gn:longitude":106.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Huy\u1ec1n N\u1eefu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580022
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73b30b8b773e2ef398c813761d873f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781527,
+            "locality_id":1242892883,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1242892883,
+    "wof:lastmodified":1536606660,
+    "wof:name":"Huyen Nuu",
+    "wof:parent_id":1108781527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13333,
+    17.85,
+    106.13333,
+    17.85
+],
+  "geometry": {"coordinates":[106.13333,17.85],"type":"Point"}
+}

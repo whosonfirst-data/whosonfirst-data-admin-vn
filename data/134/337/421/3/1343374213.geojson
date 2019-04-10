@@ -1,0 +1,70 @@
+{
+  "id": 1343374213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.33126,22.56521,104.33126,22.56521",
+    "geom:latitude":22.56521,
+    "geom:longitude":104.33126,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Ban Lau Thi Ngai",
+    "gn:country_code":"VN",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869346,
+    "gn:latitude":22.56521,
+    "gn:longitude":104.33126,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"B\u1ea3n L\u1ea7u Th\u00ed Ng\u00e0i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ea3n L\u1ea7u Th\u00ed Ng\u00e0i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869346
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"646e77e82ae87afb9dc37b92a2d00d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780945,
+            "locality_id":1343374213,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1343374213,
+    "wof:lastmodified":1537714530,
+    "wof:name":"Ban Lau Thi Ngai",
+    "wof:parent_id":1108780945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.33126,
+    22.56521,
+    104.33126,
+    22.56521
+],
+  "geometry": {"coordinates":[104.33126,22.56521],"type":"Point"}
+}

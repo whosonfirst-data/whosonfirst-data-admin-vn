@@ -1,0 +1,64 @@
+{
+  "id": 1209125121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.47072,21.3805,106.47072,21.3805",
+    "geom:latitude":21.3805,
+    "geom:longitude":106.47072,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"An Sang",
+    "gn:country_code":"VN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376644,
+    "gn:latitude":21.3805,
+    "gn:longitude":106.47072,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"An S\u00e1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "An S\u00e1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376644
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"01659607326fa8c782a23b9d277919dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209125121
+        }
+    ],
+    "wof:id":1209125121,
+    "wof:lastmodified":1537714301,
+    "wof:name":"An Sang",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.47072,
+    21.3805,
+    106.47072,
+    21.3805
+],
+  "geometry": {"coordinates":[106.47072,21.3805],"type":"Point"}
+}

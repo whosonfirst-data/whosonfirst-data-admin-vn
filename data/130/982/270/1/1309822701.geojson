@@ -1,0 +1,70 @@
+{
+  "id": 1309822701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57211,9.4839,105.57211,9.4839",
+    "geom:latitude":9.4839,
+    "geom:longitude":105.57211,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"My Tan",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534839,
+    "gn:latitude":9.4839,
+    "gn:longitude":105.57211,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"M\u1ef9 T\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "M\u1ef9 T\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680843,
+        1108782303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534839
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"65ca0a5623d461dc9213a97a269f0859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782303,
+            "locality_id":1309822701,
+            "region_id":85680843
+        }
+    ],
+    "wof:id":1309822701,
+    "wof:lastmodified":1537714489,
+    "wof:name":"My Tan",
+    "wof:parent_id":1108782303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57211,
+    9.4839,
+    105.57211,
+    9.4839
+],
+  "geometry": {"coordinates":[105.57211,9.4839],"type":"Point"}
+}

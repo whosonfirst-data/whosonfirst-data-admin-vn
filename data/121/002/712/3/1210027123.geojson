@@ -1,0 +1,72 @@
+{
+  "id": 1210027123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.88333,16.26667,107.88333,16.26667",
+    "geom:latitude":16.26667,
+    "geom:longitude":107.88333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Thon Dong Luu",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1565641,
+    "gn:latitude":16.26667,
+    "gn:longitude":107.88333,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Th\u00f4n \u0110\u00f4ng L\u01b0u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0110ong L\u01b0u",
+        "Tr\u00fac L\u01b0u \u00c2p",
+        "Th\u00f4n \u0110\u00f4ng L\u01b0u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1565641
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6bef153e5bb341f8afc4d925aaa1b674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781573,
+            "locality_id":1210027123,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1210027123,
+    "wof:lastmodified":1537713762,
+    "wof:name":"Thon Dong Luu",
+    "wof:parent_id":1108781573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.88333,
+    16.26667,
+    107.88333,
+    16.26667
+],
+  "geometry": {"coordinates":[107.88333,16.26667],"type":"Point"}
+}

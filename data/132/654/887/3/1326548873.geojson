@@ -1,0 +1,67 @@
+{
+  "id": 1326548873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48333,17.55,106.48333,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":106.48333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Hoanh Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580654,
+    "gn:latitude":17.55,
+    "gn:longitude":106.48333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ho\u00e0nh Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580654
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b238e1f4a91f949cc12588d78b8e0641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1326548873,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1326548873,
+    "wof:lastmodified":1536959962,
+    "wof:name":"Hoanh Kinh",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48333,
+    17.55,
+    106.48333,
+    17.55
+],
+  "geometry": {"coordinates":[106.48333,17.55],"type":"Point"}
+}

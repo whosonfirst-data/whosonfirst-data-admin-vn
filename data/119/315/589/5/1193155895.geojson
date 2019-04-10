@@ -1,0 +1,67 @@
+{
+  "id": 1193155895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5,21.56667,104.5,21.56667",
+    "geom:latitude":21.56667,
+    "geom:longitude":104.5,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Ban Thon",
+    "gn:country_code":"VN",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588581,
+    "gn:latitude":21.56667,
+    "gn:longitude":104.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Th\u00f2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588581
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e5aa0d4c1642e9fc296fbab50d7222cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1193155895,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1193155895,
+    "wof:lastmodified":1536373277,
+    "wof:name":"Ban Thon",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5,
+    21.56667,
+    104.5,
+    21.56667
+],
+  "geometry": {"coordinates":[104.5,21.56667],"type":"Point"}
+}

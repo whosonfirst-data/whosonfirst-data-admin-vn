@@ -1,0 +1,67 @@
+{
+  "id": 1327442177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.1,12.81667,108.1,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":108.1,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Quang Nhieu",
+    "gn:country_code":"VN",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1568760,
+    "gn:latitude":12.81667,
+    "gn:longitude":108.1,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Qu\u1ea3ng Nhi\u00eau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1568760
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5077b1976815bd2d47bdfd20ec4d4428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781843,
+            "locality_id":1327442177,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1327442177,
+    "wof:lastmodified":1536666635,
+    "wof:name":"Quang Nhieu",
+    "wof:parent_id":1108781843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.1,
+    12.81667,
+    108.1,
+    12.81667
+],
+  "geometry": {"coordinates":[108.09999999999999,12.81667],"type":"Point"}
+}

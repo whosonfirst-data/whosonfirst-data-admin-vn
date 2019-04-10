@@ -1,0 +1,67 @@
+{
+  "id": 1242626711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48333,21.11667,106.48333,21.11667",
+    "geom:latitude":21.11667,
+    "geom:longitude":106.48333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dao Duong",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583841,
+    "gn:latitude":21.11667,
+    "gn:longitude":106.48333,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dao D\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583841
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"17493ca944b113a922d4d1c5403a71a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781135,
+            "locality_id":1242626711,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1242626711,
+    "wof:lastmodified":1536992360,
+    "wof:name":"Dao Duong",
+    "wof:parent_id":1108781135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48333,
+    21.11667000000001,
+    106.48333,
+    21.11667000000001
+],
+  "geometry": {"coordinates":[106.48333,21.11667000000001],"type":"Point"}
+}

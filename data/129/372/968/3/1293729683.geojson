@@ -1,0 +1,67 @@
+{
+  "id": 1293729683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.5,21.53333,107.5,21.53333",
+    "geom:latitude":21.53333,
+    "geom:longitude":107.5,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Dinh Duong",
+    "gn:country_code":"VN",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583356,
+    "gn:latitude":21.53333,
+    "gn:longitude":107.5,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Dinh Duong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583356
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6e2688d4b600f8852d34db9b11dc122e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781119,
+            "locality_id":1293729683,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1293729683,
+    "wof:lastmodified":1536935870,
+    "wof:name":"Dinh Duong",
+    "wof:parent_id":1108781119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.5,
+    21.53333,
+    107.5,
+    21.53333
+],
+  "geometry": {"coordinates":[107.5,21.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277125097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.43333,15.68333,108.43333,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":108.43333,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Tu Chanh An Son",
+    "gn:country_code":"VN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563484,
+    "gn:latitude":15.68333,
+    "gn:longitude":108.43333,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"T\u00fa Ch\u00e1nh An S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563484
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"045a49f79b98cd6c645c635535127e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781619,
+            "locality_id":1277125097,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1277125097,
+    "wof:lastmodified":1536706992,
+    "wof:name":"Tu Chanh An Son",
+    "wof:parent_id":1108781619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.43333,
+    15.68333,
+    108.43333,
+    15.68333
+],
+  "geometry": {"coordinates":[108.43333,15.68333],"type":"Point"}
+}

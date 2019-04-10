@@ -1,0 +1,67 @@
+{
+  "id": 1209929801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82692,22.311,105.82692,22.311",
+    "geom:latitude":22.311,
+    "geom:longitude":105.82692,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Khuoi Nung",
+    "gn:country_code":"VN",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8311540,
+    "gn:latitude":22.311,
+    "gn:longitude":105.82692,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Khu\u1ed5i N\u00f9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8311540
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"05b1eedb7e10af729a6e5797625bc748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780907,
+            "locality_id":1209929801,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1209929801,
+    "wof:lastmodified":1536393240,
+    "wof:name":"Khuoi Nung",
+    "wof:parent_id":1108780907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82692,
+    22.311,
+    105.82692,
+    22.311
+],
+  "geometry": {"coordinates":[105.82692,22.311],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210027253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.63333,16.11667,107.63333,16.11667",
+    "geom:latitude":16.11667,
+    "geom:longitude":107.63333,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Tan Hom",
+    "gn:country_code":"VN",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1566940,
+    "gn:latitude":16.11667,
+    "gn:longitude":107.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tan Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1566940
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"0d10175d9ff8a88b8aa291376b385565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781575,
+            "locality_id":1210027253,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1210027253,
+    "wof:lastmodified":1536390172,
+    "wof:name":"Tan Hom",
+    "wof:parent_id":1108781575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.63333,
+    16.11667000000001,
+    107.63333,
+    16.11667000000001
+],
+  "geometry": {"coordinates":[107.63333,16.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226410243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35,10.86667,106.35,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":106.35,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Binh Thi",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587762,
+    "gn:latitude":10.86667,
+    "gn:longitude":106.35,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"B\u00ecnh Thi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680817,
+        1108782077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587762
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5fefaedaa07fe0d01ac38eb46581bb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782077,
+            "locality_id":1226410243,
+            "region_id":85680817
+        }
+    ],
+    "wof:id":1226410243,
+    "wof:lastmodified":1536696981,
+    "wof:name":"Binh Thi",
+    "wof:parent_id":1108782077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35,
+    10.86667,
+    106.35,
+    10.86667
+],
+  "geometry": {"coordinates":[106.34999999999999,10.86667],"type":"Point"}
+}

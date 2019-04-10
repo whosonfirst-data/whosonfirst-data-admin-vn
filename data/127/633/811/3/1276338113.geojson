@@ -1,0 +1,73 @@
+{
+  "id": 1276338113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39762,10.39653,105.39762,10.39653",
+    "geom:latitude":10.39653,
+    "geom:longitude":105.39762,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Binh Khanh Bon",
+    "gn:country_code":"VN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336832,
+    "gn:latitude":10.39653,
+    "gn:longitude":105.39762,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"B\u00ecnh Kh\u00e1nh B\u1ed1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u00ecnh Kh\u00e1nh B\u1ed1n"
+    ],
+    "name:vie_x_variant":[
+        "B\u00ecnh Kh\u00e1nh 4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680797,
+        1108782195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336832
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"8b243c95256eb33ae5393a7ea87216d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782195,
+            "locality_id":1276338113,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":1276338113,
+    "wof:lastmodified":1537714277,
+    "wof:name":"Binh Khanh Bon",
+    "wof:parent_id":1108782195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39762,
+    10.39653,
+    105.39762,
+    10.39653
+],
+  "geometry": {"coordinates":[105.39762,10.39653],"type":"Point"}
+}

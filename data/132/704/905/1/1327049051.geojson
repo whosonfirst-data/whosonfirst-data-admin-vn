@@ -1,0 +1,67 @@
+{
+  "id": 1327049051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65,22.15,106.65,22.15",
+    "geom:latitude":22.15,
+    "geom:longitude":106.65,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Khuoi Siu",
+    "gn:country_code":"VN",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1579085,
+    "gn:latitude":22.15,
+    "gn:longitude":106.65,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Khu\u00f4i Siu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1579085
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f066aff9a1ee1c0c4940abda93624c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1327049051,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1327049051,
+    "wof:lastmodified":1536736443,
+    "wof:name":"Khuoi Siu",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65,
+    22.15,
+    106.65,
+    22.15
+],
+  "geometry": {"coordinates":[106.65000000000001,22.15],"type":"Point"}
+}

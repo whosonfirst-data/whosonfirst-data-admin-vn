@@ -1,0 +1,67 @@
+{
+  "id": 1243569737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98333,20.61667,104.98333,20.61667",
+    "geom:latitude":20.61667,
+    "geom:longitude":104.98333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ban Ngoa",
+    "gn:country_code":"VN",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1589366,
+    "gn:latitude":20.61667,
+    "gn:longitude":104.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n Ngoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680633,
+        1108781057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1589366
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"1c9dc5925efbb724758db033c1b3e5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781057,
+            "locality_id":1243569737,
+            "region_id":85680633
+        }
+    ],
+    "wof:id":1243569737,
+    "wof:lastmodified":1536625949,
+    "wof:name":"Ban Ngoa",
+    "wof:parent_id":1108781057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98333,
+    20.61667000000001,
+    104.98333,
+    20.61667000000001
+],
+  "geometry": {"coordinates":[104.98333,20.61667000000001],"type":"Point"}
+}

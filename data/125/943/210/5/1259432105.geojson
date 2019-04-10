@@ -1,0 +1,67 @@
+{
+  "id": 1259432105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,21.05,106.61667,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":106.61667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Trang Bach",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564047,
+    "gn:latitude":21.05,
+    "gn:longitude":106.61667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Tr\u00e0ng B\u1ea1ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680583,
+        1108781135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564047
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51554aa19e2bfc3a0b1b51e05946a525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781135,
+            "locality_id":1259432105,
+            "region_id":85680583
+        }
+    ],
+    "wof:id":1259432105,
+    "wof:lastmodified":1536933550,
+    "wof:name":"Trang Bach",
+    "wof:parent_id":1108781135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    21.05,
+    106.61667,
+    21.05
+],
+  "geometry": {"coordinates":[106.61667,21.05],"type":"Point"}
+}

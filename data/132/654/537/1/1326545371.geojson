@@ -1,0 +1,73 @@
+{
+  "id": 1326545371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79071,22.54228,103.79071,22.54228",
+    "geom:latitude":22.54228,
+    "geom:longitude":103.79071,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Chau Ta",
+    "gn:country_code":"VN",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585642,
+    "gn:latitude":22.54228,
+    "gn:longitude":103.79071,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Ch\u00e2u T\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00e1u N\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Ch\u00e2u T\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680867,
+        1108780939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585642
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e593cb6fad13df047cc6c3b30c10e1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780939,
+            "locality_id":1326545371,
+            "region_id":85680867
+        }
+    ],
+    "wof:id":1326545371,
+    "wof:lastmodified":1537714026,
+    "wof:name":"Chau Ta",
+    "wof:parent_id":1108780939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79071,
+    22.54228,
+    103.79071,
+    22.54228
+],
+  "geometry": {"coordinates":[103.79071,22.54228],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293400673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.31667,13.78333,108.31667,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":108.31667,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Plei Dot",
+    "gn:country_code":"VN",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1569572,
+    "gn:latitude":13.78333,
+    "gn:longitude":108.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Plei Dot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680713,
+        1108781807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1569572
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7651252ba3d8632c83eb155b6e183f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781807,
+            "locality_id":1293400673,
+            "region_id":85680713
+        }
+    ],
+    "wof:id":1293400673,
+    "wof:lastmodified":1536912466,
+    "wof:name":"Plei Dot",
+    "wof:parent_id":1108781807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.31667,
+    13.78333,
+    108.31667,
+    13.78333
+],
+  "geometry": {"coordinates":[108.31667,13.78333],"type":"Point"}
+}

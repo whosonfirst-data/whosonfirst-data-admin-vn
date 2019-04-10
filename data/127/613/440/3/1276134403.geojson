@@ -1,0 +1,67 @@
+{
+  "id": 1276134403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9,23.16667,104.9,23.16667",
+    "geom:latitude":23.16667,
+    "geom:longitude":104.9,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lang Me",
+    "gn:country_code":"VN",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1576993,
+    "gn:latitude":23.16667,
+    "gn:longitude":104.9,
+    "gn:modification_date":"2000-12-07",
+    "gn:name":"L\u00e0ng Me",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1576993
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"e2e0fa702a6866150f99f8c6e3ede112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780859,
+            "locality_id":1276134403,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1276134403,
+    "wof:lastmodified":1537043339,
+    "wof:name":"Lang Me",
+    "wof:parent_id":1108780859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9,
+    23.16667,
+    104.9,
+    23.16667
+],
+  "geometry": {"coordinates":[104.90000000000001,23.16667],"type":"Point"}
+}

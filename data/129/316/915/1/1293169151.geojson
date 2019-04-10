@@ -1,0 +1,73 @@
+{
+  "id": 1293169151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.58043,11.83052,108.58043,11.83052",
+    "geom:latitude":11.83052,
+    "geom:longitude":108.58043,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lac Xuan",
+    "gn:country_code":"VN",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593179,
+    "gn:latitude":11.83052,
+    "gn:longitude":108.58043,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"L\u1ea1c Xu\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p L\u1ea1c Xu\u00e2n"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ea1c Xu\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680723,
+        1108781895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593179
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d083e0a0b3907378bf6ea9c49e2465b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781895,
+            "locality_id":1293169151,
+            "region_id":85680723
+        }
+    ],
+    "wof:id":1293169151,
+    "wof:lastmodified":1537714179,
+    "wof:name":"Lac Xuan",
+    "wof:parent_id":1108781895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.58043,
+    11.83052,
+    108.58043,
+    11.83052
+],
+  "geometry": {"coordinates":[108.58043000000001,11.83052],"type":"Point"}
+}

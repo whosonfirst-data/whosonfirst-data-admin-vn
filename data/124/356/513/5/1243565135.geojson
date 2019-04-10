@@ -1,0 +1,70 @@
+{
+  "id": 1243565135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65367,18.27187,105.65367,18.27187",
+    "geom:latitude":18.27187,
+    "geom:longitude":105.65367,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Xom Bang",
+    "gn:country_code":"VN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354234,
+    "gn:latitude":18.27187,
+    "gn:longitude":105.65367,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"X\u00f3m B\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "X\u00f3m B\u00e0ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354234
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f071ef444b690b32afe29b142b97b106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1243565135,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1243565135,
+    "wof:lastmodified":1537714711,
+    "wof:name":"Xom Bang",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65367,
+    18.27187,
+    105.65367,
+    18.27187
+],
+  "geometry": {"coordinates":[105.65367000000001,18.27187],"type":"Point"}
+}

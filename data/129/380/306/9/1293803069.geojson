@@ -1,0 +1,73 @@
+{
+  "id": 1293803069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81095,20.56411,105.81095,20.56411",
+    "geom:latitude":20.56411,
+    "geom:longitude":105.81095,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Tam Chuc",
+    "gn:country_code":"VN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567188,
+    "gn:latitude":20.56411,
+    "gn:longitude":105.81095,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tam Ch\u00fac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam Ch\u1ee9c"
+    ],
+    "name:vie_x_preferred":[
+        "Tam Ch\u00fac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567188
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"557d8450bb516b3a150b480cd14dedfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781337,
+            "locality_id":1293803069,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1293803069,
+    "wof:lastmodified":1537713786,
+    "wof:name":"Tam Chuc",
+    "wof:parent_id":1108781337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81095,
+    20.56411,
+    105.81095,
+    20.56411
+],
+  "geometry": {"coordinates":[105.81095000000001,20.56411],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310516879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02024,21.46276,105.02024,21.46276",
+    "geom:latitude":21.46276,
+    "geom:longitude":105.02024,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Hoang Luong",
+    "gn:country_code":"VN",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1580696,
+    "gn:latitude":21.46276,
+    "gn:longitude":105.02024,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"Ho\u00e0ng L\u01b0\u01a1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoang Lnong"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng L\u01b0\u01a1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680681,
+        1108781183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1580696
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"5072cf43f92c3c0546ea6dd715f433a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781183,
+            "locality_id":1310516879,
+            "region_id":85680681
+        }
+    ],
+    "wof:id":1310516879,
+    "wof:lastmodified":1537713967,
+    "wof:name":"Hoang Luong",
+    "wof:parent_id":1108781183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02024,
+    21.46276,
+    105.02024,
+    21.46276
+],
+  "geometry": {"coordinates":[105.02024,21.46276],"type":"Point"}
+}

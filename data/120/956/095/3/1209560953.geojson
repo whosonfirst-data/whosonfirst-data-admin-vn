@@ -1,0 +1,64 @@
+{
+  "id": 1209560953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99101,21.03141,106.99101,21.03141",
+    "geom:latitude":21.03141,
+    "geom:longitude":106.99101,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Troi",
+    "gn:country_code":"VN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8596004,
+    "gn:latitude":21.03141,
+    "gn:longitude":106.99101,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Tr\u1edbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Tr\u1edbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596004
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2cbf798e1b6b8ec2f6885b719cff319c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209560953
+        }
+    ],
+    "wof:id":1209560953,
+    "wof:lastmodified":1537714361,
+    "wof:name":"Troi",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99101,
+    21.03141,
+    106.99101,
+    21.03141
+],
+  "geometry": {"coordinates":[106.99101,21.03141],"type":"Point"}
+}

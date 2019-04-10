@@ -1,0 +1,70 @@
+{
+  "id": 1310121473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.07623,16.90443,107.07623,16.90443",
+    "geom:latitude":16.90443,
+    "geom:longitude":107.07623,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Ha Thanh",
+    "gn:country_code":"VN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581068,
+    "gn:latitude":16.90443,
+    "gn:longitude":107.07623,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"H\u00e0 Thanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0 Thanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581068
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ef55930bb541dba91ea94f850d0ebd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781547,
+            "locality_id":1310121473,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1310121473,
+    "wof:lastmodified":1537713972,
+    "wof:name":"Ha Thanh",
+    "wof:parent_id":1108781547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.07623,
+    16.90443,
+    107.07623,
+    16.90443
+],
+  "geometry": {"coordinates":[107.07623,16.90443],"type":"Point"}
+}

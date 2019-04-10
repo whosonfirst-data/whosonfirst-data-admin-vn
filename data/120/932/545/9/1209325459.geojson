@@ -1,0 +1,64 @@
+{
+  "id": 1209325459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.835,9.59857,105.835,9.59857",
+    "geom:latitude":9.59857,
+    "geom:longitude":105.835,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Thien Binh",
+    "gn:country_code":"VN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534921,
+    "gn:latitude":9.59857,
+    "gn:longitude":105.835,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Thi\u00ean B\u00ecnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Thi\u00ean B\u00ecnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534921
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"73be2f2e9b35647742ba650af669b91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209325459
+        }
+    ],
+    "wof:id":1209325459,
+    "wof:lastmodified":1537714492,
+    "wof:name":"Thien Binh",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.835,
+    9.59857,
+    105.835,
+    9.59857
+],
+  "geometry": {"coordinates":[105.83499999999999,9.59857],"type":"Point"}
+}

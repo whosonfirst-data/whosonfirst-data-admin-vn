@@ -1,0 +1,67 @@
+{
+  "id": 1344267985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38333,21.21667,103.38333,21.21667",
+    "geom:latitude":21.21667,
+    "geom:longitude":103.38333,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Na Han",
+    "gn:country_code":"VN",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573814,
+    "gn:latitude":21.21667,
+    "gn:longitude":103.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Na Han",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680593,
+        1108780971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573814
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ec9969b74b2586b40ce983faa5373534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780971,
+            "locality_id":1344267985,
+            "region_id":85680593
+        }
+    ],
+    "wof:id":1344267985,
+    "wof:lastmodified":1537070158,
+    "wof:name":"Na Han",
+    "wof:parent_id":1108780971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38333,
+    21.21667,
+    103.38333,
+    21.21667
+],
+  "geometry": {"coordinates":[103.38333,21.21667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343277365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,17.66667,106.38333,17.66667",
+    "geom:latitude":17.66667,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"62.0",
+    "gn:asciiname":"Phu Kinh",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570541,
+    "gn:latitude":17.66667,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ph\u00fa Kinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680703,
+        1108781531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570541
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"305abcdfc5291b45f2f2e97ccf88f87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781531,
+            "locality_id":1343277365,
+            "region_id":85680703
+        }
+    ],
+    "wof:id":1343277365,
+    "wof:lastmodified":1537009756,
+    "wof:name":"Phu Kinh",
+    "wof:parent_id":1108781531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    17.66667,
+    106.38333,
+    17.66667
+],
+  "geometry": {"coordinates":[106.38333,17.66667],"type":"Point"}
+}

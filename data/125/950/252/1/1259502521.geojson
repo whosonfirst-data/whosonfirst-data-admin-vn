@@ -1,0 +1,70 @@
+{
+  "id": 1259502521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49985,21.65304,104.49985,21.65304",
+    "geom:latitude":21.65304,
+    "geom:longitude":104.49985,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Nong Truong Lien Son",
+    "gn:country_code":"VN",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8526371,
+    "gn:latitude":21.65304,
+    "gn:longitude":104.49985,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"N\u00f4ng Tr\u01b0\u1eddng Li\u00ean S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00f4ng Tr\u01b0\u1eddng Li\u00ean S\u01a1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680629,
+        1108781035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8526371
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3784ec4d58688ea7b120102a1232529d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781035,
+            "locality_id":1259502521,
+            "region_id":85680629
+        }
+    ],
+    "wof:id":1259502521,
+    "wof:lastmodified":1537714332,
+    "wof:name":"Nong Truong Lien Son",
+    "wof:parent_id":1108781035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49985,
+    21.65304,
+    104.49985,
+    21.65304
+],
+  "geometry": {"coordinates":[104.49985,21.65304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243187663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6701,22.02124,106.6701,22.02124",
+    "geom:latitude":22.02124,
+    "geom:longitude":106.6701,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Ban Na Tong",
+    "gn:country_code":"VN",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572807,
+    "gn:latitude":22.02124,
+    "gn:longitude":106.6701,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u1ea3n N\u00e0 T\u1ed5ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ea3n N\u00e0 T\u1ed5ng",
+        "N\u00e0 T\u1ed3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680611,
+        1108781093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572807
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"7bdaad344727656074e44381a2e5ad6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781093,
+            "locality_id":1243187663,
+            "region_id":85680611
+        }
+    ],
+    "wof:id":1243187663,
+    "wof:lastmodified":1537713861,
+    "wof:name":"Ban Na Tong",
+    "wof:parent_id":1108781093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6701,
+    22.02124,
+    106.6701,
+    22.02124
+],
+  "geometry": {"coordinates":[106.67010000000001,22.02124],"type":"Point"}
+}

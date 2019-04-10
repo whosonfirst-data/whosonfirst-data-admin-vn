@@ -1,0 +1,67 @@
+{
+  "id": 1242981487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31667,22.35,105.31667,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":105.31667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Nang Kha",
+    "gn:country_code":"VN",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1573052,
+    "gn:latitude":22.35,
+    "gn:longitude":105.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u0103ng Kh\u1ea3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680627,
+        1108780925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1573052
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"bbda4e31e88a38b19a68c2586de33218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780925,
+            "locality_id":1242981487,
+            "region_id":85680627
+        }
+    ],
+    "wof:id":1242981487,
+    "wof:lastmodified":1536978215,
+    "wof:name":"Nang Kha",
+    "wof:parent_id":1108780925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31667,
+    22.35,
+    105.31667,
+    22.35
+],
+  "geometry": {"coordinates":[105.31667,22.35],"type":"Point"}
+}

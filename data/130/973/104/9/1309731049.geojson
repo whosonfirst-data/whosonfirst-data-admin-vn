@@ -1,0 +1,70 @@
+{
+  "id": 1309731049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90808,20.41919,105.90808,20.41919",
+    "geom:latitude":20.41919,
+    "geom:longitude":105.90808,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Bong Lang",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8564158,
+    "gn:latitude":20.41919,
+    "gn:longitude":105.90808,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"B\u1ed3ng L\u1ea1ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "B\u1ed3ng L\u1ea1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564158
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"105dc70bbf23d8eb624e3d9316c84af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781339,
+            "locality_id":1309731049,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1309731049,
+    "wof:lastmodified":1537714356,
+    "wof:name":"Bong Lang",
+    "wof:parent_id":1108781339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90808,
+    20.41919,
+    105.90808,
+    20.41919
+],
+  "geometry": {"coordinates":[105.90808,20.41919],"type":"Point"}
+}

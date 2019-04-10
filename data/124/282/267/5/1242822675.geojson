@@ -1,0 +1,68 @@
+{
+  "id": 1242822675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.67144,15.41624,108.67144,15.41624",
+    "geom:latitude":15.41624,
+    "geom:longitude":108.67144,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Chu Lai",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1585232,
+    "gn:latitude":15.41624,
+    "gn:longitude":108.67144,
+    "gn:modification_date":"2013-03-30",
+    "gn:name":"Chu Lai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680761,
+        1108781627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585232,
+        "wk:page":"Chu_Lai"
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2f5722ca3ec784d2921ed2fd0a6d0c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781627,
+            "locality_id":1242822675,
+            "region_id":85680761
+        }
+    ],
+    "wof:id":1242822675,
+    "wof:lastmodified":1537575887,
+    "wof:name":"Chu Lai",
+    "wof:parent_id":1108781627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.67144,
+    15.41624,
+    108.67144,
+    15.41624
+],
+  "geometry": {"coordinates":[108.67144,15.41624],"type":"Point"}
+}

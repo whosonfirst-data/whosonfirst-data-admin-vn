@@ -1,0 +1,70 @@
+{
+  "id": 1293498313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12706,22.98264,105.12706,22.98264",
+    "geom:latitude":22.98264,
+    "geom:longitude":105.12706,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Lung Hau",
+    "gn:country_code":"VN",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8309377,
+    "gn:latitude":22.98264,
+    "gn:longitude":105.12706,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"L\u0169ng H\u1eadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "L\u0169ng H\u1eadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8309377
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"fc3f06d49b44b0d4470b5c1bc15416af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780859,
+            "locality_id":1293498313,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":1293498313,
+    "wof:lastmodified":1537714254,
+    "wof:name":"Lung Hau",
+    "wof:parent_id":1108780859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12706,
+    22.98264,
+    105.12706,
+    22.98264
+],
+  "geometry": {"coordinates":[105.12706,22.98264],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276563703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,20.56667,105.9,20.56667",
+    "geom:latitude":20.56667,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Van Chu",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563157,
+    "gn:latitude":20.56667,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u00e2n Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Van Chau",
+        "V\u00e2n Chu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680671,
+        1108781337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563157
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"46208ad5bd1560242e94e4751c64e19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781337,
+            "locality_id":1276563703,
+            "region_id":85680671
+        }
+    ],
+    "wof:id":1276563703,
+    "wof:lastmodified":1537713717,
+    "wof:name":"Van Chu",
+    "wof:parent_id":1108781337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    20.56667,
+    105.9,
+    20.56667
+],
+  "geometry": {"coordinates":[105.90000000000001,20.56667],"type":"Point"}
+}

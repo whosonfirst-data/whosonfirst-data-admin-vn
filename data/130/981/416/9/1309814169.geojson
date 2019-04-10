@@ -1,0 +1,67 @@
+{
+  "id": 1309814169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,21.46667,106.0,21.46667",
+    "geom:latitude":21.46667,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Tien La",
+    "gn:country_code":"VN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1564655,
+    "gn:latitude":21.46667,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ti\u00ean La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680605,
+        1108781083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1564655
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"3389325087142a29b470947df9d3638c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781083,
+            "locality_id":1309814169,
+            "region_id":85680605
+        }
+    ],
+    "wof:id":1309814169,
+    "wof:lastmodified":1536919527,
+    "wof:name":"Tien La",
+    "wof:parent_id":1108781083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    21.46667,
+    106.0,
+    21.46667
+],
+  "geometry": {"coordinates":[106.0,21.46667],"type":"Point"}
+}

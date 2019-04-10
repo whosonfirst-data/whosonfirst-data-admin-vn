@@ -1,0 +1,73 @@
+{
+  "id": 1276782743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76378,18.13826,105.76378,18.13826",
+    "geom:latitude":18.13826,
+    "geom:longitude":105.76378,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ha Vang",
+    "gn:country_code":"VN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8637677,
+    "gn:latitude":18.13826,
+    "gn:longitude":105.76378,
+    "gn:modification_date":"2015-06-09",
+    "gn:name":"H\u00e0 Vang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "H\u00e0 V\u00e0ng"
+    ],
+    "name:vie_x_variant":[
+        "H\u00e0 Vang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680695,
+        1108781511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8637677
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"b9158c49c97fcdc4cfc0bfe07492772e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781511,
+            "locality_id":1276782743,
+            "region_id":85680695
+        }
+    ],
+    "wof:id":1276782743,
+    "wof:lastmodified":1537714387,
+    "wof:name":"Ha Vang",
+    "wof:parent_id":1108781511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76378,
+    18.13826,
+    105.76378,
+    18.13826
+],
+  "geometry": {"coordinates":[105.76378,18.13826],"type":"Point"}
+}

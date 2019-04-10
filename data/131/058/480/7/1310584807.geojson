@@ -1,0 +1,67 @@
+{
+  "id": 1310584807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6,20.7,106.6,20.7",
+    "geom:latitude":20.7,
+    "geom:longitude":106.6,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Doc Hanh",
+    "gn:country_code":"VN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1583216,
+    "gn:latitude":20.7,
+    "gn:longitude":106.6,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0110\u1ed1c H\u00e0nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680645,
+        1108781285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1583216
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"79b350da444eca01cd6aea99e60a3832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781285,
+            "locality_id":1310584807,
+            "region_id":85680645
+        }
+    ],
+    "wof:id":1310584807,
+    "wof:lastmodified":1536802553,
+    "wof:name":"Doc Hanh",
+    "wof:parent_id":1108781285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6,
+    20.7,
+    106.6,
+    20.7
+],
+  "geometry": {"coordinates":[106.59999999999999,20.7],"type":"Point"}
+}

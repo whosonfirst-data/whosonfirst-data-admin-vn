@@ -1,0 +1,61 @@
+{
+  "id": 1209398431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.46667,20.68333,106.46667,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":106.46667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gia Phong",
+    "gn:country_code":"VN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581782,
+    "gn:latitude":20.68333,
+    "gn:longitude":106.46667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Gia Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581782
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"71acf4a2def83022254bcf30af352e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209398431
+        }
+    ],
+    "wof:id":1209398431,
+    "wof:lastmodified":1536288225,
+    "wof:name":"Gia Phong",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.46667,
+    20.68333,
+    106.46667,
+    20.68333
+],
+  "geometry": {"coordinates":[106.46666999999999,20.68333],"type":"Point"}
+}

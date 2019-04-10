@@ -1,0 +1,67 @@
+{
+  "id": 1277117237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,19.55,105.75,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Dong Ly",
+    "gn:country_code":"VN",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1582765,
+    "gn:latitude":19.55,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u0110\u00f4ng L\u00fd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1582765
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d840dc54d3d6fdad089f8b39649ff12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781445,
+            "locality_id":1277117237,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1277117237,
+    "wof:lastmodified":1536718218,
+    "wof:name":"Dong Ly",
+    "wof:parent_id":1108781445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    19.55,
+    105.75,
+    19.55
+],
+  "geometry": {"coordinates":[105.75,19.55],"type":"Point"}
+}

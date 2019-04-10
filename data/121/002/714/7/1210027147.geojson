@@ -1,0 +1,72 @@
+{
+  "id": 1210027147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35,18.7,105.35,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":105.35,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Vu Liet",
+    "gn:country_code":"VN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1562433,
+    "gn:latitude":18.7,
+    "gn:longitude":105.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0169 Li\u1ec7t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Va Liet",
+        "Vo Liet",
+        "V\u0169 Li\u1ec7t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680699,
+        1108781483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1562433
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"530c51e4949f0febec4e5fba8a52b8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781483,
+            "locality_id":1210027147,
+            "region_id":85680699
+        }
+    ],
+    "wof:id":1210027147,
+    "wof:lastmodified":1537713707,
+    "wof:name":"Vu Liet",
+    "wof:parent_id":1108781483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35,
+    18.7,
+    105.35,
+    18.7
+],
+  "geometry": {"coordinates":[105.34999999999999,18.7],"type":"Point"}
+}

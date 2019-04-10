@@ -1,0 +1,67 @@
+{
+  "id": 1309750833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45,19.63333,105.45,19.63333",
+    "geom:latitude":19.63333,
+    "geom:longitude":105.45,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Xom Thao",
+    "gn:country_code":"VN",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1560905,
+    "gn:latitude":19.63333,
+    "gn:longitude":105.45,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"X\u00f3m Thao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680619,
+        1108781435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1560905
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"51379055b56aff908be8eb4a25b6a570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781435,
+            "locality_id":1309750833,
+            "region_id":85680619
+        }
+    ],
+    "wof:id":1309750833,
+    "wof:lastmodified":1537009593,
+    "wof:name":"Xom Thao",
+    "wof:parent_id":1108781435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45,
+    19.63333,
+    105.45,
+    19.63333
+],
+  "geometry": {"coordinates":[105.45,19.63333],"type":"Point"}
+}

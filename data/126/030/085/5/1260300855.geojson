@@ -1,0 +1,74 @@
+{
+  "id": 1260300855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.07114,12.77795,108.07114,12.77795",
+    "geom:latitude":12.77795,
+    "geom:longitude":108.07114,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Ea Poc",
+    "gn:country_code":"VN",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1587026,
+    "gn:latitude":12.77795,
+    "gn:longitude":108.07114,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Ea P\u1ed1c",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buon Poch",
+        "Bu\u00f4n Ea P\u00f4c"
+    ],
+    "name:vie_x_preferred":[
+        "Ea P\u1ed1c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1587026
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"44b13e765dbdeb18b5ab9789fe7c92a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781843,
+            "locality_id":1260300855,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1260300855,
+    "wof:lastmodified":1537714052,
+    "wof:name":"Ea Poc",
+    "wof:parent_id":1108781843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.07114,
+    12.77795,
+    108.07114,
+    12.77795
+],
+  "geometry": {"coordinates":[108.07114,12.77795],"type":"Point"}
+}

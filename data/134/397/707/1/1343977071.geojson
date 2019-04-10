@@ -1,0 +1,70 @@
+{
+  "id": 1343977071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.10339,17.0638,107.10339,17.0638",
+    "geom:latitude":17.0638,
+    "geom:longitude":107.10339,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Son Thuong",
+    "gn:country_code":"VN",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321487,
+    "gn:latitude":17.0638,
+    "gn:longitude":107.10339,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"S\u01a1n Th\u01b0\u1ee3ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "S\u01a1n Th\u01b0\u1ee3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321487
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d7219a085c7d42a8616dd9717b6bae88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1343977071,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1343977071,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Son Thuong",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.10339,
+    17.0638,
+    107.10339,
+    17.0638
+],
+  "geometry": {"coordinates":[107.10339,17.0638],"type":"Point"}
+}

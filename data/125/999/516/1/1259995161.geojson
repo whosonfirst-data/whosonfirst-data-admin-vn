@@ -1,0 +1,72 @@
+{
+  "id": 1259995161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01667,9.86361,106.01667,9.86361",
+    "geom:latitude":9.86361,
+    "geom:longitude":106.01667,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ben Cau",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1588058,
+    "gn:latitude":9.86361,
+    "gn:longitude":106.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u1ebfn C\u1ea7u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u1ebfn C\u00e1t",
+        "B\u1ebfn C\u1ea7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680849,
+        1108782137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1588058
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"59033d76048c6725113b2251cc780ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782137,
+            "locality_id":1259995161,
+            "region_id":85680849
+        }
+    ],
+    "wof:id":1259995161,
+    "wof:lastmodified":1537714073,
+    "wof:name":"Ben Cau",
+    "wof:parent_id":1108782137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01667,
+    9.86361,
+    106.01667,
+    9.86361
+],
+  "geometry": {"coordinates":[106.01667,9.86361],"type":"Point"}
+}

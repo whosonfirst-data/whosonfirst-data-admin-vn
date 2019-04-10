@@ -1,0 +1,73 @@
+{
+  "id": 1226361325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.81401,12.75693,108.81401,12.75693",
+    "geom:latitude":12.75693,
+    "geom:longitude":108.81401,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Thon Muoi Tam",
+    "gn:country_code":"VN",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311154,
+    "gn:latitude":12.75693,
+    "gn:longitude":108.81401,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Th\u00f4n M\u01b0\u1eddi T\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Th\u00f4n M\u01b0\u1eddi T\u00e1m"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00f4n 18"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680707,
+        1108781853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311154
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"aaeaf5cc459305f5a65bdfa0dce37148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781853,
+            "locality_id":1226361325,
+            "region_id":85680707
+        }
+    ],
+    "wof:id":1226361325,
+    "wof:lastmodified":1537714687,
+    "wof:name":"Thon Muoi Tam",
+    "wof:parent_id":1108781853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.81401,
+    12.75693,
+    108.81401,
+    12.75693
+],
+  "geometry": {"coordinates":[108.81401,12.75693],"type":"Point"}
+}

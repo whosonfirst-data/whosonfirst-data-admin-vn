@@ -1,0 +1,74 @@
+{
+  "id": 1209826259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.4076,16.72289,107.4076,16.72289",
+    "geom:latitude":16.72289,
+    "geom:longitude":107.4076,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Giap Dong",
+    "gn:country_code":"VN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1570066,
+    "gn:latitude":16.72289,
+    "gn:longitude":107.4076,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Gi\u00e1p \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00f4ng Gi\u00e1p",
+        "Ph\u01b0\u1eddng Gi\u00e1p \u0110\u00f4ng"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1p \u0110\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680775,
+        1108781561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1570066
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"2843c169c1fbefb6347317178780724d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781561,
+            "locality_id":1209826259,
+            "region_id":85680775
+        }
+    ],
+    "wof:id":1209826259,
+    "wof:lastmodified":1537713824,
+    "wof:name":"Giap Dong",
+    "wof:parent_id":1108781561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.4076,
+    16.72289,
+    107.4076,
+    16.72289
+],
+  "geometry": {"coordinates":[107.4076,16.72289],"type":"Point"}
+}

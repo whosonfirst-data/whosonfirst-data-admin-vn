@@ -1,0 +1,73 @@
+{
+  "id": 1293604655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.75165,10.8745,107.75165,10.8745",
+    "geom:latitude":10.8745,
+    "geom:longitude":107.75165,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Song Phan",
+    "gn:country_code":"VN",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1592364,
+    "gn:latitude":10.8745,
+    "gn:longitude":107.75165,
+    "gn:modification_date":"2014-04-29",
+    "gn:name":"S\u00f4ng Phan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1ea4p S\u00f4ng Phan"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Phan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680787,
+        1108781769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1592364
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"539afcd7e02ac0a3bee410c535cf03a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781769,
+            "locality_id":1293604655,
+            "region_id":85680787
+        }
+    ],
+    "wof:id":1293604655,
+    "wof:lastmodified":1537714157,
+    "wof:name":"Song Phan",
+    "wof:parent_id":1108781769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.75165,
+    10.8745,
+    107.75165,
+    10.8745
+],
+  "geometry": {"coordinates":[107.75165,10.8745],"type":"Point"}
+}

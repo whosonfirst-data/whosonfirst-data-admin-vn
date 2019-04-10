@@ -1,0 +1,73 @@
+{
+  "id": 1327237827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2532,10.17727,106.2532,10.17727",
+    "geom:latitude":10.17727,
+    "geom:longitude":106.2532,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Cai Tac",
+    "gn:country_code":"VN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1572159,
+    "gn:latitude":10.17727,
+    "gn:longitude":106.2532,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"C\u00e1i T\u1eafc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nh\u00e0 Th\u1edd C\u00e1i T\u1eafc"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00e1i T\u1eafc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680825,
+        1108782129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1572159
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f8d007f195c91d7b5a70e1f7fde47fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782129,
+            "locality_id":1327237827,
+            "region_id":85680825
+        }
+    ],
+    "wof:id":1327237827,
+    "wof:lastmodified":1537713852,
+    "wof:name":"Cai Tac",
+    "wof:parent_id":1108782129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2532,
+    10.17727,
+    106.2532,
+    10.17727
+],
+  "geometry": {"coordinates":[106.25320000000001,10.17727],"type":"Point"}
+}

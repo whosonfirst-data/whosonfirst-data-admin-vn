@@ -1,0 +1,70 @@
+{
+  "id": 1226461511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0386,17.07151,107.0386,17.07151",
+    "geom:latitude":17.07151,
+    "geom:longitude":107.0386,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Nam Cuong",
+    "gn:country_code":"VN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321508,
+    "gn:latitude":17.07151,
+    "gn:longitude":107.0386,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Nam C\u01b0\u1eddng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Nam C\u01b0\u1eddng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680771,
+        1108781543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321508
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ea17745759960185f9a8bca1a0eb7266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781543,
+            "locality_id":1226461511,
+            "region_id":85680771
+        }
+    ],
+    "wof:id":1226461511,
+    "wof:lastmodified":1537714701,
+    "wof:name":"Nam Cuong",
+    "wof:parent_id":1108781543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0386,
+    17.07151,
+    107.0386,
+    17.07151
+],
+  "geometry": {"coordinates":[107.0386,17.07151],"type":"Point"}
+}

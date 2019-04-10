@@ -1,0 +1,70 @@
+{
+  "id": 1326840989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81568,22.1186,105.81568,22.1186",
+    "geom:latitude":22.1186,
+    "geom:longitude":105.81568,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Na Thinh",
+    "gn:country_code":"VN",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9869947,
+    "gn:latitude":22.1186,
+    "gn:longitude":105.81568,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"N\u00e0 Thinh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "N\u00e0 Thinh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680597,
+        1108780903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9869947
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"89cece0942895c968bb30718aa1d4b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780903,
+            "locality_id":1326840989,
+            "region_id":85680597
+        }
+    ],
+    "wof:id":1326840989,
+    "wof:lastmodified":1537714533,
+    "wof:name":"Na Thinh",
+    "wof:parent_id":1108780903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81568,
+    22.1186,
+    105.81568,
+    22.1186
+],
+  "geometry": {"coordinates":[105.81568,22.1186],"type":"Point"}
+}

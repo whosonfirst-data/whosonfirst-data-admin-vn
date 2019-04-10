@@ -1,0 +1,61 @@
+{
+  "id": 1209022805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96667,20.31667,105.96667,20.31667",
+    "geom:latitude":20.31667,
+    "geom:longitude":105.96667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Giap Gia",
+    "gn:country_code":"VN",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1581784,
+    "gn:latitude":20.31667,
+    "gn:longitude":105.96667,
+    "gn:modification_date":"1995-04-14",
+    "gn:name":"Gi\u00e1p Gi\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1581784
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"4ed0249b98db34260fa16c2e554f75e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209022805
+        }
+    ],
+    "wof:id":1209022805,
+    "wof:lastmodified":1536300093,
+    "wof:name":"Giap Gia",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96667,
+    20.31667,
+    105.96667,
+    20.31667
+],
+  "geometry": {"coordinates":[105.96666999999999,20.31667],"type":"Point"}
+}

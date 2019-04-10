@@ -1,0 +1,67 @@
+{
+  "id": 1209015385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25812,21.53509,105.25812,21.53509",
+    "geom:latitude":21.53509,
+    "geom:longitude":105.25812,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Bai Cau",
+    "gn:country_code":"VN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1591353,
+    "gn:latitude":21.53509,
+    "gn:longitude":105.25812,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e3i C\u1ea9u",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bai C\u1ea1o"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e3i C\u1ea9u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1591353
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"faf805803ba1865e85c314d3a4581178",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209015385
+        }
+    ],
+    "wof:id":1209015385,
+    "wof:lastmodified":1537714136,
+    "wof:name":"Bai Cau",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25812,
+    21.53509,
+    105.25812,
+    21.53509
+],
+  "geometry": {"coordinates":[105.25812000000001,21.53509],"type":"Point"}
+}

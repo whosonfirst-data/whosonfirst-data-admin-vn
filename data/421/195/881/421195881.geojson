@@ -1,0 +1,75 @@
+{
+  "id": 421195881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03333,23.06667,105.03333,23.06667",
+    "geom:latitude":23.06667,
+    "geom:longitude":105.03333,
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"VN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1585334,
+    "qs:gn_pop":0,
+    "qs:name":"Ch\u1ee3 Kem",
+    "qs:name_adm0":"Vietnam",
+    "qs:name_adm1":"Ha Giang",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":133515,
+    "qs:woe_adm0":23424984,
+    "qs:woe_id":1252367,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680863,
+        1108780859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1585334,
+        "gp:id":1252367,
+        "qs:id":133515
+    },
+    "wof:country":"VN",
+    "wof:created":1459009862,
+    "wof:geomhash":"961be717c69609579b9925df5fb2d4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780859,
+            "locality_id":421195881,
+            "region_id":85680863
+        }
+    ],
+    "wof:id":421195881,
+    "wof:lastmodified":1496498087,
+    "wof:name":"Ch\u1ee3 Kem",
+    "wof:parent_id":1108780859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03333,
+    23.06667,
+    105.03333,
+    23.06667
+],
+  "geometry": {"coordinates":[105.03333000000001,23.06667],"type":"Point"}
+}

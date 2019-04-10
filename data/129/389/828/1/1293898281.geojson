@@ -1,0 +1,72 @@
+{
+  "id": 1293898281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.15,14.95,108.15,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":108.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dak Lact",
+    "gn:cc2":"VN",
+    "gn:country_code":"VN",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1584170,
+    "gn:latitude":14.95,
+    "gn:longitude":108.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dak Lact",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dak Lan",
+        "Dak Lact"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1584170
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"ccd2056564fdb91c68fdeba0948fa8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781783,
+            "locality_id":1293898281,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1293898281,
+    "wof:lastmodified":1537714010,
+    "wof:name":"Dak Lact",
+    "wof:parent_id":1108781783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.15,
+    14.95,
+    108.15,
+    14.95
+],
+  "geometry": {"coordinates":[108.15000000000001,14.95],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209233605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36667,21.65,105.36667,21.65",
+    "geom:latitude":21.65,
+    "geom:longitude":105.36667,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Truc Son",
+    "gn:country_code":"VN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1563768,
+    "gn:latitude":21.65,
+    "gn:longitude":105.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tr\u00fac S\u01a1n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1563768
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"c017aa7edde3fcea809c1ef8edc237f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632763,
+            "locality_id":1209233605
+        }
+    ],
+    "wof:id":1209233605,
+    "wof:lastmodified":1536293559,
+    "wof:name":"Truc Son",
+    "wof:parent_id":85632763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36667,
+    21.65,
+    105.36667,
+    21.65
+],
+  "geometry": {"coordinates":[105.36667,21.65],"type":"Point"}
+}

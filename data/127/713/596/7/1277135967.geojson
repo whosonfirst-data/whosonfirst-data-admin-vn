@@ -1,0 +1,67 @@
+{
+  "id": 1277135967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,10.9,106.61667,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":106.61667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ap Dong",
+    "gn:country_code":"VN",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1593488,
+    "gn:latitude":10.9,
+    "gn:longitude":106.61667,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"\u1ea4p \u0110\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ho_Chi_Minh",
+    "iso:country":"VN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680809,
+        1108782051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1593488
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"6a8b3787f2b6038d2159530145c81d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782051,
+            "locality_id":1277135967,
+            "region_id":85680809
+        }
+    ],
+    "wof:id":1277135967,
+    "wof:lastmodified":1536691208,
+    "wof:name":"Ap Dong",
+    "wof:parent_id":1108782051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    10.9,
+    106.61667,
+    10.9
+],
+  "geometry": {"coordinates":[106.61667,10.9],"type":"Point"}
+}
