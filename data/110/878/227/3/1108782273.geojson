@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006071,
-    "geom:area_square_m":73968590.07116,
+    "geom:area_square_m":73968590.071169,
     "geom:bbox":"105.769884173,9.76901424974,105.868376263,9.88567046274",
     "geom:latitude":9.831321,
     "geom:longitude":105.821467,
@@ -25,16 +25,13 @@
     "mps:longitude":105.818144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6211\u7f77\u5e02\u793e"
-    ],
-    "name:dut_x_preferred":[
-        "Ng\u00e3 B\u1ea3y"
-    ],
     "name:eng_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Ng\u00e3 B\u1ea3y"
+    ],
+    "name:nld_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
     ],
     "name:pol_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
+    ],
+    "name:zho_x_preferred":[
+        "\u6211\u7f77\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1108782273,
-    "wof:lastmodified":1514502715,
+    "wof:lastmodified":1561829785,
     "wof:name":"Nga Bay",
     "wof:parent_id":85680827,
     "wof:placetype":"county",

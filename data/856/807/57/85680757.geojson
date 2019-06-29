@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.797455,
-    "geom:area_square_m":9540290845.189014,
+    "geom:area_square_m":9540290845.190544,
     "geom:bbox":"107.334966,13.9392092167,108.543564051,15.4256032848",
     "geom:latitude":14.642953,
     "geom:longitude":107.879612,
@@ -40,29 +40,26 @@
     "name:cdo_x_preferred":[
         "Kon Tum"
     ],
-    "name:chi_x_preferred":[
-        "\u5d11\u5d69\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kon Tum"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kon Tum"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd \u03a4\u03bf\u03c5\u03bc"
     ],
     "name:eng_x_preferred":[
         "Kon Tum"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0646 \u062a\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Kon Tum"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Kon Tum"
-    ],
-    "name:ger_x_preferred":[
-        "Kon Tum"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bd \u03a4\u03bf\u03c5\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aa8 \u0aa4\u0ac1\u0aae"
@@ -94,10 +91,13 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0923 \u091f\u0942\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kon Tum"
     ],
     "name:nan_x_preferred":[
+        "Kon Tum"
+    ],
+    "name:nld_x_preferred":[
         "Kon Tum"
     ],
     "name:nob_x_preferred":[
@@ -106,16 +106,13 @@
     "name:pam_x_preferred":[
         "Kon Tum Lalawigan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0646 \u062a\u0648\u0645"
-    ],
     "name:pol_x_preferred":[
         "Prowincja Kon Tum"
     ],
     "name:por_x_preferred":[
         "Kon Tum"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kon Tum"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +162,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5d11\u5d69"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d11\u5d69\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -291,7 +291,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561829689,
     "wof:name":"Kon Tum",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

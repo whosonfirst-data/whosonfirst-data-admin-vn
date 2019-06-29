@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0993 \u0995\u09be\u0987"
     ],
-    "name:chi_x_preferred":[
-        "\u8001\u8857\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Lao Cai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "L\u00e0o Cai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03bf \u039a\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lao Cai"
@@ -40,14 +40,8 @@
     "name:fin_x_preferred":[
         "L\u00e0o Cai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00e0o Cai"
-    ],
-    "name:ger_x_preferred":[
-        "L\u00e0o Cai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03bf \u039a\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a93 \u0a95\u0abe\u0a88"
@@ -82,8 +76,11 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u0913 \u0915\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lao Cai"
+    ],
+    "name:nld_x_preferred":[
+        "L\u00e0o Cai"
     ],
     "name:nob_x_preferred":[
         "Lao Cai"
@@ -93,9 +90,6 @@
     ],
     "name:pam_x_preferred":[
         "Lao Cai Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0626\u0648 \u06a9\u0627\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u0648 \u06a9\u0627\u0626\u06cc"
@@ -275,7 +269,7 @@
         }
     ],
     "wof:id":890439923,
-    "wof:lastmodified":1527729731,
+    "wof:lastmodified":1561829833,
     "wof:name":"L\u00e0o Cai",
     "wof:parent_id":1108780937,
     "wof:placetype":"locality",

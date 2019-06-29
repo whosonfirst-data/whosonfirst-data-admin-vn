@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.512917,
-    "geom:area_square_m":5875683601.539216,
+    "geom:area_square_m":5875683601.538868,
     "geom:bbox":"104.84540806,21.5001599971,105.596296729,22.6979963453",
     "geom:latitude":22.11382,
     "geom:longitude":105.266101,
@@ -40,17 +40,14 @@
     "name:cdo_x_preferred":[
         "Tuy\u00ean Quang"
     ],
-    "name:chi_x_preferred":[
-        "\u5ba3\u5149\u7701"
-    ],
     "name:dan_x_preferred":[
         "Tuy\u00ean Quang"
     ],
     "name:deu_x_preferred":[
         "Tuy\u00ean Quang"
     ],
-    "name:dut_x_preferred":[
-        "Tuy\u00ean Quang"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03b3\u03b9\u03ad\u03bd \u039a\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tuyen Quang"
@@ -64,14 +61,8 @@
     "name:fra_x_preferred":[
         "Tuy\u00ean Quang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Province de Tuy\u00ean Quang"
-    ],
-    "name:ger_x_preferred":[
-        "Tuy\u00ean Quang"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03b3\u03b9\u03ad\u03bd \u039a\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0a8f\u0aa8 \u0a95\u0acd\u0ab5\u0abe\u0a82\u0a97"
@@ -103,13 +94,16 @@
     "name:mar_x_preferred":[
         "\u0924\u0941\u092f\u0947\u0928 \u0915\u0941\u0906\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Tuyen Quang"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0443\u044d\u043d\u044c\u0433\u0443\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Tuyen Quang"
+    ],
     "name:nan_x_preferred":[
+        "Tuy\u00ean Quang"
+    ],
+    "name:nld_x_preferred":[
         "Tuy\u00ean Quang"
     ],
     "name:nob_x_preferred":[
@@ -117,9 +111,6 @@
     ],
     "name:pam_x_preferred":[
         "Tuyen Quang Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0648\u06cc\u0646 \u06a9\u0648\u0627\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0648\u06cc\u0646 \u06a9\u0648\u0627\u0646\u06af"
@@ -130,7 +121,7 @@
     "name:por_x_preferred":[
         "Tuyen Quang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tuy\u00ean Quang"
     ],
     "name:rus_x_preferred":[
@@ -180,6 +171,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5ba3\u5149"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ba3\u5149\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -306,7 +300,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561829693,
     "wof:name":"Tuy\u00ean Quang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

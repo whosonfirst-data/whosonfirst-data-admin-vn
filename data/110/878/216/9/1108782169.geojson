@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be \u09a6\u09c7\u0995"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u7684\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Sa \u0110\u00e9c"
     ],
-    "name:dut_x_preferred":[
-        "Sa \u0110\u00e9c"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1 \u039d\u03c4\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sa Dec"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Sa \u0110\u00e9c"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sa \u0110\u00e9c"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1 \u039d\u03c4\u03b5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe \u0aa1\u0ac7\u0a95"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0938 \u0921\u0947\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sa Dec"
+    ],
+    "name:nld_x_preferred":[
+        "Sa \u0110\u00e9c"
     ],
     "name:nob_x_preferred":[
         "Sa Dec"
@@ -127,6 +124,9 @@
     "name:vie_x_preferred":[
         "Sa \u0110\u00e9c"
     ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7684\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1108782169,
-    "wof:lastmodified":1553718764,
+    "wof:lastmodified":1561829785,
     "wof:name":"Sa Dec",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

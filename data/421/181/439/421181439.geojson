@@ -17,9 +17,6 @@
     "name:aka_x_preferred":[
         "Vinh Long"
     ],
-    "name:alb_x_preferred":[
-        "Vinh Long"
-    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0647 \u0644\u0648\u0646\u062c"
     ],
@@ -38,9 +35,6 @@
     "name:ceb_x_preferred":[
         "Vinh Long"
     ],
-    "name:chi_x_preferred":[
-        "\u6c38\u9686\u5e02"
-    ],
     "name:cor_x_preferred":[
         "Vinh Long"
     ],
@@ -50,8 +44,8 @@
     "name:deu_x_preferred":[
         "V\u0129nh Long"
     ],
-    "name:dut_x_preferred":[
-        "Vinh Long"
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03bd\u03c7 \u039b\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "V\u0129nh Long"
@@ -68,14 +62,8 @@
     "name:fra_x_preferred":[
         "V\u0129nh Long"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Vinh Long"
-    ],
-    "name:ger_x_preferred":[
-        "V\u0129nh Long"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03bd\u03c7 \u039b\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0aa8\u0acd\u0ab9 \u0ab2\u0acb\u0a82\u0a97"
@@ -113,7 +101,10 @@
     "name:mar_x_preferred":[
         "\u0935\u093f\u0928\u094d\u0939 \u0932\u094b\u0902\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Vinh Long"
+    ],
+    "name:nld_x_preferred":[
         "Vinh Long"
     ],
     "name:nob_x_preferred":[
@@ -122,16 +113,13 @@
     "name:oci_x_preferred":[
         "Vinh Long"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0646 \u0644\u0648\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "V\u0129nh Long"
     ],
     "name:por_x_preferred":[
         "Vinh Long"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u0129nh Long"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +133,9 @@
     ],
     "name:spa_x_preferred":[
         "V\u0129nh Long"
+    ],
+    "name:sqi_x_preferred":[
+        "Vinh Long"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u045a \u041b\u043e\u043d\u0433"
@@ -181,6 +172,9 @@
     ],
     "name:war_x_preferred":[
         "Vinh Long"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u9686\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
@@ -322,7 +316,7 @@
         }
     ],
     "wof:id":421181439,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1561829832,
     "wof:name":"V\u0129nh Long",
     "wof:parent_id":1108782149,
     "wof:placetype":"locality",

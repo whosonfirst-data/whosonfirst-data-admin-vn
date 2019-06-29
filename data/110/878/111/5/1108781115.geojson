@@ -37,14 +37,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09ae \u09ab\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u9526\u666e\u5e02"
-    ],
     "name:dan_x_preferred":[
         "C\u1ea9m Ph\u1ea3"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "C\u1ea9m Ph\u1ea3"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc \u03a6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cam Pha"
@@ -52,14 +52,8 @@
     "name:fin_x_preferred":[
         "C\u1ea9m Ph\u1ea3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "C\u1ea9m Ph\u1ea3"
-    ],
-    "name:ger_x_preferred":[
-        "C\u1ea9m Ph\u1ea3"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc \u03a6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aae \u0aab\u0abe"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u092e \u092b\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cam Pha"
+    ],
+    "name:nld_x_preferred":[
+        "C\u1ea9m Ph\u1ea3"
     ],
     "name:nob_x_preferred":[
         "Cam Pha"
@@ -139,6 +136,9 @@
     "name:war_x_preferred":[
         "Campha"
     ],
+    "name:zho_x_preferred":[
+        "\u9526\u666e\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1108781115,
-    "wof:lastmodified":1553718745,
+    "wof:lastmodified":1561829788,
     "wof:name":"Cam Pha",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

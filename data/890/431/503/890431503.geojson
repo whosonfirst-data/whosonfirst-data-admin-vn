@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Cam Ranh"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u862d\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Cam Ranh"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cam Ranh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc \u03a1\u03b1\u03bd\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Cam Ranh"
@@ -40,14 +40,8 @@
     "name:fin_x_preferred":[
         "Cam Ranh"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cam Ranh"
-    ],
-    "name:ger_x_preferred":[
-        "Cam Ranh"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc \u03a1\u03b1\u03bd\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae \u0ab0\u0abe\u0aa3\u0ab9"
@@ -73,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u092e \u0930\u0923\u0939\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Cam Ranh"
+    ],
+    "name:nld_x_preferred":[
         "Cam Ranh"
     ],
     "name:nob_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Cam Ranh"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u862d\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
@@ -249,7 +249,7 @@
         }
     ],
     "wof:id":890431503,
-    "wof:lastmodified":1527735409,
+    "wof:lastmodified":1561829833,
     "wof:name":"Cam Ranh",
     "wof:parent_id":1108781717,
     "wof:placetype":"locality",

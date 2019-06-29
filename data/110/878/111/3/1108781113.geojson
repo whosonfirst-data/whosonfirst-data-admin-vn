@@ -31,9 +31,6 @@
     "mps:longitude":107.823595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8292\u8857\u5e02"
-    ],
     "name:eng_x_preferred":[
         "Mong Cai"
     ],
@@ -73,6 +70,9 @@
     "name:vie_x_preferred":[
         "M\u00f3ng C\u00e1i"
     ],
+    "name:zho_x_preferred":[
+        "\u8292\u8857\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108781113,
-    "wof:lastmodified":1553718746,
+    "wof:lastmodified":1561829788,
     "wof:name":"Mong Cai",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

@@ -55,23 +55,23 @@
     "name:cat_x_preferred":[
         "Phan Thi\u1ebft"
     ],
-    "name:chi_x_preferred":[
-        "\u85e9\u5207\u5e02"
+    "name:ces_x_preferred":[
+        "Phan Thi\u1ebft"
     ],
     "name:cor_x_preferred":[
         "Phan Thiet"
     ],
-    "name:cze_x_preferred":[
+    "name:dan_x_preferred":[
         "Phan Thi\u1ebft"
     ],
-    "name:dan_x_preferred":[
+    "name:deu_x_preferred":[
         "Phan Thi\u1ebft"
     ],
     "name:diq_x_preferred":[
         "Phan Thiet"
     ],
-    "name:dut_x_preferred":[
-        "Phan Thi\u1ebft"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03bd \u0398\u03b9\u03ad\u03c4"
     ],
     "name:eml_x_preferred":[
         "Phan Thiet"
@@ -85,10 +85,13 @@
     "name:ext_x_preferred":[
         "Phan Thiet"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0646 \u062a\u06cc\u0626\u062a"
+    ],
     "name:fin_x_preferred":[
         "Phan Thi\u1ebft"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phan Thi\u1ebft"
     ],
     "name:frp_x_preferred":[
@@ -103,14 +106,8 @@
     "name:gag_x_preferred":[
         "Phan Thiet"
     ],
-    "name:ger_x_preferred":[
-        "Phan Thi\u1ebft"
-    ],
     "name:glg_x_preferred":[
         "Phan Thiet"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03bd \u0398\u03b9\u03ad\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0aa8 \u0aa5\u0abf\u0a8f\u0a9f"
@@ -190,11 +187,14 @@
     "name:mar_x_preferred":[
         "\u092b\u0945\u0928 \u0925\u093f\u0905\u091f\u0947"
     ],
-    "name:may_x_preferred":[
-        "Phan Thiet"
-    ],
     "name:mlg_x_preferred":[
         "Phan Thiet"
+    ],
+    "name:msa_x_preferred":[
+        "Phan Thiet"
+    ],
+    "name:nld_x_preferred":[
+        "Phan Thi\u1ebft"
     ],
     "name:nob_x_preferred":[
         "Phan Thiet"
@@ -210,9 +210,6 @@
     ],
     "name:pdc_x_preferred":[
         "Phan Thiet"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0627\u0646 \u062a\u06cc\u0626\u062a"
     ],
     "name:pih_x_preferred":[
         "Phan Thiet"
@@ -313,6 +310,9 @@
     "name:zho_x_preferred":[
         "\u6f58\u5207"
     ],
+    "name:zho_x_variant":[
+        "\u85e9\u5207\u5e02"
+    ],
     "qs_pg:aaroncc":"VN",
     "qs_pg:gn_country":"VN",
     "qs_pg:gn_fcode":"PPLA",
@@ -352,7 +352,7 @@
         }
     ],
     "wof:id":1125906847,
-    "wof:lastmodified":1514502744,
+    "wof:lastmodified":1561829835,
     "wof:name":"Phan Thi\u1ebft",
     "wof:parent_id":1108781751,
     "wof:placetype":"locality",

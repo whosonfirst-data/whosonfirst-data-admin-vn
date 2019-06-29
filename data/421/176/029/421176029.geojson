@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
     ],
-    "name:chi_x_preferred":[
-        "\u592a\u539f\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Thai Nguyen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03b9 \u039d\u03b3\u03ba\u03bf\u03c5\u03b3\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
@@ -50,20 +50,14 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc \u06af\u0648\u06cc\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u06cc \u0646\u06af\u0648\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
     ],
     "name:fra_x_preferred":[
         "Th\u00e1i Nguy\u00ean"
-    ],
-    "name:fre_x_preferred":[
-        "Th\u00e1i Nguy\u00ean"
-    ],
-    "name:ger_x_preferred":[
-        "Th\u00e1i Nguy\u00ean"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03b9 \u039d\u03b3\u03ba\u03bf\u03c5\u03b3\u03b9\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0a88 \u0aa8\u0acd\u0a97\u0ac1\u0aaf\u0ac7\u0aa8"
@@ -101,8 +95,11 @@
     "name:mar_x_preferred":[
         "\u0925\u093e\u092f\u0940 \u0928\u094d\u0917\u0941\u0907\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Thai Nguyen"
+    ],
+    "name:nld_x_preferred":[
+        "Th\u00e1i Nguy\u00ean"
     ],
     "name:nob_x_preferred":[
         "Thai Nguyen"
@@ -112,9 +109,6 @@
     ],
     "name:pam_x_preferred":[
         "Thai Nguyen Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u06cc \u0646\u06af\u0648\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06be\u0627\u0626\u06cc \u0646\u06af\u0648\u06cc\u0646"
@@ -175,6 +169,9 @@
     ],
     "name:wln_x_preferred":[
         "Thai Nguyen"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u539f\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
@@ -316,7 +313,7 @@
         }
     ],
     "wof:id":421176029,
-    "wof:lastmodified":1527726475,
+    "wof:lastmodified":1561829833,
     "wof:name":"Th\u00e1i Nguy\u00ean",
     "wof:parent_id":1108781065,
     "wof:placetype":"locality",

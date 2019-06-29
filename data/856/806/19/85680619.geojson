@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.936256,
-    "geom:area_square_m":10875903019.283672,
+    "geom:area_square_m":10875903019.283041,
     "geom:bbox":"104.374535,19.2923169512,106.074213391,20.6716370159",
     "geom:latitude":20.039619,
     "geom:longitude":105.33455,
@@ -43,20 +43,14 @@
     "name:ces_x_preferred":[
         "Thanh Hoa"
     ],
-    "name:chi_x_preferred":[
-        "\u6e05\u5316\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Thanh Hoa"
-    ],
     "name:dan_x_preferred":[
         "Thanh H\u00f3a"
     ],
     "name:deu_x_preferred":[
         "Thanh H\u00f3a"
     ],
-    "name:dut_x_preferred":[
-        "Thanh H\u00f3a"
+    "name:ell_x_preferred":[
+        "\u0398\u03b1\u03bd\u03c7 \u03a7\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Thanh Hoa"
@@ -64,20 +58,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0646 \u0647\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0646 \u0647\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Thanh H\u00f3a"
     ],
     "name:fra_x_preferred":[
         "Province de Thanh H\u00f3a"
-    ],
-    "name:fre_x_preferred":[
-        "Province de Thanh H\u00f3a"
-    ],
-    "name:ger_x_preferred":[
-        "Thanh H\u00f3a"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03b1\u03bd\u03c7 \u03a7\u03cc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0aa8 \u0ab9\u0acb\u0aaf\u0abe"
@@ -109,17 +97,17 @@
     "name:mar_x_preferred":[
         "\u0925\u093e\u0928 \u0939\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Thanh Hoa"
     ],
     "name:nan_x_preferred":[
         "Thanh H\u00f3a"
     ],
+    "name:nld_x_preferred":[
+        "Thanh H\u00f3a"
+    ],
     "name:nob_x_preferred":[
         "Thanh Hoa"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0646 \u0647\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Thanh H\u00f3a"
@@ -127,7 +115,7 @@
     "name:por_x_preferred":[
         "Thanh Hoa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thanh H\u00f3a"
     ],
     "name:rus_x_preferred":[
@@ -180,6 +168,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6e05\u5316"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u5316\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -306,7 +297,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553814833,
+    "wof:lastmodified":1561829694,
     "wof:name":"Thanh H\u00f3a",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

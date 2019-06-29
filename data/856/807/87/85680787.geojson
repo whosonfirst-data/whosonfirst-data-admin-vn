@@ -40,17 +40,14 @@
     "name:cdo_x_preferred":[
         "B\u00ecnh Thu\u1eadn"
     ],
-    "name:chi_x_preferred":[
-        "\u5e73\u9806\u7701"
-    ],
     "name:dan_x_preferred":[
         "B\u00ecnh Thu\u1eadn"
     ],
     "name:deu_x_preferred":[
         "B\u00ecnh Thu\u1eadn"
     ],
-    "name:dut_x_preferred":[
-        "B\u00ecnh Thu\u1eadn"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03c7 \u0398\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Binh Thuan"
@@ -64,14 +61,8 @@
     "name:fra_x_preferred":[
         "Province de B\u00ecnh Thu\u1eadn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "B\u00ecnh Thu\u1eadn"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00ecnh Thu\u1eadn"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bd\u03c7 \u0398\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0aa8\u0acd\u0ab9 \u0aa5\u0ac2\u0a86\u0aa8"
@@ -103,10 +94,13 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0928\u094d\u0938 \u0925\u0941\u0902\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Binh Thuan"
     ],
     "name:nan_x_preferred":[
+        "B\u00ecnh Thu\u1eadn"
+    ],
+    "name:nld_x_preferred":[
         "B\u00ecnh Thu\u1eadn"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +108,6 @@
     ],
     "name:pam_x_preferred":[
         "Binh Thuan Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u06cc\u0646 \u062a\u0648\u0622\u0646"
     ],
     "name:pol_x_preferred":[
         "Prowincja B\u00ecnh Thu\u1eadn"
@@ -177,6 +168,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5e73\u9806"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u9806\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -301,7 +295,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550597,
+    "wof:lastmodified":1561829689,
     "wof:name":"B\u00ecnh Thu\u1eadn",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

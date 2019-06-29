@@ -40,29 +40,26 @@
     "name:cat_x_preferred":[
         "Pleiku"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u4f86\u53e4\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Pleiku"
     ],
-    "name:dut_x_preferred":[
-        "Pleiku"
+    "name:deu_x_preferred":[
+        "Plei Cu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b5\u03ca\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Pleiku"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u06cc\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Pleiku"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pleiku"
-    ],
-    "name:ger_x_preferred":[
-        "Plei Cu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bb\u03b5\u03ca\u03ba\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0ac7\u0a87\u0a95\u0ac1"
@@ -106,7 +103,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0932\u0947\u0907\u0915\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pleiku"
+    ],
+    "name:nld_x_preferred":[
         "Pleiku"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +114,6 @@
     ],
     "name:oci_x_preferred":[
         "Pleiku"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u06cc\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Pleiku"
@@ -163,6 +160,9 @@
     "name:war_x_preferred":[
         "Pleiku"
     ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u4f86\u53e4\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":1108781795,
-    "wof:lastmodified":1555092491,
+    "wof:lastmodified":1561829800,
     "wof:name":"Pleiku",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

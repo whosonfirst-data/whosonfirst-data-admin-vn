@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016525,
-    "geom:area_square_m":200773232.662809,
+    "geom:area_square_m":200773232.6628,
     "geom:bbox":"107.688979633,10.6275687464,107.887851821,10.7980580227",
     "geom:latitude":10.716663,
     "geom:longitude":107.785634,
@@ -31,14 +31,11 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be \u0997\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u7f57\u5937\u5e02\u793e"
-    ],
     "name:dan_x_preferred":[
         "La Gi"
     ],
-    "name:dut_x_preferred":[
-        "La Gi"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a4\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "La Gi"
@@ -46,11 +43,8 @@
     "name:fin_x_preferred":[
         "La Gi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Gi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a4\u03b6\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0a97\u0ac0"
@@ -82,7 +76,10 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u091c\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "La Gi"
+    ],
+    "name:nld_x_preferred":[
         "La Gi"
     ],
     "name:nob_x_preferred":[
@@ -127,6 +124,9 @@
     "name:vie_x_preferred":[
         "La Gi"
     ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5937\u5e02\u793e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":1108781753,
-    "wof:lastmodified":1514502677,
+    "wof:lastmodified":1561829789,
     "wof:name":"La Gi",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

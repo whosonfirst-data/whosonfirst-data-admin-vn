@@ -31,9 +31,6 @@
     "mps:longitude":105.728366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e73\u6c34\u90e1"
-    ],
     "name:eng_x_preferred":[
         "Binh Thuy"
     ],
@@ -42,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00ecnh Th\u1ee7y"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u6c34\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108782255,
-    "wof:lastmodified":1555092491,
+    "wof:lastmodified":1561829796,
     "wof:name":"Binh Thuy",
     "wof:parent_id":85680799,
     "wof:placetype":"county",

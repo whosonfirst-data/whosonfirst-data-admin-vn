@@ -31,13 +31,10 @@
     "mps:longitude":105.810986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9752\u6625\u90e1"
-    ],
     "name:eng_x_preferred":[
         "Thanh Xuan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Thanh Xuan"
     ],
     "name:kor_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "Thanh Xu\u00e2n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u6625\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108780801,
-    "wof:lastmodified":1555092489,
+    "wof:lastmodified":1561829794,
     "wof:name":"Thanh Xuan",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

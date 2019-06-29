@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Hu\u1ebf"
-    ],
     "name:bar_x_preferred":[
         "Hue"
     ],
@@ -37,19 +34,10 @@
     "name:ces_x_preferred":[
         "Hue"
     ],
-    "name:chi_x_preferred":[
-        "\u9806\u5316\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Hue"
-    ],
     "name:dan_x_preferred":[
         "Hu\u00e9"
     ],
     "name:deu_x_preferred":[
-        "Hu\u1ebf"
-    ],
-    "name:dut_x_preferred":[
         "Hu\u1ebf"
     ],
     "name:ell_x_preferred":[
@@ -64,8 +52,14 @@
     "name:eus_x_preferred":[
         "Hue"
     ],
+    "name:eus_x_variant":[
+        "Hu\u1ebf"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0626\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0648\u0621"
     ],
     "name:fin_x_preferred":[
         "Hue"
@@ -73,23 +67,11 @@
     "name:fra_x_preferred":[
         "Hu\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Hu\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10e3\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Hu\u1ebf"
-    ],
     "name:gle_x_preferred":[
         "Hu\u00e9"
     ],
     "name:glg_x_preferred":[
         "Hu\u1ebf"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a8f"
@@ -142,14 +124,8 @@
     "name:lzh_x_preferred":[
         "\u9806\u5316\u5e02"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0443\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0941\u090f"
-    ],
-    "name:may_x_preferred":[
-        "Hu\u1ebf"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0443\u0435"
@@ -157,11 +133,17 @@
     "name:mon_x_preferred":[
         "\u0425\u044e\u044d"
     ],
+    "name:msa_x_preferred":[
+        "Hu\u1ebf"
+    ],
     "name:nan_x_preferred":[
         "Hu\u1ebf"
     ],
     "name:nld_x_preferred":[
         "Hu\u00e9"
+    ],
+    "name:nld_x_variant":[
+        "Hu\u1ebf"
     ],
     "name:nob_x_preferred":[
         "Hu\u1ebf"
@@ -175,16 +157,13 @@
     "name:pdc_x_preferred":[
         "Hue"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0621"
-    ],
     "name:pol_x_preferred":[
         "Hue"
     ],
     "name:por_x_preferred":[
         "Hu\u1ebf"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hu\u1ebf"
     ],
     "name:rus_x_preferred":[
@@ -194,9 +173,6 @@
         "\u0dc4\u0dd4\u0dba\u0dd2"
     ],
     "name:slk_x_preferred":[
-        "Hu\u1ebf"
-    ],
-    "name:slo_x_preferred":[
         "Hu\u1ebf"
     ],
     "name:slv_x_preferred":[
@@ -384,7 +360,7 @@
         }
     ],
     "wof:id":890439925,
-    "wof:lastmodified":1527729731,
+    "wof:lastmodified":1561829833,
     "wof:name":"Hu\u1ebf",
     "wof:parent_id":1108781557,
     "wof:placetype":"locality",

@@ -40,29 +40,26 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c \u0414\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u5b9a\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Nam \u0110\u1ecbnh"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nam \u0110\u1ecbnh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc \u039d\u03c4\u03b9\u03bd\u03c7"
     ],
     "name:eng_x_preferred":[
         "Nam Dinh"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645 \u062f\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Nam \u0110\u1ecbnh"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nam \u0110\u1ecbnh"
-    ],
-    "name:ger_x_preferred":[
-        "Nam \u0110\u1ecbnh"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bc \u039d\u03c4\u03b9\u03bd\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae \u0aa6\u0abf\u0a82\u0ab9"
@@ -97,14 +94,14 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u092e \u0926\u093f\u0928\u094d\u0939"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nam Dinh"
+    ],
+    "name:nld_x_preferred":[
+        "Nam \u0110\u1ecbnh"
     ],
     "name:nob_x_preferred":[
         "Nam \u0110\u1ecbnh"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0645 \u062f\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Nam \u0110\u1ecbnh"
@@ -154,6 +151,9 @@
     "name:war_x_preferred":[
         "Nam Dinh"
     ],
+    "name:zho_x_preferred":[
+        "\u5357\u5b9a\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1108781347,
-    "wof:lastmodified":1555092490,
+    "wof:lastmodified":1561829784,
     "wof:name":"Nam Dinh",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

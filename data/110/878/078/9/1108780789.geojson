@@ -31,20 +31,17 @@
     "mps:longitude":105.816362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u897f\u6e56\u90e1"
-    ],
     "name:eng_x_preferred":[
         "Tay Ho"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u06cc \u0647\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
         "District de Tay Ho"
     ],
     "name:kor_x_preferred":[
         "\ub5a0\uc774\ud638"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0627\u06cc \u0647\u0648\u0648"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044d\u0439\u0445\u043e"
@@ -57,6 +54,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00e2y H\u1ed3"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6e56\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1108780789,
-    "wof:lastmodified":1555092489,
+    "wof:lastmodified":1561829786,
     "wof:name":"Tay Ho",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

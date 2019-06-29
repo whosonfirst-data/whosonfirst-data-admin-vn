@@ -37,20 +37,17 @@
     "name:cat_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u77f3\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "R\u1ea1ch Gi\u00e1"
+    "name:deu_x_preferred":[
+        "Rach Gia"
     ],
     "name:eng_x_preferred":[
         "Rach Gia"
     ],
-    "name:fre_x_preferred":[
-        "R\u1ea1ch Gi\u00e1"
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0686\u0627 \u06af\u06cc\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Rach Gia"
+    "name:fra_x_preferred":[
+        "R\u1ea1ch Gi\u00e1"
     ],
     "name:hak_x_preferred":[
         "Li\u030dt-ka-s\u1e73"
@@ -76,14 +73,14 @@
     "name:nds_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
     ],
+    "name:nld_x_preferred":[
+        "R\u1ea1ch Gi\u00e1"
+    ],
     "name:nob_x_preferred":[
         "Rach Gia"
     ],
     "name:oci_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u0686\u0627 \u06af\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Rach Gia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u77f3\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":1108782219,
-    "wof:lastmodified":1553718765,
+    "wof:lastmodified":1561829786,
     "wof:name":"Rach Gia",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

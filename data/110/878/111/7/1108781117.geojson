@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u0989\u0982 \u09ac\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u6c6a\u79d8\u5e02"
-    ],
     "name:dan_x_preferred":[
         "U\u00f4ng B\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "U\u00f4ng B\u00ed"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03cc\u03bd\u03b3\u03ba \u039c\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Uong Bi"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "U\u00f4ng B\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "U\u00f4ng B\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03cc\u03bd\u03b3\u03ba \u039c\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0a93\u0a82\u0a97 \u0aac\u0ac0"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0909\u0913\u0902\u0917 \u092c\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Uong B"
+    ],
+    "name:nld_x_preferred":[
+        "U\u00f4ng B\u00ed"
     ],
     "name:nob_x_preferred":[
         "Uong Bi"
@@ -133,6 +130,9 @@
     "name:vie_x_preferred":[
         "U\u00f4ng B\u00ed"
     ],
+    "name:zho_x_preferred":[
+        "\u6c6a\u79d8\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1108781117,
-    "wof:lastmodified":1553718745,
+    "wof:lastmodified":1561829788,
     "wof:name":"Uong Bi",
     "wof:parent_id":85680583,
     "wof:placetype":"county",
