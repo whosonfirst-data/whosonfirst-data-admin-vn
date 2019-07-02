@@ -16,9 +16,6 @@
     "name:ace_x_preferred":[
         "Bien Hoa"
     ],
-    "name:alb_x_preferred":[
-        "Bien Hoa"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646 \u0647\u0648\u0627"
     ],
@@ -40,9 +37,6 @@
     "name:ceb_x_preferred":[
         "Bien Hoa"
     ],
-    "name:chi_x_preferred":[
-        "\u8fb9\u548c\u5e02"
-    ],
     "name:chy_x_preferred":[
         "Bien Hoa"
     ],
@@ -55,8 +49,8 @@
     "name:diq_x_preferred":[
         "Bien Hoa"
     ],
-    "name:dut_x_preferred":[
-        "Bi\u00ean H\u00f2a"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03ad\u03bd \u03a7\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bi\u00ean H\u00f2a"
@@ -70,10 +64,13 @@
     "name:fao_x_preferred":[
         "Bien Hoa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646 \u0647\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bi\u00ean H\u00f2a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bi\u00ean H\u00f2a"
     ],
     "name:ful_x_preferred":[
@@ -82,17 +79,11 @@
     "name:gag_x_preferred":[
         "Bien Hoa"
     ],
-    "name:ger_x_preferred":[
-        "Bi\u00ean H\u00f2a"
-    ],
     "name:gle_x_preferred":[
         "Bi\u00ean H\u00f2a"
     ],
     "name:glg_x_preferred":[
         "Bi\u00ean H\u00f2a"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03ad\u03bd \u03a7\u03cc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a8f\u0aa8 \u0ab9\u0acb\u0a86"
@@ -154,14 +145,17 @@
     "name:lug_x_preferred":[
         "Bien Hoa"
     ],
-    "name:mao_x_preferred":[
-        "Bien Hoa"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u090f\u0928 \u0939\u094b\u0935\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
         "Bien Hoa"
+    ],
+    "name:msa_x_preferred":[
+        "Bien Hoa"
+    ],
+    "name:nld_x_preferred":[
+        "Bi\u00ean H\u00f2a"
     ],
     "name:nob_x_preferred":[
         "Bien Hoa"
@@ -171,9 +165,6 @@
     ],
     "name:nya_x_preferred":[
         "Bien Hoa"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0646 \u0647\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Bi\u00ean Ho\u00e0"
@@ -194,6 +185,9 @@
         "\u0db6\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0dc4\u0ddc\u0dc0\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Bien Hoa"
+    ],
+    "name:sqi_x_preferred":[
         "Bien Hoa"
     ],
     "name:srp_x_preferred":[
@@ -247,6 +241,9 @@
     "name:yue_x_preferred":[
         "\u908a\u548c"
     ],
+    "name:zho_x_preferred":[
+        "\u8fb9\u548c\u5e02"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -292,7 +289,7 @@
         }
     ],
     "wof:id":421189679,
-    "wof:lastmodified":1527716270,
+    "wof:lastmodified":1561829832,
     "wof:name":"Bi\u00ean H\u00f2a",
     "wof:parent_id":1108781967,
     "wof:placetype":"locality",

@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
     ],
-    "name:chi_x_preferred":[
-        "\u90a6\u7f8e\u8700\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Ban Me Thuot"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd \u039c\u03b5 \u0398\u03bf\u03c5\u03cc\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
@@ -48,17 +48,14 @@
     "name:fao_x_preferred":[
         "Buon Ma Thuot"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646 \u0645\u0627 \u062a\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Ban Me Thuot"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
-    ],
-    "name:ger_x_preferred":[
-        "Bu\u00f4n Ma Thu\u1ed9t"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd \u039c\u03b5 \u0398\u03bf\u03c5\u03cc\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8 \u0aae\u0ac7 \u0aa5\u0ac2\u0a93\u0a9f"
@@ -111,20 +108,20 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0928 \u092e\u0947 \u0925\u0942\u0913\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ban Me Thuot"
     ],
     "name:nah_x_preferred":[
         "Buon Ma Thuot"
+    ],
+    "name:nld_x_preferred":[
+        "Bu\u00f4n Ma Thu\u1ed9t"
     ],
     "name:nob_x_preferred":[
         "Ban Ma Thuot"
     ],
     "name:oci_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0646 \u0645\u0627 \u062a\u0648\u062a"
     ],
     "name:pol_x_preferred":[
         "Bu\u00f4n Ma Thu\u1ed9t"
@@ -180,6 +177,9 @@
     "name:war_x_preferred":[
         "Buon Ma Thuot"
     ],
+    "name:zho_x_preferred":[
+        "\u90a6\u7f8e\u8700\u5e02"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":421189885,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1561829832,
     "wof:name":"Bu\u00f4n Ma Thu\u1ed9t",
     "wof:parent_id":1108781833,
     "wof:placetype":"locality",

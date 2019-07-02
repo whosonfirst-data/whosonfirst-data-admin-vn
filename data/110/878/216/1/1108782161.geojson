@@ -31,20 +31,20 @@
     "mps:longitude":105.84083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e73\u660e\u5e02\u793e"
-    ],
-    "name:dut_x_preferred":[
-        "B\u00ecnh Minh"
-    ],
     "name:eng_x_preferred":[
         "Binh Minh"
     ],
     "name:ita_x_preferred":[
         "Distretto di Binh Minh"
     ],
+    "name:nld_x_preferred":[
+        "B\u00ecnh Minh"
+    ],
     "name:vie_x_preferred":[
         "B\u00ecnh Minh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u660e\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1108782161,
-    "wof:lastmodified":1553718764,
+    "wof:lastmodified":1561829785,
     "wof:name":"Binh Minh",
     "wof:parent_id":85680853,
     "wof:placetype":"county",

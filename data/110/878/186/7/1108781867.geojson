@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024692,
-    "geom:area_square_m":298645549.454557,
+    "geom:area_square_m":298645549.454587,
     "geom:bbox":"107.571606999,11.8869920681,107.79172002,12.1435646041",
     "geom:latitude":12.008224,
     "geom:longitude":107.697159,
@@ -31,26 +31,23 @@
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09af\u09bc\u09be \u09b9\u09cd\u09a8\u09b9\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5609\u7fa9\u5e02\u793e"
-    ],
     "name:dan_x_preferred":[
         "Gia Ngh\u0129a"
     ],
-    "name:dut_x_preferred":[
-        "Gia Ngh\u0129a"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03b1 \u039d\u03b3\u03ba\u03c7\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gia Ngh\u0129a"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0627 \u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gia Ngh\u0129a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gia Nghia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03af\u03b1 \u039d\u03b3\u03ba\u03c7\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0a86 \u0aa8\u0acd\u0a98\u0abf\u0aaf\u0abe"
@@ -82,14 +79,14 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092f\u093e \u0928\u094d\u0939\u093e\u0918\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gia Nghia"
+    ],
+    "name:nld_x_preferred":[
+        "Gia Ngh\u0129a"
     ],
     "name:nob_x_preferred":[
         "Gia Nghia"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u06cc\u0627 \u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Gia Ngh\u0129a"
@@ -133,6 +130,9 @@
     "name:war_x_preferred":[
         "Gia Nghia"
     ],
+    "name:zho_x_preferred":[
+        "\u5609\u7fa9\u5e02\u793e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1108781867,
-    "wof:lastmodified":1514502606,
+    "wof:lastmodified":1561829789,
     "wof:name":"Gia Nghia",
     "wof:parent_id":85680743,
     "wof:placetype":"county",

@@ -40,17 +40,14 @@
     "name:cdo_x_preferred":[
         "B\u00ecnh Ph\u01b0\u1edbc"
     ],
-    "name:chi_x_preferred":[
-        "\u5e73\u798f\u7701"
-    ],
     "name:dan_x_preferred":[
         "B\u00ecnh Phuoc"
     ],
     "name:deu_x_preferred":[
         "B\u00ecnh Ph\u01b0\u1edbc"
     ],
-    "name:dut_x_preferred":[
-        "B\u00ecnh Ph\u01b0\u1edbc"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03c7 \u03a6\u03bf\u03c5\u03cc\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bin Phuoc"
@@ -64,14 +61,8 @@
     "name:fra_x_preferred":[
         "Province de B\u00ecnh Ph\u01b0\u1edbc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "B\u00ecnh Ph\u01b0\u1edbc"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00ecnh Ph\u01b0\u1edbc"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bd\u03c7 \u03a6\u03bf\u03c5\u03cc\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a82\u0ab9 \u0aab\u0ac2\u0a93\u0a95"
@@ -103,10 +94,13 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0928\u094d\u0939 \u092b\u0941\u090a\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Binh Phuoc"
     ],
     "name:nan_x_preferred":[
+        "B\u00ecnh Ph\u01b0\u1edbc"
+    ],
+    "name:nld_x_preferred":[
         "B\u00ecnh Ph\u01b0\u1edbc"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +108,6 @@
     ],
     "name:pam_x_preferred":[
         "Binh Phuoc Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u06cc\u0646 \u0641\u0648\u06a9"
     ],
     "name:pol_x_preferred":[
         "Prowincja B\u00ecnh Ph\u01b0\u1edbc"
@@ -177,6 +168,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5e73\u798f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u798f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -301,7 +295,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550598,
+    "wof:lastmodified":1561829691,
     "wof:name":"B\u00ecnh Ph\u01b0\u1edbc",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

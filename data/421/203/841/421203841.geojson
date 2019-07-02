@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Y\u00ean B\u00e1i"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u6c9b\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Yen Bai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Y\u00ean B\u00e1i"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03bd \u039c\u03c0\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Y\u00ean B\u00e1i"
@@ -43,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Y\u00ean B\u00e1i"
-    ],
-    "name:fre_x_preferred":[
-        "Y\u00ean B\u00e1i"
-    ],
-    "name:ger_x_preferred":[
-        "Y\u00ean B\u00e1i"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b5\u03bd \u039c\u03c0\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac7\u0aa8 \u0aac\u0abe\u0a88"
@@ -86,7 +77,7 @@
     "name:mar_x_preferred":[
         "\u092f\u0947\u0928 \u092c\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yen Bai"
     ],
     "name:nld_x_preferred":[
@@ -97,9 +88,6 @@
     ],
     "name:oci_x_preferred":[
         "Y\u00ean B\u00e1i"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0646 \u0628\u0627\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u06cc\u0646 \u0628\u0627\u0626\u06cc"
@@ -154,6 +142,9 @@
     ],
     "name:war_x_preferred":[
         "Yen Bai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6c9b\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
@@ -295,7 +286,7 @@
         }
     ],
     "wof:id":421203841,
-    "wof:lastmodified":1527716197,
+    "wof:lastmodified":1561829832,
     "wof:name":"Y\u00ean B\u00e1i",
     "wof:parent_id":1108781021,
     "wof:placetype":"locality",

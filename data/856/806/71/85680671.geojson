@@ -40,17 +40,14 @@
     "name:cdo_x_preferred":[
         "H\u00e0 Nam"
     ],
-    "name:chi_x_preferred":[
-        "\u6cb3\u5357\u7701"
-    ],
     "name:dan_x_preferred":[
         "H\u00e0 Nam"
     ],
     "name:deu_x_preferred":[
         "H\u00e0 Nam"
     ],
-    "name:dut_x_preferred":[
-        "H\u00e0 Nam"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1 \u039d\u03b1\u03bc"
     ],
     "name:eng_x_preferred":[
         "Ha Nam"
@@ -64,17 +61,11 @@
     "name:fra_x_preferred":[
         "Province de H\u00e0 Nam"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "H\u00e0 Nam"
     ],
     "name:gan_x_preferred":[
         "\u6cb3\u5357\u7701"
-    ],
-    "name:ger_x_preferred":[
-        "H\u00e0 Nam"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1 \u039d\u03b1\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe \u0aa8\u0abe\u0aae"
@@ -109,13 +100,16 @@
     "name:mar_x_preferred":[
         "\u0939\u093e \u0928\u093e\u092e"
     ],
-    "name:may_x_preferred":[
-        "Ha Nam"
-    ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u0439 \u041d\u0430\u0430\u043c"
     ],
+    "name:msa_x_preferred":[
+        "Ha Nam"
+    ],
     "name:nan_x_preferred":[
+        "H\u00e0 Nam"
+    ],
+    "name:nld_x_preferred":[
         "H\u00e0 Nam"
     ],
     "name:nob_x_preferred":[
@@ -123,9 +117,6 @@
     ],
     "name:pam_x_preferred":[
         "Ha Nam Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627 \u0646\u0627\u0645"
     ],
     "name:pol_x_preferred":[
         "Prowincja H\u00e0 Nam"
@@ -186,6 +177,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6cb3\u5357"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u5357\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -312,7 +306,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550598,
+    "wof:lastmodified":1561829695,
     "wof:name":"H\u00e0 Nam",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

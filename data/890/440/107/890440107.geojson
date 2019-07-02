@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0641\u0648\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u0575\u0586\u0578\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Hai Phong"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0439\u0444\u043e\u043d"
     ],
@@ -40,17 +34,14 @@
     "name:cdo_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
     ],
+    "name:ces_x_preferred":[
+        "Haiphong"
+    ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0439\u0444\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u9632\u5e02"
-    ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0439\u0444\u043e\u043d"
-    ],
-    "name:cze_x_preferred":[
-        "Haiphong"
     ],
     "name:dan_x_preferred":[
         "Hai Phong"
@@ -58,8 +49,11 @@
     "name:deu_x_preferred":[
         "Haiphong"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "H\u1ea3i Ph\u00f2ng"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03b9 \u03a6\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Haiphong"
@@ -70,20 +64,17 @@
     "name:est_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
     ],
+    "name:eus_x_preferred":[
+        "Hai Phong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u0641\u0648\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Haiphong"
     ],
     "name:fra_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
-    ],
-    "name:fre_x_preferred":[
-        "H\u1ea3i Ph\u00f2ng"
-    ],
-    "name:ger_x_preferred":[
-        "H\u1ea3i Ph\u00f2ng"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03b9 \u03a6\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac8\u0aab\u0a82\u0a97"
@@ -96,6 +87,9 @@
     ],
     "name:hun_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0575\u0586\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
@@ -133,7 +127,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093e\u092f \u092b\u093e\u0901\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Haiphong"
     ],
     "name:nan_x_preferred":[
@@ -142,14 +136,14 @@
     "name:nld_x_preferred":[
         "Haiphong"
     ],
+    "name:nld_x_variant":[
+        "H\u1ea3i Ph\u00f2ng"
+    ],
     "name:nob_x_preferred":[
         "Haiphong"
     ],
     "name:nor_x_preferred":[
         "Haiphong"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0627\u06cc\u0641\u0648\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Hajfong"
@@ -333,7 +327,7 @@
         }
     ],
     "wof:id":890440107,
-    "wof:lastmodified":1527727106,
+    "wof:lastmodified":1561829833,
     "wof:name":"Haiphong",
     "wof:parent_id":1108781265,
     "wof:placetype":"locality",

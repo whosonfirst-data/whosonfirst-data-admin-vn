@@ -37,29 +37,26 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09af\u09bc \u09b9\u09cb\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7d8f\u548c\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Tuy Hoa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tuy H\u00f2a"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03b9 \u03a7\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tuy Hoa"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06cc \u0647\u0648\u0626\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tuy H\u00f2a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tuy H\u00f2a"
-    ],
-    "name:ger_x_preferred":[
-        "Tuy H\u00f2a"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03cd\u03b9 \u03a7\u03cc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac1\u0aaf \u0ab9\u0acb\u0a86"
@@ -91,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u092f\u0942 \u0939\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tuy Hoa"
+    ],
+    "name:nld_x_preferred":[
+        "Tuy H\u00f2a"
     ],
     "name:nob_x_preferred":[
         "Tuy Hoa"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06cc \u0647\u0648\u0626\u0627"
     ],
     "name:pol_x_preferred":[
         "Tuy H\u00f2a"
@@ -145,6 +142,9 @@
     "name:war_x_preferred":[
         "Tuy Hoa"
     ],
+    "name:zho_x_preferred":[
+        "\u7d8f\u548c\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":1108781691,
-    "wof:lastmodified":1555092490,
+    "wof:lastmodified":1561829785,
     "wof:name":"Tuy Hoa",
     "wof:parent_id":85680733,
     "wof:placetype":"county",

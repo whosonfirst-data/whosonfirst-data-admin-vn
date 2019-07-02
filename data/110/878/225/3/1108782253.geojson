@@ -31,9 +31,6 @@
     "mps:longitude":105.642044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e4c\u95e8\u90e1"
-    ],
     "name:eng_x_preferred":[
         "O Mon"
     ],
@@ -42,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "\u00d4 M\u00f4n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u95e8\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108782253,
-    "wof:lastmodified":1555092491,
+    "wof:lastmodified":1561829796,
     "wof:name":"O Mon",
     "wof:parent_id":85680799,
     "wof:placetype":"county",

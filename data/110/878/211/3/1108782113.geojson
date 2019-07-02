@@ -34,9 +34,6 @@
     "name:aka_x_preferred":[
         "Ben Tre"
     ],
-    "name:alb_x_preferred":[
-        "Ben\u00e7e"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0646 \u062a\u0631\u064a"
     ],
@@ -61,23 +58,23 @@
     "name:cat_x_preferred":[
         "Ben Tre"
     ],
-    "name:chi_x_preferred":[
-        "\u6ab3\u6925\u5e02"
+    "name:ces_x_preferred":[
+        "B\u1ebfn Tre"
     ],
     "name:cor_x_preferred":[
         "Ben Tre"
     ],
-    "name:cze_x_preferred":[
+    "name:dan_x_preferred":[
         "B\u1ebfn Tre"
     ],
-    "name:dan_x_preferred":[
+    "name:deu_x_preferred":[
         "B\u1ebfn Tre"
     ],
     "name:diq_x_preferred":[
         "Ben Tre"
     ],
-    "name:dut_x_preferred":[
-        "B\u1ebfn Tre"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bd \u03a4\u03c1\u03b5"
     ],
     "name:eml_x_preferred":[
         "Ben Tre"
@@ -91,23 +88,20 @@
     "name:ewe_x_preferred":[
         "Ben Tre"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u200c\u062a\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "B\u1ebfn Tre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "B\u1ebfn Tre"
     ],
     "name:gag_x_preferred":[
         "Ben Tre"
     ],
-    "name:ger_x_preferred":[
-        "B\u1ebfn Tre"
-    ],
     "name:glg_x_preferred":[
         "Ben Tre"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bd \u03a4\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8 \u0a9f\u0acd\u0ab0\u0ac7"
@@ -166,23 +160,23 @@
     "name:lug_x_preferred":[
         "Ben Tre"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043d\u0447\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928 \u091f\u094d\u0930\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043d\u0447\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Ben Tre"
+    ],
+    "name:nld_x_preferred":[
+        "B\u1ebfn Tre"
     ],
     "name:nob_x_preferred":[
         "B\u1ebfn Tre"
     ],
     "name:pap_x_preferred":[
         "Ben Tre"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u200c\u062a\u0631\u0647"
     ],
     "name:pih_x_preferred":[
         "Ben Tre"
@@ -214,7 +208,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd9\u0db1\u0dca \u0da7\u0dca\u200d\u0dbb\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u1ebfn Tre"
     ],
     "name:smo_x_preferred":[
@@ -225,6 +219,9 @@
     ],
     "name:spa_x_preferred":[
         "Ben Tre"
+    ],
+    "name:sqi_x_preferred":[
+        "Ben\u00e7e"
     ],
     "name:srd_x_preferred":[
         "Ben Tre"
@@ -292,6 +289,9 @@
     "name:wol_x_preferred":[
         "Ben Tre"
     ],
+    "name:zho_x_preferred":[
+        "\u6ab3\u6925\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -327,7 +327,7 @@
         }
     ],
     "wof:id":1108782113,
-    "wof:lastmodified":1553718763,
+    "wof:lastmodified":1561829785,
     "wof:name":"Ben Tre",
     "wof:parent_id":85680825,
     "wof:placetype":"county",

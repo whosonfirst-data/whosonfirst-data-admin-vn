@@ -31,9 +31,6 @@
     "mps:longitude":106.631283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5efa\u5b89\u90e1"
-    ],
     "name:eng_x_preferred":[
         "Kien An"
     ],
@@ -42,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "Ki\u1ebfn An"
+    ],
+    "name:zho_x_preferred":[
+        "\u5efa\u5b89\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1108781283,
-    "wof:lastmodified":1555092490,
+    "wof:lastmodified":1561829789,
     "wof:name":"Kien An",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

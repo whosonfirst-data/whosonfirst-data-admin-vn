@@ -40,32 +40,29 @@
     "name:cdo_x_preferred":[
         "Long An"
     ],
-    "name:chi_x_preferred":[
-        "\u9686\u5b89\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Long An"
     ],
     "name:dan_x_preferred":[
         "Long An"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Long An"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03bd\u03b3\u03ba \u0386\u03bd"
     ],
     "name:eng_x_preferred":[
         "Long An"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0646\u06af \u0622\u0646"
+    ],
     "name:fin_x_preferred":[
         "Long An"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Long An"
-    ],
-    "name:ger_x_preferred":[
-        "Long An"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03bd\u03b3\u03ba \u0386\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0a82\u0a97 \u0a8f\u0aa8"
@@ -100,10 +97,13 @@
     "name:mar_x_preferred":[
         "\u0932\u0949\u0928\u094d\u0917 \u090f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Long An"
     ],
     "name:nan_x_preferred":[
+        "Long An"
+    ],
+    "name:nld_x_preferred":[
         "Long An"
     ],
     "name:nob_x_preferred":[
@@ -112,16 +112,13 @@
     "name:pam_x_preferred":[
         "Long An Lalawigan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0646\u06af \u0622\u0646"
-    ],
     "name:pol_x_preferred":[
         "Prowincja Long An"
     ],
     "name:por_x_preferred":[
         "Long An"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Long An"
     ],
     "name:rus_x_preferred":[
@@ -174,6 +171,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9686\u5b89"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u5b89\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -298,7 +298,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550599,
+    "wof:lastmodified":1561829692,
     "wof:name":"Long An",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

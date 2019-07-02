@@ -37,23 +37,20 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0995 \u0995\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\ud84f\udd13\u5e02"
-    ],
     "name:dan_x_preferred":[
         "B\u1eafc K\u1ea1n"
     ],
-    "name:dut_x_preferred":[
-        "B\u1eafc K\u1ea1n"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba \u039a\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bac Kan"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9 \u06a9\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "B\u1eafc K\u1ea1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03ba \u039a\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a95 \u0a95\u0aa8"
@@ -85,14 +82,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0915 \u0915\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bac Kan"
+    ],
+    "name:nld_x_preferred":[
+        "B\u1eafc K\u1ea1n"
     ],
     "name:nob_x_preferred":[
         "Bac Kan"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06a9 \u06a9\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "B\u1eafc K\u1ea1n"
@@ -133,6 +130,9 @@
     "name:war_x_preferred":[
         "Bac Kan"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\ud84f\udd13\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1108780903,
-    "wof:lastmodified":1553718741,
+    "wof:lastmodified":1561829787,
     "wof:name":"Bac Kan",
     "wof:parent_id":85680597,
     "wof:placetype":"county",

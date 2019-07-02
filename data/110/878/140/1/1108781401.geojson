@@ -31,14 +31,14 @@
     "mps:longitude":104.774869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5173\u5c71\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Quan Son"
     ],
     "name:vie_x_preferred":[
         "Quan S\u01a1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5173\u5c71\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1108781401,
-    "wof:lastmodified":1553718751,
+    "wof:lastmodified":1561829801,
     "wof:name":"Quan Son",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

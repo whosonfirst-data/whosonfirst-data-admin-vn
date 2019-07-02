@@ -40,17 +40,14 @@
     "name:cdo_x_preferred":[
         "\u0110i\u1ec7n Bi\u00ean"
     ],
-    "name:chi_x_preferred":[
-        "\u5960\u908a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Dien Bien"
     ],
     "name:deu_x_preferred":[
         "\u0110i\u1ec7n Bi\u00ean"
     ],
-    "name:dut_x_preferred":[
-        "\u0110i\u1ec7n Bi\u00ean"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03ad\u03bd \u039c\u03c0\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dien Bien"
@@ -58,23 +55,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u0646 \u0628\u06cc\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u0646\u200c\u0628\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "\u0110i\u1ec7n Bi\u00ean"
     ],
     "name:fra_x_preferred":[
         "Province de \u0110i\u1ec7n Bi\u00ean"
     ],
-    "name:fre_x_preferred":[
-        "Province de \u0110i\u1ec7n Bi\u00ean"
-    ],
     "name:gan_x_preferred":[
         "\u5960\u908a\u7701"
-    ],
-    "name:ger_x_preferred":[
-        "\u0110i\u1ec7n Bi\u00ean"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03ad\u03bd \u039c\u03c0\u03b9\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac0\u0a8f\u0aa8 \u0aac\u0ac0\u0a8f\u0aa8"
@@ -106,10 +97,13 @@
     "name:mar_x_preferred":[
         "\u0921\u0940\u090f\u0928 \u092c\u093f\u090f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dien Bien"
     ],
     "name:nan_x_preferred":[
+        "\u0110i\u1ec7n Bi\u00ean"
+    ],
+    "name:nld_x_preferred":[
         "\u0110i\u1ec7n Bi\u00ean"
     ],
     "name:nob_x_preferred":[
@@ -120,9 +114,6 @@
     ],
     "name:pam_x_preferred":[
         "Dien Bien Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u0646\u200c\u0628\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u06cc\u0626\u0646 \u0628\u06cc\u0626\u0646"
@@ -183,6 +174,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5960\u908a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5960\u908a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -306,7 +300,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550598,
+    "wof:lastmodified":1561829687,
     "wof:name":"\u0110i\u1ec7n Bi\u00ean",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

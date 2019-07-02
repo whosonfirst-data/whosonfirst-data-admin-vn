@@ -31,9 +31,6 @@
     "mps:longitude":105.759617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5be7\u6a4b\u90e1"
-    ],
     "name:eng_x_preferred":[
         "Ninh Kieu"
     ],
@@ -42,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "Ninh Ki\u1ec1u"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be7\u6a4b\u90e1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108782251,
-    "wof:lastmodified":1555092491,
+    "wof:lastmodified":1561829796,
     "wof:name":"Ninh Kieu",
     "wof:parent_id":85680799,
     "wof:placetype":"county",

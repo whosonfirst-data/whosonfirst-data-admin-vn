@@ -40,29 +40,26 @@
     "name:cdo_x_preferred":[
         "Gia Lai"
     ],
-    "name:chi_x_preferred":[
-        "\u5609\u840a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gia Lai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gia Lai"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03af\u03b1 \u039b\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Gia Lai"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u06cc\u0627 \u0644\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Gia Lai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Gia Lai"
-    ],
-    "name:ger_x_preferred":[
-        "Gia Lai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03af\u03b1 \u039b\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0a86 \u0ab2\u0abe\u0a88"
@@ -94,10 +91,13 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092f\u093e \u0932\u093e\u0907"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gia Lai"
     ],
     "name:nan_x_preferred":[
+        "Gia Lai"
+    ],
+    "name:nld_x_preferred":[
         "Gia Lai"
     ],
     "name:nob_x_preferred":[
@@ -105,9 +105,6 @@
     ],
     "name:pam_x_preferred":[
         "Gia Lai Lalawigan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u06cc\u0627 \u0644\u0627\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Gia Lai"
@@ -168,6 +165,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5609\u840a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5609\u840a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VNM",
@@ -294,7 +294,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1553550591,
+    "wof:lastmodified":1561829691,
     "wof:name":"Gia Lai",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
