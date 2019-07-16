@@ -31,8 +31,14 @@
     "mps:longitude":105.857028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Qu\u1eadn Hai B\u00e0Tr\u01b0ng"
+    ],
     "name:eng_x_preferred":[
         "Hai Ba Trung"
+    ],
+    "name:eng_x_variant":[
+        "Hai B\u00e0 Tr\u01b0ng"
     ],
     "name:fra_x_preferred":[
         "District de Hai Ba Trung"
@@ -43,8 +49,17 @@
     "name:kor_x_preferred":[
         "\ud558\uc774\ubc14\ucbe9"
     ],
+    "name:kor_x_variant":[
+        "\ud558\uc774\ubc14\ucbe9\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Hai B\u00e0 Tr\u01b0ng"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0439\u0431\u0430\u0447\u044b\u043d\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Hai B\u00e0 Tr\u01b0ng Destrict"
     ],
     "name:swe_x_preferred":[
         "Hai B\u00e0 Tr\u01b0ng"
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":1108780797,
-    "wof:lastmodified":1561829785,
+    "wof:lastmodified":1563275374,
     "wof:name":"Hai Ba Trung",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

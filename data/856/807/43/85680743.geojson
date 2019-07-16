@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0627\u0643 \u0646\u0648\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u06a9 \u0646\u0648\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u0995 \u09a8\u09cb\u0982"
     ],
@@ -40,17 +43,29 @@
     "name:cdo_x_preferred":[
         "\u0110\u1eafk N\u00f4ng"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d0\u1eafk N\u00f4ng"
+    ],
+    "name:ces_x_preferred":[
+        "\u0110\u1eafk N\u00f4ng"
+    ],
     "name:dan_x_preferred":[
         "Dak Nong"
     ],
     "name:deu_x_preferred":[
         "\u0110\u1eafk N\u00f4ng"
     ],
+    "name:diq_x_preferred":[
+        "Dak Nong"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b1\u03ba \u039d\u03bf\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dac Nong"
+    ],
+    "name:eng_x_variant":[
+        "\u0110\u1eafk N\u00f4ng"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062f\u0627\u06a9 \u0646\u0648\u0646\u06af"
@@ -66,6 +81,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0a95 \u0aa8\u0acb\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "\u0110\u1eafk N\u00f4ng"
     ],
     "name:hin_x_preferred":[
         "\u0921\u093e\u0915 \u0928\u094b\u0902\u0917"
@@ -84,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2e5\ub18d \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub2e5\ub18d\uc131"
     ],
     "name:lav_x_preferred":[
         "Daknona"
@@ -144,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e31\u0e01\u0e42\u0e19\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e31\u0e4a\u0e01\u0e19\u0e07"
     ],
     "name:tur_x_preferred":[
         "Dak Nong"
@@ -291,7 +315,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829690,
+    "wof:lastmodified":1563273075,
     "wof:name":"\u0110\u1eafk N\u00f4ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

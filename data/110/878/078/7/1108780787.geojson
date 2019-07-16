@@ -31,8 +31,14 @@
     "mps:longitude":105.854591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
+    ],
     "name:eng_x_preferred":[
         "Hoan Kiem"
+    ],
+    "name:eng_x_variant":[
+        "Ho\u00e0n Ki\u1ebfm"
     ],
     "name:fra_x_preferred":[
         "District de Hoan Kiem"
@@ -42,6 +48,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud638\uc548\ub07c\uc5e0"
+    ],
+    "name:kor_x_variant":[
+        "\ud638\uc548\ub07c\uc5e0\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Ho\u00e0n Ki\u1ebfm"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0430\u043d\u043a\u044c\u0435\u043c"
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1108780787,
-    "wof:lastmodified":1561829786,
+    "wof:lastmodified":1563275383,
     "wof:name":"Hoan Kiem",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

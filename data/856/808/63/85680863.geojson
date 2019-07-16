@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0627 \u0632\u0627\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0627 \u0642\u06cc\u0627\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be \u099c\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:cdo_x_preferred":[
         "H\u00e0 Giang"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh H\u00e0 Giang"
+    ],
+    "name:ces_x_preferred":[
+        "Ha Giang"
     ],
     "name:dan_x_preferred":[
         "H\u00e0 Giang"
@@ -53,7 +62,8 @@
         "Ha Giang"
     ],
     "name:eng_x_variant":[
-        "Hagiang"
+        "Hagiang",
+        "H\u00e0 Giang"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627 \u06af\u06cc\u0627\u0646\u06af"
@@ -64,8 +74,14 @@
     "name:fra_x_preferred":[
         "Province de H\u00e0 Giang"
     ],
+    "name:fra_x_variant":[
+        "H\u00e0 Giang"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe \u0a97\u0abf\u0a86\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "H\u00e0 Giang"
     ],
     "name:hin_x_preferred":[
         "\u0939\u093e \u091c\u093f\u092f\u093e\u0902\u0917"
@@ -73,17 +89,26 @@
     "name:ind_x_preferred":[
         "Provinsi H\u00e0 Giang"
     ],
+    "name:ind_x_variant":[
+        "Provinsi Ha Giang"
+    ],
     "name:ita_x_preferred":[
         "provincia di Ha Giang"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30b8\u30e3\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30b6\u30f3\u7701"
+    ],
     "name:kan_x_preferred":[
         "\u0cb9\u0ccd\u0caf\u0cbe \u0c9c\u0cbf\u0caf\u0cbe\u0c82\u0c97\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ud558\uc9c0\uc559"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc7a5\uc131"
     ],
     "name:lav_x_preferred":[
         "Hazana"
@@ -303,7 +328,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829692,
+    "wof:lastmodified":1563273095,
     "wof:name":"H\u00e0 Giang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

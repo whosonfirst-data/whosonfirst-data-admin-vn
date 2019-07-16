@@ -28,11 +28,17 @@
     "name:deu_x_preferred":[
         "L\u00e0o Cai"
     ],
+    "name:diq_x_preferred":[
+        "Lao Cai"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03bf \u039a\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lao Cai"
+    ],
+    "name:eng_x_variant":[
+        "L\u00e0o Cai"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0626\u0648 \u06a9\u0627\u06cc"
@@ -60,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30aa\u30ab\u30a4"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30aa\u30ab\u30a4\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0caf\u0ccd \u0c95\u0cc8"
@@ -136,11 +145,17 @@
     "name:urd_x_preferred":[
         "\u0644\u0627\u0648 \u06a9\u0627\u0626\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u0648 \u06a9\u0627\u0626\u06d2"
+    ],
     "name:vie_x_preferred":[
         "L\u00e0o Cai"
     ],
     "name:war_x_preferred":[
         "Lao Cai"
+    ],
+    "name:yue_x_preferred":[
+        "\u8001\u8857\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u8001\u8857\u5e02"
@@ -269,7 +284,7 @@
         }
     ],
     "wof:id":890439923,
-    "wof:lastmodified":1561829833,
+    "wof:lastmodified":1563276314,
     "wof:name":"L\u00e0o Cai",
     "wof:parent_id":1108780937,
     "wof:placetype":"locality",

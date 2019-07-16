@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u0646 \u0644\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0646 \u0644\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09a8 \u09b2\u09be"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:cdo_x_preferred":[
         "S\u01a1n La"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh S\u01a1n La"
+    ],
+    "name:ces_x_preferred":[
+        "Son La"
     ],
     "name:dan_x_preferred":[
         "S\u01a1n La"
@@ -65,14 +74,23 @@
     "name:fra_x_preferred":[
         "Province de S\u01a1n La"
     ],
+    "name:fra_x_variant":[
+        "S\u01a1n La"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa8 \u0ab2\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "S\u01a1n La"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0949\u0928 \u0932\u093e"
     ],
     "name:ind_x_preferred":[
         "Provinsi S\u01a1n La"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Son La"
     ],
     "name:ita_x_preferred":[
         "provincia di Son La"
@@ -85,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc120\ub77c \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\uc120\ub77c\uc131"
     ],
     "name:lav_x_preferred":[
         "Sonla"
@@ -166,6 +187,9 @@
     ],
     "name:war_x_preferred":[
         "Son La"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c71\u7f57\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5c71\u7f85"
@@ -298,7 +322,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829695,
+    "wof:lastmodified":1563273115,
     "wof:name":"Son La",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

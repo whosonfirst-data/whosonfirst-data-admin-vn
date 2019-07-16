@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u0627\u0646\u063a \u0646\u0627\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0627\u0646\u0642 \u0646\u0627\u0645 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u0982 \u09a8\u09be\u09ae"
     ],
@@ -40,6 +43,9 @@
     "name:cdo_x_preferred":[
         "Qu\u1ea3ng Nam"
     ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh Qu\u1ea3ng Nam"
+    ],
     "name:ces_x_preferred":[
         "Qu\u1ea3ng Nam"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Qu\u1ea3ng Nam"
+    ],
+    "name:diq_x_preferred":[
+        "Quang Nam"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba \u039d\u03b1\u03bc"
@@ -68,8 +77,14 @@
     "name:fra_x_preferred":[
         "Province de Qu\u1ea3ng Nam"
     ],
+    "name:fra_x_variant":[
+        "Qu\u1ea3ng Nam"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a82\u0a97 \u0aa8\u0abe\u0aae"
+    ],
+    "name:hak_x_preferred":[
+        "Qu\u1ea3ng Nam"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u0902\u0917 \u0928\u093e\u092e"
@@ -89,11 +104,17 @@
     "name:kor_x_preferred":[
         "\uaf5d\ub0a8 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uaf5d\ub0a8\uc131"
+    ],
     "name:lav_x_preferred":[
         "Kuannama"
     ],
     "name:lit_x_preferred":[
         "Kvangnamas"
+    ],
+    "name:ltz_x_preferred":[
+        "Quang Nam"
     ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0902\u0917 \u0928\u093e\u092e"
@@ -300,7 +321,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829688,
+    "wof:lastmodified":1563273065,
     "wof:name":"Qu\u00e0ng Nam",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

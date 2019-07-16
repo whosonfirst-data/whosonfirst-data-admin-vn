@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Go Cong"
     ],
+    "name:eng_x_variant":[
+        "G\u00f2 C\u00f4ng"
+    ],
     "name:jpn_x_preferred":[
         "\u30b4\u30fc\u30b3\u30f3"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9d5d\u8ca2"
+    ],
+    "name:zho_x_variant":[
+        "\u9d5d\u8ca2\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108782107,
-    "wof:lastmodified":1561829786,
+    "wof:lastmodified":1563275379,
     "wof:name":"Go Cong",
     "wof:parent_id":85680739,
     "wof:placetype":"county",

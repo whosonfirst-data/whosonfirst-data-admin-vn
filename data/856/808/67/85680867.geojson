@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0627\u0648 \u0643\u0627\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0626\u0648 \u06a9\u0627\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0993 \u0995\u09be\u09af\u09bc"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:cdo_x_preferred":[
         "L\u00e0o Cai"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh L\u00e0o Cai"
+    ],
+    "name:ces_x_preferred":[
+        "Provincie Lao Cai"
     ],
     "name:dan_x_preferred":[
         "L\u00e0o Cai"
@@ -53,7 +62,8 @@
         "Lao Cai"
     ],
     "name:eng_x_variant":[
-        "Laocai"
+        "Laocai",
+        "L\u00e0o Cai"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627\u0626\u0648 \u06a9\u0627\u06cc"
@@ -64,14 +74,23 @@
     "name:fra_x_preferred":[
         "Province de L\u00e0o Cai"
     ],
+    "name:fra_x_variant":[
+        "L\u00e0o Cai"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a93 \u0a95\u0abe\u0a88"
+    ],
+    "name:hak_x_preferred":[
+        "L\u00e0o Cai"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0913 \u0915\u093e\u0908 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:ind_x_preferred":[
         "Provinsi L\u00e0o Cai"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Lao Cai"
     ],
     "name:ita_x_preferred":[
         "provincia di Lao Cai"
@@ -84,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\uc624\uae4c\uc774 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\uc624\uae4c\uc774\uc131"
     ],
     "name:lav_x_preferred":[
         "Laokajas province"
@@ -130,6 +152,9 @@
     "name:spa_x_preferred":[
         "Provincia de L\u00e0o Cai"
     ],
+    "name:spa_x_variant":[
+        "L\u00e0o Cai"
+    ],
     "name:srp_x_preferred":[
         "Lao Cai"
     ],
@@ -165,6 +190,9 @@
     ],
     "name:war_x_preferred":[
         "Lao Cai"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8001\u8857\u7701"
     ],
     "name:yue_x_preferred":[
         "\u8001\u8857"
@@ -297,7 +325,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829691,
+    "wof:lastmodified":1563273085,
     "wof:name":"L\u00e0o Cai",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

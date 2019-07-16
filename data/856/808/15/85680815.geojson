@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0646 \u0632\u0627\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0646 \u0642\u06cc\u0627\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09af\u09bc\u09c7\u09a8 \u0997\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -40,17 +43,29 @@
     "name:cdo_x_preferred":[
         "Ki\u00ean Giang"
     ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh Ki\u1ebfn Giang"
+    ],
+    "name:ces_x_preferred":[
+        "Kien Giang"
+    ],
     "name:dan_x_preferred":[
         "Ki\u00ean Giang"
     ],
     "name:deu_x_preferred":[
         "Ki\u00ean Giang"
     ],
+    "name:diq_x_preferred":[
+        "Kien Giang"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03ad\u03bd \u0393\u03ba\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kien Giang"
+    ],
+    "name:eng_x_variant":[
+        "Ki\u00ean Giang"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u06cc\u0646 \u06af\u06cc\u0627\u0646\u06af"
@@ -61,8 +76,14 @@
     "name:fra_x_preferred":[
         "Province de Ki\u00ean Giang"
     ],
+    "name:fra_x_variant":[
+        "Ki\u00ean Giang"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac0\u0aa8 \u0a97\u0abf\u0a86\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "Ki\u00ean Giang"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0940\u0928 \u0917\u093f\u092f\u093e\u0902\u0917"
@@ -87,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub07c\uc5d4\uc7a5 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub07c\uc5d4\uc7a5\uc131"
     ],
     "name:lav_x_preferred":[
         "Kjenzana"
@@ -171,6 +195,9 @@
     ],
     "name:war_x_preferred":[
         "Kien Giang"
+    ],
+    "name:wuu_x_preferred":[
+        "\u575a\u6c5f\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5805\u6c5f"
@@ -302,7 +329,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829692,
+    "wof:lastmodified":1563273096,
     "wof:name":"Ki\u00ean Giang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

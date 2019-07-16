@@ -26,11 +26,17 @@
     "name:deu_x_preferred":[
         "L\u1ea1ng S\u01a1n"
     ],
+    "name:diq_x_preferred":[
+        "Lang Son"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03bd\u03b3\u03ba \u03a3\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lang Son"
+    ],
+    "name:eng_x_variant":[
+        "L\u1ea1ng S\u01a1n"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0646\u06af \u0633\u0648\u0646"
@@ -58,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f3\u30bd\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30f3\u30bd\u30f3\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0c82\u0c97\u0ccd \u0cb8\u0ccb\u0ca8\u0ccd"
@@ -107,6 +116,9 @@
     "name:spa_x_preferred":[
         "Lang Son"
     ],
+    "name:spa_x_variant":[
+        "L\u1ea1ng S\u01a1n"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0430\u043d\u0433 \u0421\u043e\u043d"
     ],
@@ -136,6 +148,9 @@
     ],
     "name:vie_x_preferred":[
         "Th\u00e0nh Ph\u1ed1 L\u1ea1ng S\u01a1n"
+    ],
+    "name:vie_x_variant":[
+        "L\u1ea1ng S\u01a1n"
     ],
     "name:war_x_preferred":[
         "Lang Son"
@@ -283,7 +298,7 @@
         }
     ],
     "wof:id":421168903,
-    "wof:lastmodified":1561829831,
+    "wof:lastmodified":1563276264,
     "wof:name":"L\u1ea1ng S\u01a1n",
     "wof:parent_id":1108781085,
     "wof:placetype":"locality",

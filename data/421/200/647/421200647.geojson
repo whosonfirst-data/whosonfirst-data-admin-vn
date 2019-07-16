@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8 \u0986\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Th\u00e0nh Ph\u1ed1 T\u00e2n An"
+    ],
     "name:dan_x_preferred":[
         "T\u00e2n An"
     ],
@@ -31,8 +34,14 @@
     "name:eng_x_preferred":[
         "Tan An"
     ],
+    "name:eng_x_variant":[
+        "T\u00e2n An"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0646 \u0622\u0646\u060c \u0644\u0646\u06af \u0622\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0646 \u0622\u0646"
     ],
     "name:fin_x_preferred":[
         "T\u00e2n An"
@@ -121,8 +130,14 @@
     "name:urd_x_preferred":[
         "\u062a\u0622\u0646 \u0622\u0646\u060c \u0644\u0648\u0646\u06af \u0622\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0622\u0646 \u0622\u0646"
+    ],
     "name:vie_x_preferred":[
         "Long An"
+    ],
+    "name:vie_x_variant":[
+        "T\u00e2n An"
     ],
     "name:war_x_preferred":[
         "Tan An"
@@ -175,7 +190,7 @@
         }
     ],
     "wof:id":421200647,
-    "wof:lastmodified":1561829832,
+    "wof:lastmodified":1563276288,
     "wof:name":"T\u00e2n An",
     "wof:parent_id":1108782091,
     "wof:placetype":"locality",

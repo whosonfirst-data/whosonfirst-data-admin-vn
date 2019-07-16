@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u064a \u0623\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0647 \u0622\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09b9\u09c7\u09af\u09bc\u09be\u09a8"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cdo_x_preferred":[
         "Ngh\u1ec7 An"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh Ngh\u1ec7 An"
     ],
     "name:ces_x_preferred":[
         "Ngh\u1ec7 An"
@@ -49,11 +55,17 @@
     "name:deu_x_preferred":[
         "Ngh\u1ec7 An"
     ],
+    "name:diq_x_preferred":[
+        "Nghe An"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b3\u03ba\u03c7\u03b5 \u0391\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nghe An"
+    ],
+    "name:eng_x_variant":[
+        "Ngh\u1ec7 An"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0646\u0647 \u0622\u0646"
@@ -64,8 +76,14 @@
     "name:fra_x_preferred":[
         "Province de Ngh\u1ec7 An"
     ],
+    "name:fra_x_variant":[
+        "Ngh\u1ec7 An"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a98\u0ac7 \u0a8f\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Ngh\u1ec7 An"
     ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u0918\u093f\u090f \u090f\u0928"
@@ -87,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc751\uc5d0\uc548 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\uc751\uc5d0\uc548\uc131"
     ],
     "name:lat_x_preferred":[
         "Ngh\u1ec7 An"
@@ -307,7 +328,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829694,
+    "wof:lastmodified":1563273112,
     "wof:name":"Ngh\u1ec7 An",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645 \u062f\u064a\u0646\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u0645 \u062f\u0646\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0645 \u062f\u06cc\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ae \u09a6\u09bf\u09b9\u09cd\u09a8"
     ],
@@ -38,6 +44,12 @@
         "\u041d\u0430\u043c \u0414\u0438\u043d"
     ],
     "name:cdo_x_preferred":[
+        "Nam \u0110\u1ecbnh"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh Nam \u0110\u1ecbnh"
+    ],
+    "name:ces_x_preferred":[
         "Nam \u0110\u1ecbnh"
     ],
     "name:dan_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Nam Dinh"
+    ],
+    "name:eng_x_variant":[
+        "Nam \u0110\u1ecbnh"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0645 \u062f\u06cc\u0646"
@@ -73,11 +88,17 @@
     "name:hak_x_preferred":[
         "N\u00e0m-thin-s\u1e73"
     ],
+    "name:hak_x_variant":[
+        "Nam \u0110\u1ecbnh"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u092e \u0926\u093f\u0928\u094d\u0939"
     ],
     "name:ind_x_preferred":[
         "Nam \u0110\u1ecbnh"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Nam \u0110\u1ecbnh"
     ],
     "name:ita_x_preferred":[
         "Nam Dinh"
@@ -90,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ub518 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ub518\uc131"
     ],
     "name:lav_x_preferred":[
         "Namdi\u0146a"
@@ -301,7 +325,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829694,
+    "wof:lastmodified":1563273114,
     "wof:name":"Nam \u0110\u1ecbnh",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

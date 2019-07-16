@@ -31,14 +31,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0643 \u0632\u0627\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u06a9 \u0642\u06cc\u0627\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0995 \u0997\u09bf\u09af\u09bc\u09be\u0982"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043a \u0416\u0438\u0430\u043d\u0433"
     ],
+    "name:cat_x_preferred":[
+        "B\u1eafc Giang"
+    ],
     "name:cdo_x_preferred":[
         "B\u1eafc Giang"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh B\u1eafc Giang"
+    ],
+    "name:ces_x_preferred":[
+        "Bac Giang"
     ],
     "name:dan_x_preferred":[
         "B\u1eafc Giang"
@@ -46,11 +58,17 @@
     "name:deu_x_preferred":[
         "B\u1eafc Giang"
     ],
+    "name:diq_x_preferred":[
+        "B\u1eafc Giang"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03ba \u0393\u03ba\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Bac Giang"
+    ],
+    "name:eng_x_variant":[
+        "B\u1eafc Giang"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u06a9 \u06af\u06cc\u0627\u0646\u06af"
@@ -61,14 +79,23 @@
     "name:fra_x_preferred":[
         "Province de B\u1eafc Giang"
     ],
+    "name:fra_x_variant":[
+        "B\u1eafc Giang"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a95 \u0a9c\u0abf\u0a86\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "B\u1eafc Giang"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0940\u0915 \u0917\u093f\u092f\u093e\u0902\u0917"
     ],
     "name:ind_x_preferred":[
         "Provinsi B\u1eafc Giang"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Bac Giang"
     ],
     "name:ita_x_preferred":[
         "provincia di Bac Giang"
@@ -81,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc15\uc7a5 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ubc15\uc7a5\uc131"
     ],
     "name:lav_x_preferred":[
         "Bakzanas province"
@@ -295,7 +325,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829695,
+    "wof:lastmodified":1563273116,
     "wof:name":"B\u1eafc Giang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

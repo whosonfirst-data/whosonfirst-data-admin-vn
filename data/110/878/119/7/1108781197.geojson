@@ -34,11 +34,23 @@
     "name:eng_x_preferred":[
         "Phuc Yen"
     ],
+    "name:eng_x_variant":[
+        "Ph\u00fac Y\u00ean"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30c3\u30af\u30a4\u30a8\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud479\uc60c"
+    ],
     "name:vie_x_preferred":[
         "Ph\u00fac Y\u00ean"
     ],
     "name:zho_x_preferred":[
         "\u798f\u5b89\u5e02\u793e"
+    ],
+    "name:zho_x_variant":[
+        "\u798f\u5b89\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":1108781197,
-    "wof:lastmodified":1561829789,
+    "wof:lastmodified":1563275413,
     "wof:name":"Phuc Yen",
     "wof:parent_id":85680663,
     "wof:placetype":"county",

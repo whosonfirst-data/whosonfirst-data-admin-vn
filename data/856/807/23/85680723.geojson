@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u0627\u0645 \u062f\u0648\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0645 \u062f\u0648\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ae \u09a1\u0982"
     ],
@@ -40,17 +43,29 @@
     "name:cdo_x_preferred":[
         "L\u00e2m \u0110\u1ed3ng"
     ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh L\u00e2m \u0110\u1ed3ng"
+    ],
+    "name:ces_x_preferred":[
+        "Lam Dong"
+    ],
     "name:dan_x_preferred":[
         "L\u00e2m \u0110\u1ed3ng"
     ],
     "name:deu_x_preferred":[
         "L\u00e2m \u0110\u1ed3ng"
     ],
+    "name:diq_x_preferred":[
+        "Lam Dong"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03bc \u039d\u03c4\u03cc\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Lam Dong"
+    ],
+    "name:eng_x_variant":[
+        "L\u00e2m \u0110\u1ed3ng"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0627\u0645 \u062f\u0648\u0646\u06af"
@@ -61,8 +76,14 @@
     "name:fra_x_preferred":[
         "Province de L\u00e2m \u0110\u1ed3ng"
     ],
+    "name:fra_x_variant":[
+        "L\u00e2m \u0110\u1ed3ng"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0aae \u0aa1\u0acb\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "L\u00e2m \u0110\u1ed3ng"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u092e \u0926\u094b\u0902\u0917"
@@ -81,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub7fc\ub3d9 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub7fc\ub3d9\uc131"
     ],
     "name:lav_x_preferred":[
         "Lomdonas province"
@@ -291,7 +315,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829691,
+    "wof:lastmodified":1563273081,
     "wof:name":"L\u00e2m \u0110\u1ed3ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

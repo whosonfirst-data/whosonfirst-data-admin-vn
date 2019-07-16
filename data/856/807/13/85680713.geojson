@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0632\u0627 \u0644\u0627\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0627 \u0644\u0627\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09af\u09bc\u09be \u09b2\u09bf\u09af\u09bc\u09be"
     ],
@@ -40,10 +43,19 @@
     "name:cdo_x_preferred":[
         "Gia Lai"
     ],
+    "name:ceb_x_preferred":[
+        "Gia Lai"
+    ],
+    "name:ces_x_preferred":[
+        "Gia Lai"
+    ],
     "name:dan_x_preferred":[
         "Gia Lai"
     ],
     "name:deu_x_preferred":[
+        "Gia Lai"
+    ],
+    "name:diq_x_preferred":[
         "Gia Lai"
     ],
     "name:ell_x_preferred":[
@@ -61,8 +73,14 @@
     "name:fra_x_preferred":[
         "Province de Gia Lai"
     ],
+    "name:fra_x_variant":[
+        "Gia Lai"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0a86 \u0ab2\u0abe\u0a88"
+    ],
+    "name:hak_x_preferred":[
+        "Gia Lai"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u092f\u093e \u0932\u093e\u0908 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -82,11 +100,17 @@
     "name:kor_x_preferred":[
         "\uc798\ub77c\uc774 \uc131"
     ],
+    "name:kor_x_variant":[
+        "\uc798\ub77c\uc774\uc131"
+    ],
     "name:lav_x_preferred":[
         "Zalaja"
     ],
     "name:lit_x_preferred":[
         "Bakl\u0117jus"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d3f\u0d2f \u0d32\u0d3e\u0d2f\u0d4d \u0d2a\u0d4d\u0d30\u0d4a\u0d35\u0d3f\u0d7b\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u092f\u093e \u0932\u093e\u0907"
@@ -141,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e22\u0e32\u0e25\u0e32\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e25\u0e32\u0e22"
     ],
     "name:tur_x_preferred":[
         "Gia Lai"
@@ -294,7 +321,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829691,
+    "wof:lastmodified":1563273083,
     "wof:name":"Gia Lai",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

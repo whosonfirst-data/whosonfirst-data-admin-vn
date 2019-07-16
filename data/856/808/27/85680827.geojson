@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648 \u0632\u0627\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0626\u0648 \u0642\u06cc\u0627\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09c1 \u0997\u09bf\u09af\u09bc\u09be\u0982"
     ],
@@ -40,17 +43,26 @@
     "name:cdo_x_preferred":[
         "H\u1eadu Giang"
     ],
+    "name:ceb_x_preferred":[
+        "Hau Giang"
+    ],
     "name:dan_x_preferred":[
         "H\u1eadu Giang"
     ],
     "name:deu_x_preferred":[
         "H\u1eadu Giang"
     ],
+    "name:diq_x_preferred":[
+        "Hau Giang"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf \u0393\u03ba\u03b9\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Hau Giang"
+    ],
+    "name:eng_x_variant":[
+        "H\u1eadu Giang"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0647\u0627\u0626\u0648 \u06af\u06cc\u0627\u0646\u06af"
@@ -61,8 +73,14 @@
     "name:fra_x_preferred":[
         "Province de H\u1eadu Giang"
     ],
+    "name:fra_x_variant":[
+        "H\u1eadu Giang"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a89 \u0a97\u0abf\u0a86\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "H\u1eadu Giang"
     ],
     "name:hin_x_preferred":[
         "\u0939\u093e\u0909 \u091c\u093f\u090f\u0902\u0917"
@@ -81,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud558\uc6b0\uc7a5 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc6b0\uc7a5\uc131"
     ],
     "name:lav_x_preferred":[
         "Houzana"
@@ -141,6 +162,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e39\u0e40\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2b\u0e34\u0e48\u0e27\u0e0b\u0e32\u0e07"
     ],
     "name:tur_x_preferred":[
         "Hau Giang"
@@ -287,7 +311,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829692,
+    "wof:lastmodified":1563273087,
     "wof:name":"Hau Giang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

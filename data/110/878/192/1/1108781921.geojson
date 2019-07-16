@@ -34,8 +34,14 @@
     "name:eng_x_preferred":[
         "Binh Long"
     ],
+    "name:eng_x_variant":[
+        "B\u00ecnh Long"
+    ],
     "name:fra_x_preferred":[
         "B\u00ecnh Long"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30ed\u30f3"
     ],
     "name:nld_x_preferred":[
         "B\u00ecnh Long"
@@ -51,6 +57,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e73\u9686\u9547"
+    ],
+    "name:zho_x_variant":[
+        "\u5e73\u9686\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1108781921,
-    "wof:lastmodified":1561829784,
+    "wof:lastmodified":1563275355,
     "wof:name":"Binh Long",
     "wof:parent_id":85680749,
     "wof:placetype":"county",

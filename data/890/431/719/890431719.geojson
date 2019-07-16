@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "H\u1ea1 Long"
     ],
+    "name:ces_x_preferred":[
+        "Ha Long"
+    ],
     "name:dan_x_preferred":[
         "Ha Long"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Ha Long"
+    ],
+    "name:eng_x_variant":[
+        "H\u1ea1 Long"
     ],
     "name:epo_x_preferred":[
         "Ha Long"
@@ -145,8 +151,14 @@
     "name:vie_x_preferred":[
         "Th\u00e0nh Ph\u1ed1 H\u1ea1 Long"
     ],
+    "name:vie_x_variant":[
+        "H\u1ea1 Long"
+    ],
     "name:war_x_preferred":[
         "Ha Long"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e0b\u9f8d"
     ],
     "name:zho_x_preferred":[
         "\u4e0b\u9f8d\u5e02"
@@ -276,7 +288,7 @@
         }
     ],
     "wof:id":890431719,
-    "wof:lastmodified":1561829834,
+    "wof:lastmodified":1563276320,
     "wof:name":"H\u1ea1 Long",
     "wof:parent_id":1108781111,
     "wof:placetype":"locality",
