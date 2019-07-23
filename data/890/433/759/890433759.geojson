@@ -24,11 +24,20 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c \u0414\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Th\u00e0nh Ph\u1ed1 Nam \u0110\u1ecbnh"
+    ],
+    "name:ces_x_preferred":[
+        "Nam \u0110\u1ecbnh"
+    ],
     "name:dan_x_preferred":[
         "Nam \u0110\u1ecbnh"
     ],
     "name:deu_x_preferred":[
         "Nam \u0110\u1ecbnh"
+    ],
+    "name:diq_x_preferred":[
+        "Nam Dinh"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bc \u039d\u03c4\u03b9\u03bd\u03c7"
@@ -63,8 +72,14 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30e0\u30c7\u30a3\u30f3\u5e02"
     ],
+    "name:jpn_x_variant":[
+        "\u30ca\u30e0\u30c7\u30a3\u30f3"
+    ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0cae\u0ccd \u0ca6\u0cbf\u0ca8\u0ccd\u0cb9\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u043c\u0434\u0438\u043d\u044c"
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ub518"
@@ -135,8 +150,14 @@
     "name:vie_x_preferred":[
         "Th\u00e0nh Ph\u1ed1 Nam \u0110\u1ecbnh"
     ],
+    "name:vie_x_variant":[
+        "Nam \u0110\u1ecbnh"
+    ],
     "name:war_x_preferred":[
         "Nam Dinh"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u5b9a\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u5357\u5b9a\u5e02"
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":890433759,
-    "wof:lastmodified":1561829834,
+    "wof:lastmodified":1563276332,
     "wof:name":"Nam \u00d0\u1ecbnh",
     "wof:parent_id":1108781347,
     "wof:placetype":"locality",

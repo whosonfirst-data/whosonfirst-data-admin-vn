@@ -34,17 +34,26 @@
     "name:eng_x_preferred":[
         "Ninh Hoa"
     ],
+    "name:eng_x_variant":[
+        "Ninh H\u00f2a"
+    ],
     "name:ind_x_preferred":[
         "Ninh Hoa"
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30f3\u30db\u30a2\u753a"
     ],
+    "name:jpn_x_variant":[
+        "\u30cb\u30f3\u30db\u30a2"
+    ],
     "name:vie_x_preferred":[
         "Ninh H\u00f2a"
     ],
     "name:zho_x_preferred":[
         "\u5be7\u548c"
+    ],
+    "name:zho_x_variant":[
+        "\u5be7\u548c\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1108781727,
-    "wof:lastmodified":1561829788,
+    "wof:lastmodified":1563275409,
     "wof:name":"Ninh Hoa",
     "wof:parent_id":85680719,
     "wof:placetype":"county",

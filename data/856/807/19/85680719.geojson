@@ -31,14 +31,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0646 \u0647\u0648\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0646 \u0647\u0648\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09be\u09a8 \u09b9\u09cb\u09af\u09bc\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u043d \u0425\u043e\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Kh\u00e1nh H\u00f2a"
+    ],
     "name:cdo_x_preferred":[
         "Kh\u00e1nh H\u00f2a"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh Kh\u00e1nh H\u00f2a"
+    ],
+    "name:ces_x_preferred":[
+        "Khanh Hoa"
     ],
     "name:dan_x_preferred":[
         "Kh\u00e1nh H\u00f2a"
@@ -46,11 +58,17 @@
     "name:deu_x_preferred":[
         "Kh\u00e1nh H\u00f2a"
     ],
+    "name:diq_x_preferred":[
+        "Khanh Hoa"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03c7 \u03a7\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Khanh Hoa"
+    ],
+    "name:eng_x_variant":[
+        "Kh\u00e1nh H\u00f2a"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062e\u0627\u0646 \u0647\u0648\u0627"
@@ -64,8 +82,14 @@
     "name:fra_x_preferred":[
         "Province de Kh\u00e1nh H\u00f2a"
     ],
+    "name:fra_x_variant":[
+        "Kh\u00e1nh H\u00f2a"
+    ],
     "name:guj_x_preferred":[
         "\u0a96\u0abe\u0a82\u0ab9 \u0ab9\u0acb\u0a86"
+    ],
+    "name:hak_x_preferred":[
+        "Kh\u00e1nh H\u00f2a"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093e\u0902\u0939 \u0939\u094b"
@@ -84,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uc778\ud638\uc544 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uc778\ud638\uc544\uc131"
     ],
     "name:lav_x_preferred":[
         "Ha\u0146hoa"
@@ -114,6 +141,9 @@
     ],
     "name:por_x_preferred":[
         "Khanh Hoa"
+    ],
+    "name:ron_x_preferred":[
+        "provincia Kh\u00e1nh H\u00f2a"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0445\u0430\u043d\u044c\u0445\u043e\u0430"
@@ -297,7 +327,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829689,
+    "wof:lastmodified":1563273073,
     "wof:name":"Kh\u00e1nh H\u00f2a",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

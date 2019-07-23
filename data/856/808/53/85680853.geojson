@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u0646 \u0644\u0648\u0646\u063a"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0646 \u0644\u0648\u0646\u0642 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09a8 \u09b2\u0982"
     ],
@@ -40,10 +43,19 @@
     "name:cdo_x_preferred":[
         "V\u0129nh Long"
     ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh V\u0129nh Long"
+    ],
+    "name:ces_x_preferred":[
+        "Vinh Long"
+    ],
     "name:dan_x_preferred":[
         "V\u0129nh Long"
     ],
     "name:deu_x_preferred":[
+        "V\u0129nh Long"
+    ],
+    "name:diq_x_preferred":[
         "V\u0129nh Long"
     ],
     "name:ell_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:eng_x_preferred":[
         "Vinh Long"
+    ],
+    "name:eng_x_variant":[
+        "V\u0129nh Long"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0648\u06cc\u0646 \u0644\u0648\u0646\u06af"
@@ -61,8 +76,14 @@
     "name:fra_x_preferred":[
         "Province de V\u0129nh Long"
     ],
+    "name:fra_x_variant":[
+        "V\u0129nh Long"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0a82\u0ab9 \u0ab2\u0acb\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "V\u0129nh Long"
     ],
     "name:hin_x_preferred":[
         "\u0935\u093f\u0928\u094d\u0939 \u0932\u0949\u0928\u094d\u0917"
@@ -84,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube48\ub871 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ube48\ub871\uc131"
     ],
     "name:lav_x_preferred":[
         "Vi\u0146lona"
@@ -150,6 +174,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e19\u0e2e\u0e4c \u0e25\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2b\u0e27\u0e34\u0e0d\u0e25\u0e47\u0e2d\u0e07"
     ],
     "name:tur_x_preferred":[
         "Ving Long"
@@ -298,7 +325,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829692,
+    "wof:lastmodified":1563273093,
     "wof:name":"V\u0129nh Long",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

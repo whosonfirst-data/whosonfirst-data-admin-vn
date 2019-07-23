@@ -31,17 +31,32 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0646\u062c \u0646\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0648\u0646\u063a \u0646\u0627\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0646\u0642 \u0646\u0627\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0433 \u041d\u0430\u0439"
     ],
     "name:cdo_x_preferred":[
         "\u0110\u1ed3ng Nai"
     ],
+    "name:ceb_x_preferred":[
+        "T\u1ec9nh \u0110\u1ed3ng Nai"
+    ],
+    "name:ces_x_preferred":[
+        "Dong Nai"
+    ],
     "name:deu_x_preferred":[
         "\u0110\u1ed3ng Nai"
     ],
     "name:eng_x_preferred":[
         "Dong Nai"
+    ],
+    "name:eng_x_variant":[
+        "\u0110\u1ed3ng Nai"
     ],
     "name:epo_x_preferred":[
         "Provinco \u0110\u1ed3ng Nai"
@@ -55,8 +70,17 @@
     "name:fra_x_preferred":[
         "Province de \u0110\u1ed3ng Nai"
     ],
+    "name:fra_x_variant":[
+        "\u0110\u1ed3ng Nai"
+    ],
     "name:gle_x_preferred":[
         "Dong Nai"
+    ],
+    "name:hak_x_preferred":[
+        "\u0110\u1ed3ng Nai"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094c\u0902\u0917 \u0928\u093e\u092f \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:ind_x_preferred":[
         "Provinsi Dong Nai"
@@ -69,6 +93,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ub098\uc774 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ub098\uc774\uc131"
     ],
     "name:nan_x_preferred":[
         "\u0110\u1ed3ng Nai"
@@ -99,6 +126,9 @@
     ],
     "name:swe_x_preferred":[
         "Dong Nai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e48\u0e07\u0e19\u0e32\u0e22"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0433\u043d\u0430\u0439"
@@ -245,7 +275,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829690,
+    "wof:lastmodified":1563273076,
     "wof:name":"\u0110\u00f4ng Nam B\u1ed9",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

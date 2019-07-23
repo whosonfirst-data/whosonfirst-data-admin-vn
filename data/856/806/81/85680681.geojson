@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0648 \u062a\u0627\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0648 \u062a\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09c1 \u09a5"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cdo_x_preferred":[
         "Ph\u00fa Th\u1ecd"
+    ],
+    "name:ces_x_preferred":[
+        "Phu Tho"
     ],
     "name:dan_x_preferred":[
         "Phu Tho"
@@ -52,6 +58,9 @@
     "name:eng_x_preferred":[
         "Phu Tho"
     ],
+    "name:eng_x_variant":[
+        "Ph\u00fa Th\u1ecd"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648 \u062a\u0648"
     ],
@@ -61,14 +70,23 @@
     "name:fra_x_preferred":[
         "Province de Ph\u00fa Th\u1ecd"
     ],
+    "name:fra_x_variant":[
+        "Ph\u00fa Th\u1ecd"
+    ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac1 \u0aa5\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Ph\u00fa Th\u1ecd"
     ],
     "name:hin_x_preferred":[
         "\u092b\u0942 \u0920\u094b"
     ],
     "name:ind_x_preferred":[
         "Provinsi Ph\u00fa Th\u1ecd"
+    ],
+    "name:ind_x_variant":[
+        "Provinsi Phu Tho"
     ],
     "name:ita_x_preferred":[
         "provincia di Phu Tho"
@@ -81,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud478\ud1a0 \uc131"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\ud1a0\uc131"
     ],
     "name:lav_x_preferred":[
         "Futuo"
@@ -168,6 +189,9 @@
     ],
     "name:war_x_preferred":[
         "Phu Tho"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5bcc\u5bff\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5bcc\u58fd"
@@ -298,7 +322,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1561829694,
+    "wof:lastmodified":1563273109,
     "wof:name":"Ph\u00fa Th\u1ecd",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

@@ -31,8 +31,14 @@
     "mps:longitude":105.754631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
+    ],
     "name:eng_x_preferred":[
         "Ha Dong"
+    ],
+    "name:eng_x_variant":[
+        "H\u00e0 \u0110\u00f4ng"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0627 \u062f\u0648\u0646\u06af"
@@ -43,17 +49,29 @@
     "name:hak_x_preferred":[
         "H\u00f2-t\u00fbng-s\u1e73"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30c9\u30f3\u533a"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10d0\u10d3\u10dd\u10dc\u10d2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud558\ub3d9"
     ],
+    "name:kor_x_variant":[
+        "\ud558\ub3d9\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00e0 \u0110\u00f4ng"
+    ],
     "name:nld_x_preferred":[
         "H\u00e0 \u0110\u00f4ng"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0434\u043e\u043d\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "H\u00e0 \u0110\u00f4ng"
     ],
     "name:spa_x_preferred":[
         "H\u00e0 \u0110\u00f4ng"
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":1108780817,
-    "wof:lastmodified":1561829795,
+    "wof:lastmodified":1563275445,
     "wof:name":"Ha Dong",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

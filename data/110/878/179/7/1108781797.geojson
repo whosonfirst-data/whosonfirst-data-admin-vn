@@ -34,14 +34,23 @@
     "name:eng_x_preferred":[
         "An Khe"
     ],
+    "name:eng_x_variant":[
+        "An Kh\u00ea"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0627\u0646 \u062e\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b1\u30fc"
     ],
     "name:vie_x_preferred":[
         "An Kh\u00ea"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u6eaa\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u6eaa\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1108781797,
-    "wof:lastmodified":1561829799,
+    "wof:lastmodified":1563275470,
     "wof:name":"An Khe",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

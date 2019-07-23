@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30fc\u30d0\u30a4"
+    ],
     "name:nld_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6211\u7f77\u5e02\u793e"
+    ],
+    "name:zho_x_variant":[
+        "\u6211\ud842\udd29\u5e02\u793e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108782273,
-    "wof:lastmodified":1561829785,
+    "wof:lastmodified":1563275371,
     "wof:name":"Nga Bay",
     "wof:parent_id":85680827,
     "wof:placetype":"county",
