@@ -34,6 +34,21 @@
     "name:eng_x_preferred":[
         "Tam Diep"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e0\u30c7\u30a3\u30a8\u30c3\u30d7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub540\ub514\uc5e1"
+    ],
+    "name:nld_x_preferred":[
+        "Tam \u0110i\u1ec7p"
+    ],
+    "name:vie_x_preferred":[
+        "Tam \u0110i\u1ec7p"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u758a\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -67,7 +82,7 @@
         }
     ],
     "wof:id":1108781371,
-    "wof:lastmodified":1553718750,
+    "wof:lastmodified":1564323164,
     "wof:name":"Tam Diep",
     "wof:parent_id":85680667,
     "wof:placetype":"county",
