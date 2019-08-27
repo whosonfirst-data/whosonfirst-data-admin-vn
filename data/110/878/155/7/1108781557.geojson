@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.462624,
     "lbl:longitude":107.570819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Thua Thien - Hue",
     "meso:gadm_admin":"Hu\u1ebf",
     "meso:gadm_hasc2":"VN.TT.HE",
@@ -31,6 +33,7 @@
     "mps:longitude":107.570819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a"
     ],
@@ -245,9 +248,9 @@
         "\u9806\u5316\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"71",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Hue",
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":1108781557,
-    "wof:lastmodified":1563275433,
+    "wof:lastmodified":1566650331,
     "wof:name":"Hue",
     "wof:parent_id":85680775,
     "wof:placetype":"county",

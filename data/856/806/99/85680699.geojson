@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.252272,
     "lbl:longitude":104.930363,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.228571,
     "mps:longitude":104.917069,
     "mz:hierarchy_label":1,
@@ -173,7 +174,7 @@
         "Nghe An"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0b83\u0bb9\u0bc0  \u0b85\u0ba9\u0bcd"
+        "\u0ba8\u0b83\u0bb9\u0bc0 \u0b85\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c47\u0c17\u0c4d \u0c06\u0c28\u0c4d"
@@ -189,9 +190,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0435\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Ngh\u1ec7 An"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06af\u06c1 \u0622\u0646 \u0635\u0648\u0628\u06c1"
@@ -282,9 +280,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"16,491",
     "statoids:area_mi":"6,367",
     "statoids:as_of_date":"2009-04-01",
@@ -308,7 +306,7 @@
         "gp:id":2347742,
         "hasc:id":"VN.NA",
         "iso:id":"VN-22",
-        "qs:id":1285653,
+        "qs_pg:id":1285653,
         "wd:id":"Q36587",
         "wk:page":"Ngh\u1ec7 An Province"
     },
@@ -328,11 +326,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739219,
+    "wof:lastmodified":1566648285,
     "wof:name":"Ngh\u1ec7 An",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2913055,
     "wof:population_rank":12,

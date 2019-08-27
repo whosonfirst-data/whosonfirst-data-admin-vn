@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.685533,
     "lbl:longitude":106.221833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cao Bang",
     "meso:gadm_admin":"Cao B\u1eb1ng",
     "meso:gadm_hasc2":"VN.CB.CB",
@@ -31,6 +33,7 @@
     "mps:longitude":106.221833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0648 \u0628\u0627\u0646\u063a"
     ],
@@ -152,9 +155,9 @@
         "\u9ad8\u5e73\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"55",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Cao Bang",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1108780873,
-    "wof:lastmodified":1563275441,
+    "wof:lastmodified":1566650339,
     "wof:name":"Cao Bang",
     "wof:parent_id":85680859,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.359462,
     "lbl:longitude":105.574001,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.329138,
     "mps:longitude":105.606944,
     "mz:hierarchy_label":1,
@@ -184,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043d\u044c\u0444\u0443\u043a"
     ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh V\u0129nh Ph\u00fac"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0646\u06c1 \u0641\u0648\u06a9 \u0635\u0648\u0628\u06c1"
     ],
@@ -279,9 +277,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"1,232",
     "statoids:area_mi":"476",
     "statoids:as_of_date":"2009-04-01",
@@ -306,7 +304,7 @@
         "gp:id":20070090,
         "hasc:id":"VN.VC",
         "iso:id":"VN-70",
-        "qs:id":1085806,
+        "qs_pg:id":1085806,
         "unlc:id":"VN-70",
         "wd:id":"Q27566",
         "wk:page":"V\u0129nh Ph\u00fac Province"
@@ -327,11 +325,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739219,
+    "wof:lastmodified":1566648286,
     "wof:name":"V\u0129nh Ph\u00fac",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1000838,
     "wof:population_rank":12,

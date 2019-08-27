@@ -10,8 +10,12 @@
     "geom:latitude":10.70694,
     "geom:longitude":106.73611,
     "iso:country":"VN",
+    "lbl:bbox":"106.71611,10.68694,106.75611,10.72694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Huy\u1ec7n Nh\u00e0 B\u00e8"
@@ -37,7 +41,7 @@
     "name:tur_x_preferred":[
         "Nha Be"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nha B\u00e8"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1572249,
         "gp:id":1252521,
-        "qs:id":1167943,
+        "qs_pg:id":1167943,
         "wd:id":"Q4817238"
     },
     "wof:country":"VN",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421168335,
-    "wof:lastmodified":1563276264,
+    "wof:lastmodified":1566651082,
     "wof:name":"Nh\u00e0 B\u00e8",
     "wof:parent_id":1108782055,
     "wof:placetype":"locality",

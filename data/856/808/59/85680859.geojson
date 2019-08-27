@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.773279,
     "lbl:longitude":106.084765,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.759865,
     "mps:longitude":106.059131,
     "mz:hierarchy_label":1,
@@ -168,7 +169,7 @@
         "Cao Bang"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baf\u0bcb  \u0baa\u0bbe\u0b99\u0bcd"
+        "\u0b95\u0bc7\u0baf\u0bcb \u0baa\u0bbe\u0b99\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c35\u0c4b \u0c2c\u0c3e\u0c02\u0c17\u0c4d"
@@ -184,9 +185,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043e\u0431\u0430\u043d\u0433"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Cao B\u1eb1ng"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0624 \u0628\u0627\u0646\u06af \u0635\u0648\u0628\u06c1"
@@ -280,9 +278,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"6,725",
     "statoids:area_mi":"2,597",
     "statoids:as_of_date":"2009-04-01",
@@ -306,7 +304,7 @@
         "gp:id":2347704,
         "hasc:id":"VN.CB",
         "iso:id":"VN-04",
-        "qs:id":895021,
+        "qs_pg:id":895021,
         "wd:id":"Q36865",
         "wk:page":"Cao B\u1eb1ng Province"
     },
@@ -326,11 +324,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739215,
+    "wof:lastmodified":1566648276,
     "wof:name":"Cao B\u1eb1ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":510884,
     "wof:population_rank":11,

@@ -10,7 +10,12 @@
     "geom:latitude":17.53333,
     "geom:longitude":106.58333,
     "iso:country":"VN",
+    "lbl:bbox":"106.56333,17.51333,106.60333,17.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Quy Nhon"
@@ -42,7 +47,7 @@
     "name:spa_x_preferred":[
         "Quy Nh\u01a1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00fd Nhom B\u1eb1c"
     ],
     "qs:gn_country":"VN",
@@ -74,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1575136,
         "gp:id":1241073,
-        "qs:id":58753
+        "qs_pg:id":58753
     },
     "wof:country":"VN",
     "wof:created":1459009672,
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":421190877,
-    "wof:lastmodified":1501220973,
+    "wof:lastmodified":1566651092,
     "wof:name":"L\u00fd Nh\u01a1n B\u1eb1c",
     "wof:parent_id":1108781531,
     "wof:placetype":"locality",

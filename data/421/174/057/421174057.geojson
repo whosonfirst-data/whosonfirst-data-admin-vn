@@ -10,8 +10,12 @@
     "geom:latitude":16.61667,
     "geom:longitude":106.73333,
     "iso:country":"VN",
+    "lbl:bbox":"106.71333,16.59667,106.75333,16.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Khe Sanh"
@@ -37,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0445\u0435\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Huong Hoa"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1579363,
         "gp:id":1252448,
-        "qs:id":316646,
+        "qs_pg:id":316646,
         "wd:id":"Q1924264",
         "wk:page":"Khe Sanh"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421174057,
-    "wof:lastmodified":1563276278,
+    "wof:lastmodified":1566651087,
     "wof:name":"Khe Sanh",
     "wof:parent_id":1108781545,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.171512,
     "lbl:longitude":106.067514,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bac Ninh",
     "meso:gadm_admin":"B\u1eafc Ninh",
     "meso:gadm_hasc2":"VN.BN.BN",
@@ -31,6 +33,7 @@
     "mps:longitude":106.067514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643 \u0646\u064a\u0646\u0647"
     ],
@@ -167,9 +170,9 @@
         "\u5317\u5be7\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"26",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Bac Ninh",
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1108781215,
-    "wof:lastmodified":1563275413,
+    "wof:lastmodified":1566650313,
     "wof:name":"Bac Ninh",
     "wof:parent_id":85680659,
     "wof:placetype":"county",

@@ -11,8 +11,11 @@
     "geom:longitude":103.9,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":19054,
+    "gn:population":19054,
     "iso:country":"VN",
+    "lbl:bbox":"103.88,21.29667,103.92,21.33667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043d\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Son Lu"
     ],
     "name:urd_x_preferred":[
@@ -262,10 +265,12 @@
     "wof:concordances":{
         "gn:id":1567681,
         "gp:id":1246226,
-        "qs:id":274019,
-        "qs_pg:id":1114326,
+        "qs_pg:id":274019,
         "wd:id":"Q33415",
         "wk:page":"S\u01a1n La"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114326
     },
     "wof:country":"VN",
     "wof:created":1469052064,
@@ -280,7 +285,7 @@
         }
     ],
     "wof:id":890435359,
-    "wof:lastmodified":1563276334,
+    "wof:lastmodified":1566651104,
     "wof:name":"S\u01a1n La",
     "wof:parent_id":1108780995,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.393492,
     "lbl:longitude":107.13944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ba Ria - Vung Tau",
     "meso:gadm_admin":"V\u0169ng T\u00e0u",
     "meso:gadm_hasc2":"VN.BV.VT",
@@ -31,6 +33,7 @@
     "mps:longitude":107.13944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Vung Tau"
     ],
@@ -443,9 +446,9 @@
         "IVungtau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"140",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Vung Tau",
@@ -477,7 +480,7 @@
         }
     ],
     "wof:id":1108781989,
-    "wof:lastmodified":1563275418,
+    "wof:lastmodified":1566650317,
     "wof:name":"Vung Tau",
     "wof:parent_id":85680781,
     "wof:placetype":"county",

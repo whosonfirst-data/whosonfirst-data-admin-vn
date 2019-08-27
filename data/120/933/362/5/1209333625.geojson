@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"106.24667,17.59667,106.28667,17.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1588141
     },
     "wof:country":"VN",
-    "wof:geomhash":"072c593200daba801689013882fe1802",
+    "wof:geomhash":"0a74f5962a6ace58691b986ea95d8f8d",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209333625,
-    "wof:lastmodified":1536290294,
+    "wof:lastmodified":1566649751,
     "wof:name":"Bau Sen",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     106.26667,
-    17.616670000000006,
+    17.61667000000001,
     106.26667,
-    17.616670000000006
+    17.61667000000001
 ],
   "geometry": {"coordinates":[106.26667,17.61667000000001],"type":"Point"}
 }

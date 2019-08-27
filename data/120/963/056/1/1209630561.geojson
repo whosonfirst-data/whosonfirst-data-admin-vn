@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"109.01333,13.89667,109.05333,13.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1574039
     },
     "wof:country":"VN",
-    "wof:geomhash":"4a52db2a48f466fec9aa366b63273850",
+    "wof:geomhash":"17e37585c504c223b25e54a99e871d3a",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209630561,
-    "wof:lastmodified":1536281203,
+    "wof:lastmodified":1566649488,
     "wof:name":"My Thanh",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     109.03333,
-    13.916670000000002,
+    13.91667,
     109.03333,
-    13.916670000000002
+    13.91667
 ],
   "geometry": {"coordinates":[109.03333000000001,13.91667],"type":"Point"}
 }

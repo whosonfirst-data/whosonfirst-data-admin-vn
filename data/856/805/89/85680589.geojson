@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.456927,
     "lbl:longitude":106.127176,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.396599,
     "mps:longitude":106.110301,
     "mz:hierarchy_label":1,
@@ -181,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0439\u043d\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh T\u00e2y Ninh"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u06d2 \u0646\u0646\u06c1 \u0635\u0648\u0628\u06c1"
     ],
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"4,049",
     "statoids:area_mi":"1,563",
     "statoids:as_of_date":"2009-04-01",
@@ -300,7 +298,7 @@
         "gp:id":2347714,
         "hasc:id":"VN.TN",
         "iso:id":"VN-37",
-        "qs:id":890114,
+        "qs_pg:id":890114,
         "unlc:id":"VN-37",
         "wd:id":"Q36608",
         "wk:page":"T\u00e2y Ninh Province"
@@ -321,11 +319,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739210,
+    "wof:lastmodified":1566648268,
     "wof:name":"T\u00e2y Ninh",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1066402,
     "wof:population_rank":12,

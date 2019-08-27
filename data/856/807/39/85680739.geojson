@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.415363,
     "lbl:longitude":106.232375,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.453161,
     "mps:longitude":106.213521,
     "mz:hierarchy_label":1,
@@ -181,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u044c\u0454\u043d\u0437\u044f\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Ti\u1ec1n Giang"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0626\u0646 \u06af\u06cc\u0627\u0646\u06af \u0635\u0648\u0628\u06c1"
     ],
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"2,484",
     "statoids:area_mi":"959",
     "statoids:as_of_date":"2009-04-01",
@@ -299,7 +297,7 @@
         "gp:id":2347717,
         "hasc:id":"VN.TG",
         "iso:id":"VN-46",
-        "qs:id":1047705,
+        "qs_pg:id":1047705,
         "wd:id":"Q36666",
         "wk:page":"Ti\u1ec1n Giang Province"
     },
@@ -319,11 +317,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739214,
+    "wof:lastmodified":1566648274,
     "wof:name":"Ti\u1ec1n Giang",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1670216,
     "wof:population_rank":12,

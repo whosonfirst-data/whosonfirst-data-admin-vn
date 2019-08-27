@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.998903,
     "lbl:longitude":108.252002,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Da Nang",
     "meso:gadm_admin":"Ng\u0169 H\u00e0nh S\u01a1n",
     "meso:gadm_hasc2":"VN.DA.NH",
@@ -31,6 +33,7 @@
     "mps:longitude":108.252002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ngu Hanh Son"
     ],
@@ -53,9 +56,9 @@
         "\u4e94\u884c\u5c71\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"37",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Da Nang",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108781587,
-    "wof:lastmodified":1563275362,
+    "wof:lastmodified":1566650267,
     "wof:name":"Ngu Hanh Son",
     "wof:parent_id":85680779,
     "wof:placetype":"county",

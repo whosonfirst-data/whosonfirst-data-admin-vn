@@ -11,8 +11,11 @@
     "geom:longitude":108.8,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":32992,
+    "gn:population":32992,
     "iso:country":"VN",
+    "lbl:bbox":"108.78,15.09667,108.82,15.13667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0433\u043d\u0433\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kang Ngei"
     ],
     "name:urd_x_preferred":[
@@ -274,10 +277,12 @@
     "wof:concordances":{
         "gn:id":1568770,
         "gp:id":1252578,
-        "qs:id":274022,
-        "qs_pg:id":1114396,
+        "qs_pg:id":274022,
         "wd:id":"Q33994",
         "wk:page":"Qu\u1ea3ng Ng\u00e3i"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114396
     },
     "wof:country":"VN",
     "wof:created":1469052262,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":890440087,
-    "wof:lastmodified":1563276311,
+    "wof:lastmodified":1566651098,
     "wof:name":"Qu\u1ea3ng Ng\u00e3i",
     "wof:parent_id":1108781635,
     "wof:placetype":"locality",

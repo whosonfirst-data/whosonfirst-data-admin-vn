@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.941253,
     "lbl:longitude":106.327111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hai Duong",
     "meso:gadm_admin":"H\u1ea3i D\u01b0\u01a1ng",
     "meso:gadm_hasc2":"VN.HD.HD",
@@ -31,6 +33,7 @@
     "mps:longitude":106.327111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a \u062f\u0648\u0646\u062c"
     ],
@@ -161,9 +164,9 @@
         "\u6d77\u967d\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"36",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Hai Duong",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1108781233,
-    "wof:lastmodified":1563275464,
+    "wof:lastmodified":1566650359,
     "wof:name":"Hai Duong",
     "wof:parent_id":85680637,
     "wof:placetype":"county",

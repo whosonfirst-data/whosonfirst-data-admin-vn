@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.993865,
     "lbl:longitude":108.244348,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Binh Thuan",
     "meso:gadm_admin":"Phan Thi\u1ebft",
     "meso:gadm_hasc2":"VN.BU.PT",
@@ -31,6 +33,7 @@
     "mps:longitude":108.244348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Phan Thiet"
     ],
@@ -335,9 +338,9 @@
         "\u85e9\u5207\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"206",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Phan Thiet",
@@ -369,7 +372,7 @@
         }
     ],
     "wof:id":1108781751,
-    "wof:lastmodified":1563275412,
+    "wof:lastmodified":1566650311,
     "wof:name":"Phan Thiet",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":10.737001,
     "lbl:longitude":107.80385,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Binh Thuan",
     "meso:gadm_admin":"La Gi",
     "meso:gadm_hasc2":"NO DATA",
@@ -25,6 +27,7 @@
     "mps:longitude":107.80385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627 \u063a\u064a"
     ],
@@ -131,7 +134,7 @@
         "\u7f57\u5937\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1108781753,
-    "wof:lastmodified":1563275412,
+    "wof:lastmodified":1566650312,
     "wof:name":"La Gi",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"108.09667,13.79667,108.13667,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1569347
     },
     "wof:country":"VN",
-    "wof:geomhash":"4e515234d18ae52619adda37dd597073",
+    "wof:geomhash":"29e3008735d2e4b8619cb44fae00fb73",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209233615,
-    "wof:lastmodified":1536293559,
+    "wof:lastmodified":1566649590,
     "wof:name":"Plei Pham Ngol",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     108.11667,
-    13.816670000000002,
+    13.81667,
     108.11667,
-    13.816670000000002
+    13.81667
 ],
   "geometry": {"coordinates":[108.11667,13.81667],"type":"Point"}
 }

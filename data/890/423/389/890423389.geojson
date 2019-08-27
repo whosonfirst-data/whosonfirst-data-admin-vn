@@ -11,7 +11,7 @@
     "geom:longitude":107.253079,
     "gn:country":"VN",
     "gn:fcode":"ADM2",
-    "gn:pop":148823,
+    "gn:population":148823,
     "iso:country":"VN",
     "label:eng_x_preferred_longname":[
         "Cam My District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":10.812735,
     "lbl:longitude":107.29941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dong Nai",
     "meso:gadm_admin":"C\u1ea9m M\u1ef9",
     "meso:gadm_hasc2":"VN.DN.CM",
@@ -34,6 +36,7 @@
     "mps:longitude":107.29941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "C\u1ea9m M\u1ef9 District"
     ],
@@ -65,9 +68,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"468",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Long Giao",
@@ -90,7 +93,7 @@
         "gp:id":91877818,
         "hasc:id":"VN.DN.CM",
         "id":"VN.DN.CM",
-        "qs:id":697886,
+        "qs_pg:id":697886,
         "wd:id":"Q2499078",
         "wk:page":"C\u1ea9m M\u1ef9 District"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890423389,
-    "wof:lastmodified":1563276312,
+    "wof:lastmodified":1566651099,
     "wof:name":"Cam My",
     "wof:parent_id":85680791,
     "wof:placetype":"county",

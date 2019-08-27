@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.368919,
     "lbl:longitude":106.122798,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tay Ninh",
     "meso:gadm_admin":"T\u00e2y Ninh",
     "meso:gadm_hasc2":"VN.TN.TN",
@@ -31,6 +33,7 @@
     "mps:longitude":106.122798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u064a\u0646\u063a"
     ],
@@ -170,9 +173,9 @@
         "\u897f\u5be7\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"137",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Tay Ninh",
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1108781931,
-    "wof:lastmodified":1563275364,
+    "wof:lastmodified":1566650268,
     "wof:name":"Tay Ninh",
     "wof:parent_id":85680589,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"106.71333,17.16333,106.75333,17.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1575198
     },
     "wof:country":"VN",
-    "wof:geomhash":"baa3dab971b070376d288518079d1ee4",
+    "wof:geomhash":"30216582fafc5f36b4f29e6ce3b31460",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209015303,
-    "wof:lastmodified":1536300315,
+    "wof:lastmodified":1566649444,
     "wof:name":"Luong Thien",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     106.73333,
-    17.183329999999998,
+    17.18333,
     106.73333,
-    17.183329999999998
+    17.18333
 ],
   "geometry": {"coordinates":[106.73333,17.18333],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":20.53333,
     "geom:longitude":106.5,
     "iso:country":"VN",
+    "lbl:bbox":"106.48,20.51333,106.52,20.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Qu\u1eadn H\u00e0 \u0110\u00f4ng"
@@ -61,7 +65,7 @@
     "name:swe_x_preferred":[
         "Ha Dong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ha Duong"
     ],
     "name:urd_x_preferred":[
@@ -106,9 +110,11 @@
     "wof:concordances":{
         "gn:id":1581364,
         "gp:id":1236522,
-        "qs:id":219471,
         "qs_pg:id":133507,
         "wd:id":"Q546840"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":219471
     },
     "wof:country":"VN",
     "wof:created":1459009236,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421179857,
-    "wof:lastmodified":1563276294,
+    "wof:lastmodified":1566651095,
     "wof:name":"H\u00e0 \u00d0\u00f4ng",
     "wof:parent_id":1108781323,
     "wof:placetype":"locality",

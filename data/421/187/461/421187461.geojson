@@ -10,7 +10,12 @@
     "geom:latitude":11.51667,
     "geom:longitude":107.76667,
     "iso:country":"VN",
+    "lbl:bbox":"107.74667,11.49667,107.78667,11.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Bistum \u0110\u00e0 L\u1ea1t"
@@ -27,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0415\u043f\u0430\u0440\u0445\u0438\u044f \u0414\u0430\u043b\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u2019Su Dalao"
     ],
     "name:vie_x_preferred":[
@@ -65,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1584303,
         "gp:id":1252375,
-        "qs:id":1083546
+        "qs_pg:id":1083546
     },
     "wof:country":"VN",
     "wof:created":1459009514,
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":421187461,
-    "wof:lastmodified":1501220990,
+    "wof:lastmodified":1566651088,
     "wof:name":"\u00d0\u00e0 L\u1ea1t",
     "wof:parent_id":1108781887,
     "wof:placetype":"locality",

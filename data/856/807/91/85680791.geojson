@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.065292,
     "lbl:longitude":107.181911,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.057343,
     "mps:longitude":107.204214,
     "mz:hierarchy_label":1,
@@ -136,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0433\u043d\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0110\u1ed3ng Nai"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0646\u06af \u0646\u0627\u0626\u06cc \u0635\u0648\u0628\u06c1"
     ],
@@ -230,9 +228,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"5,903",
     "statoids:area_mi":"2,279",
     "statoids:as_of_date":"2009-04-01",
@@ -256,7 +254,7 @@
         "gp:id":2347721,
         "hasc:id":"VN.DN",
         "iso:id":"VN-39",
-        "qs:id":1135474,
+        "qs_pg:id":1135474,
         "wd:id":"Q33271"
     },
     "wof:country":"VN",
@@ -275,11 +273,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739214,
+    "wof:lastmodified":1566648274,
     "wof:name":"\u0110\u00f4ng Nam B\u1ed9",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2483211,
     "wof:population_rank":12,

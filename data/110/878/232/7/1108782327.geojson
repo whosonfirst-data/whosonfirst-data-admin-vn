@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.392333,
     "lbl:longitude":104.935793,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ca Mau",
     "meso:gadm_admin":"U Minh",
     "meso:gadm_hasc2":"VN.CM.UM",
@@ -31,6 +33,7 @@
     "mps:longitude":104.935793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "U Minh"
     ],
@@ -44,9 +47,9 @@
         "U Minh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"764",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"U Minh",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108782327,
-    "wof:lastmodified":1564323131,
+    "wof:lastmodified":1566650288,
     "wof:name":"U Minh",
     "wof:parent_id":85680839,
     "wof:placetype":"county",

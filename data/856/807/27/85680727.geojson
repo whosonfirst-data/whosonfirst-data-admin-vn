@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.753454,
     "lbl:longitude":108.875639,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.746816,
     "mps:longitude":108.872639,
     "mz:hierarchy_label":1,
@@ -164,7 +165,7 @@
         "Ninh Thuan"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbf\u0ba9\u0bcd\u0bb9\u0bcd  \u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd"
+        "\u0ba8\u0bbf\u0ba9\u0bcd\u0bb9\u0bcd \u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3f\u0c28\u0c4d\u0c39\u0c4d \u0c24\u0c41\u0c35\u0c3e\u0c28\u0c4d"
@@ -180,9 +181,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d\u044c\u0442\u0445\u0443\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Ninh Thu\u1eadn"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0646\u06c1 \u062a\u06be\u0648\u0627\u0646 \u0635\u0648\u0628\u06c1"
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"3,358",
     "statoids:area_mi":"1,297",
     "statoids:as_of_date":"2009-04-01",
@@ -299,7 +297,7 @@
         "gp:id":2347744,
         "hasc:id":"VN.NT",
         "iso:id":"VN-36",
-        "qs:id":1285654,
+        "qs_pg:id":1285654,
         "wd:id":"Q36903",
         "wk:page":"Ninh Thu\u1eadn Province"
     },
@@ -319,11 +317,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739213,
+    "wof:lastmodified":1566648272,
     "wof:name":"Ninh Thu\u1eadn",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":564129,
     "wof:population_rank":11,

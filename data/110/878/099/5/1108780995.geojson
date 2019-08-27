@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.344171,
     "lbl:longitude":103.906591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Son La",
     "meso:gadm_admin":"S\u01a1n La",
     "meso:gadm_hasc2":"VN.SL.SL",
@@ -31,6 +33,7 @@
     "mps:longitude":103.906591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646 \u0644\u0627"
     ],
@@ -161,9 +164,9 @@
         "\u5c71\u7f85\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"333",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Son La",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1108780995,
-    "wof:lastmodified":1563275389,
+    "wof:lastmodified":1566650291,
     "wof:name":"Son La",
     "wof:parent_id":85680615,
     "wof:placetype":"county",

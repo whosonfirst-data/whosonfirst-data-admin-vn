@@ -10,6 +10,9 @@
     "geom:latitude":10.7,
     "geom:longitude":105.11667,
     "iso:country":"VN",
+    "lbl:bbox":"105.09667,10.68,105.13667,10.72",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u044f\u0443\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cho Dok"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "wof:concordances":{
         "gn:id":1585660,
         "gp:id":1252360,
-        "qs:id":274032,
+        "qs_pg:id":274032,
         "wd:id":"Q373214",
         "wk:page":"Ch\u00e2u \u0110\u1ed1c"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421168909,
-    "wof:lastmodified":1563276262,
+    "wof:lastmodified":1566651082,
     "wof:name":"Chau Ph\u00fa",
     "wof:parent_id":1108782197,
     "wof:placetype":"locality",

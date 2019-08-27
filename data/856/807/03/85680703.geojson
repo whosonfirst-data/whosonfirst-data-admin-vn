@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.590475,
     "lbl:longitude":106.238515,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.517325,
     "mps:longitude":106.230753,
     "mz:hierarchy_label":1,
@@ -342,7 +343,7 @@
         "Quang Binh"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0b85\u0b99\u0bcd  \u0baa\u0bbf\u0ba8\u0bb9\u0bcd"
+        "\u0b95\u0bc1\u0b85\u0b99\u0bcd \u0baa\u0bbf\u0ba8\u0bb9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c35\u0c3e\u0c02\u0c17\u0c4d \u0c2c\u0c3f\u0c28\u0c4d"
@@ -368,7 +369,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0433\u0431\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u1ec9nh Qu\u1ea3ng B\u00ecnh"
     ],
     "name:urd_x_preferred":[
@@ -481,9 +482,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"8,065",
     "statoids:area_mi":"3,114",
     "statoids:as_of_date":"2009-04-01",
@@ -507,7 +508,7 @@
         "gp:id":2347746,
         "hasc:id":"VN.QB",
         "iso:id":"VN-24",
-        "qs:id":1285656,
+        "qs_pg:id":1285656,
         "wd:id":"Q23533",
         "wk:page":"Qu\u1ea3ng B\u00ecnh Province"
     },
@@ -527,11 +528,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739213,
+    "wof:lastmodified":1566648270,
     "wof:name":"Qu\u1ea3ng B\u00ecnh",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":846924,
     "wof:population_rank":11,

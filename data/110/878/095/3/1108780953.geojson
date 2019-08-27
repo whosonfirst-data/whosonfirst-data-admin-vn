@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.237529,
     "lbl:longitude":103.977315,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lao Cai",
     "meso:gadm_admin":"Sa Pa",
     "meso:gadm_hasc2":"VN.LO.SP",
@@ -31,6 +33,7 @@
     "mps:longitude":103.977315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0627 \u0628\u0627"
     ],
@@ -89,9 +92,9 @@
         "\u6c99\u57bb\u5e02\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"677",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Sa Pa",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108780953,
-    "wof:lastmodified":1564323177,
+    "wof:lastmodified":1566650352,
     "wof:name":"Sa Pa",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

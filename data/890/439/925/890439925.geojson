@@ -11,8 +11,11 @@
     "geom:longitude":107.6,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":287217,
+    "gn:population":287217,
     "iso:country":"VN",
+    "lbl:bbox":"107.58,16.44667,107.62,16.48667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -364,7 +367,7 @@
     "wof:concordances":{
         "gn:id":1580240,
         "gp:id":91878871,
-        "qs:id":133511,
+        "qs_pg:id":133511,
         "wd:id":"Q36167",
         "wk:page":"Hu\u1ebf"
     },
@@ -381,7 +384,7 @@
         }
     ],
     "wof:id":890439925,
-    "wof:lastmodified":1563276315,
+    "wof:lastmodified":1566651099,
     "wof:name":"Hu\u1ebf",
     "wof:parent_id":1108781557,
     "wof:placetype":"locality",

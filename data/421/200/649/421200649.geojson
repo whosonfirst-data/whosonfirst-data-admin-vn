@@ -10,7 +10,12 @@
     "geom:latitude":22.35,
     "geom:longitude":103.85,
     "iso:country":"VN",
+    "lbl:bbox":"103.83,22.33,103.87,22.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VN",
     "qs:gn_fcode":"PPL",
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1585688,
         "gp:id":1233643,
-        "qs:id":890010
+        "qs_pg:id":890010
     },
     "wof:country":"VN",
     "wof:created":1459010033,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":421200649,
-    "wof:lastmodified":1496498095,
+    "wof:lastmodified":1566651093,
     "wof:name":"Cha Pai",
     "wof:parent_id":1108780953,
     "wof:placetype":"locality",

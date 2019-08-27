@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.05982,
     "lbl:longitude":105.099408,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kien Giang",
     "meso:gadm_admin":"R\u1ea1ch Gi\u00e1",
     "meso:gadm_hasc2":"VN.KG.RG",
@@ -31,6 +33,7 @@
     "mps:longitude":105.099408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0446\u044c\u0437\u044f"
     ],
@@ -131,9 +134,9 @@
         "\u8fea\u77f3\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"98",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Rach Gia",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1108782219,
-    "wof:lastmodified":1563275376,
+    "wof:lastmodified":1566650279,
     "wof:name":"Rach Gia",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

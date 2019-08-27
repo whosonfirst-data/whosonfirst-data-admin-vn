@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":11.992439,
     "lbl:longitude":107.695452,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dak Nong",
     "meso:gadm_admin":"\u0110\u0103k Glong",
     "meso:gadm_hasc2":"NO DATA",
@@ -25,6 +27,7 @@
     "mps:longitude":107.695452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0627 \u0646\u063a\u064a\u0627"
     ],
@@ -134,7 +137,7 @@
         "\u5609\u7fa9\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108781867,
-    "wof:lastmodified":1561829789,
+    "wof:lastmodified":1566650310,
     "wof:name":"Gia Nghia",
     "wof:parent_id":85680743,
     "wof:placetype":"county",

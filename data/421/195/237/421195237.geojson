@@ -10,7 +10,12 @@
     "geom:latitude":22.95,
     "geom:longitude":106.08333,
     "iso:country":"VN",
+    "lbl:bbox":"106.06333,22.93,106.10333,22.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"VN",
     "qs:gn_fcode":"PPL",
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1573310,
         "gp:id":1252516,
-        "qs:id":133490
+        "qs_pg:id":133490
     },
     "wof:country":"VN",
     "wof:created":1459009837,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":421195237,
-    "wof:lastmodified":1496498089,
+    "wof:lastmodified":1566651085,
     "wof:name":"Nam Nhung",
     "wof:parent_id":1108780883,
     "wof:placetype":"locality",

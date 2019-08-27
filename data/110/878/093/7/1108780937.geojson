@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.39553,
     "lbl:longitude":103.984698,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lao Cai",
     "meso:gadm_admin":"L\u00e0o Cai",
     "meso:gadm_hasc2":"VN.LO.LC",
@@ -31,6 +33,7 @@
     "mps:longitude":103.984698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0648 \u0643\u0627\u064a"
     ],
@@ -164,9 +167,9 @@
         "\u8001\u8857\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"223",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Lao Cai",
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1108780937,
-    "wof:lastmodified":1563275460,
+    "wof:lastmodified":1566650356,
     "wof:name":"Lao Cai",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

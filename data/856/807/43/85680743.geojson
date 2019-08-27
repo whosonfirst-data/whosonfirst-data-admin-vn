@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.181224,
     "lbl:longitude":107.732462,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.185846,
     "mps:longitude":107.722841,
     "mz:hierarchy_label":1,
@@ -270,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"6,516",
     "statoids:area_mi":"2,516",
     "statoids:as_of_date":"2009-04-01",
@@ -296,7 +297,7 @@
         "gp:id":28301719,
         "hasc:id":"VN.DO",
         "iso:id":"VN-72",
-        "qs:id":251083,
+        "qs_pg:id":251083,
         "wd:id":"Q36723"
     },
     "wof:country":"VN",
@@ -315,11 +316,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739214,
+    "wof:lastmodified":1566648273,
     "wof:name":"\u0110\u1eafk N\u00f4ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":489442,
     "wof:population_rank":10,

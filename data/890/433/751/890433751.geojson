@@ -11,8 +11,11 @@
     "geom:longitude":106.65497,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":91009,
+    "gn:population":91009,
     "iso:country":"VN",
+    "lbl:bbox":"106.63497,10.96671,106.67497,11.00671",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0445\u0443\u0437\u0430\u0443\u043c\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ph\u00fa C\u01b0\u1eddng"
     ],
     "name:urd_x_preferred":[
@@ -193,13 +196,13 @@
     "wof:concordances":{
         "gn:id":1565022,
         "gp:id":91879410,
-        "qs:id":133472,
+        "qs_pg:id":133472,
         "wd:id":"Q524553",
         "wk:page":"Th\u1ee7 D\u1ea7u M\u1ed9t"
     },
     "wof:concordances_alt":{
         "gp:id":1252547,
-        "qs:id":1115633
+        "qs_pg:id":1115633
     },
     "wof:country":"VN",
     "wof:created":1469051993,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890433751,
-    "wof:lastmodified":1563276331,
+    "wof:lastmodified":1566651103,
     "wof:name":"Th\u1ee7 D\u1ea7u M\u1ed9t",
     "wof:parent_id":1108781951,
     "wof:placetype":"locality",

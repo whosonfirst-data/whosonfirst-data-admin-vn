@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.505873,
     "lbl:longitude":106.38208,
+    "lbl:min_zoom":8.0,
     "mps:latitude":20.507848,
     "mps:longitude":106.364473,
     "mz:hierarchy_label":1,
@@ -170,7 +171,7 @@
         "Thai Binh"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bbe\u0baf\u0bcd  \u0baa\u0bbf\u0ba8\u0bb9\u0bcd"
+        "\u0ba4\u0bbe\u0baf\u0bcd \u0baa\u0bbf\u0ba8\u0bb9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c25\u0c3e\u0c3e\u0c2f\u0c3f \u0c2c\u0c3f\u0c28\u0c4d"
@@ -183,9 +184,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0445\u0430\u0439\u0431\u0456\u043d\u044c"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Th\u00e1i B\u00ecnh"
     ],
     "name:urd_x_preferred":[
         "\u062a\u06be\u0627\u0626\u06cc \u0628\u0646\u06c1 \u0635\u0648\u0628\u06c1"
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"1,567",
     "statoids:area_mi":"605",
     "statoids:as_of_date":"2009-04-01",
@@ -304,7 +302,7 @@
         "hasc:id":"VN.TB",
         "iso:id":"VN-20",
         "loc:id":"n85137271",
-        "qs:id":1047704,
+        "qs_pg:id":1047704,
         "unlc:id":"VN-20",
         "wd:id":"Q36681",
         "wk:page":"Th\u00e1i B\u00ecnh Province"
@@ -325,11 +323,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739218,
+    "wof:lastmodified":1566648283,
     "wof:name":"Th\u00e1i B\u00ecnh",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1780954,
     "wof:population_rank":12,

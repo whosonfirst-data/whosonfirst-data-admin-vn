@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.925847,
     "lbl:longitude":109.10335,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Khanh Hoa",
     "meso:gadm_admin":"Cam Ranh",
     "meso:gadm_hasc2":"VN.KH.CR",
@@ -31,6 +33,7 @@
     "mps:longitude":109.10335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645 \u0631\u0646\u0647"
     ],
@@ -119,7 +122,7 @@
         "Cam Ranh"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0bae\u0bcd  \u0bb0\u0bbe\u0ba9\u0bcd\u0bb9\u0bcd"
+        "\u0b95\u0bc7\u0bae\u0bcd \u0bb0\u0bbe\u0ba9\u0bcd\u0bb9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c4d \u0c30\u0c3e\u0c02\u0c39\u0c4d"
@@ -143,9 +146,9 @@
         "\u91d1\u862d\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"687",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Cam Ranh",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1108781717,
-    "wof:lastmodified":1563275480,
+    "wof:lastmodified":1566650376,
     "wof:name":"Cam Ranh",
     "wof:parent_id":85680719,
     "wof:placetype":"county",

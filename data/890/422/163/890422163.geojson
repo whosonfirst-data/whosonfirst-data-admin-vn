@@ -11,17 +11,21 @@
     "geom:longitude":105.86028,
     "gn:country":"VN",
     "gn:fcode":"PPL",
-    "gn:pop":53754,
+    "gn:population":53754,
     "iso:country":"VN",
+    "lbl:bbox":"105.84028,20.05806,105.88028,20.09806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "B\u1ec9m S\u01a1n"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30e0\u30bd\u30f3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bi\u00ean S\u01a1n"
     ],
     "name:vie_x_preferred":[
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1587919,
         "gp:id":91884087,
-        "qs:id":1032030,
+        "qs_pg:id":1032030,
         "wd:id":"Q5005755",
         "wk:page":"B\u1ec9m S\u01a1n"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890422163,
-    "wof:lastmodified":1563276311,
+    "wof:lastmodified":1566651099,
     "wof:name":"B\u1ec9m S\u01a1n",
     "wof:parent_id":1108781389,
     "wof:placetype":"locality",
