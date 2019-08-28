@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.400159,
     "lbl:longitude":104.476886,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kien Giang",
     "meso:gadm_admin":"H\u00e0 Ti\u00ean",
     "meso:gadm_hasc2":"VN.KG.HT",
@@ -31,6 +33,7 @@
     "mps:longitude":104.476886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0446\u044c\u0435\u043d"
     ],
@@ -86,9 +89,9 @@
         "\u6cb3\u4ed9\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"89",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Ha Tien",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108782221,
-    "wof:lastmodified":1563275449,
+    "wof:lastmodified":1566650346,
     "wof:name":"Ha Tien",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

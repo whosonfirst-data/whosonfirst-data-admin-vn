@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.951828,
     "lbl:longitude":108.398257,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.81189,
     "mps:longitude":108.354774,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
         "Lam Dong"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0bae\u0bcd  \u0b9f\u0bcb\u0b99\u0bcd"
+        "\u0bb2\u0bbe\u0bae\u0bcd \u0b9f\u0bcb\u0b99\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c2e\u0c4d \u0c21\u0c3e\u0c02\u0c17\u0c4d"
@@ -177,9 +178,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0434\u043e\u043d\u0433"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh L\u00e2m \u0110\u1ed3ng"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0645 \u0688\u0648\u0646\u06af \u0635\u0648\u0628\u06c1"
@@ -270,9 +268,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"9,772",
     "statoids:area_mi":"3,773",
     "statoids:as_of_date":"2009-04-01",
@@ -296,7 +294,7 @@
         "gp:id":2347709,
         "hasc:id":"VN.LD",
         "iso:id":"VN-35",
-        "qs:id":1135462,
+        "qs_pg:id":1135462,
         "wd:id":"Q36721"
     },
     "wof:country":"VN",
@@ -315,11 +313,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739215,
+    "wof:lastmodified":1566648275,
     "wof:name":"L\u00e2m \u0110\u1ed3ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1186786,
     "wof:population_rank":12,

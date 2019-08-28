@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"108.64667,15.41333,108.68667,15.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1575779
     },
     "wof:country":"VN",
-    "wof:geomhash":"093887e99c18c9e1e809c2640affab16",
+    "wof:geomhash":"c7fdcf109a528add3ce4ac44abe395a6",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209048853,
-    "wof:lastmodified":1536299315,
+    "wof:lastmodified":1566649713,
     "wof:name":"Long Binh",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     108.66667,
-    15.433329999999998,
+    15.43333,
     108.66667,
-    15.433329999999998
+    15.43333
 ],
   "geometry": {"coordinates":[108.66667,15.43333],"type":"Point"}
 }

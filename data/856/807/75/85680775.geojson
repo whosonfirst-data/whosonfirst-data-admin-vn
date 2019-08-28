@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.349255,
     "lbl:longitude":107.395227,
+    "lbl:min_zoom":8.0,
     "mps:latitude":16.358142,
     "mps:longitude":107.415034,
     "mz:hierarchy_label":1,
@@ -178,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0445\u0438\u0430\u0442\u0445\u044c\u0454\u043d-\u0425\u044e\u0435"
     ],
-    "name:unk_x_variant":[
-        "Th\u1eeba Thi\u00ean-Hu\u1ebf"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06be\u0648\u0627 \u062a\u06be\u06cc\u0626\u0646-\u06c1\u0648\u0627\u0626\u06d2 \u0635\u0648\u0628\u06c1"
     ],
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"5,063",
     "statoids:area_mi":"1,955",
     "statoids:as_of_date":"2009-04-01",
@@ -300,7 +298,7 @@
         "gp:id":2347749,
         "hasc:id":"VN.TT",
         "iso:id":"VN-26",
-        "qs:id":675305,
+        "qs_pg:id":675305,
         "wd:id":"Q36399"
     },
     "wof:country":"VN",
@@ -319,11 +317,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739214,
+    "wof:lastmodified":1566648273,
     "wof:name":"Th\u1eeba Thi\u00ean - Hu\u1ebf",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1087579,
     "wof:population_rank":12,

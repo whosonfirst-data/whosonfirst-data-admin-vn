@@ -9,15 +9,18 @@
     "geom:bbox":"108.1,10.93333,108.1,10.93333",
     "geom:latitude":10.93333,
     "geom:longitude":108.1,
-    "gn:gn_country":"VN",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":160652,
+    "gn:country":"VN",
+    "gn:fcode":"PPLA",
     "gn:population":160652,
     "iso:country":"VN",
+    "lbl:bbox":"108.08,10.91333,108.12,10.95333",
     "lbl:latitude":10.93333,
     "lbl:longitude":108.1,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Phan Thiet"
@@ -295,7 +298,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u043d\u0442\u0445\u044c\u0454\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fantiet"
     ],
     "name:urd_x_preferred":[
@@ -340,7 +343,7 @@
     "qs_pg:qs_id":1031970,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":1125906847,
-    "wof:lastmodified":1563276337,
+    "wof:lastmodified":1566651105,
     "wof:name":"Phan Thi\u1ebft",
     "wof:parent_id":1108781751,
     "wof:placetype":"locality",

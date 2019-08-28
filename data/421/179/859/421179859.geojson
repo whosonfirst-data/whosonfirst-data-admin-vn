@@ -10,8 +10,12 @@
     "geom:latitude":21.03652,
     "geom:longitude":105.82684,
     "iso:country":"VN",
+    "lbl:bbox":"105.80684,21.01652,105.84684,21.05652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643 \u0646\u064a\u0646\u0647"
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":7289846,
         "gp:id":1252286,
-        "qs:id":219472,
+        "qs_pg:id":219472,
         "wd:id":"Q33381"
     },
     "wof:country":"VN",
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":421179859,
-    "wof:lastmodified":1563276294,
+    "wof:lastmodified":1566651095,
     "wof:name":"B\u1eafc Ninh",
     "wof:parent_id":1108780783,
     "wof:placetype":"locality",

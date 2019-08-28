@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.541506,
     "lbl:longitude":105.923279,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ha Nam",
     "meso:gadm_admin":"Ph\u1ee7 L\u00fd",
     "meso:gadm_hasc2":"VN.HM.PL",
@@ -31,6 +33,7 @@
     "mps:longitude":105.923279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648 \u0644\u064a"
     ],
@@ -152,9 +155,9 @@
         "\u5e9c\u91cc\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"35",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Phu Ly",
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1108781333,
-    "wof:lastmodified":1563275359,
+    "wof:lastmodified":1566650264,
     "wof:name":"Phu Ly",
     "wof:parent_id":85680671,
     "wof:placetype":"county",

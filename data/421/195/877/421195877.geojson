@@ -10,8 +10,12 @@
     "geom:latitude":15.87944,
     "geom:longitude":108.335,
     "iso:country":"VN",
+    "lbl:bbox":"108.315,15.85944,108.355,15.89944",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a \u0623\u0646"
@@ -166,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faifoh"
     ],
     "name:urd_x_preferred":[
@@ -212,7 +216,7 @@
     "wof:concordances":{
         "gn:id":1580541,
         "gp:id":1252436,
-        "qs:id":133502,
+        "qs_pg:id":133502,
         "wd:id":"Q36160",
         "wk:page":"H\u1ed9i An"
     },
@@ -229,7 +233,7 @@
         }
     ],
     "wof:id":421195877,
-    "wof:lastmodified":1563276270,
+    "wof:lastmodified":1566651085,
     "wof:name":"H\u1ed9i An",
     "wof:parent_id":1108781597,
     "wof:placetype":"locality",

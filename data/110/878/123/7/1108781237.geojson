@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.130812,
     "lbl:longitude":106.390388,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hai Duong",
     "meso:gadm_admin":"Ch\u00ed Linh",
     "meso:gadm_hasc2":"VN.HD.CL",
@@ -31,6 +33,7 @@
     "mps:longitude":106.390388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Th\u1ecb X\u00e3 Ch\u00ed Linh"
     ],
@@ -62,9 +65,9 @@
         "\u81f3\u9748\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"281",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Sao Do",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108781237,
-    "wof:lastmodified":1563275463,
+    "wof:lastmodified":1566650359,
     "wof:name":"Chi Linh",
     "wof:parent_id":85680637,
     "wof:placetype":"county",

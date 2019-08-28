@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.265403,
     "lbl:longitude":108.971444,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.290934,
     "mps:longitude":108.961275,
     "mz:hierarchy_label":1,
@@ -184,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0445\u0430\u043d\u044c\u0445\u043e\u0430"
     ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Kh\u00e1nh H\u00f2a"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0646\u06be \u06c1\u0648\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -279,9 +277,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"5,218",
     "statoids:area_mi":"2,015",
     "statoids:as_of_date":"2009-04-01",
@@ -306,7 +304,7 @@
         "gp:id":2347738,
         "hasc:id":"VN.KH",
         "iso:id":"VN-34",
-        "qs:id":1285642,
+        "qs_pg:id":1285642,
         "unlc:id":"VN-34",
         "wd:id":"Q33369",
         "wk:page":"Kh\u00e1nh H\u00f2a Province"
@@ -327,11 +325,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739213,
+    "wof:lastmodified":1566648272,
     "wof:name":"Kh\u00e1nh H\u00f2a",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1156903,
     "wof:population_rank":12,

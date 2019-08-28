@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.683453,
     "lbl:longitude":105.679443,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nghe An",
     "meso:gadm_admin":"Vinh",
     "meso:gadm_hasc2":"VN.NA.VI",
@@ -31,6 +33,7 @@
     "mps:longitude":105.679443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0647"
     ],
@@ -182,9 +185,9 @@
         "\u8363\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"65",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Vinh",
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":1108781447,
-    "wof:lastmodified":1563275408,
+    "wof:lastmodified":1566650308,
     "wof:name":"Vinh",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

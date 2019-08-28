@@ -11,10 +11,14 @@
     "geom:longitude":105.91389,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":31801,
+    "gn:population":31801,
     "iso:country":"VN",
+    "lbl:bbox":"105.89389,20.52111,105.93389,20.56111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0648 \u0644\u064a"
     ],
@@ -120,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Fu Li"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0648 \u0644\u06d2"
     ],
@@ -153,7 +154,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1570449,
-        "qs:id":133485,
+        "qs_pg:id":133485,
         "wd:id":"Q35659",
         "wk:page":"Ph\u1ee7 L\u00fd"
     },
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":890440447,
-    "wof:lastmodified":1563276307,
+    "wof:lastmodified":1566651098,
     "wof:name":"Ph\u1ee7 L\u00fd",
     "wof:parent_id":1108781333,
     "wof:placetype":"locality",

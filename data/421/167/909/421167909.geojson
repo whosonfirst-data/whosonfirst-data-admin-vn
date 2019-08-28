@@ -10,6 +10,9 @@
     "geom:latitude":22.66667,
     "geom:longitude":106.25,
     "iso:country":"VN",
+    "lbl:bbox":"106.23,22.64667,106.27,22.68667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043e\u0431\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kao Bang"
     ],
     "name:urd_x_preferred":[
@@ -260,7 +263,7 @@
     "wof:concordances":{
         "gn:id":1586185,
         "gp:id":1252353,
-        "qs:id":274033,
+        "qs_pg:id":274033,
         "wd:id":"Q1034096",
         "wk:page":"Cao B\u1eb1ng"
     },
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":421167909,
-    "wof:lastmodified":1563276274,
+    "wof:lastmodified":1566651086,
     "wof:name":"Cao B\u1eb1ng",
     "wof:parent_id":1108780873,
     "wof:placetype":"locality",

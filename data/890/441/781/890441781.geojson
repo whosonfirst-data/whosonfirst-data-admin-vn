@@ -11,8 +11,11 @@
     "geom:longitude":106.1,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":36456,
+    "gn:population":36456,
     "iso:country":"VN",
+    "lbl:bbox":"106.08,11.28,106.12,11.32",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0439\u043d\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tai nin"
     ],
     "name:urd_x_preferred":[
@@ -267,7 +270,7 @@
     "wof:concordances":{
         "gn:id":1566559,
         "gp:id":91880494,
-        "qs:id":133495,
+        "qs_pg:id":133495,
         "wd:id":"Q130391",
         "wk:page":"T\u00e2y Ninh"
     },
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":890441781,
-    "wof:lastmodified":1563276312,
+    "wof:lastmodified":1566651099,
     "wof:name":"T\u00e2y Ninh",
     "wof:parent_id":1108781931,
     "wof:placetype":"locality",

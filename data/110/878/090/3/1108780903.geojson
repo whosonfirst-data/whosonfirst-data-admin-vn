@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.140955,
     "lbl:longitude":105.841146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bac Kan",
     "meso:gadm_admin":"Bac Kan",
     "meso:gadm_hasc2":"VN.BK.BK",
@@ -31,6 +33,7 @@
     "mps:longitude":105.841146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643 \u0643\u0627\u0646"
     ],
@@ -137,9 +140,9 @@
         "\u5317\ud84f\udd13\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"132",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Bac Kan",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1108780903,
-    "wof:lastmodified":1563275391,
+    "wof:lastmodified":1566650292,
     "wof:name":"Bac Kan",
     "wof:parent_id":85680597,
     "wof:placetype":"county",

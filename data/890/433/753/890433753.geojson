@@ -11,10 +11,14 @@
     "geom:longitude":109.21667,
     "gn:country":"VN",
     "gn:fcode":"PPL",
-    "gn:pop":94066,
+    "gn:population":94066,
     "iso:country":"VN",
+    "lbl:bbox":"109.19667,13.43,109.23667,13.47",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Th\u1ecb X\u00e3 S\u00f4ng C\u1ea7u"
     ],
@@ -33,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u0428\u043e\u043d\u0433\u043a\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00f4ng C\u1ea7u"
     ],
     "name:vie_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1567723,
         "gp:id":91882598,
-        "qs:id":133478,
+        "qs_pg:id":133478,
         "wd:id":"Q2052825",
         "wk:page":"S\u00f4ng C\u1ea7u"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890433753,
-    "wof:lastmodified":1563276331,
+    "wof:lastmodified":1566651103,
     "wof:name":"S\u00f4ng C\u1ea7u",
     "wof:parent_id":1108781693,
     "wof:placetype":"locality",

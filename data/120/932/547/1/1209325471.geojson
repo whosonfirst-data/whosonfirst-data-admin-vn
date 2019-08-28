@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"105.48,18.84667,105.52,18.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1560673
     },
     "wof:country":"VN",
-    "wof:geomhash":"5bc7e28bc6759d0ae749cd90ffa6b935",
+    "wof:geomhash":"9966f40e403ca564724fd1fa0d416383",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209325471,
-    "wof:lastmodified":1536290546,
+    "wof:lastmodified":1566649704,
     "wof:name":"Xom Yen Son",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     105.5,
-    18.866670000000006,
+    18.86667000000001,
     105.5,
-    18.866670000000006
+    18.86667000000001
 ],
   "geometry": {"coordinates":[105.5,18.86667000000001],"type":"Point"}
 }

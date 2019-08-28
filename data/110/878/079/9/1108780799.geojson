@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":20.974763,
     "lbl:longitude":105.871503,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ha Noi",
     "meso:gadm_admin":"Ho\u00e0ng Mai",
     "meso:gadm_hasc2":"VN.HN.HM",
@@ -25,6 +27,7 @@
     "mps:longitude":105.871503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hoang Mai"
     ],
@@ -56,7 +59,7 @@
         "\u9ec3\u6885\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108780799,
-    "wof:lastmodified":1563275373,
+    "wof:lastmodified":1566650277,
     "wof:name":"Hoang Mai",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

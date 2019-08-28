@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.297989,
     "lbl:longitude":104.148686,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.255654,
     "mps:longitude":104.115333,
     "mz:hierarchy_label":1,
@@ -168,7 +169,7 @@
         "Lao Cai"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0bb5\u0bcb  \u0b95\u0bbe\u0baf\u0bcd"
+        "\u0bb2\u0bbe\u0bb5\u0bcb \u0b95\u0bbe\u0baf\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c35\u0c4b \u0c15\u0c3e\u0c2f\u0c3f"
@@ -181,9 +182,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043e\u043a\u0430\u0439"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh L\u00e0o Cai"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0648 \u06a9\u0627\u0626\u06d2 \u0635\u0648\u0628\u06c1"
@@ -277,9 +275,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"6,384",
     "statoids:area_mi":"2,465",
     "statoids:as_of_date":"2009-04-01",
@@ -304,7 +302,7 @@
         "gp:id":2347740,
         "hasc:id":"VN.LO",
         "iso:id":"VN-02",
-        "qs:id":1285643,
+        "qs_pg:id":1285643,
         "unlc:id":"VN-02",
         "wd:id":"Q36446",
         "wk:page":"L\u00e0o Cai Province"
@@ -325,11 +323,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739215,
+    "wof:lastmodified":1566648277,
     "wof:name":"L\u00e0o Cai",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":613075,
     "wof:population_rank":11,

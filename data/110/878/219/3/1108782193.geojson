@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.235814,
     "lbl:longitude":105.817511,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dong Thap",
     "meso:gadm_admin":"Ch\u00e2u Th\u00e0nh",
     "meso:gadm_hasc2":"VN.DT.CT",
@@ -31,6 +33,7 @@
     "mps:longitude":105.817511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chau Thanh"
     ],
@@ -53,9 +56,9 @@
         "\u5468\u57ce\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"234",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Cai Tau Ha",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108782193,
-    "wof:lastmodified":1564323126,
+    "wof:lastmodified":1566650281,
     "wof:name":"Chau Thanh",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

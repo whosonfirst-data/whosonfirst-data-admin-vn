@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.199626,
     "lbl:longitude":107.180585,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.196766,
     "mps:longitude":107.176198,
     "mz:hierarchy_label":1,
@@ -187,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0433\u043d\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh Qu\u1ea3ng Ninh"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0627\u0646\u06af \u0646\u0646\u06c1 \u0635\u0648\u0628\u06c1"
     ],
@@ -282,9 +280,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"6,099",
     "statoids:area_mi":"2,355",
     "statoids:as_of_date":"2009-04-01",
@@ -308,7 +306,7 @@
         "gp:id":2347712,
         "hasc:id":"VN.QN",
         "iso:id":"VN-13",
-        "qs:id":1168784,
+        "qs_pg:id":1168784,
         "wd:id":"Q33396",
         "wk:page":"Qu\u1ea3ng Ninh Province"
     },
@@ -328,11 +326,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739211,
+    "wof:lastmodified":1566648269,
     "wof:name":"Qu\u1ea3ng Ninh",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1144381,
     "wof:population_rank":12,

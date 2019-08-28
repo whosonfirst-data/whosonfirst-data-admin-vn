@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.27333,
     "lbl:longitude":107.588973,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Thua Thien - Hue",
     "meso:gadm_admin":"H\u01b0\u01a1ng Th\u1ee7y",
     "meso:gadm_hasc2":"VN.TT.HU",
@@ -31,6 +33,7 @@
     "mps:longitude":107.588973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "H\u01b0\u01a1ng Th\u1ee7y"
     ],
@@ -53,9 +56,9 @@
         "\u9999\u6c34\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"457",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Phu Bai",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108781567,
-    "wof:lastmodified":1563275367,
+    "wof:lastmodified":1566650272,
     "wof:name":"Huong Thuy",
     "wof:parent_id":85680775,
     "wof:placetype":"county",

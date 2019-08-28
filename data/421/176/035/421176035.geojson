@@ -10,8 +10,12 @@
     "geom:latitude":22.21667,
     "geom:longitude":106.11667,
     "iso:country":"VN",
+    "lbl:bbox":"106.09667,22.19667,106.13667,22.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0648\u064a\u0646 \u0643\u0648\u0627\u0646\u062c"
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1564292,
         "gp:id":1252651,
-        "qs:id":1040376,
+        "qs_pg:id":1040376,
         "wd:id":"Q33389"
     },
     "wof:country":"VN",
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":421176035,
-    "wof:lastmodified":1563276306,
+    "wof:lastmodified":1566651097,
     "wof:name":"Tuy\u00ean Quang",
     "wof:parent_id":1108780919,
     "wof:placetype":"locality",

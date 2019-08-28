@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.463799,
     "lbl:longitude":106.582712,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quang Binh",
     "meso:gadm_admin":"\u0110\u1ed3ng H\u1edbi",
     "meso:gadm_hasc2":"VN.QB.DH",
@@ -31,6 +33,7 @@
     "mps:longitude":106.582712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "\u0110\u1ed3ng H\u1edbi"
     ],
@@ -599,7 +602,7 @@
         "\u0110\u1ed3ng H\u1edbi"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bbe\u0b99\u0bcd  \u0bb9\u0bbe\u0baf\u0bcd"
+        "\u0ba4\u0bbe\u0b99\u0bcd \u0bb9\u0bbe\u0baf\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u043d\u0433\u0445\u043e\u0439"
@@ -701,9 +704,9 @@
         "IDonghoi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"156",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Dong Hoi",
@@ -735,7 +738,7 @@
         }
     ],
     "wof:id":1108781521,
-    "wof:lastmodified":1563275435,
+    "wof:lastmodified":1566650333,
     "wof:name":"Dong Hoi",
     "wof:parent_id":85680703,
     "wof:placetype":"county",

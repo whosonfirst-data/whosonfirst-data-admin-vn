@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":21.732568,
     "lbl:longitude":105.396672,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":21.732568,
     "mps:longitude":105.396672,
     "mz:hierarchy_label":1,
@@ -916,9 +918,6 @@
         "\u0412\u02bc\u0454\u0442\u043d\u0430\u043c",
         "\u0412\u0454\u0442\u043d\u0430\u043c"
     ],
-    "name:und_x_preferred":[
-        "V\u00edetnam"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u062a \u0646\u0627\u0645"
     ],
@@ -1080,7 +1079,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"84",
     "statoids:ds":"VN",
@@ -1126,7 +1125,7 @@
         "mzb:id":"vietnam",
         "ne:adm0_a3":"VNM",
         "nyt:id":"58129886786977962561",
-        "qs:id":85344,
+        "qs_pg:id":85344,
         "uncrt:id":"VN",
         "wd:id":"Q881",
         "wk:page":"Vietnam",
@@ -1148,7 +1147,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739221,
+    "wof:lastmodified":1566648288,
     "wof:name":"Vietnam",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -10,6 +10,9 @@
     "geom:latitude":16.06778,
     "geom:longitude":108.22083,
     "iso:country":"VN",
+    "lbl:bbox":"108.20083,16.04778,108.24083,16.08778",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -341,7 +344,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tourane"
     ],
     "name:urd_x_preferred":[
@@ -500,7 +503,7 @@
     "wof:concordances":{
         "gn:id":1583992,
         "gp:id":1252376,
-        "qs:id":274030,
+        "qs_pg:id":274030,
         "wd:id":"Q25282",
         "wk:page":"Danang"
     },
@@ -517,7 +520,7 @@
         }
     ],
     "wof:id":421168907,
-    "wof:lastmodified":1563276263,
+    "wof:lastmodified":1566651082,
     "wof:name":"\u0110\u00e0 N\u1eb5ng",
     "wof:parent_id":1108781581,
     "wof:placetype":"locality",

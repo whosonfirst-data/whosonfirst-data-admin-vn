@@ -11,8 +11,11 @@
     "geom:longitude":108.05,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":146975,
+    "gn:population":146975,
     "iso:country":"VN",
+    "lbl:bbox":"108.03,12.64667,108.07,12.68667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -178,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043e\u043d\u043c\u0435\u0442\u0445\u0443\u043e\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u1ea1c Giao"
     ],
     "name:urd_x_preferred":[
@@ -307,12 +310,12 @@
     "wof:concordances":{
         "gn:id":1586896,
         "gp:id":1233132,
-        "qs:id":1032021,
+        "qs_pg:id":1032021,
         "wd:id":"Q33469",
         "wk:page":"Bu\u00f4n Ma Thu\u1ed9t"
     },
     "wof:concordances_alt":{
-        "qs:id":1117386
+        "qs_pg:id":1117386
     },
     "wof:country":"VN",
     "wof:created":1469052442,
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":890443893,
-    "wof:lastmodified":1563276325,
+    "wof:lastmodified":1566651102,
     "wof:name":"Bu\u00f4n Ma Thu\u1ed9t",
     "wof:parent_id":1108781833,
     "wof:placetype":"locality",

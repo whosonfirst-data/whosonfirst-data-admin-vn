@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":9.833292,
     "lbl:longitude":105.818144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hau Giang",
     "meso:gadm_admin":"Ph\u1ee5ng Hi\u1ec7p",
     "meso:gadm_hasc2":"VN.HU.PH",
@@ -25,6 +27,7 @@
     "mps:longitude":105.818144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ng\u00e3 B\u1ea3y"
     ],
@@ -56,7 +59,7 @@
         "\u6211\ud842\udd29\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108782273,
-    "wof:lastmodified":1563275371,
+    "wof:lastmodified":1566650276,
     "wof:name":"Nga Bay",
     "wof:parent_id":85680827,
     "wof:placetype":"county",

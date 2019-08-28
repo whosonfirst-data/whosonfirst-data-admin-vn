@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":10.567154,
     "lbl:longitude":105.657073,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dong Thap",
     "meso:gadm_admin":"Cao L\u00e3nh",
     "meso:gadm_hasc2":"VN.DT.CH",
@@ -25,6 +27,7 @@
     "mps:longitude":105.657073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0648 \u0644\u0627\u0646"
     ],
@@ -137,7 +140,7 @@
         "\u9ad8\u9818\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1108782183,
-    "wof:lastmodified":1563275372,
+    "wof:lastmodified":1566650277,
     "wof:name":"Cao Lanh",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

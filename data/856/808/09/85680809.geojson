@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.775059,
     "lbl:longitude":106.628219,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.804604,
     "mps:longitude":106.634265,
     "mz:hierarchy_label":1,
@@ -696,7 +697,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0448\u0438\u043c\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prey Nokor"
     ],
     "name:urd_x_preferred":[
@@ -839,9 +840,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"2,096",
     "statoids:area_mi":"809",
     "statoids:as_of_date":"2009-04-01",
@@ -867,7 +868,7 @@
         "gp:id":2347728,
         "hasc:id":"VN.HC",
         "iso:id":"VN-SG",
-        "qs:id":914110,
+        "qs_pg:id":914110,
         "unlc:id":"VN-SG",
         "wd:id":"Q1854",
         "wk:page":"Ho Chi Minh City"
@@ -888,11 +889,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739216,
+    "wof:lastmodified":1566648278,
     "wof:name":"H\u1ed3 Ch\u00ed Minh city",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":7123340,
     "wof:population_rank":13,

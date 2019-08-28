@@ -11,10 +11,14 @@
     "geom:longitude":106.07632,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":43564,
+    "gn:population":43564,
     "iso:country":"VN",
+    "lbl:bbox":"106.05632,21.16608,106.09632,21.20608",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643 \u0646\u064a\u0646\u0647"
     ],
@@ -135,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u043d\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bacht Ninh"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":1591449,
         "gp:id":91883317,
-        "qs:id":133529,
+        "qs_pg:id":133529,
         "wd:id":"Q33381",
         "wk:page":"B\u1eafc Ninh"
     },
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":890451571,
-    "wof:lastmodified":1563276330,
+    "wof:lastmodified":1566651103,
     "wof:name":"B\u1eafc Ninh",
     "wof:parent_id":1108781215,
     "wof:placetype":"locality",

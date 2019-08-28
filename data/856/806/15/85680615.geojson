@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.28413,
     "lbl:longitude":103.837169,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.291956,
     "mps:longitude":103.85523,
     "mz:hierarchy_label":1,
@@ -165,7 +166,7 @@
         "Son La"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0ba9\u0bcd  \u0bb2\u0bbe"
+        "\u0b9a\u0ba9\u0bcd \u0bb2\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c28\u0c4d \u0c32\u0c3e"
@@ -178,9 +179,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043d\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
-        "S\u01a1n La"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0646 \u0644\u0627 \u0635\u0648\u0628\u06c1"
@@ -274,9 +272,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"14,174",
     "statoids:area_mi":"5,473",
     "statoids:as_of_date":"2009-04-01",
@@ -301,7 +299,7 @@
         "gp:id":2347713,
         "hasc:id":"VN.SL",
         "iso:id":"VN-05",
-        "qs:id":890113,
+        "qs_pg:id":890113,
         "unlc:id":"VN-05",
         "wd:id":"Q33379",
         "wk:page":"S\u01a1n La Province"
@@ -322,11 +320,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739220,
+    "wof:lastmodified":1566648286,
     "wof:name":"Son La",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1080641,
     "wof:population_rank":12,

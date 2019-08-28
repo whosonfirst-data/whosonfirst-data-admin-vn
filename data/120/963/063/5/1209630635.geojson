@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"108.76333,15.29667,108.80333,15.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1594495
     },
     "wof:country":"VN",
-    "wof:geomhash":"18321848b7b697fabb15a428e7a1083e",
+    "wof:geomhash":"b4038d1972253fe5e73895d1db3389ac",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209630635,
-    "wof:lastmodified":1536281201,
+    "wof:lastmodified":1566649478,
     "wof:name":"An Chau",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     108.78333,
-    15.316670000000002,
+    15.31667,
     108.78333,
-    15.316670000000002
+    15.31667
 ],
   "geometry": {"coordinates":[108.78333000000001,15.31667],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.590349,
     "lbl:longitude":108.508821,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quang Nam",
     "meso:gadm_admin":"Tam K\u1ef3",
     "meso:gadm_hasc2":"VN.QM.TK",
@@ -31,6 +33,7 @@
     "mps:longitude":108.508821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645 \u0643\u064a"
     ],
@@ -149,9 +152,9 @@
         "\u4e09\u5c90\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"94",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Tam Ki",
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1108781593,
-    "wof:lastmodified":1563275353,
+    "wof:lastmodified":1566650258,
     "wof:name":"Tam Ky",
     "wof:parent_id":85680761,
     "wof:placetype":"county",

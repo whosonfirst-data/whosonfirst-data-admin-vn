@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.029667,
     "lbl:longitude":105.854591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ha Noi",
     "meso:gadm_admin":"Ho\u00e0n Ki\u1ebfm",
     "meso:gadm_hasc2":"VN.HN.HK",
@@ -31,6 +33,7 @@
     "mps:longitude":105.854591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Qu\u1eadn Ho\u00e0n Ki\u1ebfm"
     ],
@@ -74,9 +77,9 @@
         "\u9084\u528d\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"5",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Ha Noi",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108780787,
-    "wof:lastmodified":1563275383,
+    "wof:lastmodified":1566650285,
     "wof:name":"Hoan Kiem",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

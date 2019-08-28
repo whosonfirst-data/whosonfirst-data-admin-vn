@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.132456,
     "lbl:longitude":106.552844,
+    "lbl:min_zoom":8.0,
     "mps:latitude":10.132704,
     "mps:longitude":106.555432,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
         "Ben Tre"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0ba3\u0bcd   \u0b9f\u0bcd\u0bb0\u0bc7"
+        "\u0baa\u0bc6\u0ba3\u0bcd  \u0b9f\u0bcd\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c28\u0c4d \u0c1f\u0c4d\u0c30\u0c46"
@@ -180,9 +181,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0447\u0435"
-    ],
-    "name:unk_x_variant":[
-        "T\u1ec9nh B\u1ebfn Tre"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0626\u0646 \u062a\u0631 \u0635\u0648\u0628\u06c1"
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"2,360",
     "statoids:area_mi":"911",
     "statoids:as_of_date":"2009-04-01",
@@ -302,7 +300,7 @@
         "gp:id":2347703,
         "hasc:id":"VN.BR",
         "iso:id":"VN-50",
-        "qs:id":219638,
+        "qs_pg:id":219638,
         "wd:id":"Q33366",
         "wk:page":"B\u1ebfn Tre Province"
     },
@@ -322,11 +320,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739217,
+    "wof:lastmodified":1566648280,
     "wof:name":"B\u1ebfn Tre",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1254589,
     "wof:population_rank":12,

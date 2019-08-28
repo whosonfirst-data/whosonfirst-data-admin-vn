@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.118197,
     "lbl:longitude":108.821712,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quang Ngai",
     "meso:gadm_admin":"Qu\u1ea3ng Ng\u00e3i",
     "meso:gadm_hasc2":"VN.QG.QN",
@@ -31,6 +33,7 @@
     "mps:longitude":108.821712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627\u0646\u062c \u0646\u062c\u0627\u064a"
     ],
@@ -170,9 +173,9 @@
         "\u5ee3\u7fa9\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"37",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Quang Ngai",
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1108781635,
-    "wof:lastmodified":1563275431,
+    "wof:lastmodified":1566650330,
     "wof:name":"Quang Ngai",
     "wof:parent_id":85680767,
     "wof:placetype":"county",

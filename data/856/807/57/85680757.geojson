@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.656608,
     "lbl:longitude":107.888425,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.648566,
     "mps:longitude":107.895154,
     "mz:hierarchy_label":1,
@@ -169,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u1ec9nh Kom Tum"
     ],
     "name:urd_x_preferred":[
@@ -261,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"9,691",
     "statoids:area_mi":"3,742",
     "statoids:as_of_date":"2009-04-01",
@@ -288,7 +289,7 @@
         "gp:id":20070076,
         "hasc:id":"VN.KT",
         "iso:id":"VN-28",
-        "qs:id":219904,
+        "qs_pg:id":219904,
         "unlc:id":"VN-28",
         "wd:id":"Q36315",
         "wk:page":"Kon Tum Province"
@@ -309,11 +310,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739212,
+    "wof:lastmodified":1566648270,
     "wof:name":"Kon Tum",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":430037,
     "wof:population_rank":10,

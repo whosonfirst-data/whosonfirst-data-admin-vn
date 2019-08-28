@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.426538,
     "lbl:longitude":105.237267,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Phu Tho",
     "meso:gadm_admin":"Ph\u00fa Th\u1ecd",
     "meso:gadm_hasc2":"VN.PT.PT",
@@ -31,6 +33,7 @@
     "mps:longitude":105.237267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:diq_x_preferred":[
         "Phu Tho"
     ],
@@ -59,9 +62,9 @@
         "\u5bcc\u5bff\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"64",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Phu Tho",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108781167,
-    "wof:lastmodified":1563275400,
+    "wof:lastmodified":1566650303,
     "wof:name":"Phu Tho",
     "wof:parent_id":85680681,
     "wof:placetype":"county",

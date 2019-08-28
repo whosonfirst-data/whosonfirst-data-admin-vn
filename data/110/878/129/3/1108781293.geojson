@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.65051,
     "lbl:longitude":106.055135,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hung Yen",
     "meso:gadm_admin":"H\u01b0ng Y\u00ean",
     "meso:gadm_hasc2":"VN.HY.HY",
@@ -31,6 +33,7 @@
     "mps:longitude":106.055135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u062c \u064a\u0646"
     ],
@@ -167,9 +170,9 @@
         "\u8208\u5b89\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"47",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Hung Yen",
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1108781293,
-    "wof:lastmodified":1563275400,
+    "wof:lastmodified":1566650302,
     "wof:name":"Hung Yen",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

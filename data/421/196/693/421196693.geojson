@@ -10,7 +10,12 @@
     "geom:latitude":10.131454,
     "geom:longitude":106.332378,
     "iso:country":"VN",
+    "lbl:bbox":"106.312378,10.111454,106.352378,10.151454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1252704,
-        "qs:id":1223749
+        "qs_pg:id":1223749
     },
     "wof:country":"VN",
     "wof:created":1459009890,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421196693,
-    "wof:lastmodified":1496498173,
+    "wof:lastmodified":1566651091,
     "wof:name":"Lomg Ho",
     "wof:parent_id":1108782119,
     "wof:placetype":"locality",

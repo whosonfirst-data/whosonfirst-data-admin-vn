@@ -11,10 +11,14 @@
     "geom:longitude":105.975,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":36864,
+    "gn:population":36864,
     "iso:country":"VN",
+    "lbl:bbox":"105.955,20.23389,105.995,20.27389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u0647 \u0628\u064a\u0646\u0647"
     ],
@@ -141,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d\u044c\u0431\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nin Bin"
     ],
     "name:urd_x_preferred":[
@@ -178,10 +182,12 @@
     "wof:concordances":{
         "gn:id":1571968,
         "gp:id":1252523,
-        "qs:id":1031989,
-        "qs_pg:id":1114377,
+        "qs_pg:id":1031989,
         "wd:id":"Q33929",
         "wk:page":"Ninh B\u00ecnh"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1114377
     },
     "wof:country":"VN",
     "wof:created":1469052841,
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":890453121,
-    "wof:lastmodified":1563276322,
+    "wof:lastmodified":1566651101,
     "wof:name":"Ninh B\u00ecnh",
     "wof:parent_id":1108781369,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":105.505,
     "gn:country":"VN",
     "gn:fcode":"PPL",
-    "gn:pop":40636,
+    "gn:population":40636,
     "iso:country":"VN",
+    "lbl:bbox":"105.485,21.11778,105.525,21.15778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "name:rus_x_preferred":[
         "\u0421\u043e\u043d-\u0422\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sontai"
     ],
     "ne:ADM0CAP":0.0,
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":1567621,
         "gp:id":91882857,
-        "qs:id":274018
+        "qs_pg:id":274018
     },
     "wof:country":"VN",
     "wof:created":1469052064,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890435341,
-    "wof:lastmodified":1505343547,
+    "wof:lastmodified":1566651104,
     "wof:name":"S\u01a1n T\u00e2y",
     "wof:parent_id":1108780819,
     "wof:placetype":"locality",

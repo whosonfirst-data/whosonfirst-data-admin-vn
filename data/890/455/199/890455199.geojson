@@ -11,10 +11,14 @@
     "geom:longitude":106.46667,
     "gn:country":"VN",
     "gn:fcode":"PPL",
-    "gn:pop":75000,
+    "gn:population":75000,
     "iso:country":"VN",
+    "lbl:bbox":"106.44667,10.94667,106.48667,10.98667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "C\u1ee7 Chi"
     ],
@@ -99,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1584661,
-        "qs:id":85368,
+        "qs_pg:id":85368,
         "wd:id":"Q1151196",
         "wk:page":"C\u1ee7 Chi District"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890455199,
-    "wof:lastmodified":1563276316,
+    "wof:lastmodified":1566651100,
     "wof:name":"C\u1ee7 Chi",
     "wof:parent_id":1108782049,
     "wof:placetype":"locality",

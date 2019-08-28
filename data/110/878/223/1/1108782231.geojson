@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.01851,
     "lbl:longitude":105.163767,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kien Giang",
     "meso:gadm_admin":"Ch\u00e2u Th\u00e0nh",
     "meso:gadm_hasc2":"VN.KG.CT",
@@ -31,6 +33,7 @@
     "mps:longitude":105.163767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chau Thanh"
     ],
@@ -53,9 +56,9 @@
         "\u5468\u57ce\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"284",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Minh Luong",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108782231,
-    "wof:lastmodified":1564323169,
+    "wof:lastmodified":1566650342,
     "wof:name":"Chau Thanh",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

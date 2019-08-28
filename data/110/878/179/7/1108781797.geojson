@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.002065,
     "lbl:longitude":108.698435,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gia Lai",
     "meso:gadm_admin":"An Kh\u00ea",
     "meso:gadm_hasc2":"VN.GL.AK",
@@ -31,6 +33,7 @@
     "mps:longitude":108.698435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "An Khe"
     ],
@@ -53,9 +56,9 @@
         "\u5b89\u6eaa\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"199",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"An Khe",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108781797,
-    "wof:lastmodified":1563275470,
+    "wof:lastmodified":1566650366,
     "wof:name":"An Khe",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

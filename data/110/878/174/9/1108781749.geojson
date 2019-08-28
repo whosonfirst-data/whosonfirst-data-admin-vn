@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.576679,
     "lbl:longitude":109.004545,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ninh Thuan",
     "meso:gadm_admin":"Phan Rang-Th\u00e1p Ch\u00e0m",
     "meso:gadm_hasc2":"VN.NT.PR",
@@ -31,6 +33,7 @@
     "mps:longitude":109.004545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09a8 \u09b0\u09be\u0982-\u09a5\u09be\u09aa \u0995\u09cd\u09af\u09be\u09ae"
     ],
@@ -158,9 +161,9 @@
         "\u6f58\u90ce-\u5854\u5360\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"79",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Phan Rang-Thap Cham",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1108781749,
-    "wof:lastmodified":1563275394,
+    "wof:lastmodified":1566650295,
     "wof:name":"Phan Rang-Thap Cham",
     "wof:parent_id":85680727,
     "wof:placetype":"county",

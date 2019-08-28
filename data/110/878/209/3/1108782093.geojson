@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.368728,
     "lbl:longitude":106.35629,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tien Giang",
     "meso:gadm_admin":"M\u1ef9 Tho",
     "meso:gadm_hasc2":"VN.TG.MT",
@@ -31,6 +33,7 @@
     "mps:longitude":106.35629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u064a \u062b\u0648"
     ],
@@ -158,9 +161,9 @@
         "\u7f8e\u8429\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"48",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"My Tho",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1108782093,
-    "wof:lastmodified":1563275453,
+    "wof:lastmodified":1566650349,
     "wof:name":"My Tho",
     "wof:parent_id":85680739,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":103.02301,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":40282,
+    "gn:population":40282,
     "iso:country":"VN",
+    "lbl:bbox":"103.00301,21.36602,103.04301,21.40602",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646 \u0628\u064a\u0627\u0646 \u0641\u0648"
     ],
@@ -163,7 +167,7 @@
         "Dien Bien Phu"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0baf\u0ba9\u0bcd  \u0baa\u0bcd\u0bb9\u0bc1"
+        "\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0baa\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bcd\u0bb9\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c40\u0c28\u0c4d \u0c2c\u0c40\u0c28\u0c4d \u0c2b\u0c41"
@@ -217,7 +221,7 @@
     "wof:concordances":{
         "gn:id":1583477,
         "gp:id":1235109,
-        "qs:id":1032016,
+        "qs_pg:id":1032016,
         "wd:id":"Q36027",
         "wk:page":"\u0110i\u1ec7n Bi\u00ean Ph\u1ee7"
     },
@@ -234,7 +238,7 @@
         }
     ],
     "wof:id":890438563,
-    "wof:lastmodified":1563276321,
+    "wof:lastmodified":1566651101,
     "wof:name":"\u00d0i\u1ec7n Bi\u00ean Ph\u1ee7",
     "wof:parent_id":1108780957,
     "wof:placetype":"locality",

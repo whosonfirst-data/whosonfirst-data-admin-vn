@@ -11,10 +11,14 @@
     "geom:longitude":106.63333,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":31040,
+    "gn:population":31040,
     "iso:country":"VN",
+    "lbl:bbox":"106.61333,17.48,106.65333,17.52",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "\u0110\u1ed3ng H\u1edbi"
@@ -593,7 +597,7 @@
         "\u0110\u1ed3ng H\u1edbi"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bbe\u0b99\u0bcd  \u0bb9\u0bbe\u0baf\u0bcd"
+        "\u0ba4\u0bbe\u0b99\u0bcd \u0bb9\u0bbe\u0baf\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0414\u043e\u043d\u0433\u0445\u043e\u0439"
@@ -640,7 +644,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0433\u0445\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kwang Binh"
     ],
     "name:urd_x_preferred":[
@@ -725,14 +729,14 @@
     "wof:concordances":{
         "gn:id":1582894,
         "gp:id":1252392,
-        "qs:id":1040136,
+        "qs_pg:id":1040136,
         "wd:id":"Q1877",
         "wk:page":"\u0110\u1ed3ng H\u1edbi"
     },
     "wof:concordances_alt":{
         "gn:id":1582886,
         "gp:id":91885980,
-        "qs:id":274028
+        "qs_pg:id":274028
     },
     "wof:country":"VN",
     "wof:created":1459009087,
@@ -744,7 +748,7 @@
         }
     ],
     "wof:id":421176023,
-    "wof:lastmodified":1563276300,
+    "wof:lastmodified":1566651095,
     "wof:name":"\u00d0\u1ed3ng H\u1edbi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

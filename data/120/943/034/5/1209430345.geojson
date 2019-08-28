@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"107.83,16.34667,107.87,16.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1562702
     },
     "wof:country":"VN",
-    "wof:geomhash":"7b9023d3214740d7e445cecfa27f285c",
+    "wof:geomhash":"7730c45ffa11e8b45105d0a18485f6d3",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209430345,
-    "wof:lastmodified":1536287253,
+    "wof:lastmodified":1566649866,
     "wof:name":"Vinh Loc",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     107.85,
-    16.366670000000006,
+    16.36667000000001,
     107.85,
-    16.366670000000006
+    16.36667000000001
 ],
   "geometry": {"coordinates":[107.84999999999999,16.36667000000001],"type":"Point"}
 }

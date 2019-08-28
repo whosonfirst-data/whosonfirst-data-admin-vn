@@ -11,8 +11,11 @@
     "geom:longitude":107.08426,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":209683,
+    "gn:population":209683,
     "iso:country":"VN",
+    "lbl:bbox":"107.06426,10.32599,107.10426,10.36599",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -420,7 +423,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u043d\u0433\u0442\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xa Vung Tau"
     ],
     "name:urd_x_preferred":[
@@ -567,13 +570,13 @@
     "wof:concordances":{
         "gn:id":1562414,
         "gp:id":91885853,
-        "qs:id":1031948,
+        "qs_pg:id":1031948,
         "wd:id":"Q21194",
         "wk:page":"V\u0169ng T\u00e0u"
     },
     "wof:concordances_alt":{
         "gp:id":1252672,
-        "qs:id":553826
+        "qs_pg:id":553826
     },
     "wof:country":"VN",
     "wof:created":1469052441,
@@ -588,7 +591,7 @@
         }
     ],
     "wof:id":890443885,
-    "wof:lastmodified":1563276328,
+    "wof:lastmodified":1566651102,
     "wof:name":"V\u0169ng T\u00e0u",
     "wof:parent_id":1108781989,
     "wof:placetype":"locality",

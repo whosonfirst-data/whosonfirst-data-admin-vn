@@ -11,8 +11,11 @@
     "geom:longitude":105.33833,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":105260,
+    "gn:population":105260,
     "iso:country":"VN",
+    "lbl:bbox":"105.31833,20.79333,105.35833,20.83333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0430\u0431\u0456\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hao Binh"
     ],
     "name:urd_x_preferred":[
@@ -250,7 +253,7 @@
     "wof:concordances":{
         "gn:id":1580830,
         "gp:id":91887607,
-        "qs:id":274024,
+        "qs_pg:id":274024,
         "wd:id":"Q130324",
         "wk:page":"H\u00f2a B\u00ecnh"
     },
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":890435363,
-    "wof:lastmodified":1563276333,
+    "wof:lastmodified":1566651104,
     "wof:name":"H\u00f2a B\u00ecnh",
     "wof:parent_id":1108781041,
     "wof:placetype":"locality",

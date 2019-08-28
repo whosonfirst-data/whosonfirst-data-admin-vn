@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.840754,
     "lbl:longitude":106.660342,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TP. Ho Chi Minh",
     "meso:gadm_admin":"G\u00f2 V\u1ea5p",
     "meso:gadm_hasc2":"VN.HC.GV",
@@ -31,6 +33,7 @@
     "mps:longitude":106.660342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Go Vap"
     ],
@@ -56,9 +59,9 @@
         "\u65e7\u9091\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"20",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Ho Chi Minh City",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108782017,
-    "wof:lastmodified":1563275458,
+    "wof:lastmodified":1566650354,
     "wof:name":"Go Vap",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

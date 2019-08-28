@@ -10,8 +10,12 @@
     "geom:latitude":15.56667,
     "geom:longitude":108.48333,
     "iso:country":"VN",
+    "lbl:bbox":"108.46333,15.54667,108.50333,15.58667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645 \u0643\u064a"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tanky"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +171,7 @@
     "wof:concordances":{
         "gn:id":1567148,
         "gp:id":1252593,
-        "qs:id":638196,
+        "qs_pg:id":638196,
         "wd:id":"Q35661"
     },
     "wof:country":"VN",
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":421181929,
-    "wof:lastmodified":1563276285,
+    "wof:lastmodified":1566651091,
     "wof:name":"Tam K\u1ef3",
     "wof:parent_id":1108781593,
     "wof:placetype":"locality",

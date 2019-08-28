@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.363199,
     "lbl:longitude":106.619799,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tien Giang",
     "meso:gadm_admin":"G\u00f2 C\u00f4ng \u0110\u00f4ng",
     "meso:gadm_hasc2":"VN.TG.GD",
@@ -31,6 +33,7 @@
     "mps:longitude":106.619799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Go Cong"
     ],
@@ -50,9 +53,9 @@
         "\u9d5d\u8ca2\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"32",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Go Cong",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108782107,
-    "wof:lastmodified":1563275379,
+    "wof:lastmodified":1566650281,
     "wof:name":"Go Cong",
     "wof:parent_id":85680739,
     "wof:placetype":"county",

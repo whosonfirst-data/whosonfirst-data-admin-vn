@@ -11,8 +11,11 @@
     "geom:longitude":105.41885,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":93475,
+    "gn:population":93475,
     "iso:country":"VN",
+    "lbl:bbox":"105.39885,21.28654,105.43885,21.32654",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -116,7 +119,7 @@
         "\u0bb5\u0bbf\u0baf\u0b9f\u0bcd \u0b9f\u0bcd\u0bb0\u0bc8"
     ],
     "name:tel_x_preferred":[
-        "\u0c35\u0c3f\u0c2f\u0c1f\u0c4d  \u0c1f\u0c4d\u0c30\u0c48"
+        "\u0c35\u0c3f\u0c2f\u0c1f\u0c4d \u0c1f\u0c4d\u0c30\u0c48"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2b\u0e27\u0e35\u0e22\u0e15\u0e08\u0e35\u0e48"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0412'\u0454\u0442\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vietri"
     ],
     "name:urd_x_preferred":[
@@ -253,10 +256,12 @@
     "wof:concordances":{
         "gn:id":1562820,
         "gp:id":1252661,
-        "qs:id":1031949,
         "qs_pg:id":77025,
         "wd:id":"Q36082",
         "wk:page":"Vi\u1ec7t Tr\u00ec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1031949
     },
     "wof:country":"VN",
     "wof:created":1469052442,
@@ -271,7 +276,7 @@
         }
     ],
     "wof:id":890443887,
-    "wof:lastmodified":1563276323,
+    "wof:lastmodified":1566651102,
     "wof:name":"Vi\u1ec7t Tr\u00ec",
     "wof:parent_id":1108781165,
     "wof:placetype":"locality",

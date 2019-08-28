@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.133536,
     "lbl:longitude":106.839364,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Binh Duong",
     "meso:gadm_admin":"T\u00e2n Uy\u00ean",
     "meso:gadm_hasc2":"VN.BI.TU",
@@ -31,6 +33,7 @@
     "mps:longitude":106.839364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "T\u00e2n Uy\u00ean"
     ],
@@ -62,9 +65,9 @@
         "\u65b0\u6e0a\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"601",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Uyen Hung",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108781961,
-    "wof:lastmodified":1563275421,
+    "wof:lastmodified":1566650320,
     "wof:name":"Tan Uyen",
     "wof:parent_id":85680735,
     "wof:placetype":"county",

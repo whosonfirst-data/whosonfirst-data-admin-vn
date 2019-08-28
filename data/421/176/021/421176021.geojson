@@ -10,6 +10,9 @@
     "geom:latitude":9.60333,
     "geom:longitude":105.98,
     "iso:country":"VN",
+    "lbl:bbox":"105.96,9.58333,106.0,9.62333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043a\u0447\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khanh Hong"
     ],
     "name:urd_x_preferred":[
@@ -278,7 +281,7 @@
     "wof:concordances":{
         "gn:id":1567788,
         "gp:id":1246179,
-        "qs:id":1040117,
+        "qs_pg:id":1040117,
         "wd:id":"Q33418",
         "wk:page":"S\u00f3c Tr\u0103ng"
     },
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":421176021,
-    "wof:lastmodified":1563276305,
+    "wof:lastmodified":1566651097,
     "wof:name":"S\u00f3c Tr\u0103ng",
     "wof:parent_id":1108782287,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.840633,
     "lbl:longitude":108.288295,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.853434,
     "mps:longitude":108.232769,
     "mz:hierarchy_label":1,
@@ -178,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u044f\u043b\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u1ec9nh Gia Lai"
     ],
     "name:urd_x_preferred":[
@@ -273,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"15,537",
     "statoids:area_mi":"5,999",
     "statoids:as_of_date":"2009-04-01",
@@ -300,7 +301,7 @@
         "gp:id":2347733,
         "hasc:id":"VN.GL",
         "iso:id":"VN-30",
-        "qs:id":1047749,
+        "qs_pg:id":1047749,
         "unlc:id":"VN-30",
         "wd:id":"Q36662",
         "wk:page":"Gia Lai Province"
@@ -321,11 +322,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739215,
+    "wof:lastmodified":1566648276,
     "wof:name":"Gia Lai",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1272792,
     "wof:population_rank":12,

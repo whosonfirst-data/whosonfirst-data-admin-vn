@@ -11,8 +11,11 @@
     "geom:longitude":106.68222,
     "gn:country":"VN",
     "gn:fcode":"PPLA",
-    "gn:pop":602695,
+    "gn:population":602695,
     "iso:country":"VN",
+    "lbl:bbox":"106.66222,20.83611,106.70222,20.87611",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -352,7 +355,7 @@
     "wof:concordances":{
         "gn:id":1581298,
         "gp:id":91884746,
-        "qs:id":274026,
+        "qs_pg:id":274026,
         "wd:id":"Q72818",
         "wk:page":"Haiphong"
     },
@@ -369,7 +372,7 @@
         }
     ],
     "wof:id":890440107,
-    "wof:lastmodified":1563276309,
+    "wof:lastmodified":1566651098,
     "wof:name":"Haiphong",
     "wof:parent_id":1108781265,
     "wof:placetype":"locality",

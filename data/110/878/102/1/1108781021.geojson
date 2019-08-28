@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":21.711404,
     "lbl:longitude":104.8992,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yen Bai",
     "meso:gadm_admin":"Y\u00ean B\u00e1i",
     "meso:gadm_hasc2":"VN.YB.YB",
@@ -31,6 +33,7 @@
     "mps:longitude":104.8992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0646 \u0628\u0627\u064a"
     ],
@@ -161,9 +164,9 @@
         "\u5b89\u6c9b\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"58",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Yen Bai",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1108781021,
-    "wof:lastmodified":1563275357,
+    "wof:lastmodified":1566650263,
     "wof:name":"Yen Bai",
     "wof:parent_id":85680629,
     "wof:placetype":"county",

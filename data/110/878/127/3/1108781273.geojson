@@ -12,6 +12,8 @@
     "iso:country":"VN",
     "lbl:latitude":20.771292,
     "lbl:longitude":106.724124,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hai Phong",
     "meso:gadm_admin":"Ki\u1ebfn Th\u1ee5y",
     "meso:gadm_hasc2":"VN.HP.KT",
@@ -25,6 +27,7 @@
     "mps:longitude":106.724124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Duong Kinh"
     ],
@@ -50,7 +53,7 @@
         "\u9633\u4eac\u90e1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108781273,
-    "wof:lastmodified":1563275404,
+    "wof:lastmodified":1566650305,
     "wof:name":"Duong Kinh",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.55629,
     "lbl:longitude":107.957221,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.607233,
     "mps:longitude":107.997817,
     "mz:hierarchy_label":1,
@@ -165,7 +166,7 @@
         "Quang Nam"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0ba3\u0b99\u0bcd   \u0ba8\u0bae\u0bcd"
+        "\u0b95\u0bc1\u0ba3\u0b99\u0bcd  \u0ba8\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c35\u0c3e\u0c02\u0c17\u0c4d \u0c28\u0c3e\u0c2e\u0c4d"
@@ -181,9 +182,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043d\u0433\u043d\u0430\u043c"
-    ],
-    "name:unk_x_variant":[
-        "Qu\u1ea3ng Nam"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u0627\u0646\u06af \u0646\u0627\u0645 \u0635\u0648\u0628\u06c1"
@@ -275,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"10,438",
     "statoids:area_mi":"4,030",
     "statoids:as_of_date":"2009-04-01",
@@ -301,7 +299,7 @@
         "gp:id":2347711,
         "hasc:id":"VN.QM",
         "iso:id":"VN-27",
-        "qs:id":219640,
+        "qs_pg:id":219640,
         "wd:id":"Q33356",
         "wk:page":"Qu\u1ea3ng Nam Province"
     },
@@ -321,11 +319,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739212,
+    "wof:lastmodified":1566648270,
     "wof:name":"Qu\u00e0ng Nam",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1419503,
     "wof:population_rank":12,

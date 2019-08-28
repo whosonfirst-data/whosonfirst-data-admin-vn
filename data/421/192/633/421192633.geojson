@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"107.625846,16.556075,107.625846,16.556075",
     "geom:latitude":16.556075,
     "geom:longitude":107.625846,
     "iso:country":"VN",
+    "lbl:bbox":"107.605846,16.536075,107.645846,16.576075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Districto de Le Thuy"
@@ -66,11 +72,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1248008,
-        "qs:id":1169073
+        "qs_pg:id":1169073
     },
     "wof:country":"VN",
     "wof:created":1459009743,
-    "wof:geomhash":"7e9443ee8a784be3d0a78e5068025571",
+    "wof:geomhash":"a1f2e540274758b4323de04c7bbff0c2",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421192633,
-    "wof:lastmodified":1470255548,
+    "wof:lastmodified":1566651083,
     "wof:name":"Th\u00f4n Th\u00e1i D\u01b0\u01a1ng H\u1ea1 (1)",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":21.322951,
     "lbl:longitude":105.121345,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.324261,
     "mps:longitude":105.118622,
     "mz:hierarchy_label":1,
@@ -164,7 +165,7 @@
         "Phu Tho"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcd\u0bb9\u0bc1  \u0ba4\u0bca"
+        "\u0baa\u0bcd\u0bb9\u0bc1 \u0ba4\u0bca"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c42 \u0c24\u0c4b"
@@ -181,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u0442\u0445\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u1ec9nh Ph\u00fa Th\u1ecd"
     ],
     "name:urd_x_preferred":[
@@ -276,9 +277,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-01",
+    "src:population_date":"2009-04-01",
     "statoids:area_km":"3,532",
     "statoids:area_mi":"1,364",
     "statoids:as_of_date":"2009-04-01",
@@ -302,7 +303,7 @@
         "gp:id":20070091,
         "hasc:id":"VN.PT",
         "iso:id":"VN-68",
-        "qs:id":348895,
+        "qs_pg:id":348895,
         "wd:id":"Q36610",
         "wk:page":"Ph\u00fa Th\u1ecd Province"
     },
@@ -322,11 +323,10 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1565739219,
+    "wof:lastmodified":1566648284,
     "wof:name":"Ph\u00fa Th\u1ecd",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1313926,
     "wof:population_rank":12,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.363589,
     "lbl:longitude":105.89591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ha Tinh",
     "meso:gadm_admin":"H\u00e0 T\u0129nh",
     "meso:gadm_hasc2":"VN.HT.HT",
@@ -31,6 +33,7 @@
     "mps:longitude":105.89591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u0627 \u062a\u064a\u0646\u0647"
     ],
@@ -158,9 +161,9 @@
         "\u6cb3\u975c\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"56",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Ha Tinh",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1108781495,
-    "wof:lastmodified":1563275479,
+    "wof:lastmodified":1566650376,
     "wof:name":"Ha Tinh",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

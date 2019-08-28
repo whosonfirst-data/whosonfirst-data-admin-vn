@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.302782,
     "lbl:longitude":104.003671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kien Giang",
     "meso:gadm_admin":"Ph\u00fa Qu\u1ed1c",
     "meso:gadm_hasc2":"VN.KG.PQ",
@@ -31,6 +33,7 @@
     "mps:longitude":104.003671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Phu Quoc"
     ],
@@ -221,9 +224,9 @@
         "\u5bcc\u570b\u5cf6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"567",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Duong Dong",
@@ -255,7 +258,7 @@
         }
     ],
     "wof:id":1108782245,
-    "wof:lastmodified":1563275444,
+    "wof:lastmodified":1566650343,
     "wof:name":"Phu Quoc",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

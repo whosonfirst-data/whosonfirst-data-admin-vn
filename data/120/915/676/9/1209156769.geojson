@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ho_Chi_Minh",
     "iso:country":"VN",
+    "lbl:bbox":"108.29667,15.81333,108.33667,15.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632763
@@ -34,7 +38,7 @@
         "gn:id":1563882
     },
     "wof:country":"VN",
-    "wof:geomhash":"52e451d5d9af9f4a7027da465509e2e1",
+    "wof:geomhash":"d75b046abd6a8bb88f6b84b2f2ee0d31",
     "wof:hierarchy":[
         {
             "country_id":85632763,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209156769,
-    "wof:lastmodified":1536296034,
+    "wof:lastmodified":1566649554,
     "wof:name":"Trieu Chau",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     108.31667,
-    15.833329999999998,
+    15.83333,
     108.31667,
-    15.833329999999998
+    15.83333
 ],
   "geometry": {"coordinates":[108.31667,15.83333],"type":"Point"}
 }

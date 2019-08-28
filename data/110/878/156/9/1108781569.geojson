@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.38391,
     "lbl:longitude":107.473254,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Thua Thien - Hue",
     "meso:gadm_admin":"H\u01b0\u01a1ng Tr\u00e0",
     "meso:gadm_hasc2":"VN.TT.HR",
@@ -31,6 +33,7 @@
     "mps:longitude":107.473254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Huong Tra"
     ],
@@ -47,9 +50,9 @@
         "\u9999\u8336\u5e02\u793e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-01-01",
+    "src:population_date":"2003-01-01",
     "statoids:area_km":"521",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Tu Ha",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108781569,
-    "wof:lastmodified":1563275367,
+    "wof:lastmodified":1566650272,
     "wof:name":"Huong Tra",
     "wof:parent_id":85680775,
     "wof:placetype":"county",
