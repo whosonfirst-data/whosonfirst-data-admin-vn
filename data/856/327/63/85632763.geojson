@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.88117,
-    "geom:area_square_m":329220827541.478638,
+    "geom:area_square_m":329220823732.830627,
     "geom:bbox":"102.144249,8.377944,109.474586,23.393395",
     "geom:latitude":16.654637,
     "geom:longitude":106.306567,
@@ -67,6 +67,9 @@
     "name:arg_x_variant":[
         "Bietnam"
     ],
+    "name:ary_x_preferred":[
+        "\u06a4\u064a\u064a\u0637\u0646\u0627\u0645"
+    ],
     "name:arz_x_preferred":[
         "\u0641\u064a\u064a\u062a\u0646\u0627\u0645"
     ],
@@ -97,6 +100,9 @@
     "name:bam_x_variant":[
         "Wiy\u025btinamu"
     ],
+    "name:ban_x_preferred":[
+        "Vietnam"
+    ],
     "name:bar_x_preferred":[
         "Vietnam"
     ],
@@ -108,7 +114,8 @@
     ],
     "name:bel_x_variant":[
         "\u0412\u0456\u0435\u0442\u043d\u0430\u043c",
-        "\u0412\u0435\u0442\u043d\u0430\u043c"
+        "\u0412\u0435\u0442\u043d\u0430\u043c",
+        "\u0412\u2019\u0435\u0442\u043d\u0430\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09af\u09bc\u09c7\u09a4\u09a8\u09be\u09ae"
@@ -209,6 +216,12 @@
     "name:dan_x_preferred":[
         "Vietnam"
     ],
+    "name:deu_at_x_preferred":[
+        "Vietnam"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Vietnam"
+    ],
     "name:deu_x_preferred":[
         "Vietnam"
     ],
@@ -234,6 +247,12 @@
         "\u0392\u03b9\u03b5\u03c4\u03bd\u03ac\u03bc"
     ],
     "name:eml_x_preferred":[
+        "Vietnam"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Vietnam"
+    ],
+    "name:eng_gb_x_preferred":[
         "Vietnam"
     ],
     "name:eng_x_preferred":[
@@ -296,6 +315,9 @@
     "name:frr_x_preferred":[
         "Vietnam"
     ],
+    "name:frr_x_variant":[
+        "Wjetnam"
+    ],
     "name:fry_x_preferred":[
         "Fjetnam"
     ],
@@ -314,6 +336,9 @@
     ],
     "name:gan_x_preferred":[
         "\u8d8a\u5357"
+    ],
+    "name:gcr_x_preferred":[
+        "Vi\u00eat Nam"
     ],
     "name:gla_x_preferred":[
         "Bhiet-Nam"
@@ -663,6 +688,9 @@
     "name:nov_x_preferred":[
         "Vietnam"
     ],
+    "name:nqo_x_preferred":[
+        "\u07dd\u07ed\u07cb\u07d5\u07cc\u07e3\u07ca\u07e1"
+    ],
     "name:nrm_x_preferred":[
         "Vietnam"
     ],
@@ -728,6 +756,9 @@
     ],
     "name:pol_x_preferred":[
         "Wietnam"
+    ],
+    "name:por_br_x_preferred":[
+        "Vietn\u00e3"
     ],
     "name:por_x_preferred":[
         "Vietname",
@@ -827,6 +858,12 @@
     "name:srn_x_preferred":[
         "Vi-etnam"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0412\u0438\u0458\u0435\u0442\u043d\u0430\u043c"
+    ],
+    "name:srp_el_x_preferred":[
+        "Vijetnam"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0458\u0435\u0442\u043d\u0430\u043c"
     ],
@@ -850,6 +887,9 @@
     ],
     "name:szl_x_preferred":[
         "Wjetnam"
+    ],
+    "name:szy_x_preferred":[
+        "Vietnam"
     ],
     "name:tah_x_preferred":[
         "Vietu Namu"
@@ -1153,7 +1193,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1583797456,
+    "wof:lastmodified":1587428734,
     "wof:name":"Vietnam",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
