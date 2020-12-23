@@ -18,7 +18,7 @@
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":5.0,
+    "mz:min_zoom":5.6,
     "name:afr_x_preferred":[
         "Hai Phong"
     ],
@@ -348,13 +348,14 @@
     "wof:belongsto":[
         102191569,
         85632763,
-        85680645,
-        1108781265
+        1108781265,
+        85680645
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1581298,
         "gp:id":91884746,
+        "ne:id":1159149349,
         "qs_pg:id":274026,
         "wd:id":"Q72818",
         "wk:page":"Haiphong"
@@ -372,7 +373,8 @@
         }
     ],
     "wof:id":890440107,
-    "wof:lastmodified":1566651098,
+    "wof:lastmodified":1608688170,
+    "wof:megacity":1,
     "wof:name":"Haiphong",
     "wof:parent_id":1108781265,
     "wof:placetype":"locality",
