@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.467777778,19.9016666667,105.467777778,19.9016666667",
+    "geom:bbox":"105.467778,19.901667,105.467778,19.901667",
     "geom:latitude":19.901667,
     "geom:longitude":105.467778,
     "iso:country":"VN",
@@ -45,6 +45,10 @@
     ],
     "name:eng_x_preferred":[
         "Tho Xuan Airport"
+    ],
+    "name:eng_x_variant":[
+        "THD",
+        "VVTX"
     ],
     "name:epo_x_preferred":[
         "Flughaveno Sao Vang"
@@ -201,7 +205,7 @@
         "wd:id":"Q59669"
     },
     "wof:country":"VN",
-    "wof:geomhash":"df94fe2f0c1f14c512b1e79f581bc209",
+    "wof:geomhash":"b2a3f835e2b894d9b57743961433cc56",
     "wof:hierarchy":[
         {
             "campus_id":102558823,
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":102558823,
-    "wof:lastmodified":1566647712,
+    "wof:lastmodified":1631755352,
     "wof:name":"Bai Thuong Airport",
     "wof:parent_id":85680619,
     "wof:placetype":"campus",
@@ -222,10 +226,10 @@
     ]
 },
   "bbox": [
-    105.46777777778,
-    19.901666666667,
-    105.46777777778,
-    19.901666666667
+    105.467778,
+    19.901667,
+    105.467778,
+    19.901667
 ],
-  "geometry": {"coordinates":[105.46777777778,19.901666666667],"type":"Point"}
+  "geometry": {"coordinates":[105.467778,19.901667],"type":"Point"}
 }

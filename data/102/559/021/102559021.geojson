@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.807222222,21.2211111111,105.807222222,21.2211111111",
+    "geom:bbox":"105.807222,21.221111,105.807222,21.221111",
     "geom:latitude":21.221111,
     "geom:longitude":105.807222,
     "iso:country":"VN",
@@ -24,6 +24,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Hanoi"
+    ],
+    "name:eng_x_variant":[
+        "HAN",
+        "VVNB"
     ],
     "name:est_x_preferred":[
         "Noi Bai rahvusvaheline lennujaam"
@@ -101,7 +105,7 @@
         "wd:id":"Q844098"
     },
     "wof:country":"VN",
-    "wof:geomhash":"23af475c31297f0833bcd22b02bb6b52",
+    "wof:geomhash":"7d1700c71f9544dbcb31fccd326adb3c",
     "wof:hierarchy":[
         {
             "campus_id":102559021,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":102559021,
-    "wof:lastmodified":1566647713,
+    "wof:lastmodified":1631755352,
     "wof:name":"Noi Bai Airport",
     "wof:parent_id":85680653,
     "wof:placetype":"campus",
@@ -122,10 +126,10 @@
     ]
 },
   "bbox": [
-    105.80722222222,
-    21.221111111111,
-    105.80722222222,
-    21.221111111111
+    105.807222,
+    21.221111,
+    105.807222,
+    21.221111
 ],
-  "geometry": {"coordinates":[105.80722222222001,21.221111111111],"type":"Point"}
+  "geometry": {"coordinates":[105.807222,21.221111],"type":"Point"}
 }
