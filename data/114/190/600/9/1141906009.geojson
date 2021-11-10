@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.334001679,9.93400208679,106.334001679,9.93400208679",
+    "geom:bbox":"106.334002,9.934002,106.334002,9.934002",
     "geom:latitude":9.934002,
     "geom:longitude":106.334002,
     "iso:country":"VN",
@@ -45,8 +45,14 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0abe \u0ab5\u0abf\u0aa8\u0acd\u0ab9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0 \u05d5\u05d9\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u094d\u0930\u093e \u0935\u093f\u0902\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Tra Vinh"
     ],
     "name:ind_x_preferred":[
         "Tr\u00e0 Vinh"
@@ -246,7 +252,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130528,
-    "wof:geomhash":"202ce630d5ed2f2e0976159a2eee5de6",
+    "wof:geomhash":"b9e2db252680a60f1dd971918445d5f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -257,7 +263,7 @@
         }
     ],
     "wof:id":1141906009,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1636504955,
     "wof:name":"Tra Vinh",
     "wof:parent_id":1108782131,
     "wof:placetype":"locality",
@@ -267,10 +273,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33400167891898,
-    9.93400208678969,
-    106.33400167891898,
-    9.93400208678969
+    106.334002,
+    9.934002,
+    106.334002,
+    9.934002
 ],
-  "geometry": {"coordinates":[106.33400167891898,9.93400208678969],"type":"Point"}
+  "geometry": {"coordinates":[106.334002,9.934002],"type":"Point"}
 }

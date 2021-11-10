@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"108.100057738,10.9337369984,108.100057738,10.9337369984",
+    "geom:bbox":"108.100058,10.933737,108.100058,10.933737",
     "geom:latitude":10.933737,
     "geom:longitude":108.100058,
     "iso:country":"VN",
@@ -126,6 +126,9 @@
     "name:hat_x_preferred":[
         "Phan Thiet"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05df \u05ea\u05d9\u05d0\u05d8"
+    ],
     "name:hif_x_preferred":[
         "Phan Thiet"
     ],
@@ -133,6 +136,9 @@
         "\u092b\u093e\u0902 \u0925\u093f\u090f\u091f"
     ],
     "name:hsb_x_preferred":[
+        "Phan Thiet"
+    ],
+    "name:hun_x_preferred":[
         "Phan Thiet"
     ],
     "name:ile_x_preferred":[
@@ -429,7 +435,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130659,
-    "wof:geomhash":"3ed63a5b7599520c307a9a15d3ef88f0",
+    "wof:geomhash":"5ad3d94d99ca2fb4d9df67d1940e11a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -440,7 +446,7 @@
         }
     ],
     "wof:id":1141906937,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1636504954,
     "wof:name":"Phan Thiet",
     "wof:parent_id":1108781751,
     "wof:placetype":"locality",
@@ -450,10 +456,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    108.10005773827572,
-    10.93373699843249,
-    108.10005773827572,
-    10.93373699843249
+    108.100058,
+    10.933737,
+    108.100058,
+    10.933737
 ],
-  "geometry": {"coordinates":[108.10005773827572,10.93373699843249],"type":"Point"}
+  "geometry": {"coordinates":[108.100058,10.933737],"type":"Point"}
 }

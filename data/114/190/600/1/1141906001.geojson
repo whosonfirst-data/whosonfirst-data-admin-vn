@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"103.34300468,21.7400039919,103.34300468,21.7400039919",
+    "geom:bbox":"103.343005,21.740004,103.343005,21.740004",
     "geom:latitude":21.740004,
     "geom:longitude":103.343005,
     "iso:country":"VN",
@@ -18,6 +18,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0627\u0646 \u062a\u0634\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09df\u09be\u09a8 \u099a\u09be\u0989"
+    ],
+    "name:deu_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ac\u03bd \u03a4\u03c3\u03ac\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0622\u0646 \u0686\u0627\u0626\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05df \u05e6'\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0906\u0928 \u091a\u093e\u0909"
+    ],
+    "name:hun_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:ind_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30a2\u30f3\u30c1\u30e3\u30a6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc548 \ucc28\uc6b0"
+    ],
+    "name:nld_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:pol_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:por_x_preferred":[
+        "Tu\u1ea7n Ch\u00e2u"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0430\u043d-\u0427\u0430\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:swe_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:tur_x_preferred":[
+        "Luan Chau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u044c-\u0427\u0430\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627\u0646 \u0686\u0627\u0624"
+    ],
+    "name:vie_x_preferred":[
+        "Lu\u00e2n Ch\u00e2u"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u83b1\u6d32"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u840a\u5dde"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
     "ne:ADM0_A3":"VNM",
@@ -124,7 +199,7 @@
     "wof:concordances":{},
     "wof:country":"VN",
     "wof:created":1499130527,
-    "wof:geomhash":"0136eb696d136178ca93a157b5b4339b",
+    "wof:geomhash":"3271e3921724bb65694266ffa0f65f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +210,7 @@
         }
     ],
     "wof:id":1141906001,
-    "wof:lastmodified":1566652502,
+    "wof:lastmodified":1636504955,
     "wof:name":"Luan Chau",
     "wof:parent_id":1108780967,
     "wof:placetype":"locality",
@@ -145,10 +220,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    103.34300467988777,
-    21.74000399185508,
-    103.34300467988777,
-    21.74000399185508
+    103.343005,
+    21.740004,
+    103.343005,
+    21.740004
 ],
-  "geometry": {"coordinates":[103.34300467988777,21.74000399185508],"type":"Point"}
+  "geometry": {"coordinates":[103.34300500000001,21.740004],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"104.983348754,22.8336566355,104.983348754,22.8336566355",
+    "geom:bbox":"104.983349,22.833657,104.983349,22.833657",
     "geom:latitude":22.833657,
     "geom:longitude":104.983349,
     "iso:country":"VN",
@@ -54,8 +54,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0abe \u0a9c\u0abf\u0a86\u0a82\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0 \u05d2'\u05d9\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u093e \u091c\u093f\u0906\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Ha Giang"
     ],
     "name:ind_x_preferred":[
         "H\u00e0 Giang"
@@ -93,11 +99,17 @@
     "name:pol_x_preferred":[
         "H\u00e0 Giang"
     ],
+    "name:por_x_preferred":[
+        "H\u00e0 Giang"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0437\u044f\u043d\u0433"
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0dcf \u0da2\u0dd2\u0dba\u0dd0\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Ha Giang"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0430 \u0416\u0458\u0430\u043d\u0433"
@@ -243,7 +255,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130659,
-    "wof:geomhash":"58883929fa3471dfea533c8121ff75a2",
+    "wof:geomhash":"1deec298753380acd4a0afc087b0cd99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,7 +266,7 @@
         }
     ],
     "wof:id":1141906939,
-    "wof:lastmodified":1566652500,
+    "wof:lastmodified":1636504954,
     "wof:name":"Ha Giang",
     "wof:parent_id":1108780849,
     "wof:placetype":"locality",
@@ -264,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.9833487538881,
-    22.83365663552451,
-    104.9833487538881,
-    22.83365663552451
+    104.983349,
+    22.833657,
+    104.983349,
+    22.833657
 ],
-  "geometry": {"coordinates":[104.98334875388809,22.83365663552451],"type":"Point"}
+  "geometry": {"coordinates":[104.983349,22.833657],"type":"Point"}
 }

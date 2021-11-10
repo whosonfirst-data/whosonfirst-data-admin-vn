@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.600045938,11.6503857615,106.600045938,11.6503857615",
+    "geom:bbox":"106.600046,11.650386,106.600046,11.650386",
     "geom:latitude":11.650386,
     "geom:longitude":106.600046,
     "iso:country":"VN",
@@ -18,6 +18,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0646 \u062a\u0634\u064a\u0648\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09a8 \u0995\u09c1\u09df\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bd \u039a\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0646 \u06a9\u0648\u0622\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "H\u1edbn Qu\u1ea3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05df \u05e7\u05d5\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u094b\u0928 \u0915\u094d\u0935\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:ind_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:ita_x_preferred":[
+        "H\u1edbn Qu\u1ea3n"
+    ],
+    "name:nld_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:pol_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:por_x_preferred":[
+        "H\u1edbn Qu\u1ea3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043d-\u041a\u0443\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:swe_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:tur_x_preferred":[
+        "Hon Quan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043d\u043a\u0443\u043e\u043d"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
     "ne:ADM0_A3":"VNM",
@@ -124,7 +181,7 @@
     "wof:concordances":{},
     "wof:country":"VN",
     "wof:created":1499130658,
-    "wof:geomhash":"6a56718559e636fdfb8d479fa0607d5a",
+    "wof:geomhash":"1c6678f2dd952236c6fde2a2090885bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +192,7 @@
         }
     ],
     "wof:id":1141906933,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1636504955,
     "wof:name":"Hon Quan",
     "wof:parent_id":1108781921,
     "wof:placetype":"locality",
@@ -145,10 +202,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.60004593813932,
-    11.65038576145633,
-    106.60004593813932,
-    11.65038576145633
+    106.600046,
+    11.650386,
+    106.600046,
+    11.650386
 ],
-  "geometry": {"coordinates":[106.60004593813932,11.65038576145633],"type":"Point"}
+  "geometry": {"coordinates":[106.60004600000001,11.650386],"type":"Point"}
 }
