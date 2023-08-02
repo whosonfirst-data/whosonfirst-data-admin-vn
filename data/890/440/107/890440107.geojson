@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u0641\u0648\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u064a\u0641\u0648\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Haiphong"
+    ],
     "name:azb_x_preferred":[
         "\u0647\u0627\u06cc\u0641\u0648\u0646\u0642"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0439\u0444\u043e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0439\u0444\u043e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0987\u09ab\u09cb\u0982"
@@ -91,6 +100,9 @@
     "name:fas_x_preferred":[
         "\u0647\u0627\u06cc\u0641\u0648\u0646\u06af"
     ],
+    "name:fij_x_preferred":[
+        "Haiphong"
+    ],
     "name:fin_x_preferred":[
         "Haiphong"
     ],
@@ -99,6 +111,15 @@
     ],
     "name:fra_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
+    ],
+    "name:fra_x_variant":[
+        "Ha\u00efphong"
+    ],
+    "name:frr_x_preferred":[
+        "H\u1ea3i Ph\u00f2ng"
+    ],
+    "name:gle_x_preferred":[
+        "Haiphong"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac8\u0aab\u0a82\u0a97"
@@ -127,6 +148,9 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u0575\u0586\u0578\u0576"
     ],
+    "name:ido_x_preferred":[
+        "Haiphong"
+    ],
     "name:ind_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
     ],
@@ -142,6 +166,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cbe\u0cab\u0cbf\u0c82\u0c97\u0ccd"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17c3\u17a0\u17d2\u179c\u17bb\u1784"
+    ],
     "name:kir_x_preferred":[
         "\u0425\u0430\u0439\u0444\u043e\u043d"
     ],
@@ -150,6 +177,9 @@
     ],
     "name:lat_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
+    ],
+    "name:lat_x_variant":[
+        "Haiphongum"
     ],
     "name:lav_x_preferred":[
         "Haifonga"
@@ -190,10 +220,16 @@
     "name:ori_x_preferred":[
         "\u0b39\u0b3e\u0b08 \u0b2b\u0b4b\u0b19\u0b4d\u0b17"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0430\u0439\u0444\u043e\u043d"
+    ],
     "name:pol_x_preferred":[
         "Hajfong"
     ],
     "name:por_x_preferred":[
+        "Haiphong"
+    ],
+    "name:ron_x_preferred":[
         "Haiphong"
     ],
     "name:rus_x_preferred":[
@@ -204,6 +240,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0dba\u0dd2 \u0dc6\u0ddc\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "H\u1ea3i Ph\u00f2ng"
     ],
     "name:spa_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
@@ -220,6 +259,9 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bbe\u0baf\u0bcd \u0baa\u0bbe\u0b99\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u0439\u0444\u043e\u04a3"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c48\u0c2b\u0c4b\u0c02\u0c17\u0c4d"
     ],
@@ -232,8 +274,17 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u0444\u043e\u043d\u0433"
     ],
+    "name:ukr_x_variant":[
+        "\u0425\u0430\u0439\u0444\u043e\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u06c1\u0627\u0626\u06cc\u0641\u0648\u0646\u06af"
+    ],
+    "name:uzb_x_preferred":[
+        "Xayfon"
+    ],
+    "name:vec_x_preferred":[
+        "Haiphong"
     ],
     "name:vie_x_preferred":[
         "H\u1ea3i Ph\u00f2ng"
@@ -356,8 +407,8 @@
     "wof:belongsto":[
         102191569,
         85632763,
-        1108781265,
-        85680645
+        85680645,
+        1108781265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -384,7 +435,7 @@
         }
     ],
     "wof:id":890440107,
-    "wof:lastmodified":1610159067,
+    "wof:lastmodified":1690921597,
     "wof:megacity":1,
     "wof:name":"Haiphong",
     "wof:parent_id":1108781265,

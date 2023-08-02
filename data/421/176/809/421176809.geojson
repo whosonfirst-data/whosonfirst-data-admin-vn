@@ -110,6 +110,9 @@
     "name:ceb_x_preferred":[
         "Dakbayan sa Ho Chi Minh"
     ],
+    "name:ceb_x_variant":[
+        "Dakbayang H\u1ed3 Ch\u00ed Minh"
+    ],
     "name:ces_x_preferred":[
         "Ho \u010ci Minovo M\u011bsto"
     ],
@@ -203,7 +206,8 @@
     "name:fra_x_variant":[
         "H\u00f4-Chi-Minh-Ville",
         "HCMV",
-        "Sa\u00efgon"
+        "Sa\u00efgon",
+        "H\u00f4 Chi Minh-Ville"
     ],
     "name:frp_x_preferred":[
         "Ho Chi Minh Vela"
@@ -238,6 +242,12 @@
     "name:glv_x_preferred":[
         "Caayr Ho Chi Minh"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf37\ud800\udf49 \ud800\udf44\ud800\udf43\ud800\udf37\ud800\udf39 \ud800\udf3c\ud800\udf39\ud800\udf3d\ud800\udf37 \ud800\udf31\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf32"
+    ],
+    "name:gpe_x_preferred":[
+        "Ho Chi Minh City"
+    ],
     "name:grn_x_preferred":[
         "T\u00e1va Ho Chi Minh"
     ],
@@ -261,6 +271,9 @@
     ],
     "name:hif_x_preferred":[
         "Ho Chi Minh City"
+    ],
+    "name:hil_x_preferred":[
+        "Dakbanwa H\u1ed3 Ch\u00ed Minh"
     ],
     "name:hin_x_preferred":[
         "\u0939\u094b \u091a\u0940 \u092e\u093f\u0928\u094d\u0939 \u0936\u0939\u0930"
@@ -288,6 +301,9 @@
     ],
     "name:ilo_x_preferred":[
         "Ho Chi Minh"
+    ],
+    "name:ilo_x_variant":[
+        "Siudad H\u1ed3 Ch\u00ed Minh"
     ],
     "name:ina_x_preferred":[
         "Ho Chi Minh Citate"
@@ -358,6 +374,9 @@
     ],
     "name:krc_x_preferred":[
         "\u0425\u043e\u0448\u0438\u043c\u0438\u043d"
+    ],
+    "name:krj_x_preferred":[
+        "Hangbanwa H\u1ed3 Ch\u00ed Minh"
     ],
     "name:ksh_x_preferred":[
         "Ho Chi Minh-Stadt"
@@ -491,6 +510,9 @@
     "name:pam_x_preferred":[
         "Ho Chi Minh Lakanbalen"
     ],
+    "name:pam_x_variant":[
+        "Lakanbaleng H\u1ed3 Ch\u00ed Minh"
+    ],
     "name:pan_x_preferred":[
         "\u0a39\u0a4b \u0a1a\u0a40 \u0a2e\u0a3f\u0a28 \u0a38\u0a3c\u0a39\u0a3f\u0a30\u200e"
     ],
@@ -544,6 +566,9 @@
     ],
     "name:sag_x_preferred":[
         "Ho Chi Minh City"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c73 \u1c6a\u1c64 \u1c62\u1c64\u1c71 \u1c65\u1c64\u1c74\u1c64"
     ],
     "name:scn_x_preferred":[
         "Ho Chi Minh City"
@@ -632,6 +657,9 @@
     "name:tgl_x_preferred":[
         "Lungsod ng Ho Chi Minh"
     ],
+    "name:tgl_x_variant":[
+        "Lungsod H\u1ed3 Ch\u00ed Minh"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e04\u0e23\u0e42\u0e2e\u0e08\u0e34\u0e21\u0e34\u0e19\u0e2b\u0e4c"
     ],
@@ -698,6 +726,9 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Ho Chi Minh"
+    ],
+    "name:war_x_variant":[
+        "Siyudad H\u1ed3 Ch\u00ed Minh"
     ],
     "name:wln_x_preferred":[
         "H\u00f4 Ch\u00ed Minh Veye"
@@ -848,8 +879,8 @@
     "wof:belongsto":[
         102191569,
         85632763,
-        1108782041,
-        85680809
+        85680809,
+        1108782041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -876,7 +907,7 @@
         }
     ],
     "wof:id":421176809,
-    "wof:lastmodified":1610159067,
+    "wof:lastmodified":1690921595,
     "wof:megacity":1,
     "wof:name":"Th\u00e0nh Ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
     "wof:parent_id":1108782041,

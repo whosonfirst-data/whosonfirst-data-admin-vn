@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"107.133300661,16.8499981032,107.133300661,16.8499981032",
+    "geom:bbox":"107.133301,16.849998,107.133301,16.849998",
     "geom:latitude":16.849998,
     "geom:longitude":107.133301,
     "iso:country":"VN",
@@ -26,6 +26,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09a1\u0982 \u09b9\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Th\u00e0nh Ph\u1ed1 \u0110\u00f4ng H\u00e0"
     ],
     "name:ces_x_preferred":[
         "Dong Ha"
@@ -87,6 +90,9 @@
     "name:msa_x_preferred":[
         "Dong Ha"
     ],
+    "name:nan_x_preferred":[
+        "\u0110\u00f4ng H\u00e0 Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "\u0110\u00f4ng H\u00e0"
     ],
@@ -143,6 +149,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u6cb3\u9547"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u6cb3\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Vietnam",
@@ -252,7 +261,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130528,
-    "wof:geomhash":"5859454997ed45100f1aa7c72511726d",
+    "wof:geomhash":"f12607de080da42a1cb30b0df7285141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -263,7 +272,7 @@
         }
     ],
     "wof:id":1141906007,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1690921624,
     "wof:name":"Dong Ha",
     "wof:parent_id":1108781553,
     "wof:placetype":"locality",
@@ -273,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.13330066061451,
-    16.8499981032075,
-    107.13330066061451,
-    16.8499981032075
+    107.133301,
+    16.849998,
+    107.133301,
+    16.849998
 ],
-  "geometry": {"coordinates":[107.13330066061451,16.8499981032075],"type":"Point"}
+  "geometry": {"coordinates":[107.133301,16.849998],"type":"Point"}
 }

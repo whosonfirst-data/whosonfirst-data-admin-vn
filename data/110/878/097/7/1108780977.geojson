@@ -34,6 +34,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:deu_x_preferred":[
+        "Lai Ch\u00e2u"
+    ],
+    "name:diq_x_preferred":[
+        "Lai Chau"
+    ],
     "name:eng_x_preferred":[
         "Lai Chau"
     ],
@@ -58,6 +64,12 @@
     "name:kor_x_preferred":[
         "\ub77c\uc774\uca4c\uc6b0"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uc774\uca4c\uc6b0\uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "Lai Ch\u00e2u Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Lai Ch\u00e2u"
     ],
@@ -70,8 +82,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0439\u0442\u044f\u0443"
     ],
+    "name:swe_x_preferred":[
+        "Lai Ch\u00e2u"
+    ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e22\u0e40\u0e08\u0e34\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Lai Ch\u00e2u"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u06cc \u0686\u0627\u0648"
@@ -81,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Lai Chau"
+    ],
+    "name:yue_x_preferred":[
+        "\u840a\u5dde\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u83b1\u5dde\u5e02"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":1108780977,
-    "wof:lastmodified":1636504946,
+    "wof:lastmodified":1690921529,
     "wof:name":"Lai Chau",
     "wof:parent_id":85680607,
     "wof:placetype":"county",

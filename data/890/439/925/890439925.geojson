@@ -19,11 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:afr_x_preferred":[
+        "Hu\u1ebf"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0649"
+    ],
+    "name:aze_x_preferred":[
+        "Hyue"
+    ],
     "name:bar_x_preferred":[
         "Hue"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u044e\u044d"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u0987"
@@ -32,6 +44,9 @@
         "\u0425\u044e\u0435"
     ],
     "name:cat_x_preferred":[
+        "Hu\u1ebf"
+    ],
+    "name:cdo_x_preferred":[
         "Hu\u1ebf"
     ],
     "name:ceb_x_preferred":[
@@ -76,6 +91,9 @@
     "name:fra_x_preferred":[
         "Hu\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Hu\u1ebf"
+    ],
     "name:gle_x_preferred":[
         "Hu\u00e9"
     ],
@@ -87,6 +105,9 @@
     ],
     "name:hak_x_preferred":[
         "Sun-fa-s\u1e73"
+    ],
+    "name:hak_x_variant":[
+        "Hu\u1ebf"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d0\u05d4"
@@ -102,6 +123,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0540\u0575\u0578\u0582\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "Hue"
     ],
     "name:ind_x_preferred":[
         "Hu\u1ebf"
@@ -124,6 +148,9 @@
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10d4"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u179c\u17c1"
+    ],
     "name:kor_x_preferred":[
         "\ud6c4\uc5d0"
     ],
@@ -135,6 +162,9 @@
     ],
     "name:lmo_x_preferred":[
         "Hu\u1ebf"
+    ],
+    "name:ltz_x_preferred":[
+        "Hu\u00e9"
     ],
     "name:lzh_x_preferred":[
         "\u9806\u5316\u5e02"
@@ -216,6 +246,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bc1\u0baf\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0432\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4d\u0c2f\u0c42\u0c2f\u0c47"
@@ -384,7 +417,7 @@
         }
     ],
     "wof:id":890439925,
-    "wof:lastmodified":1566651099,
+    "wof:lastmodified":1690921601,
     "wof:name":"Hu\u1ebf",
     "wof:parent_id":1108781557,
     "wof:placetype":"locality",
