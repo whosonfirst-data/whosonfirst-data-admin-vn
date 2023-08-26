@@ -34,6 +34,9 @@
     "name:arg_x_preferred":[
         "Hanoi"
     ],
+    "name:ary_x_preferred":[
+        "\u0647\u0627\u0646\u0648\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0647\u0627\u0646\u0648\u0649"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0425\u0430\u043d\u043e\u0439"
+    ],
+    "name:ban_x_preferred":[
+        "Hanoi"
     ],
     "name:bar_x_preferred":[
         "Hanoi"
@@ -103,6 +109,9 @@
     "name:ckb_x_preferred":[
         "\u06be\u0627\u0646\u06c6\u06cc"
     ],
+    "name:cos_x_preferred":[
+        "Hanoi"
+    ],
     "name:cym_x_preferred":[
         "Hanoi"
     ],
@@ -148,6 +157,9 @@
     "name:fin_x_preferred":[
         "Hanoi"
     ],
+    "name:fit_x_preferred":[
+        "Hanoi"
+    ],
     "name:fra_x_preferred":[
         "Hano\u00ef"
     ],
@@ -168,6 +180,9 @@
     ],
     "name:gle_x_preferred":[
         "Ha Noi"
+    ],
+    "name:gle_x_variant":[
+        "Han\u00e1\u00ed"
     ],
     "name:glg_x_preferred":[
         "Hanoi"
@@ -277,6 +292,12 @@
     "name:lav_x_preferred":[
         "Hanoja"
     ],
+    "name:lfn_x_preferred":[
+        "Hanoi"
+    ],
+    "name:lij_x_preferred":[
+        "Hanoi"
+    ],
     "name:lim_x_preferred":[
         "Hanoi"
     ],
@@ -292,11 +313,17 @@
     "name:ltz_x_preferred":[
         "Hanoi"
     ],
+    "name:lzh_x_preferred":[
+        "\u6cb3\u5167\u57ce\u5eaf"
+    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d3e\u0d28\u0d4b\u0d2f\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0939\u0928\u094b\u0908"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u0430\u043d\u043e\u0439"
     ],
     "name:mhr_x_preferred":[
         "\u0425\u0430\u043d\u043e\u0439"
@@ -305,6 +332,9 @@
         "\u0425\u0430\u043d\u043e\u0458"
     ],
     "name:mlg_x_preferred":[
+        "Hanoi"
+    ],
+    "name:mlt_x_preferred":[
         "Hanoi"
     ],
     "name:mon_x_preferred":[
@@ -330,6 +360,9 @@
     ],
     "name:nau_x_preferred":[
         "Hanoi"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3\u0142\u00e1n\u00edtah"
     ],
     "name:nds_x_preferred":[
         "H\u00e0 N\u1ed9i"
@@ -415,6 +448,9 @@
     "name:san_x_preferred":[
         "\u0939\u0928\u094b\u0908"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c5f\u1c71\u1c5a\u1c6d"
+    ],
     "name:scn_x_preferred":[
         "Hanoi"
     ],
@@ -424,13 +460,34 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0dd0\u0db1\u0ddd\u0dba\u0dd2"
     ],
+    "name:sjd_x_preferred":[
+        "\u0425\u0430\u043d\u043e\u0439"
+    ],
+    "name:sje_x_preferred":[
+        "Hanoi"
+    ],
+    "name:sju_x_preferred":[
+        "Hanoi"
+    ],
     "name:slk_x_preferred":[
         "Hanoj"
     ],
     "name:slv_x_preferred":[
         "Hanoj"
     ],
+    "name:sma_x_preferred":[
+        "Hanoi"
+    ],
     "name:sme_x_preferred":[
+        "Hanoi"
+    ],
+    "name:smj_x_preferred":[
+        "Hanoi"
+    ],
+    "name:smn_x_preferred":[
+        "Hanoi"
+    ],
+    "name:sms_x_preferred":[
         "Hanoi"
     ],
     "name:sna_x_preferred":[
@@ -490,11 +547,17 @@
     "name:twi_x_preferred":[
         "Han\u0254i"
     ],
+    "name:udm_x_preferred":[
+        "\u0425\u0430\u043d\u043e\u0439"
+    ],
     "name:uig_x_preferred":[
         "\u062e\u0627\u0646\u0648\u064a"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043d\u043e\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0430\u043d\u043e\u0439"
     ],
     "name:und_x_variant":[
         "Keicho"
@@ -504,6 +567,9 @@
     ],
     "name:uzb_x_preferred":[
         "Xanoy"
+    ],
+    "name:vec_x_preferred":[
+        "Hanoi"
     ],
     "name:ven_x_preferred":[
         "Hanoi"
@@ -662,8 +728,8 @@
     "wof:belongsto":[
         102191569,
         85632763,
-        1108780787,
-        85680653
+        85680653,
+        1108780787
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -694,7 +760,7 @@
         }
     ],
     "wof:id":421177479,
-    "wof:lastmodified":1608688183,
+    "wof:lastmodified":1690921590,
     "wof:megacity":1,
     "wof:name":"Hanoi",
     "wof:parent_id":1108780787,

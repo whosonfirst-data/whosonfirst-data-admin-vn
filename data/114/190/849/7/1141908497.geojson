@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.799991413,19.8200162953,105.799991413,19.8200162953",
+    "geom:bbox":"105.799991,19.820016,105.799991,19.820016",
     "geom:latitude":19.820016,
     "geom:longitude":105.799991,
     "iso:country":"VN",
@@ -38,6 +38,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0445\u0430\u043d\u044c\u0445\u0430\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0445\u0430\u043d\u044c\u0445\u0430\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a5\u09be\u09a8\u09b9 \u09b9\u09cb\u09af\u09bc\u09be"
@@ -132,6 +135,9 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30a4\u30f3\u30db\u30a2"
     ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30a4\u30f3\u30db\u30a2\u5e02"
+    ],
     "name:kab_x_preferred":[
         "Thanh Hoa"
     ],
@@ -174,6 +180,9 @@
     "name:msa_x_preferred":[
         "Thanh Hoa"
     ],
+    "name:nan_x_preferred":[
+        "Thanh H\u00f3a Chh\u012b"
+    ],
     "name:nds_x_preferred":[
         "Thanh Hoa"
     ],
@@ -185,6 +194,9 @@
     ],
     "name:oci_x_preferred":[
         "Thanh H\u00f3a"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0445\u0430\u043d\u044c\u0445\u043e\u0430"
     ],
     "name:pag_x_preferred":[
         "Thanh Hoa"
@@ -231,6 +243,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0ba9\u0bcd \u0bb9\u0bc1\u0b86"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043d\u044c\u04bb\u043e\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c25\u0c3e\u0c28\u0c4d \u0c39\u0c4b\u0c35\u0c3e"
     ],
@@ -269,6 +284,9 @@
     ],
     "name:wol_x_preferred":[
         "Thanh Hoa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6e05\u5316\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u6e05\u5316\u5e02"
@@ -384,7 +402,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130916,
-    "wof:geomhash":"6386d9008da76f1080dd448255a68679",
+    "wof:geomhash":"eea504dd28bdbf829c501ed5d50320c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +413,7 @@
         }
     ],
     "wof:id":1141908497,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1690921623,
     "wof:name":"Thanh Hoa",
     "wof:parent_id":1108781387,
     "wof:placetype":"locality",
@@ -405,10 +423,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.79999141339664,
-    19.82001629534312,
-    105.79999141339664,
-    19.82001629534312
+    105.799991,
+    19.820016,
+    105.799991,
+    19.820016
 ],
-  "geometry": {"coordinates":[105.79999141339664,19.82001629534312],"type":"Point"}
+  "geometry": {"coordinates":[105.79999100000001,19.820016],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.333029628,20.4503041151,106.333029628,20.4503041151",
+    "geom:bbox":"106.33303,20.450304,106.33303,20.450304",
     "geom:latitude":20.450304,
     "geom:longitude":106.33303,
     "iso:country":"VN",
@@ -27,11 +27,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0445\u0430\u0439 \u0411\u0438\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Th\u00e1i Binh"
+    ],
     "name:cym_x_preferred":[
         "Th\u00e1i B\u00ecnh"
     ],
     "name:dan_x_preferred":[
         "Thai B\u00ecnh"
+    ],
+    "name:deu_x_preferred":[
+        "Th\u00e1i B\u00ecnh"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03ac\u03b9 \u039c\u03c0\u03af\u03bd\u03c7"
@@ -54,6 +60,9 @@
     "name:hin_x_preferred":[
         "\u0925\u093e\u0908 \u092c\u093f\u0928\u094d\u0939"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0575\u0562\u056b\u0576"
+    ],
     "name:ind_x_preferred":[
         "Th\u00e1i B\u00ecnh"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30a4\u30d3\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30a4\u30d3\u30f3\u5e02"
     ],
     "name:kal_x_preferred":[
         "Thai Binh illoqarfik"
@@ -78,11 +90,17 @@
     "name:lit_x_preferred":[
         "Tai Binas"
     ],
+    "name:ltz_x_preferred":[
+        "Th\u00e1i B\u00ecnh"
+    ],
     "name:mar_x_preferred":[
         "\u0925\u093e\u0908 \u092c\u093f\u0928\u094d\u0939"
     ],
     "name:msa_x_preferred":[
         "Thai Binh"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00e1i B\u00ecnh Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Th\u00e1i B\u00ecnh"
@@ -113,6 +131,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0bb9"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0439\u0431\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c25\u0c3e\u0c2f\u0c4d \u0c2c\u0c3f\u0c28\u0c4d\u0c39\u0c4d"
@@ -249,7 +270,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130527,
-    "wof:geomhash":"60eb59e477abaea15e430a6bcc7ce3f5",
+    "wof:geomhash":"949e79bd6fcaf5ed3318c74d6f669e14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +281,7 @@
         }
     ],
     "wof:id":1141906003,
-    "wof:lastmodified":1566652502,
+    "wof:lastmodified":1690921624,
     "wof:name":"Thai Binh",
     "wof:parent_id":1108781315,
     "wof:placetype":"locality",
@@ -270,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    106.33302962790475,
-    20.45030411511891,
-    106.33302962790475,
-    20.45030411511891
+    106.33303,
+    20.450304,
+    106.33303,
+    20.450304
 ],
-  "geometry": {"coordinates":[106.33302962790475,20.45030411511891],"type":"Point"}
+  "geometry": {"coordinates":[106.33302999999999,20.450304],"type":"Point"}
 }

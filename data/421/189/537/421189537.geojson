@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.72674,9.2978245,105.72674,9.2978245",
+    "geom:bbox":"105.72674,9.297825,105.72674,9.297825",
     "geom:latitude":9.297825,
     "geom:longitude":105.72674,
     "iso:country":"VN",
@@ -29,10 +29,16 @@
     "name:cat_x_preferred":[
         "B\u1ea1c Li\u00eau"
     ],
+    "name:ces_x_preferred":[
+        "B\u1ea1c Li\u00eau"
+    ],
     "name:dan_x_preferred":[
         "Bac Lieu"
     ],
     "name:deu_x_preferred":[
+        "B\u1ea1c Li\u00eau"
+    ],
+    "name:diq_x_preferred":[
         "B\u1ea1c Li\u00eau"
     ],
     "name:ell_x_preferred":[
@@ -53,6 +59,9 @@
     "name:fra_x_preferred":[
         "B\u1ea1c Li\u00eau"
     ],
+    "name:frr_x_preferred":[
+        "B\u1ea1c Li\u00eau"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a95 \u0ab2\u0abf\u0a8f\u0a89"
     ],
@@ -68,11 +77,20 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30af\u30ea\u30a8\u30a6"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30af\u30ea\u30a8\u30a6\u5e02"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0c95\u0ccd \u0cb2\u0cbf\u0caf\u0cc1"
     ],
+    "name:khm_x_preferred":[
+        "\u1791\u17b8\u179a\u17bd\u1798\u1781\u17c1\u178f\u17d2\u178f\u1796\u179b\u179b\u17b6\u179c"
+    ],
     "name:kor_x_preferred":[
         "\ubc15\ub9ac\uc5d0\uc6b0"
+    ],
+    "name:kor_x_variant":[
+        "\ubc15\ub9ac\uc5d0\uc6b0\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Bakljeu"
@@ -85,6 +103,9 @@
     ],
     "name:msa_x_preferred":[
         "Bac Lieu"
+    ],
+    "name:nan_x_preferred":[
+        "B\u1ea1c Li\u00eau Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "B\u1ea1c Li\u00eau"
@@ -152,6 +173,9 @@
     "name:zho_x_preferred":[
         "\u8584\u907c\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u8584\u5bee\u5e02"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -186,7 +210,7 @@
     },
     "wof:country":"VN",
     "wof:created":1459009628,
-    "wof:geomhash":"bb928f048cb88c15ed16b4670a79bb99",
+    "wof:geomhash":"87e933d6579bb85253a115732c7d40f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +221,7 @@
         }
     ],
     "wof:id":421189537,
-    "wof:lastmodified":1566651089,
+    "wof:lastmodified":1690921585,
     "wof:name":"B\u00e5c Li\u00eau",
     "wof:parent_id":1108782311,
     "wof:placetype":"locality",
@@ -208,9 +232,9 @@
 },
   "bbox": [
     105.72674,
-    9.2978245,
+    9.297825,
     105.72674,
-    9.2978245
+    9.297825
 ],
-  "geometry": {"coordinates":[105.72674000000001,9.2978245],"type":"Point"}
+  "geometry": {"coordinates":[105.72674000000001,9.297825],"type":"Point"}
 }

@@ -38,7 +38,8 @@
         "Thu Duc"
     ],
     "name:eng_x_variant":[
-        "Th\u1ee7 \u0110\u1ee9c"
+        "Th\u1ee7 \u0110\u1ee9c",
+        "Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c"
     ],
     "name:fra_x_preferred":[
         "Th\u1ee7 \u0110\u1ee9c"
@@ -49,6 +50,9 @@
     "name:kor_x_preferred":[
         "\ud2b8\ub4dd\uad70"
     ],
+    "name:kor_x_variant":[
+        "\ud22c\ub4dd\uc2dc"
+    ],
     "name:nan_x_preferred":[
         "Th\u1ee7 \u0110\u1ee9c"
     ],
@@ -58,8 +62,14 @@
     "name:por_x_preferred":[
         "Distrito de Thu Duc"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0443\u0434\u044b\u043a"
+    ],
     "name:vie_x_preferred":[
         "Th\u1ee7 \u0110\u1ee9c"
+    ],
+    "name:vie_x_variant":[
+        "Th\u00e0nh Ph\u1ed1 Th\u1ee7 \u0110\u1ee9c"
     ],
     "name:zho_x_preferred":[
         "\u5b88\u5fb7\u90e1"
@@ -99,7 +109,7 @@
         }
     ],
     "wof:id":1108782013,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1690921560,
     "wof:name":"Thu Duc",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

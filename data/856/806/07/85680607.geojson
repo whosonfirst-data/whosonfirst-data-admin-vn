@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987 \u099a\u09be\u0993"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u0987 \u099a\u09be\u0989 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0439 \u0422\u044f\u0443"
     ],
@@ -56,11 +59,17 @@
     "name:ces_x_preferred":[
         "Lai Chau"
     ],
+    "name:cym_x_preferred":[
+        "Lai Ch\u00e2u"
+    ],
     "name:dan_x_preferred":[
         "Lai Ch\u00e2u"
     ],
     "name:deu_x_preferred":[
         "Lai Ch\u00e2u"
+    ],
+    "name:diq_x_preferred":[
+        "Lai Chau"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03b9 \u03a4\u03c3\u03ac\u03bf\u03c5"
@@ -84,14 +93,23 @@
     "name:fra_x_variant":[
         "Lai Ch\u00e2u"
     ],
+    "name:frr_x_preferred":[
+        "Lai Ch\u00e2u"
+    ],
     "name:gan_x_preferred":[
         "\u840a\u5dde\u7701"
+    ],
+    "name:gle_x_preferred":[
+        "Lai Ch\u00e2u"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a87 \u0a9a\u0ac1"
     ],
     "name:hak_x_preferred":[
         "Lai Ch\u00e2u"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d9 \u05e6'\u05d0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0907 \u091a\u093e\u0909 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -111,6 +129,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cc8 \u0c9a\u0cbf\u0caf\u0cc1"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u17a1\u17b6\u1799\u1785\u17ba\u179c"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\uc774\uca4c\uc6b0 \uc131"
     ],
@@ -128,6 +149,9 @@
     ],
     "name:msa_x_preferred":[
         "Lai Chau"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u102d\u102f\u1004\u103a\u1001\u103b\u1031\u102c\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
     ],
     "name:nan_x_preferred":[
         "Lai Ch\u00e2u"
@@ -173,6 +197,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bbe\u0baf\u0bcd \u0b9a\u0bbe\u0bb5\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0b87\u0bb2\u0bbe\u0baf\u0bcd \u0b9a\u0bbe\u0bb5\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c2f\u0c3f \u0c1a\u0c3e\u0c35\u0c42"
@@ -330,7 +357,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1636504939,
+    "wof:lastmodified":1690921493,
     "wof:name":"Lai Chau",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0446\u044c\u0437\u044f"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0446\u044c\u0437\u044f"
+    ],
     "name:cat_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
     ],
@@ -49,6 +52,9 @@
     "name:hak_x_preferred":[
         "Li\u030dt-ka-s\u1e73"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u057f\u0566\u0575\u0561"
+    ],
     "name:ind_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
     ],
@@ -61,11 +67,17 @@
     "name:kal_x_preferred":[
         "Rach Gia"
     ],
+    "name:khm_x_preferred":[
+        "\u1791\u17b8\u179a\u17bd\u1798\u1781\u17c1\u178f\u17d2\u178f\u1780\u17d2\u179a\u1798\u17bd\u1793\u179f"
+    ],
     "name:kor_x_preferred":[
         "\ub77d\uc790"
     ],
     "name:lit_x_preferred":[
         "Rac\u017ea"
+    ],
+    "name:nan_x_preferred":[
+        "R\u1ea1ch Gi\u00e1 Chh\u012b"
     ],
     "name:nds_x_preferred":[
         "R\u1ea1ch Gi\u00e1"
@@ -100,8 +112,14 @@
     "name:swe_x_preferred":[
         "Rach Gia"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0442\u044c\u0437\u044f"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e31\u0e01\u0e0b\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "R\u1ea1ch Gi\u00e1"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u044c\u0437\u044f"
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":890435361,
-    "wof:lastmodified":1566651104,
+    "wof:lastmodified":1690921613,
     "wof:name":"R\u1ea1ch Gi\u00e1",
     "wof:parent_id":1108782219,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643 \u062a\u0631\u0627\u0646\u062c"
     ],
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u043a\u0447\u0430\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09cd\u0995 \u099f\u09cd\u09b0\u09be\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00f3c Tr\u0103ng"
     ],
     "name:ceb_x_preferred":[
         "S\u00f3c Tr\u0103ng"
@@ -77,8 +83,14 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cca\u0c95\u0ccd \u0c9f\u0ccd\u0cb0\u0cbe\u0c82\u0c97\u0ccd"
     ],
+    "name:khm_x_preferred":[
+        "\u1791\u17b8\u179a\u17bd\u1798\u1781\u17c1\u178f\u17d2\u178f\u1783\u17d2\u179b\u17b6\u17c6\u1784"
+    ],
     "name:kor_x_preferred":[
         "\uc18d\uc9f1"
+    ],
+    "name:kor_x_variant":[
+        "\uc18d\uc9f1\uc2dc"
     ],
     "name:lav_x_preferred":[
         "\u0160ok\u010dana"
@@ -91,6 +103,9 @@
     ],
     "name:msa_x_preferred":[
         "Soc Trang"
+    ],
+    "name:nan_x_preferred":[
+        "S\u00f3c Tr\u0103ng Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "S\u00f3c Tr\u0103ng"
@@ -298,7 +313,7 @@
         }
     ],
     "wof:id":421176021,
-    "wof:lastmodified":1566651097,
+    "wof:lastmodified":1690921595,
     "wof:name":"S\u00f3c Tr\u0103ng",
     "wof:parent_id":1108782287,
     "wof:placetype":"locality",

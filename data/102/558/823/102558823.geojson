@@ -16,6 +16,9 @@
     "name:ace_x_preferred":[
         "Bandar Udara Sao Vang"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u062b\u0648 \u0634\u0648\u0627\u0646"
+    ],
     "name:arg_x_preferred":[
         "Aeropuerto de Sao Vang"
     ],
@@ -89,6 +92,9 @@
     "name:jpn_x_variant":[
         "\u30bf\u30a4\u30f3\u30db\u30a2\u7a7a\u6e2f"
     ],
+    "name:kor_x_preferred":[
+        "\ud1a0\uc464\uc5b8 \uacf5\ud56d"
+    ],
     "name:lij_x_preferred":[
         "Aeroporto de Sao Vang"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:nld_x_preferred":[
         "Luchthaven Sao V\u00e0ng"
+    ],
+    "name:nld_x_variant":[
+        "Luchthaven Thanh H\u00f3a"
     ],
     "name:nno_x_preferred":[
         "Sao Vang lufthamn"
@@ -157,6 +166,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e0b\u0e32\u0e27\u0e2b\u0e27\u0e48\u0e32\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e40\u0e16\u0e32\u0e30\u0e0b\u0e27\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043e\u0432\u0430\u043d\u0433"
@@ -214,7 +226,7 @@
         }
     ],
     "wof:id":102558823,
-    "wof:lastmodified":1631755352,
+    "wof:lastmodified":1690921462,
     "wof:name":"Bai Thuong Airport",
     "wof:parent_id":85680619,
     "wof:placetype":"campus",

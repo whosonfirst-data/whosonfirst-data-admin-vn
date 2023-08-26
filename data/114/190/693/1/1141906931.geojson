@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.97501949,20.2543050323,105.97501949,20.2543050323",
+    "geom:bbox":"105.975019,20.254305,105.975019,20.254305",
     "geom:latitude":20.254305,
     "geom:longitude":105.975019,
     "iso:country":"VN",
@@ -25,6 +25,9 @@
         "\u09a8\u09bf\u09b9\u09cd\u09a8 \u09ac\u09bf\u09b9\u09cd\u09a8"
     ],
     "name:cat_x_preferred":[
+        "Ninh B\u00ecnh"
+    ],
+    "name:ceb_x_preferred":[
         "Ninh B\u00ecnh"
     ],
     "name:ces_x_preferred":[
@@ -93,6 +96,9 @@
     "name:msa_x_preferred":[
         "Ninh B\u00ecnh"
     ],
+    "name:nan_x_preferred":[
+        "Ninh B\u00ecnh Chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Ninh B\u00ecnh"
     ],
@@ -100,6 +106,9 @@
         "Ninh Binh"
     ],
     "name:pol_x_preferred":[
+        "Ninh B\u00ecnh"
+    ],
+    "name:ron_x_preferred":[
         "Ninh B\u00ecnh"
     ],
     "name:rus_x_preferred":[
@@ -261,7 +270,7 @@
     },
     "wof:country":"VN",
     "wof:created":1499130658,
-    "wof:geomhash":"8631caf724f092ec90a567e3e5c95bec",
+    "wof:geomhash":"c616e2173722d2f92bada315350d052f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +281,7 @@
         }
     ],
     "wof:id":1141906931,
-    "wof:lastmodified":1566652501,
+    "wof:lastmodified":1690921622,
     "wof:name":"Ninh Binh",
     "wof:parent_id":1108781369,
     "wof:placetype":"locality",
@@ -282,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.97501948956926,
-    20.25430503232405,
-    105.97501948956926,
-    20.25430503232405
+    105.975019,
+    20.254305,
+    105.975019,
+    20.254305
 ],
-  "geometry": {"coordinates":[105.97501948956926,20.25430503232405],"type":"Point"}
+  "geometry": {"coordinates":[105.975019,20.254305],"type":"Point"}
 }

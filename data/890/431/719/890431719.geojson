@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "H\u1ea1 Long"
     ],
+    "name:ceb_x_preferred":[
+        "Th\u00e0nh Ph\u1ed1 H\u1ea1 Long"
+    ],
     "name:ces_x_preferred":[
         "Ha Long"
     ],
@@ -35,6 +38,9 @@
         "Ha Long"
     ],
     "name:deu_x_preferred":[
+        "H\u1ea1 Long"
+    ],
+    "name:diq_x_preferred":[
         "H\u1ea1 Long"
     ],
     "name:ell_x_preferred":[
@@ -85,6 +91,9 @@
     "name:kat_x_preferred":[
         "\u10f0\u10d0\u10da\u10dd\u10dc\u10d2\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17b6\u17a1\u1784"
+    ],
     "name:kor_x_preferred":[
         "\ud560\ub871"
     ],
@@ -99,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Ha Long"
+    ],
+    "name:nan_x_preferred":[
+        "H\u1ea1 Long Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "H\u1ea1 Long"
@@ -133,11 +145,17 @@
     "name:tam_x_preferred":[
         "\u0bb9\u0bbe \u0bb2\u0bbe\u0b99\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u043b\u043e\u04a3"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e \u0c32\u0c3e\u0c02\u0c17\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e32\u0e25\u0e2d\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2b\u0e30\u0e25\u0e47\u0e2d\u0e07"
     ],
     "name:tur_x_preferred":[
         "Ha Long"
@@ -291,7 +309,7 @@
         }
     ],
     "wof:id":890431719,
-    "wof:lastmodified":1566651101,
+    "wof:lastmodified":1690921604,
     "wof:name":"H\u1ea1 Long",
     "wof:parent_id":1108781111,
     "wof:placetype":"locality",
