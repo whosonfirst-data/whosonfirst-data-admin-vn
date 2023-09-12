@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036885,
-    "geom:area_square_m":447193959.616035,
+    "geom:area_square_m":447193593.599894,
     "geom:bbox":"106.139822,11.191458,106.368128,11.476428",
     "geom:latitude":11.332098,
     "geom:longitude":106.259709,
@@ -60,10 +60,12 @@
         85680589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TN.DM"
+    },
     "wof:country":"VN",
     "wof:created":1481741630,
-    "wof:geomhash":"225822f8ad36cf2865db360bcfd95ab8",
+    "wof:geomhash":"2aae8d05fc9f9f7bb32802a5f48c7b95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781939,
-    "wof:lastmodified":1627522983,
+    "wof:lastmodified":1694492812,
     "wof:name":"Duong Minh Chau",
     "wof:parent_id":85680589,
     "wof:placetype":"county",

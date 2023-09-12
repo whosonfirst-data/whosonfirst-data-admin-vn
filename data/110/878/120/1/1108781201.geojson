@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015021,
-    "geom:area_square_m":172908634.285347,
+    "geom:area_square_m":172908262.431738,
     "geom:bbox":"105.416751,21.294593,105.53475,21.523955",
     "geom:latitude":21.421499,
     "geom:longitude":105.476704,
@@ -60,10 +60,12 @@
         85680663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.VC.LT"
+    },
     "wof:country":"VN",
     "wof:created":1481741149,
-    "wof:geomhash":"6c110fba76dd5c26cdace0d96ca539b6",
+    "wof:geomhash":"26b052b18c9c98fcd179d3cb12ad10c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781201,
-    "wof:lastmodified":1627522990,
+    "wof:lastmodified":1694492815,
     "wof:name":"Lap Thach",
     "wof:parent_id":85680663,
     "wof:placetype":"county",

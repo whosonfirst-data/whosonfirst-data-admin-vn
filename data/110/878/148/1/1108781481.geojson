@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030498,
-    "geom:area_square_m":356776426.927569,
+    "geom:area_square_m":356776670.381515,
     "geom:bbox":"105.217194,18.771604,105.477555,19.06702",
     "geom:latitude":18.902389,
     "geom:longitude":105.341903,
@@ -60,10 +60,12 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NA.DL"
+    },
     "wof:country":"VN",
     "wof:created":1481741337,
-    "wof:geomhash":"d761e8189b0cd43e864744426215f40b",
+    "wof:geomhash":"3f84f967e3a36380477dbaca27f8cc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781481,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492812,
     "wof:name":"Do Luong",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

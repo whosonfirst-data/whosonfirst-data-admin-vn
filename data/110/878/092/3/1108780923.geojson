@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069899,
-    "geom:area_square_m":798497025.45594,
+    "geom:area_square_m":798497303.736215,
     "geom:bbox":"105.070709,22.324102,105.404415,22.697996",
     "geom:latitude":22.504044,
     "geom:longitude":105.226466,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Lam Binh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.524094,
     "lbl:longitude":105.226368,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lam Binh"
+    ],
     "name:fra_x_preferred":[
         "L\u00e2m B\u00ecnh"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":1472,
+    "statoids:capital":"Na Hang",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.TQ.NH",
+    "statoids:name":"Na Hang",
+    "statoids:population":66561,
+    "statoids:statoid":"VN.TQ",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680627
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TQ.NH"
+    },
     "wof:country":"VN",
     "wof:created":1481740971,
-    "wof:geomhash":"a901745803ab84026365f3f21979db09",
+    "wof:geomhash":"75a0add69d84e2f613e85da32d301fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108780923,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694498073,
     "wof:name":"Lam Binh",
     "wof:parent_id":85680627,
     "wof:placetype":"county",
+    "wof:population":66561,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

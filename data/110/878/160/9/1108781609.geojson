@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021747,
-    "geom:area_square_m":258856359.931315,
+    "geom:area_square_m":258856320.121017,
     "geom:bbox":"108.129348,15.617899,108.366317,15.830238",
     "geom:latitude":15.717136,
     "geom:longitude":108.253196,
@@ -60,10 +60,12 @@
         85680761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QM.QS"
+    },
     "wof:country":"VN",
     "wof:created":1481741417,
-    "wof:geomhash":"1c30e3890a08e94a73d61ca8e8748421",
+    "wof:geomhash":"32be84bfbd00b772c7bc4d44fbabb86b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781609,
-    "wof:lastmodified":1627522998,
+    "wof:lastmodified":1694492819,
     "wof:name":"Que Son",
     "wof:parent_id":85680761,
     "wof:placetype":"county",

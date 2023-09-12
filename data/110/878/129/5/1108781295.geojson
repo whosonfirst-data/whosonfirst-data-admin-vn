@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008664,
-    "geom:area_square_m":100030273.768496,
+    "geom:area_square_m":100030065.10249,
     "geom:bbox":"105.958782,20.919232,106.134093,21.008148",
     "geom:latitude":20.97177,
     "geom:longitude":106.036181,
@@ -60,10 +60,12 @@
         85680649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HY.VL"
+    },
     "wof:country":"VN",
     "wof:created":1481741213,
-    "wof:geomhash":"f4cf8d6e6c64e41f1883963b0cdf6c31",
+    "wof:geomhash":"9cc37eb4d72295a047d718eb3e1f10d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781295,
-    "wof:lastmodified":1627523007,
+    "wof:lastmodified":1694492823,
     "wof:name":"Van Lam",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

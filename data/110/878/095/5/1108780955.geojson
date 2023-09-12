@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124525,
-    "geom:area_square_m":1427119616.769629,
+    "geom:area_square_m":1427119032.701013,
     "geom:bbox":"103.935393,21.876728,104.430425,22.252087",
     "geom:latitude":22.053163,
     "geom:longitude":104.186022,
@@ -60,10 +60,12 @@
         85680867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LO.VB"
+    },
     "wof:country":"VN",
     "wof:created":1481740992,
-    "wof:geomhash":"d472840b7e82a57519c98986d5a6d2c8",
+    "wof:geomhash":"ce61dca77cbc2c46920f738171d5f988",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780955,
-    "wof:lastmodified":1627523007,
+    "wof:lastmodified":1694492822,
     "wof:name":"Van Ban",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

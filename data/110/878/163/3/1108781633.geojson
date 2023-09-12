@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040654,
-    "geom:area_square_m":484022719.955023,
+    "geom:area_square_m":484022952.013479,
     "geom:bbox":"107.837203,15.541092,108.182553,15.770078",
     "geom:latitude":15.667462,
     "geom:longitude":107.990752,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Nong Son District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.673301,
     "lbl:longitude":108.005107,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nong Son"
+    ],
     "name:fra_x_preferred":[
         "N\u00f4ng S\u01a1n"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":707,
+    "statoids:capital":"Dong Phu",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.QM.QS",
+    "statoids:name":"Que Son",
+    "statoids:population":129190,
+    "statoids:statoid":"VN.QM",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QM.QS"
+    },
     "wof:country":"VN",
     "wof:created":1481741431,
-    "wof:geomhash":"fa2d09c49c7d22d6bccc4ebc72bcded6",
+    "wof:geomhash":"c27aaad1496c545c0da4ce515faab233",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781633,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694498074,
     "wof:name":"Nong Son",
     "wof:parent_id":85680761,
     "wof:placetype":"county",
+    "wof:population":129190,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

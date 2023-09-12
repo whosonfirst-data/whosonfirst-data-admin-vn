@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019221,
-    "geom:area_square_m":227928894.365497,
+    "geom:area_square_m":227928753.061086,
     "geom:bbox":"107.570042,16.345417,107.845633,16.572056",
     "geom:latitude":16.461612,
     "geom:longitude":107.713508,
@@ -60,10 +60,12 @@
         85680775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TT.PV"
+    },
     "wof:country":"VN",
     "wof:created":1481741389,
-    "wof:geomhash":"9788b92cdc61f57bfdb9d08273367910",
+    "wof:geomhash":"aa378892687f7ab2fb00e375b517fe12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781565,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492817,
     "wof:name":"Phu Vang",
     "wof:parent_id":85680775,
     "wof:placetype":"county",

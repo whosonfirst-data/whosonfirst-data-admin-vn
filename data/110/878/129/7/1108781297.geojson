@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00531,
-    "geom:area_square_m":61331449.036043,
+    "geom:area_square_m":61331383.746652,
     "geom:bbox":"105.889698,20.880874,105.983877,20.978001",
     "geom:latitude":20.930863,
     "geom:longitude":105.936036,
@@ -60,10 +60,12 @@
         85680649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HY.VG"
+    },
     "wof:country":"VN",
     "wof:created":1481741215,
-    "wof:geomhash":"1f433962d684ee797db818031f04c2c2",
+    "wof:geomhash":"b5e6f76bca86e00b7be617f00d506c13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781297,
-    "wof:lastmodified":1627523007,
+    "wof:lastmodified":1694492823,
     "wof:name":"Van Giang",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

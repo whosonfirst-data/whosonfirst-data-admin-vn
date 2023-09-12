@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006714,
-    "geom:area_square_m":77783315.833202,
+    "geom:area_square_m":77783733.04614,
     "geom:bbox":"106.037984,20.410488,106.22414,20.499807",
     "geom:latitude":20.457771,
     "geom:longitude":106.126909,
@@ -60,10 +60,12 @@
         85680677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ND.ML"
+    },
     "wof:country":"VN",
     "wof:created":1481741247,
-    "wof:geomhash":"a01331aecdbecb30ee25c2a89397b0b2",
+    "wof:geomhash":"c388eb2a70678f033936e64e8a77b8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781349,
-    "wof:lastmodified":1627522992,
+    "wof:lastmodified":1694492816,
     "wof:name":"My Loc",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

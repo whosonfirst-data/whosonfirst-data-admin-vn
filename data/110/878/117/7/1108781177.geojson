@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0141,
-    "geom:area_square_m":162272963.462517,
+    "geom:area_square_m":162273263.20145,
     "geom:bbox":"105.207577,21.37009,105.396498,21.543824",
     "geom:latitude":21.454537,
     "geom:longitude":105.302167,
@@ -60,10 +60,12 @@
         85680681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.PT.PN"
+    },
     "wof:country":"VN",
     "wof:created":1481741134,
-    "wof:geomhash":"ff63864c61c4d3dcc352fee061c5af59",
+    "wof:geomhash":"dde077dad4856ca310bca63712bda813",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781177,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492817,
     "wof:name":"Phu Ninh",
     "wof:parent_id":85680681,
     "wof:placetype":"county",

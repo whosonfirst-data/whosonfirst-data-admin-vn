@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.88117,
-    "geom:area_square_m":329220823732.830627,
+    "geom:area_square_m":329220823732.873108,
     "geom:bbox":"102.144249,8.377944,109.474586,23.393395",
     "geom:latitude":16.654637,
     "geom:longitude":106.306567,
@@ -14,6 +14,9 @@
     "iso:country":"VN",
     "itu:country_code":[
         "84"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "VN"
@@ -1262,7 +1265,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"84",
     "statoids:ds":"VN",
     "statoids:fifa":"VIE",
@@ -1322,7 +1326,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"d362a39f4ebe18351f3ca6aff3271af9",
+    "wof:geomhash":"6e12c290dc44089cde36b77831090be2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1336,12 +1340,12 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921499,
+    "wof:lastmodified":1694492112,
     "wof:name":"Vietnam",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":89571130,
-    "wof:population_rank":16,
+    "wof:population":96462106,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:shortcode":"VN",
     "wof:superseded_by":[],

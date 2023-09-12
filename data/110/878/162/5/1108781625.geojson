@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069448,
-    "geom:area_square_m":828961455.217412,
+    "geom:area_square_m":828961380.281429,
     "geom:bbox":"107.930179,14.948867,108.258614,15.313152",
     "geom:latitude":15.133544,
     "geom:longitude":108.082744,
@@ -60,10 +60,12 @@
         85680761
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QM.NM"
+    },
     "wof:country":"VN",
     "wof:created":1481741427,
-    "wof:geomhash":"7337d02c2bf0892621dccc898b5743ea",
+    "wof:geomhash":"f28e1dbc96a60f4fa8a428e6d497ad49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781625,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"Nam Tra My",
     "wof:parent_id":85680761,
     "wof:placetype":"county",

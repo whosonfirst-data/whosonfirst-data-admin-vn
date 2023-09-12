@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054478,
-    "geom:area_square_m":665946536.829136,
+    "geom:area_square_m":665946996.111702,
     "geom:bbox":"104.719582,8.561277,105.230415,8.792084",
     "geom:latitude":8.664699,
     "geom:longitude":104.991634,
@@ -60,10 +60,12 @@
         85680839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CM.NH"
+    },
     "wof:country":"VN",
     "wof:created":1481741890,
-    "wof:geomhash":"5d419c46e5919e580636579b75b2e6fa",
+    "wof:geomhash":"58063afe81f9ebe24bac1fa10a4bf612",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782343,
-    "wof:lastmodified":1627522994,
+    "wof:lastmodified":1694492817,
     "wof:name":"Ngoc Hien",
     "wof:parent_id":85680839,
     "wof:placetype":"county",

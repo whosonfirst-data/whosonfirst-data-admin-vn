@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003682,
-    "geom:area_square_m":42489452.60936,
+    "geom:area_square_m":42489346.683793,
     "geom:bbox":"107.735474,20.940416,107.983864,21.247917",
     "geom:latitude":21.033327,
     "geom:longitude":107.817964,
@@ -60,10 +60,12 @@
         85680583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QN.CT"
+    },
     "wof:country":"VN",
     "wof:created":1481741112,
-    "wof:geomhash":"a7fa7c43eba76bdcc4ab52da3c7998d1",
+    "wof:geomhash":"7dabf42b04033f61c8b3858cf43a142d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781139,
-    "wof:lastmodified":1627522979,
+    "wof:lastmodified":1694492810,
     "wof:name":"Co To",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

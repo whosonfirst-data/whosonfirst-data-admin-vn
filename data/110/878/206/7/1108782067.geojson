@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031505,
-    "geom:area_square_m":382531756.435887,
+    "geom:area_square_m":382531448.84508,
     "geom:bbox":"105.630812,10.726336,105.887706,11.032412",
     "geom:latitude":10.90228,
     "geom:longitude":105.778363,
@@ -60,10 +60,12 @@
         85680817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LA.VH"
+    },
     "wof:country":"VN",
     "wof:created":1481741715,
-    "wof:geomhash":"4e5dd0037b3a4c16334b6c2d006c479b",
+    "wof:geomhash":"2cd5709cbb029c53e2876fe11f809217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782067,
-    "wof:lastmodified":1627523008,
+    "wof:lastmodified":1694492823,
     "wof:name":"Vinh Hung",
     "wof:parent_id":85680817,
     "wof:placetype":"county",

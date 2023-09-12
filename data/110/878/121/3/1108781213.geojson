@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013112,
-    "geom:area_square_m":150915471.35259,
+    "geom:area_square_m":150915526.687046,
     "geom:bbox":"105.319703,21.325404,105.454981,21.526101",
     "geom:latitude":21.440568,
     "geom:longitude":105.394886,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Song Lo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.46985,
     "lbl:longitude":105.388216,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Song Lo"
+    ],
     "name:fra_x_preferred":[
         "S\u00f4ng L\u00f4"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":323,
+    "statoids:capital":"Lap Thach",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.VC.LT",
+    "statoids:name":"Lap Thach",
+    "statoids:population":210626,
+    "statoids:statoid":"VN.VC",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680663
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.VC.LT"
+    },
     "wof:country":"VN",
     "wof:created":1481741158,
-    "wof:geomhash":"26be633713ea55b4ad8588e2f55fa924",
+    "wof:geomhash":"178d289c7af841756126889a45baa4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781213,
-    "wof:lastmodified":1628266718,
+    "wof:lastmodified":1694498076,
     "wof:name":"Song Lo",
     "wof:parent_id":85680663,
     "wof:placetype":"county",
+    "wof:population":210626,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

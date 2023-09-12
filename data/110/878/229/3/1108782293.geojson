@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030928,
-    "geom:area_square_m":377060848.063375,
+    "geom:area_square_m":377061121.758572,
     "geom:bbox":"105.667208,9.516601,105.934738,9.728415",
     "geom:latitude":9.609669,
     "geom:longitude":105.784679,
@@ -60,10 +60,12 @@
         85680843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ST.MT"
+    },
     "wof:country":"VN",
     "wof:created":1481741856,
-    "wof:geomhash":"9b30c5d656ef72018436d7b9a0422d2a",
+    "wof:geomhash":"2fca749dacb5258712e85aa830d8e75b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782293,
-    "wof:lastmodified":1627522992,
+    "wof:lastmodified":1694492816,
     "wof:name":"My Tu",
     "wof:parent_id":85680843,
     "wof:placetype":"county",

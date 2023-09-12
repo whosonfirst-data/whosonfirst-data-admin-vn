@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144735,
-    "geom:area_square_m":1670034852.037095,
+    "geom:area_square_m":1670034245.041202,
     "geom:bbox":"103.39386,20.845962,104.068098,21.354216",
     "geom:latitude":21.068895,
     "geom:longitude":103.695481,
@@ -60,10 +60,12 @@
         85680615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.SL.SM"
+    },
     "wof:country":"VN",
     "wof:created":1481741033,
-    "wof:geomhash":"303d4b8cfb26713158f69a8421900ef3",
+    "wof:geomhash":"b5d246aefd25cee6e72a2448ba8d2e15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781015,
-    "wof:lastmodified":1627523000,
+    "wof:lastmodified":1694492819,
     "wof:name":"Song Ma",
     "wof:parent_id":85680615,
     "wof:placetype":"county",

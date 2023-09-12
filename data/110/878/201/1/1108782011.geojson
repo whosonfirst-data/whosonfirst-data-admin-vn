@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003989,
-    "geom:area_square_m":48438810.01958,
+    "geom:area_square_m":48438564.039778,
     "geom:bbox":"106.598298,10.830412,106.716008,10.899316",
     "geom:latitude":10.867663,
     "geom:longitude":106.656827,
@@ -60,10 +60,12 @@
         85680809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HC.QL"
+    },
     "wof:country":"VN",
     "wof:created":1481741675,
-    "wof:geomhash":"048bf4e133355abfba9f66a4b782f50c",
+    "wof:geomhash":"5bec5d5d4b10db446456ba0a5964d321",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782011,
-    "wof:lastmodified":1627522997,
+    "wof:lastmodified":1694492818,
     "wof:name":"Quan 12",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

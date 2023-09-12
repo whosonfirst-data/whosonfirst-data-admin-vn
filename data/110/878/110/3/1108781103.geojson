@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062471,
-    "geom:area_square_m":717867841.193792,
+    "geom:area_square_m":717867634.399494,
     "geom:bbox":"106.417129,21.538532,106.828739,21.795943",
     "geom:latitude":21.671457,
     "geom:longitude":106.618447,
@@ -60,10 +60,12 @@
         85680611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LS.CH"
+    },
     "wof:country":"VN",
     "wof:created":1481741089,
-    "wof:geomhash":"4d2aed9a0a790f2bd04db94647c983df",
+    "wof:geomhash":"f43d143530bb471f78ffcfb763ea81de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781103,
-    "wof:lastmodified":1627522978,
+    "wof:lastmodified":1694492810,
     "wof:name":"Chi Lang",
     "wof:parent_id":85680611,
     "wof:placetype":"county",

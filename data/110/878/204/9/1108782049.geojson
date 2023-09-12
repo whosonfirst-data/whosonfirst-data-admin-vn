@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036125,
-    "geom:area_square_m":438469527.148012,
+    "geom:area_square_m":438469780.026178,
     "geom:bbox":"106.354983,10.913572,106.655212,11.163114",
     "geom:latitude":11.009966,
     "geom:longitude":106.507889,
@@ -60,10 +60,12 @@
         85680809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HC.CC"
+    },
     "wof:country":"VN",
     "wof:created":1481741699,
-    "wof:geomhash":"cd5b1a268722a943eb00f0deadcbceab",
+    "wof:geomhash":"6847562b44590e565f08efd66ee486c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782049,
-    "wof:lastmodified":1627522979,
+    "wof:lastmodified":1694492810,
     "wof:name":"Cu Chi",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

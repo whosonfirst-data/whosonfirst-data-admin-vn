@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044517,
-    "geom:area_square_m":539761474.25547,
+    "geom:area_square_m":539761417.310117,
     "geom:bbox":"106.648013,11.183893,106.95323,11.493814",
     "geom:latitude":11.315387,
     "geom:longitude":106.788548,
@@ -60,10 +60,12 @@
         85680735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BI.PG"
+    },
     "wof:country":"VN",
     "wof:created":1481741643,
-    "wof:geomhash":"f98dbcd2e771c43dace3c34456344d40",
+    "wof:geomhash":"6667c2c9cabb656ce17df276e431c460",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781959,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492818,
     "wof:name":"Phu Giao",
     "wof:parent_id":85680735,
     "wof:placetype":"county",

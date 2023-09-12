@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011925,
-    "geom:area_square_m":137803118.716829,
+    "geom:area_square_m":137802610.953576,
     "geom:bbox":"105.804445,20.748957,105.933669,20.911675",
     "geom:latitude":20.845125,
     "geom:longitude":105.870272,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.TN"
+    },
     "wof:country":"VN",
     "wof:created":1481740919,
-    "wof:geomhash":"fd3ff1194720a24654e6e1eb625346c1",
+    "wof:geomhash":"858d22c9e7bd98764dcbbcd634d4bce0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780841,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thuong Tin",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

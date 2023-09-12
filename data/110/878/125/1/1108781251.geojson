@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01018,
-    "geom:area_square_m":117639260.748491,
+    "geom:area_square_m":117639017.134915,
     "geom:bbox":"106.237882,20.776524,106.350958,20.919841",
     "geom:latitude":20.850837,
     "geom:longitude":106.28687,
@@ -60,10 +60,12 @@
         85680637
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HD.GL"
+    },
     "wof:country":"VN",
     "wof:created":1481741182,
-    "wof:geomhash":"9cef06f6bbe152464e080b0cc9fa894a",
+    "wof:geomhash":"15193ee9878a0808068066c2c0c58c3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781251,
-    "wof:lastmodified":1627522984,
+    "wof:lastmodified":1694492812,
     "wof:name":"Gia Loc",
     "wof:parent_id":85680637,
     "wof:placetype":"county",

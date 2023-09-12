@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003449,
-    "geom:area_square_m":39816804.103567,
+    "geom:area_square_m":39817028.95358,
     "geom:bbox":"105.812507,20.946341,105.907818,21.004862",
     "geom:latitude":20.975423,
     "geom:longitude":105.86288,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Hoang Mai Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban district"
+    ],
     "lbl:latitude":20.974763,
     "lbl:longitude":105.871503,
     "lbl:max_zoom":10.0,
@@ -70,11 +76,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"VN.HN.HM",
         "wd:id":"Q864747"
     },
     "wof:country":"VN",
     "wof:created":1481740893,
-    "wof:geomhash":"de139143c15fdadb18ec129b0716007e",
+    "wof:geomhash":"1c27947c20a439728b52449e813f1456",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +91,7 @@
         }
     ],
     "wof:id":1108780799,
-    "wof:lastmodified":1690921523,
+    "wof:lastmodified":1694497843,
     "wof:name":"Hoang Mai",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

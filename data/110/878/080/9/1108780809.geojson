@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010128,
-    "geom:area_square_m":116886134.293631,
+    "geom:area_square_m":116886116.645749,
     "geom:bbox":"105.878391,20.926961,106.01882,21.12576",
     "geom:latitude":21.032457,
     "geom:longitude":105.94799,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.GL"
+    },
     "wof:country":"VN",
     "wof:created":1481740899,
-    "wof:geomhash":"16dec7fd5a12b0935206dddfd3a2b796",
+    "wof:geomhash":"e8635b1eeff3f018b551377b118efc39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780809,
-    "wof:lastmodified":1627522984,
+    "wof:lastmodified":1694492812,
     "wof:name":"Gia Lam",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

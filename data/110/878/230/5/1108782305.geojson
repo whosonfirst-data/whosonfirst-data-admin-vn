@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023579,
-    "geom:area_square_m":287585459.097364,
+    "geom:area_square_m":287585833.333291,
     "geom:bbox":"105.58693,9.378029,105.844193,9.553697",
     "geom:latitude":9.469179,
     "geom:longitude":105.70845,
@@ -60,10 +60,12 @@
         85680843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ST.TT"
+    },
     "wof:country":"VN",
     "wof:created":1481741863,
-    "wof:geomhash":"0429dd74f76e169a43b4f48b6f6a2c3d",
+    "wof:geomhash":"df0522660043dc67f09fa11ca6fdb134",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782305,
-    "wof:lastmodified":1627523003,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thanh Tri",
     "wof:parent_id":85680843,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010275,
-    "geom:area_square_m":124797384.887415,
+    "geom:area_square_m":124797237.810735,
     "geom:bbox":"105.317407,10.749213,105.449739,10.893793",
     "geom:latitude":10.816544,
     "geom:longitude":105.381525,
@@ -60,10 +60,12 @@
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.HN"
+    },
     "wof:country":"VN",
     "wof:created":1481741780,
-    "wof:geomhash":"d7cbeb162be47da05a07b255160e920c",
+    "wof:geomhash":"eb321570bcd5b8e18f0a26502b1d61d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782173,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hong Ngu",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

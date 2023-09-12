@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00075,
-    "geom:area_square_m":9108144.567144,
+    "geom:area_square_m":9108042.86745,
     "geom:bbox":"106.672782,10.753522,106.71012,10.793739",
     "geom:latitude":10.774316,
     "geom:longitude":106.692149,
@@ -60,10 +60,12 @@
         85680809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HC.QA"
+    },
     "wof:country":"VN",
     "wof:created":1481741674,
-    "wof:geomhash":"2bf052af7f1d6562041e4c1a3e039f1c",
+    "wof:geomhash":"639bbf17c49b1d6382a2022682d4b2e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782007,
-    "wof:lastmodified":1627522997,
+    "wof:lastmodified":1694492818,
     "wof:name":"Quan 1",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

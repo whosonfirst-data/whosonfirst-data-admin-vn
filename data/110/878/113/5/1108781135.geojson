@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034192,
-    "geom:area_square_m":394413789.04678,
+    "geom:area_square_m":394413289.142853,
     "geom:bbox":"106.437237,21.011194,106.714661,21.2266",
     "geom:latitude":21.112894,
     "geom:longitude":106.584986,
@@ -60,10 +60,12 @@
         85680583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QN.DT"
+    },
     "wof:country":"VN",
     "wof:created":1481741109,
-    "wof:geomhash":"cb1eee37a5edc1a73fbd0a9d613f75ad",
+    "wof:geomhash":"de21aad000cfd608c49e00883cbff27b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781135,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dong Trieu",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093828,
-    "geom:area_square_m":1134252640.517465,
+    "geom:area_square_m":1134252565.681456,
     "geom:bbox":"107.204659,11.930443,107.594384,12.333031",
     "geom:latitude":12.140587,
     "geom:longitude":107.376409,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Tuy Duc District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.11929,
     "lbl:longitude":107.376322,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tuy Duc"
+    ],
     "name:fra_x_preferred":[
         "Tuy \u0110\u1ee9c"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":1758,
+    "statoids:capital":"Kien Duc",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.DO.DR",
+    "statoids:name":"Dak Rlap",
+    "statoids:population":83244,
+    "statoids:statoid":"VN.DO",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680743
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DO.DR"
+    },
     "wof:country":"VN",
     "wof:created":1481741594,
-    "wof:geomhash":"cd0286cbfd5e214ea462f80615db9461",
+    "wof:geomhash":"ad90538fddbfa922cfc7cc62679a3b30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781881,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694498076,
     "wof:name":"Tuy Duc",
     "wof:parent_id":85680743,
     "wof:placetype":"county",
+    "wof:population":83244,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

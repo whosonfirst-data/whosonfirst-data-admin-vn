@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019703,
-    "geom:area_square_m":227632558.283578,
+    "geom:area_square_m":227632496.679994,
     "geom:bbox":"105.550336,20.79717,105.757086,20.958406",
     "geom:latitude":20.878546,
     "geom:longitude":105.662071,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.CM"
+    },
     "wof:country":"VN",
     "wof:created":1481740916,
-    "wof:geomhash":"3ed0d50b26fceeb0666ce1bdf7a1c241",
+    "wof:geomhash":"4c2e9bc9ad6c05352bae9eba9d7777ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780835,
-    "wof:lastmodified":1627522979,
+    "wof:lastmodified":1694492810,
     "wof:name":"Chuong My",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

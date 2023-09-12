@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017514,
-    "geom:area_square_m":212718276.864877,
+    "geom:area_square_m":212718175.911841,
     "geom:bbox":"105.188641,10.692624,105.373061,10.911501",
     "geom:latitude":10.815496,
     "geom:longitude":105.28226,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "TP. Hong Ngu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.842108,
     "lbl:longitude":105.275993,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "TP. Hong Ngu"
+    ],
     "name:fra_x_preferred":[
         "TP. H\u1ed3ng Ng\u1ef1"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":326,
+    "statoids:capital":"Hong Ngu",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.DT.HN",
+    "statoids:name":"Hong Ngu",
+    "statoids:population":201886,
+    "statoids:statoid":"VN.DT",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.HN"
+    },
     "wof:country":"VN",
     "wof:created":1481741783,
-    "wof:geomhash":"d0d467f95a15c0bdd7911805c83fce67",
+    "wof:geomhash":"fd694b6bcde7035e9cb2b0ce271ff96d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782177,
-    "wof:lastmodified":1628266727,
+    "wof:lastmodified":1694498076,
     "wof:name":"TP. Hong Ngu",
     "wof:parent_id":85680807,
     "wof:placetype":"county",
+    "wof:population":201886,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

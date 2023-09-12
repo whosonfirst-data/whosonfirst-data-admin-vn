@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053043,
-    "geom:area_square_m":612053704.987988,
+    "geom:area_square_m":612053518.312493,
     "geom:bbox":"105.036071,20.917781,105.348712,21.25419",
     "geom:latitude":21.065992,
     "geom:longitude":105.187015,
@@ -60,10 +60,12 @@
         85680681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.PT.TS"
+    },
     "wof:country":"VN",
     "wof:created":1481741142,
-    "wof:geomhash":"8d493c288d471f111451e19e32827cf8",
+    "wof:geomhash":"b0ac2c6c8290fca3b0370eb7b774ac14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781189,
-    "wof:lastmodified":1627523003,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thanh Son",
     "wof:parent_id":85680681,
     "wof:placetype":"county",

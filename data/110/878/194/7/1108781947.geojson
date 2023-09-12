@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019573,
-    "geom:area_square_m":237466206.850782,
+    "geom:area_square_m":237466031.454763,
     "geom:bbox":"106.013505,11.05582,106.269304,11.213078",
     "geom:latitude":11.133649,
     "geom:longitude":106.133906,
@@ -60,10 +60,12 @@
         85680589
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TN.BC"
+    },
     "wof:country":"VN",
     "wof:created":1481741635,
-    "wof:geomhash":"d4a71429fbae3c8855752d045953a1f4",
+    "wof:geomhash":"cc529e3ed3503bb734a4eb5b9a23250c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781947,
-    "wof:lastmodified":1627522975,
+    "wof:lastmodified":1694492809,
     "wof:name":"Ben Cau",
     "wof:parent_id":85680589,
     "wof:placetype":"county",

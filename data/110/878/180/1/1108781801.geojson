@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083414,
-    "geom:area_square_m":1000425806.08011,
+    "geom:area_square_m":1000425510.401144,
     "geom:bbox":"107.992627,13.835375,108.324305,14.397899",
     "geom:latitude":14.083269,
     "geom:longitude":108.165034,
@@ -60,10 +60,12 @@
         85680713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.GL.DD"
+    },
     "wof:country":"VN",
     "wof:created":1481741537,
-    "wof:geomhash":"d34cc9bff0cb5b63960f8b0803afe5a1",
+    "wof:geomhash":"b5474fa44f203d9c53006076566e12f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781801,
-    "wof:lastmodified":1627522980,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dak Doa",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

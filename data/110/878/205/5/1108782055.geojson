@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008986,
-    "geom:area_square_m":109193492.122385,
+    "geom:area_square_m":109193284.117429,
     "geom:bbox":"106.665198,10.574796,106.786316,10.726945",
     "geom:latitude":10.656518,
     "geom:longitude":106.727369,
@@ -60,10 +60,12 @@
         85680809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HC.NB"
+    },
     "wof:country":"VN",
     "wof:created":1481741703,
-    "wof:geomhash":"9f531fdde52138ab69491b3973933a7d",
+    "wof:geomhash":"a38342153d91de3c1e6c1ff7609895bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782055,
-    "wof:lastmodified":1627522994,
+    "wof:lastmodified":1694492817,
     "wof:name":"Nha Be",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

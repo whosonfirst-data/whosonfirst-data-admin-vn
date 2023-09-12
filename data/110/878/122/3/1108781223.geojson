@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008386,
-    "geom:area_square_m":96727111.597031,
+    "geom:area_square_m":96727083.873066,
     "geom:bbox":"105.975977,21.068624,106.113878,21.185699",
     "geom:latitude":21.114399,
     "geom:longitude":106.034021,
@@ -60,10 +60,12 @@
         85680659
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BN.TD"
+    },
     "wof:country":"VN",
     "wof:created":1481741164,
-    "wof:geomhash":"f9c6ddbe8eb3a8c810dc7d7dfec27da2",
+    "wof:geomhash":"65a24d0d7ff01e5f489678d2589b343e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781223,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1694492821,
     "wof:name":"Tien Du",
     "wof:parent_id":85680659,
     "wof:placetype":"county",

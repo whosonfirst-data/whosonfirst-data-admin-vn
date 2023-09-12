@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028971,
-    "geom:area_square_m":352594169.915406,
+    "geom:area_square_m":352594116.433793,
     "geom:bbox":"106.430975,10.040361,106.802864,10.302028",
     "geom:latitude":10.173911,
     "geom:longitude":106.651608,
@@ -60,10 +60,12 @@
         85680825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BR.BD"
+    },
     "wof:country":"VN",
     "wof:created":1481741750,
-    "wof:geomhash":"a6254b219ec68c93a6b8815a0f45ab69",
+    "wof:geomhash":"3af2e0aa42986a6a0cda6961e753c790",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782123,
-    "wof:lastmodified":1627522975,
+    "wof:lastmodified":1694492809,
     "wof:name":"Binh Dai",
     "wof:parent_id":85680825,
     "wof:placetype":"county",

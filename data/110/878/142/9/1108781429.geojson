@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012502,
-    "geom:area_square_m":145328912.091021,
+    "geom:area_square_m":145328673.953052,
     "geom:bbox":"105.771214,19.881679,106.003369,19.98895",
     "geom:latitude":19.935996,
     "geom:longitude":105.88865,
@@ -60,10 +60,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.HL"
+    },
     "wof:country":"VN",
     "wof:created":1481741297,
-    "wof:geomhash":"39838a2562621892b52c3ec80d72b4eb",
+    "wof:geomhash":"016396462258be03cbc7e9758108f1dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781429,
-    "wof:lastmodified":1627522985,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hau Loc",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

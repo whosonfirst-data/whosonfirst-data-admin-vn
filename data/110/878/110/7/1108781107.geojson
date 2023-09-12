@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103046,
-    "geom:area_square_m":1185218703.382368,
+    "geom:area_square_m":1185218304.414435,
     "geom:bbox":"106.886444,21.324159,107.36405,21.742155",
     "geom:latitude":21.536869,
     "geom:longitude":107.133487,
@@ -60,10 +60,12 @@
         85680611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LS.DL"
+    },
     "wof:country":"VN",
     "wof:created":1481741092,
-    "wof:geomhash":"e81e577dd3b369878d154fdbbfb07909",
+    "wof:geomhash":"f4876d874103669ea4de897db5f3309a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781107,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dinh Lap",
     "wof:parent_id":85680611,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002252,
-    "geom:area_square_m":26358986.288379,
+    "geom:area_square_m":26358870.233609,
     "geom:bbox":"105.692826,18.751942,105.764196,18.8301",
     "geom:latitude":18.792049,
     "geom:longitude":105.726142,
@@ -60,10 +60,12 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NA.CL"
+    },
     "wof:country":"VN",
     "wof:created":1481741309,
-    "wof:geomhash":"729cd5ccb36c46cb0409066cda9181c6",
+    "wof:geomhash":"1128c83a36834d0e08698db642c96879",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781449,
-    "wof:lastmodified":1627522980,
+    "wof:lastmodified":1694492811,
     "wof:name":"Cua Lo",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

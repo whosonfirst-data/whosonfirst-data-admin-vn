@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026326,
-    "geom:area_square_m":319908005.251828,
+    "geom:area_square_m":319908005.42254,
     "geom:bbox":"105.156092,10.543037,105.366379,10.76843",
     "geom:latitude":10.655468,
     "geom:longitude":105.274494,
@@ -60,10 +60,12 @@
         85680797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.AG.PT"
+    },
     "wof:country":"VN",
     "wof:created":1481741800,
-    "wof:geomhash":"d1eb0aa35261a6970177e7b85bfd264f",
+    "wof:geomhash":"385774f7a9c1785cb05c107d11640f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782203,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492818,
     "wof:name":"Phu Tan",
     "wof:parent_id":85680797,
     "wof:placetype":"county",

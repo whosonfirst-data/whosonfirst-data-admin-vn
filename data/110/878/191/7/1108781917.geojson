@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030862,
-    "geom:area_square_m":373285194.348366,
+    "geom:area_square_m":373285135.826662,
     "geom:bbox":"106.675327,11.879446,106.989711,12.090232",
     "geom:latitude":11.993127,
     "geom:longitude":106.820236,
@@ -60,10 +60,12 @@
         85680749
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BP.BP"
+    },
     "wof:country":"VN",
     "wof:created":1481741617,
-    "wof:geomhash":"6812c3dbc481061fd2da11e0c55c3ace",
+    "wof:geomhash":"eb47ff74506b011fb14ac69d90825d84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781917,
-    "wof:lastmodified":1627522976,
+    "wof:lastmodified":1694492809,
     "wof:name":"Bu Dop",
     "wof:parent_id":85680749,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061725,
-    "geom:area_square_m":733428908.59973,
+    "geom:area_square_m":733428728.984908,
     "geom:bbox":"107.816416,15.914306,108.223521,16.215994",
     "geom:latitude":16.066594,
     "geom:longitude":108.011832,
@@ -60,10 +60,12 @@
         85680779
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DA.HV"
+    },
     "wof:country":"VN",
     "wof:created":1481741406,
-    "wof:geomhash":"6514d5b17a7e6b0287ed8486c96b91e9",
+    "wof:geomhash":"a35bd2a1b1f282c7c763cc4643707d60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781591,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hoa Vang",
     "wof:parent_id":85680779,
     "wof:placetype":"county",

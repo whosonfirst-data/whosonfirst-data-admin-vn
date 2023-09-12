@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016772,
-    "geom:area_square_m":193339538.90662,
+    "geom:area_square_m":193339355.018321,
     "geom:bbox":"106.138197,21.124605,106.333531,21.288587",
     "geom:latitude":21.209725,
     "geom:longitude":106.250876,
@@ -60,10 +60,12 @@
         85680685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BG.YD"
+    },
     "wof:country":"VN",
     "wof:created":1481741123,
-    "wof:geomhash":"1747c754751543eb8b899c4a8e7a925a",
+    "wof:geomhash":"3f50d15e9664cbb9331f41c007103904",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781157,
-    "wof:lastmodified":1627523009,
+    "wof:lastmodified":1694492824,
     "wof:name":"Yen Dung",
     "wof:parent_id":85680685,
     "wof:placetype":"county",

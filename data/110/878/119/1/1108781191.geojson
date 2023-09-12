@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011796,
-    "geom:area_square_m":136049540.856982,
+    "geom:area_square_m":136049368.750822,
     "geom:bbox":"105.226459,20.998677,105.34955,21.242874",
     "geom:latitude":21.137994,
     "geom:longitude":105.282844,
@@ -60,10 +60,12 @@
         85680681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.PT.TT"
+    },
     "wof:country":"VN",
     "wof:created":1481741144,
-    "wof:geomhash":"04de8e2127ac68cca306388d7aeb21b1",
+    "wof:geomhash":"1afb256f4aaf843ab2bcb7133c712064",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781191,
-    "wof:lastmodified":1627523003,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thanh Thuy",
     "wof:parent_id":85680681,
     "wof:placetype":"county",

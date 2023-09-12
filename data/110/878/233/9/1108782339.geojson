@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03893,
-    "geom:area_square_m":475726871.401276,
+    "geom:area_square_m":475726846.042188,
     "geom:bbox":"104.838692,8.691195,105.335221,8.872589",
     "geom:latitude":8.791252,
     "geom:longitude":105.082459,
@@ -60,10 +60,12 @@
         85680839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CM.NC"
+    },
     "wof:country":"VN",
     "wof:created":1481741886,
-    "wof:geomhash":"c3ccf27cf84770da57904a32fe93c1ee",
+    "wof:geomhash":"5e50d8fc3b4d1bdf0f6c87c998371627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782339,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"Nam Can",
     "wof:parent_id":85680839,
     "wof:placetype":"county",

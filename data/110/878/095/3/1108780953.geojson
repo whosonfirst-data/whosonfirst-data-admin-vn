@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059184,
-    "geom:area_square_m":677108750.535399,
+    "geom:area_square_m":677108750.535441,
     "geom:bbox":"103.726223036,22.1374631568,104.077999816,22.4981931",
     "geom:latitude":22.294889,
     "geom:longitude":103.906943,
@@ -111,10 +111,12 @@
         85680867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LO.SP"
+    },
     "wof:country":"VN",
     "wof:created":1481740991,
-    "wof:geomhash":"2b215eebe42f9dff09b650e929d15d40",
+    "wof:geomhash":"aa3b24bd07ab5d754c4f81c15f7faf93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1108780953,
-    "wof:lastmodified":1566650352,
+    "wof:lastmodified":1694492408,
     "wof:name":"Sa Pa",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

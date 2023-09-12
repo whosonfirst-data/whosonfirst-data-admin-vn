@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014654,
-    "geom:area_square_m":169729140.696215,
+    "geom:area_square_m":169729049.148484,
     "geom:bbox":"105.944912,20.39824,106.143391,20.584721",
     "geom:latitude":20.497885,
     "geom:longitude":106.027265,
@@ -60,10 +60,12 @@
         85680671
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HM.BL"
+    },
     "wof:country":"VN",
     "wof:created":1481741242,
-    "wof:geomhash":"3de4d4b53b0fc7797990a318506f5871",
+    "wof:geomhash":"be34cdf8e218e0c9ebeb4809786f4785",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781341,
-    "wof:lastmodified":1627522975,
+    "wof:lastmodified":1694492809,
     "wof:name":"Binh Luc",
     "wof:parent_id":85680671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016575,
-    "geom:area_square_m":192162558.770409,
+    "geom:area_square_m":192162250.93964,
     "geom:bbox":"105.781797,20.233445,105.953572,20.451537",
     "geom:latitude":20.344735,
     "geom:longitude":105.855607,
@@ -60,10 +60,12 @@
         85680667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NB.GV"
+    },
     "wof:country":"VN",
     "wof:created":1481741263,
-    "wof:geomhash":"ed777a87015dfa115acecdcf608f4a1e",
+    "wof:geomhash":"daeca14c6e9867f9c1c88a88b912f1b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781375,
-    "wof:lastmodified":1627522984,
+    "wof:lastmodified":1694492812,
     "wof:name":"Gia Vien",
     "wof:parent_id":85680667,
     "wof:placetype":"county",

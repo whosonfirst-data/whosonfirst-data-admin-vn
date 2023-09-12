@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036345,
-    "geom:area_square_m":412925562.034092,
+    "geom:area_square_m":412925408.736474,
     "geom:bbox":"105.119163,23.117853,105.401889,23.393395",
     "geom:latitude":23.248659,
     "geom:longitude":105.270766,
@@ -60,10 +60,12 @@
         85680863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HG.DV"
+    },
     "wof:country":"VN",
     "wof:created":1481740926,
-    "wof:geomhash":"ef2d0842348ceb0e6af71e2e6c01eb11",
+    "wof:geomhash":"745f525d00a5ed2e58368309d2485fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780851,
-    "wof:lastmodified":1627522983,
+    "wof:lastmodified":1694492812,
     "wof:name":"Dong Van",
     "wof:parent_id":85680863,
     "wof:placetype":"county",

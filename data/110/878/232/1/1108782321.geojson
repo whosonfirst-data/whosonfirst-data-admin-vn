@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043526,
-    "geom:area_square_m":531368490.744796,
+    "geom:area_square_m":531368269.304677,
     "geom:bbox":"105.24544,9.007409,105.578306,9.260141",
     "geom:latitude":9.144999,
     "geom:longitude":105.420578,
@@ -60,10 +60,12 @@
         85680833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BL.DH"
+    },
     "wof:country":"VN",
     "wof:created":1481741875,
-    "wof:geomhash":"089caf869cf9775fd42991b9f1402416",
+    "wof:geomhash":"eb824e1ec12d99bc8a7a1a74f9effcbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782321,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492812,
     "wof:name":"Dong Hai",
     "wof:parent_id":85680833,
     "wof:placetype":"county",

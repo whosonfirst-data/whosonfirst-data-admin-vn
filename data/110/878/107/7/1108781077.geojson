@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073912,
-    "geom:area_square_m":848698707.938865,
+    "geom:area_square_m":848698536.806257,
     "geom:bbox":"105.846778,21.604324,106.237092,21.96819",
     "geom:latitude":21.779395,
     "geom:longitude":106.037213,
@@ -60,10 +60,12 @@
         85680605
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TY.VN"
+    },
     "wof:country":"VN",
     "wof:created":1481741072,
-    "wof:geomhash":"288939be6c685a33e99dc6aabcd95614",
+    "wof:geomhash":"0446ea1b1f2b5c570a432fec527394b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781077,
-    "wof:lastmodified":1627523009,
+    "wof:lastmodified":1694492823,
     "wof:name":"Vo Nhai",
     "wof:parent_id":85680605,
     "wof:placetype":"county",

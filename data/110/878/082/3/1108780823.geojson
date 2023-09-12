@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036287,
-    "geom:area_square_m":418502372.640957,
+    "geom:area_square_m":418501737.00403,
     "geom:bbox":"105.284499,21.00253,105.476488,21.299877",
     "geom:latitude":21.137881,
     "geom:longitude":105.38174,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.BV"
+    },
     "wof:country":"VN",
     "wof:created":1481740907,
-    "wof:geomhash":"84abb6a101ed43e8e4c791bd51462407",
+    "wof:geomhash":"b0b9da209518a9755075e0926f6cb3f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780823,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"Ba Vi",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006092,
-    "geom:area_square_m":71423568.084277,
+    "geom:area_square_m":71423390.179235,
     "geom:bbox":"105.652235,18.486658,105.771436,18.583301",
     "geom:latitude":18.533986,
     "geom:longitude":105.705122,
@@ -60,10 +60,12 @@
         85680695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HT.HL"
+    },
     "wof:country":"VN",
     "wof:created":1481741348,
-    "wof:geomhash":"fa42559a3a75a0b6e7bbda1005d6104a",
+    "wof:geomhash":"86e6b1ddf5b4608fdbc38624dd01d29a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781497,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hong Linh",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

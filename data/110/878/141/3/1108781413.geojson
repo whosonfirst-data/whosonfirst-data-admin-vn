@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01355,
-    "geom:area_square_m":157401226.23031,
+    "geom:area_square_m":157400917.511575,
     "geom:bbox":"105.552601,19.961267,105.758286,20.130739",
     "geom:latitude":20.047935,
     "geom:longitude":105.6591,
@@ -60,10 +60,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.VL"
+    },
     "wof:country":"VN",
     "wof:created":1481741287,
-    "wof:geomhash":"f8e92cd80ac62c518f16cc9b598d4bc4",
+    "wof:geomhash":"63d1b947835b092c785e02a982634aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781413,
-    "wof:lastmodified":1627523008,
+    "wof:lastmodified":1694492823,
     "wof:name":"Vinh Loc",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

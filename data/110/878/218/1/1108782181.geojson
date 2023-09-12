@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042186,
-    "geom:area_square_m":512781250.87968,
+    "geom:area_square_m":512781568.192218,
     "geom:bbox":"105.627519,10.367676,105.946517,10.763414",
     "geom:latitude":10.570397,
     "geom:longitude":105.794266,
@@ -60,10 +60,12 @@
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.TM"
+    },
     "wof:country":"VN",
     "wof:created":1481741785,
-    "wof:geomhash":"6234133c10a2fc90a222d6b2105911dd",
+    "wof:geomhash":"ec1a6cabbc2bc3fc4d0d1080bbcc19aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782181,
-    "wof:lastmodified":1627523003,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thap Muoi",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

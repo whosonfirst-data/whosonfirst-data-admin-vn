@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08075,
-    "geom:area_square_m":957259114.712126,
+    "geom:area_square_m":957259025.064544,
     "geom:bbox":"107.055062,16.346794,107.502455,16.747463",
     "geom:latitude":16.523668,
     "geom:longitude":107.296114,
@@ -60,10 +60,12 @@
         85680775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TT.PD"
+    },
     "wof:country":"VN",
     "wof:created":1481741386,
-    "wof:geomhash":"61cbb27dbc8e37402c184c4fdb0978de",
+    "wof:geomhash":"02d8133cd2eecfbff70c61d4434c5be7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781561,
-    "wof:lastmodified":1627522995,
+    "wof:lastmodified":1694492817,
     "wof:name":"Phong Dien",
     "wof:parent_id":85680775,
     "wof:placetype":"county",

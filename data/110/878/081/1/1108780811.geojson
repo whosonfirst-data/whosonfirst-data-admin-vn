@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006776,
-    "geom:area_square_m":78199581.141783,
+    "geom:area_square_m":78199353.70385,
     "geom:bbox":"105.713136,20.979674,105.800664,21.111242",
     "geom:latitude":21.049834,
     "geom:longitude":105.7555,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.TL"
+    },
     "wof:country":"VN",
     "wof:created":1481740900,
-    "wof:geomhash":"416cf9cfec7ce7b2890c2091600d62c5",
+    "wof:geomhash":"abbfe7bd964afb998975895163cc3086",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780811,
-    "wof:lastmodified":1627523006,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tu Liem",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

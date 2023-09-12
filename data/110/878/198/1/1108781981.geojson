@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020413,
-    "geom:area_square_m":247781354.834355,
+    "geom:area_square_m":247781376.299571,
     "geom:bbox":"107.065898,10.844796,107.260733,11.106286",
     "geom:latitude":10.991329,
     "geom:longitude":107.154599,
@@ -60,10 +60,12 @@
         85680791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DN.TN"
+    },
     "wof:country":"VN",
     "wof:created":1481741657,
-    "wof:geomhash":"135b4867483055a96215402b7f47c93d",
+    "wof:geomhash":"abc8683d187a55d0e34023aac7f1d4bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781981,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thong Nhat",
     "wof:parent_id":85680791,
     "wof:placetype":"county",

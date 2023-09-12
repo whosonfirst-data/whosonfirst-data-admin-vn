@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000699,
-    "geom:area_square_m":8063421.568153,
+    "geom:area_square_m":8063432.170005,
     "geom:bbox":"105.807717,20.99695,105.840826,21.035517",
     "geom:latitude":21.015687,
     "geom:longitude":105.826514,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.DD"
+    },
     "wof:country":"VN",
     "wof:created":1481740890,
-    "wof:geomhash":"185657f79e4d4d05e2f893d48495e66b",
+    "wof:geomhash":"7aea55bda9981778b05c95859ea1abda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780795,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dong Da",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

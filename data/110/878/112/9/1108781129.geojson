@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052939,
-    "geom:area_square_m":610003734.748874,
+    "geom:area_square_m":610003355.325603,
     "geom:bbox":"106.970099,21.132019,107.35529,21.388739",
     "geom:latitude":21.27127,
     "geom:longitude":107.183193,
@@ -60,10 +60,12 @@
         85680583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QN.BC"
+    },
     "wof:country":"VN",
     "wof:created":1481741105,
-    "wof:geomhash":"99315ac86d318a69914e0b92ac0bd56e",
+    "wof:geomhash":"e84417c3e5b7479a9848eef973203461",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781129,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"Ba Che",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

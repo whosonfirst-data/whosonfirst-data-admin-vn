@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021999,
-    "geom:area_square_m":255544281.470353,
+    "geom:area_square_m":255544148.637894,
     "geom:bbox":"105.741042,19.952499,105.966013,20.16852",
     "geom:latitude":20.042342,
     "geom:longitude":105.828022,
@@ -60,10 +60,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.HT"
+    },
     "wof:country":"VN",
     "wof:created":1481741286,
-    "wof:geomhash":"1a3f1385bf296ac100848aa44384df4c",
+    "wof:geomhash":"cea38dddd6aa4fbf881dea3396435d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781411,
-    "wof:lastmodified":1627522985,
+    "wof:lastmodified":1694492813,
     "wof:name":"Ha Trung",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

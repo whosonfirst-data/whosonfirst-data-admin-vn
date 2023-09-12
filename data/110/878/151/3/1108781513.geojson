@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029686,
-    "geom:area_square_m":348431745.856454,
+    "geom:area_square_m":348431595.293276,
     "geom:bbox":"105.737587,18.199981,106.026117,18.472",
     "geom:latitude":18.33895,
     "geom:longitude":105.873186,
@@ -60,10 +60,12 @@
         85680695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HT.TH"
+    },
     "wof:country":"VN",
     "wof:created":1481741357,
-    "wof:geomhash":"a6da845104b08134715085bc70b1abca",
+    "wof:geomhash":"3887fa9e976a0c2bdb1bd3c4bb515828",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781513,
-    "wof:lastmodified":1627523002,
+    "wof:lastmodified":1694492820,
     "wof:name":"Thach Ha",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033867,
-    "geom:area_square_m":411509676.358713,
+    "geom:area_square_m":411509391.548456,
     "geom:bbox":"106.74976,10.526316,107.026028,10.787378",
     "geom:latitude":10.682294,
     "geom:longitude":106.896466,
@@ -60,10 +60,12 @@
         85680791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DN.NT"
+    },
     "wof:country":"VN",
     "wof:created":1481741661,
-    "wof:geomhash":"0e79b7973c0fec068c8b18649b234f72",
+    "wof:geomhash":"4666c1914092cacc8ba0e8da143b179b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781987,
-    "wof:lastmodified":1627522994,
+    "wof:lastmodified":1694492817,
     "wof:name":"Nhon Trach",
     "wof:parent_id":85680791,
     "wof:placetype":"county",

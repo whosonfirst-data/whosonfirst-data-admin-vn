@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116118,
-    "geom:area_square_m":1399562970.89087,
+    "geom:area_square_m":1399562456.605475,
     "geom:bbox":"107.484724,12.668496,108.016817,13.094185",
     "geom:latitude":12.902969,
     "geom:longitude":107.727851,
@@ -60,10 +60,12 @@
         85680707
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DC.BD"
+    },
     "wof:country":"VN",
     "wof:created":1481741563,
-    "wof:geomhash":"2b027e6634720bd2523dbf6b1d3ff7bb",
+    "wof:geomhash":"f33bdb5481298c7a1206baabe65dee5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781841,
-    "wof:lastmodified":1627522976,
+    "wof:lastmodified":1694492809,
     "wof:name":"Buon Don",
     "wof:parent_id":85680707,
     "wof:placetype":"county",

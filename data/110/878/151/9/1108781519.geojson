@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009844,
-    "geom:area_square_m":115447934.790812,
+    "geom:area_square_m":115447847.929167,
     "geom:bbox":"105.810774,18.391146,105.925128,18.553335",
     "geom:latitude":18.470511,
     "geom:longitude":105.866518,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Loc Ha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.467412,
     "lbl:longitude":105.870389,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Loc Ha"
+    ],
     "name:fra_x_preferred":[
         "L\u1ed9c H\u00e0"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":378,
+    "statoids:capital":"Nghen",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.HT.CL",
+    "statoids:name":"Can Loc",
+    "statoids:population":180931,
+    "statoids:statoid":"VN.HT",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HT.CL"
+    },
     "wof:country":"VN",
     "wof:created":1481741362,
-    "wof:geomhash":"2641fc4a7528c2c96c21b7bd13ccdb29",
+    "wof:geomhash":"9c2f13bb52c3323c1b2a3de82d4eb41a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781519,
-    "wof:lastmodified":1628266676,
+    "wof:lastmodified":1694498073,
     "wof:name":"Loc Ha",
     "wof:parent_id":85680695,
     "wof:placetype":"county",
+    "wof:population":180931,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

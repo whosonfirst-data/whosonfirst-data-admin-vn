@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003205,
-    "geom:area_square_m":37054846.233668,
+    "geom:area_square_m":37054894.445525,
     "geom:bbox":"106.649115,20.749702,106.755386,20.824086",
     "geom:latitude":20.78686,
     "geom:longitude":106.702798,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Duong Kinh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.771292,
     "lbl:longitude":106.724124,
     "lbl:max_zoom":10.0,
@@ -57,6 +63,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2003-01-01",
+    "statoids:areakm":157,
+    "statoids:capital":"Nui Doi",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.HP.KT",
+    "statoids:name":"Kien Thuy",
+    "statoids:population":180364,
+    "statoids:statoid":"VN.HP",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -64,11 +82,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"VN.HP.KT",
         "wd:id":"Q5315878"
     },
     "wof:country":"VN",
     "wof:created":1481741194,
-    "wof:geomhash":"e0464099a4821bf8e40d44627293548c",
+    "wof:geomhash":"0d001777bb79829052a78a27c4357fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,10 +97,12 @@
         }
     ],
     "wof:id":1108781273,
-    "wof:lastmodified":1627522983,
+    "wof:lastmodified":1694498069,
     "wof:name":"Duong Kinh",
     "wof:parent_id":85680645,
     "wof:placetype":"county",
+    "wof:population":180364,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

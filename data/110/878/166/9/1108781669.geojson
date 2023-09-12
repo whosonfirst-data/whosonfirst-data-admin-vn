@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057558,
-    "geom:area_square_m":688879652.666323,
+    "geom:area_square_m":688879044.214096,
     "geom:bbox":"108.624818,14.370675,108.965874,14.700037",
     "geom:latitude":14.554887,
     "geom:longitude":108.794645,
@@ -60,10 +60,12 @@
         85680753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BD.AL"
+    },
     "wof:country":"VN",
     "wof:created":1481741454,
-    "wof:geomhash":"0ba81d93f39f6f691397c9653b1dbdd4",
+    "wof:geomhash":"61398f898a3db06790bf46b9b618aa94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781669,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"An Lao",
     "wof:parent_id":85680753,
     "wof:placetype":"county",
