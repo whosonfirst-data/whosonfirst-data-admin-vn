@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080094,
-    "geom:area_square_m":969345798.702536,
+    "geom:area_square_m":969345622.576994,
     "geom:bbox":"107.969937,11.651332,108.433493,12.074592",
     "geom:latitude":11.828827,
     "geom:longitude":108.203033,
@@ -60,10 +60,12 @@
         85680723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LD.LH"
+    },
     "wof:country":"VN",
     "wof:created":1481741602,
-    "wof:geomhash":"1fee5a26096f07cf6e8fa69bf24538fd",
+    "wof:geomhash":"17e90a3022d6084b02aa3c34e83269eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781893,
-    "wof:lastmodified":1627522989,
+    "wof:lastmodified":1694492815,
     "wof:name":"Lam Ha",
     "wof:parent_id":85680723,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008844,
-    "geom:area_square_m":107545000.591617,
+    "geom:area_square_m":107545302.435548,
     "geom:bbox":"105.554346,10.406759,105.69,10.51211",
     "geom:latitude":10.456118,
     "geom:longitude":105.618296,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "TP Cao Lanh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.463187,
     "lbl:longitude":105.610245,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "TP Cao Lanh"
+    ],
     "name:fra_x_preferred":[
         "Cao L\u00e3nh"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":462,
+    "statoids:capital":"My Tho",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.DT.CH",
+    "statoids:name":"Cao Lanh",
+    "statoids:population":204628,
+    "statoids:statoid":"VN.DT",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.CH"
+    },
     "wof:country":"VN",
     "wof:created":1481741777,
-    "wof:geomhash":"337c96e977d82c1b1d4f6054a3639b0e",
+    "wof:geomhash":"1f8db961821c60d510e54013f0d84567",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782167,
-    "wof:lastmodified":1628266727,
+    "wof:lastmodified":1694639798,
     "wof:name":"TP Cao Lanh",
     "wof:parent_id":85680807,
     "wof:placetype":"county",
+    "wof:population":204628,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

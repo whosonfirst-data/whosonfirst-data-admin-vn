@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043878,
-    "geom:area_square_m":533491634.415437,
+    "geom:area_square_m":533491169.864814,
     "geom:bbox":"105.5484,10.289483,105.828313,10.665185",
     "geom:latitude":10.492696,
     "geom:longitude":105.705977,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Cao L\u00e3nh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.567154,
     "lbl:longitude":105.657073,
     "lbl:max_zoom":10.0,
@@ -147,6 +153,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":462,
+    "statoids:capital":"My Tho",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.DT.CH",
+    "statoids:name":"Cao Lanh",
+    "statoids:population":204628,
+    "statoids:statoid":"VN.DT",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -154,11 +172,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"VN.DT.CH",
         "wd:id":"Q35656"
     },
     "wof:country":"VN",
     "wof:created":1481741787,
-    "wof:geomhash":"41c03091b151b7851338bf72bfe13fbf",
+    "wof:geomhash":"09d8bbc528ba44484ed6706f82c799eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,10 +187,12 @@
         }
     ],
     "wof:id":1108782183,
-    "wof:lastmodified":1690921522,
+    "wof:lastmodified":1694639688,
     "wof:name":"Cao Lanh",
     "wof:parent_id":85680807,
     "wof:placetype":"county",
+    "wof:population":204628,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

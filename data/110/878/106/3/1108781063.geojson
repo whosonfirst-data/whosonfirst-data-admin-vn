@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027332,
-    "geom:area_square_m":316556572.414899,
+    "geom:area_square_m":316556509.682315,
     "geom:bbox":"105.609883,20.36664,105.856466,20.624123",
     "geom:latitude":20.502823,
     "geom:longitude":105.730659,
@@ -60,10 +60,12 @@
         85680633
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HO.LT"
+    },
     "wof:country":"VN",
     "wof:created":1481741064,
-    "wof:geomhash":"d15b33faa716c1ff81bfd55860324a98",
+    "wof:geomhash":"bc0ae0cc2bff898ec3f477352f3bae9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781063,
-    "wof:lastmodified":1627522989,
+    "wof:lastmodified":1694492814,
     "wof:name":"Lac Thuy",
     "wof:parent_id":85680633,
     "wof:placetype":"county",

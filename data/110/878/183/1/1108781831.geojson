@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05978,
-    "geom:area_square_m":718771598.220255,
+    "geom:area_square_m":718771247.137014,
     "geom:bbox":"107.915843,13.371056,108.234868,13.642306",
     "geom:latitude":13.497435,
     "geom:longitude":108.073063,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Chu Puh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.505848,
     "lbl:longitude":108.070012,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Chu Puh"
+    ],
     "name:fra_x_preferred":[
         "Ch\u01b0 P\u01b0h"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":1310,
+    "statoids:capital":"Chu Se",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.GL.CS",
+    "statoids:name":"Chu Se",
+    "statoids:population":126464,
+    "statoids:statoid":"VN.GL",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.GL.CS"
+    },
     "wof:country":"VN",
     "wof:created":1481741555,
-    "wof:geomhash":"6a7e19e3185c9cf06896236aa91353c3",
+    "wof:geomhash":"771a028f637bfaeda0de251bad946337",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781831,
-    "wof:lastmodified":1628266639,
+    "wof:lastmodified":1694639797,
     "wof:name":"Chu Puh",
     "wof:parent_id":85680713,
     "wof:placetype":"county",
+    "wof:population":126464,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

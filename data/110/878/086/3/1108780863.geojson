@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075003,
-    "geom:area_square_m":855266898.729412,
+    "geom:area_square_m":855266673.658602,
     "geom:bbox":"105.051106,22.60408,105.501638,22.923495",
     "geom:latitude":22.751452,
     "geom:longitude":105.285204,
@@ -60,10 +60,12 @@
         85680863
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HG.BM"
+    },
     "wof:country":"VN",
     "wof:created":1481740933,
-    "wof:geomhash":"fecddfc538a736389f4609b3b8ceef15",
+    "wof:geomhash":"1c6303b191b853abaf8b5623bd784b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780863,
-    "wof:lastmodified":1627522974,
+    "wof:lastmodified":1694492808,
     "wof:name":"Bac Me",
     "wof:parent_id":85680863,
     "wof:placetype":"county",

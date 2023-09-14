@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030781,
-    "geom:area_square_m":375435823.548491,
+    "geom:area_square_m":375435546.670603,
     "geom:bbox":"105.75285,9.35406,106.009767,9.582055",
     "geom:latitude":9.463795,
     "geom:longitude":105.882697,
@@ -60,10 +60,12 @@
         85680843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ST.MX"
+    },
     "wof:country":"VN",
     "wof:created":1481741861,
-    "wof:geomhash":"ea703b2ae8e27ee7dd2d906de3ec4b3d",
+    "wof:geomhash":"22bf570e34d7e4487b1f064a65d35a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782301,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"My Xuyen",
     "wof:parent_id":85680843,
     "wof:placetype":"county",

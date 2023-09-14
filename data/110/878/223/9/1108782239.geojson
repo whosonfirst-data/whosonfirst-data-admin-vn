@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04412,
-    "geom:area_square_m":537826873.881951,
+    "geom:area_square_m":537826603.6499,
     "geom:bbox":"104.840416,9.497484,105.069471,9.832084",
     "geom:latitude":9.656331,
     "geom:longitude":104.941081,
@@ -60,10 +60,12 @@
         85680815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.KG.AM"
+    },
     "wof:country":"VN",
     "wof:created":1481741823,
-    "wof:geomhash":"7f8df4e178bb9bf64c9c4b20c959f2f4",
+    "wof:geomhash":"51144495e901dc9eb33054fc0c460855",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782239,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"An Minh",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

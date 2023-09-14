@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023434,
-    "geom:area_square_m":283779023.847405,
+    "geom:area_square_m":283779006.228191,
     "geom:bbox":"108.952042,11.560361,109.238747,11.795477",
     "geom:latitude":11.667982,
     "geom:longitude":109.111895,
@@ -60,10 +60,12 @@
         85680727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NT.NH"
+    },
     "wof:country":"VN",
     "wof:created":1481741498,
-    "wof:geomhash":"2bd4519fad8789645e9af36188b4e59b",
+    "wof:geomhash":"02632fd40d637cbc4b229ce9a59daeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781741,
-    "wof:lastmodified":1627522995,
+    "wof:lastmodified":1694492817,
     "wof:name":"Ninh Hai",
     "wof:parent_id":85680727,
     "wof:placetype":"county",

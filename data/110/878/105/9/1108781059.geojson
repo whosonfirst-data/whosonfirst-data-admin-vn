@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05347,
-    "geom:area_square_m":619371699.741739,
+    "geom:area_square_m":619371686.85849,
     "geom:bbox":"105.257328,20.358136,105.608137,20.634877",
     "geom:latitude":20.481264,
     "geom:longitude":105.44032,
@@ -60,10 +60,12 @@
         85680633
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HO.LC"
+    },
     "wof:country":"VN",
     "wof:created":1481741060,
-    "wof:geomhash":"f21acbef713658b0c07262ccffa0a80e",
+    "wof:geomhash":"5ce43168cdfad70c850807619a46c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781059,
-    "wof:lastmodified":1627522989,
+    "wof:lastmodified":1694492814,
     "wof:name":"Lac Son",
     "wof:parent_id":85680633,
     "wof:placetype":"county",

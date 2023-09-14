@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061023,
-    "geom:area_square_m":699793491.122977,
+    "geom:area_square_m":699793168.125526,
     "geom:bbox":"103.250719,21.7803,103.525229,22.162158",
     "geom:latitude":21.964655,
     "geom:longitude":103.370857,
@@ -60,10 +60,12 @@
         85680593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DB.TC"
+    },
     "wof:country":"VN",
     "wof:created":1481740998,
-    "wof:geomhash":"9bdd94e8d22772a86e6f64f66f58aac0",
+    "wof:geomhash":"92ae75d5618d86f29bcb007a61368706",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780963,
-    "wof:lastmodified":1627523006,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tua Chua",
     "wof:parent_id":85680593,
     "wof:placetype":"county",

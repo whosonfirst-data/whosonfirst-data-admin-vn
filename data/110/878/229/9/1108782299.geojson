@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020557,
-    "geom:area_square_m":250592534.690589,
+    "geom:area_square_m":250592448.438646,
     "geom:bbox":"105.980559,9.536648,106.176751,9.78105",
     "geom:latitude":9.647418,
     "geom:longitude":106.074069,
@@ -60,10 +60,12 @@
         85680843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ST.LP"
+    },
     "wof:country":"VN",
     "wof:created":1481741859,
-    "wof:geomhash":"1cc6927a1bd7249ad59b8dd9d619d28b",
+    "wof:geomhash":"6f7189460f8c459fec6bbf35f450f37b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782299,
-    "wof:lastmodified":1627522990,
+    "wof:lastmodified":1694492815,
     "wof:name":"Long Phu",
     "wof:parent_id":85680843,
     "wof:placetype":"county",

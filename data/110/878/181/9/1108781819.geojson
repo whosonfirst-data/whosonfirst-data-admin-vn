@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041477,
-    "geom:area_square_m":497787329.165217,
+    "geom:area_square_m":497787292.102963,
     "geom:bbox":"108.40814,13.788669,108.799319,14.067608",
     "geom:latitude":13.928501,
     "geom:longitude":108.599961,
@@ -60,10 +60,12 @@
         85680713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.GL.DP"
+    },
     "wof:country":"VN",
     "wof:created":1481741549,
-    "wof:geomhash":"bf9505df2a55e6522d16092d57636aef",
+    "wof:geomhash":"30792ad7bf6ed3c2330a2263f71ad48f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781819,
-    "wof:lastmodified":1627522980,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dak Po",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

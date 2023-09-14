@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131197,
-    "geom:area_square_m":1505267978.652595,
+    "geom:area_square_m":1505268232.521865,
     "geom:bbox":"102.504791,21.65352,103.033227,22.120064",
     "geom:latitude":21.894444,
     "geom:longitude":102.800168,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Nam Po District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.952024,
     "lbl:longitude":102.822209,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nam Po"
+    ],
     "name:fra_x_preferred":[
         "N\u1eadm P\u1ed1"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":2508,
+    "statoids:capital":"Cha Cang",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.DB.MN",
+    "statoids:name":"Muong Nhe",
+    "statoids:population":34829,
+    "statoids:statoid":"VN.DB",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DB.MN"
+    },
     "wof:country":"VN",
     "wof:created":1481741006,
-    "wof:geomhash":"2d47190933706a7f68992548e1241224",
+    "wof:geomhash":"6c42f1a8486713daacdbabd1deee02a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108780975,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694639798,
     "wof:name":"Nam Po",
     "wof:parent_id":85680593,
     "wof:placetype":"county",
+    "wof:population":34829,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

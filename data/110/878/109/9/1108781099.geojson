@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060403,
-    "geom:area_square_m":693339496.952999,
+    "geom:area_square_m":693339452.642126,
     "geom:bbox":"106.093408,21.665742,106.419356,21.963802",
     "geom:latitude":21.829788,
     "geom:longitude":106.264803,
@@ -60,10 +60,12 @@
         85680611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LS.BS"
+    },
     "wof:country":"VN",
     "wof:created":1481741087,
-    "wof:geomhash":"5b124bb4d4531d72e9f5e47e5ffb5570",
+    "wof:geomhash":"9522d1c1a8f7d9a9e19521070aedfecb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781099,
-    "wof:lastmodified":1627522974,
+    "wof:lastmodified":1694492809,
     "wof:name":"Bac Son",
     "wof:parent_id":85680611,
     "wof:placetype":"county",

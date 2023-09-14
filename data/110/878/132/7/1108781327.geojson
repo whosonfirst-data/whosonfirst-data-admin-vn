@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017585,
-    "geom:area_square_m":203826967.191194,
+    "geom:area_square_m":203826873.957886,
     "geom:bbox":"106.463569,20.282888,106.602913,20.470477",
     "geom:latitude":20.382878,
     "geom:longitude":106.532856,
@@ -60,10 +60,12 @@
         85680689
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TB.TH"
+    },
     "wof:country":"VN",
     "wof:created":1481741233,
-    "wof:geomhash":"ecbed6e72a1653e15218232107e6f76d",
+    "wof:geomhash":"a6b185ab08b689f2208bbe6fca5daffa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781327,
-    "wof:lastmodified":1627523005,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tien Hai",
     "wof:parent_id":85680689,
     "wof:placetype":"county",

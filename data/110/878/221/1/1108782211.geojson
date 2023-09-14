@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043122,
-    "geom:area_square_m":524417880.362984,
+    "geom:area_square_m":524417566.120663,
     "geom:bbox":"104.774695,10.28722,105.111639,10.538759",
     "geom:latitude":10.419576,
     "geom:longitude":104.941979,
@@ -60,10 +60,12 @@
         85680797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.AG.TT"
+    },
     "wof:country":"VN",
     "wof:created":1481741805,
-    "wof:geomhash":"0e65e0c745f3ee9e48854d63920c417c",
+    "wof:geomhash":"5618c7d4cac6a23d8f2cd7a35ffcfdca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782211,
-    "wof:lastmodified":1627523006,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tri Ton",
     "wof:parent_id":85680797,
     "wof:placetype":"county",

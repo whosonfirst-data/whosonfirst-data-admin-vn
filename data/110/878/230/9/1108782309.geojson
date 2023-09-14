@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030901,
-    "geom:area_square_m":376863655.304609,
+    "geom:area_square_m":376863758.504883,
     "geom:bbox":"105.963189,9.399451,106.213722,9.588598",
     "geom:latitude":9.49784,
     "geom:longitude":106.091981,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Tran De District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.48552,
     "lbl:longitude":106.131909,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tran De"
+    ],
     "name:fra_x_preferred":[
         "Tr\u1ea7n \u0110\u1ec1"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":544,
+    "statoids:capital":"My Xuyen",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.ST.MX",
+    "statoids:name":"My Xuyen",
+    "statoids:population":197876,
+    "statoids:statoid":"VN.ST",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680843
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ST.MX"
+    },
     "wof:country":"VN",
     "wof:created":1481741867,
-    "wof:geomhash":"87f19da862c6ccbbc1050c0a15bd02ed",
+    "wof:geomhash":"7bcf84a1d129c0a25594469b516b9e76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782309,
-    "wof:lastmodified":1628266727,
+    "wof:lastmodified":1694639798,
     "wof:name":"Tran De",
     "wof:parent_id":85680843,
     "wof:placetype":"county",
+    "wof:population":197876,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

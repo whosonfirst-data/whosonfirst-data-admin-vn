@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052446,
-    "geom:area_square_m":613334717.689035,
+    "geom:area_square_m":613334486.85185,
     "geom:bbox":"104.874131,18.769632,105.24336,19.177966",
     "geom:latitude":18.955207,
     "geom:longitude":105.051031,
@@ -60,10 +60,12 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NA.AS"
+    },
     "wof:country":"VN",
     "wof:created":1481741326,
-    "wof:geomhash":"c6b0d19db335ed937ebfadc5b4bee4d3",
+    "wof:geomhash":"d1815a5d4e9067fc74f16100231f8d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781475,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"Anh Son",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

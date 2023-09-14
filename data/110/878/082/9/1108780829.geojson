@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007426,
-    "geom:area_square_m":85716531.80561,
+    "geom:area_square_m":85716508.423509,
     "geom:bbox":"105.644333,20.957939,105.744563,21.089644",
     "geom:latitude":21.024769,
     "geom:longitude":105.695855,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.HC"
+    },
     "wof:country":"VN",
     "wof:created":1481740912,
-    "wof:geomhash":"9ebdd72124b8e0d7a4b720c30c5904f9",
+    "wof:geomhash":"5f2bf1c2fd76030205885f6c00308177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780829,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hoai Duc",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

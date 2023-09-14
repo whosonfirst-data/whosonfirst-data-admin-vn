@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011473,
-    "geom:area_square_m":139738768.847034,
+    "geom:area_square_m":139738727.042938,
     "geom:bbox":"105.731018,9.860117,105.89386,9.982444",
     "geom:latitude":9.921159,
     "geom:longitude":105.814698,
@@ -78,10 +78,12 @@
         85680827
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HU.CT"
+    },
     "wof:country":"VN",
     "wof:created":1481741847,
-    "wof:geomhash":"17d935d1aa8e24a4c5c95501a9426ff6",
+    "wof:geomhash":"6ae254bc0dad55e08454db6ae65959db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1108782277,
-    "wof:lastmodified":1627522978,
+    "wof:lastmodified":1694492810,
     "wof:name":"Chau Thanh",
     "wof:parent_id":85680827,
     "wof:placetype":"county",

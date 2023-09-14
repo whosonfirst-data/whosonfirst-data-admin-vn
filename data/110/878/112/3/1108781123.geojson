@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024049,
-    "geom:area_square_m":276887143.623246,
+    "geom:area_square_m":276887086.882911,
     "geom:bbox":"107.464361,21.231251,107.654663,21.506274",
     "geom:latitude":21.391535,
     "geom:longitude":107.562076,
@@ -60,10 +60,12 @@
         85680583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QN.DH"
+    },
     "wof:country":"VN",
     "wof:created":1481741102,
-    "wof:geomhash":"4eaacfe0ccd8ca196d784a8a41548cee",
+    "wof:geomhash":"56915d9fb47276524c3a4c96ad6f95ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781123,
-    "wof:lastmodified":1627522981,
+    "wof:lastmodified":1694492811,
     "wof:name":"Dam Ha",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054001,
-    "geom:area_square_m":619594177.437903,
+    "geom:area_square_m":619594095.502053,
     "geom:bbox":"106.623703,21.727122,107.063737,22.01411",
     "geom:latitude":21.888688,
     "geom:longitude":106.822235,
@@ -60,10 +60,12 @@
         85680611
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LS.CA"
+    },
     "wof:country":"VN",
     "wof:created":1481741084,
-    "wof:geomhash":"563c5f1367c272726fd4af6a7aba15fc",
+    "wof:geomhash":"854341b6434e7e131b5375aa2c126492",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781095,
-    "wof:lastmodified":1627522977,
+    "wof:lastmodified":1694492809,
     "wof:name":"Cao Loc",
     "wof:parent_id":85680611,
     "wof:placetype":"county",

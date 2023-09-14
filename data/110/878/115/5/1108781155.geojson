@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075203,
-    "geom:area_square_m":866320685.718431,
+    "geom:area_square_m":866320991.150406,
     "geom:bbox":"106.659785,21.149702,107.032835,21.505447",
     "geom:latitude":21.310252,
     "geom:longitude":106.851359,
@@ -60,10 +60,12 @@
         85680685
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BG.SD"
+    },
     "wof:country":"VN",
     "wof:created":1481741122,
-    "wof:geomhash":"01eb85e1c50835681edd5080c5730c1e",
+    "wof:geomhash":"d4ed85161b524c7321efa76f72b6b181",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781155,
-    "wof:lastmodified":1627522999,
+    "wof:lastmodified":1694492819,
     "wof:name":"Son Dong",
     "wof:parent_id":85680685,
     "wof:placetype":"county",

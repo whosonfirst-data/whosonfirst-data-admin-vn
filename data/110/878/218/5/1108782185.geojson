@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02809,
-    "geom:area_square_m":341399282.065423,
+    "geom:area_square_m":341399230.535121,
     "geom:bbox":"105.336598,10.521986,105.61556,10.698221",
     "geom:latitude":10.610479,
     "geom:longitude":105.469747,
@@ -60,10 +60,12 @@
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.TB"
+    },
     "wof:country":"VN",
     "wof:created":1481741788,
-    "wof:geomhash":"d1e79fb864b0ad53b3cccf551aaa8383",
+    "wof:geomhash":"21a1e2daa7ebf15f0fb4bfc41376e963",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782185,
-    "wof:lastmodified":1627523003,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thanh Binh",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

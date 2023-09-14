@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124416,
-    "geom:area_square_m":1434593991.403687,
+    "geom:area_square_m":1434593301.950998,
     "geom:bbox":"103.693014,20.95735,104.284868,21.382285",
     "geom:latitude":21.170635,
     "geom:longitude":104.014335,
@@ -60,10 +60,12 @@
         85680615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.SL.MS"
+    },
     "wof:country":"VN",
     "wof:created":1481741032,
-    "wof:geomhash":"5d744fdc5e0e845ca77fbbdc5b917561",
+    "wof:geomhash":"19b4a2738f2a47c5be57277ed0fb7421",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781013,
-    "wof:lastmodified":1627522991,
+    "wof:lastmodified":1694492815,
     "wof:name":"Mai Son",
     "wof:parent_id":85680615,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017276,
-    "geom:area_square_m":210324979.041913,
+    "geom:area_square_m":210324925.260367,
     "geom:bbox":"106.275004,9.970187,106.439617,10.172271",
     "geom:latitude":10.073446,
     "geom:longitude":106.358362,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Mo Cay Nam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.077343,
     "lbl:longitude":106.357997,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mo Cay Nam"
+    ],
     "name:fra_x_preferred":[
         "M\u1ecf C\u00e0y Nam"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":370,
+    "statoids:capital":"Mo Cay",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.BR.MC",
+    "statoids:name":"Mo Cay",
+    "statoids:population":274265,
+    "statoids:statoid":"VN.BR",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BR.MC"
+    },
     "wof:country":"VN",
     "wof:created":1481741747,
-    "wof:geomhash":"03c276370851fb472565c67ae8c45aea",
+    "wof:geomhash":"b1b6ceb5ee04f2359663f4de58df1e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782119,
-    "wof:lastmodified":1628266687,
+    "wof:lastmodified":1694639797,
     "wof:name":"Mo Cay Nam",
     "wof:parent_id":85680825,
     "wof:placetype":"county",
+    "wof:population":274265,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

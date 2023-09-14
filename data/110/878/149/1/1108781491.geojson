@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014296,
-    "geom:area_square_m":167469626.092354,
+    "geom:area_square_m":167469374.74048,
     "geom:bbox":"105.54587,18.565847,105.701814,18.808685",
     "geom:latitude":18.666011,
     "geom:longitude":105.620323,
@@ -60,10 +60,12 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NA.HN"
+    },
     "wof:country":"VN",
     "wof:created":1481741343,
-    "wof:geomhash":"63a622d42b697d5654ffc185c206e4ed",
+    "wof:geomhash":"26f10783a16d7aa7f07e7cac12b49167",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781491,
-    "wof:lastmodified":1627522987,
+    "wof:lastmodified":1694492814,
     "wof:name":"Hung Nguyen",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

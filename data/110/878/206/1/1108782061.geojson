@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016849,
-    "geom:area_square_m":204663498.870957,
+    "geom:area_square_m":204663159.500925,
     "geom:bbox":"105.804543,10.688807,106.004402,10.916716",
     "geom:latitude":10.781919,
     "geom:longitude":105.902082,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Kien Tuong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.769551,
     "lbl:longitude":105.89523,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Kien Tuong"
+    ],
     "name:fra_x_preferred":[
         "Kien Tuong"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":501,
+    "statoids:capital":"Moc Hoa",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.LA.MH",
+    "statoids:name":"Moc Hoa",
+    "statoids:population":67753,
+    "statoids:statoid":"VN.LA",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680817
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LA.MH"
+    },
     "wof:country":"VN",
     "wof:created":1481741712,
-    "wof:geomhash":"35360f202fe210d3deb1e8fae6e7fd77",
+    "wof:geomhash":"908ce03dd504b6308b7bc19ad1359657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782061,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694639797,
     "wof:name":"Kien Tuong",
     "wof:parent_id":85680817,
     "wof:placetype":"county",
+    "wof:population":67753,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120738,
-    "geom:area_square_m":1381904112.231398,
+    "geom:area_square_m":1381903905.453419,
     "geom:bbox":"102.731165,22.02745,103.199786,22.484575",
     "geom:latitude":22.23718,
     "geom:longitude":102.998785,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Nam Nhun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":22.17925,
     "lbl:longitude":103.014944,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Nam Nhun"
+    ],
     "name:fra_x_preferred":[
         "N\u1eadm Nh\u00f9n"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":3679,
+    "statoids:capital":"Muong Te",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.LI.MT",
+    "statoids:name":"Muong Te",
+    "statoids:population":47406,
+    "statoids:statoid":"VN.LI",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680607
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LI.MT"
+    },
     "wof:country":"VN",
     "wof:created":1481741018,
-    "wof:geomhash":"192f1ac2d64dc57e3a1831cddf07e2dc",
+    "wof:geomhash":"8ed9a032f2727be66ad31b53d5baf4be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108780993,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694639798,
     "wof:name":"Nam Nhun",
     "wof:parent_id":85680607,
     "wof:placetype":"county",
+    "wof:population":47406,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

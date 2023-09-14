@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059071,
-    "geom:area_square_m":717188975.370852,
+    "geom:area_square_m":717188555.320248,
     "geom:bbox":"107.236138,10.769432,107.575252,11.088514",
     "geom:latitude":10.921673,
     "geom:longitude":107.42288,
@@ -60,10 +60,12 @@
         85680791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DN.XL"
+    },
     "wof:country":"VN",
     "wof:created":1481741660,
-    "wof:geomhash":"fd0004561965c7014898bb52dfa9f05f",
+    "wof:geomhash":"856aa9329fd34db4fbb0ce91bcf774d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781985,
-    "wof:lastmodified":1627523009,
+    "wof:lastmodified":1694492824,
     "wof:name":"Xuan Loc",
     "wof:parent_id":85680791,
     "wof:placetype":"county",

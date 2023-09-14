@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027286,
-    "geom:area_square_m":332200917.78492,
+    "geom:area_square_m":332200761.404896,
     "geom:bbox":"106.462453,9.968722,106.696167,10.189863",
     "geom:latitude":10.071152,
     "geom:longitude":106.593259,
@@ -60,10 +60,12 @@
         85680825
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BR.BA"
+    },
     "wof:country":"VN",
     "wof:created":1481741751,
-    "wof:geomhash":"7fd26f627b2d6e4c4732f541688c17a0",
+    "wof:geomhash":"160487c190ac0144b2c54d71244bac3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782125,
-    "wof:lastmodified":1627522973,
+    "wof:lastmodified":1694492808,
     "wof:name":"Ba Tri",
     "wof:parent_id":85680825,
     "wof:placetype":"county",

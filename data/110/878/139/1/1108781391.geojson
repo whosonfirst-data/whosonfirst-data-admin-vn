@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001919,
-    "geom:area_square_m":22336809.506249,
+    "geom:area_square_m":22336729.336063,
     "geom:bbox":"105.869543,19.719555,105.93792,19.785423",
     "geom:latitude":19.752167,
     "geom:longitude":105.900218,
@@ -60,10 +60,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.SS"
+    },
     "wof:country":"VN",
     "wof:created":1481741272,
-    "wof:geomhash":"d0fba2728d60395d3d3f5e3d71f227c1",
+    "wof:geomhash":"79d9715dfaa76cc9ead87fafb6576127",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781391,
-    "wof:lastmodified":1627522999,
+    "wof:lastmodified":1694492819,
     "wof:name":"Sam Son",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

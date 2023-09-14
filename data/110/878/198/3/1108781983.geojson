@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035828,
-    "geom:area_square_m":435218530.31317,
+    "geom:area_square_m":435218449.5547,
     "geom:bbox":"106.862758,10.646929,107.137808,10.884874",
     "geom:latitude":10.766025,
     "geom:longitude":107.02196,
@@ -60,10 +60,12 @@
         85680791
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DN.LT"
+    },
     "wof:country":"VN",
     "wof:created":1481741659,
-    "wof:geomhash":"1bb733157b9c363e22a3e8c36e5b6b77",
+    "wof:geomhash":"75e7cd90f4d867966dbbd7a02a3312ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781983,
-    "wof:lastmodified":1627522990,
+    "wof:lastmodified":1694492815,
     "wof:name":"Long Thanh",
     "wof:parent_id":85680791,
     "wof:placetype":"county",

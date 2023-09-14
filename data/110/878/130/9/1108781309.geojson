@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009776,
-    "geom:area_square_m":113044766.155205,
+    "geom:area_square_m":113044407.701499,
     "geom:bbox":"105.962891,20.684927,106.09654,20.817264",
     "geom:latitude":20.743227,
     "geom:longitude":106.030458,
@@ -60,10 +60,12 @@
         85680649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HY.KD"
+    },
     "wof:country":"VN",
     "wof:created":1481741222,
-    "wof:geomhash":"e3b5f5b4034551272fd861046fe71cea",
+    "wof:geomhash":"e4cded2813ed0aa06a142e8614abe2c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781309,
-    "wof:lastmodified":1627522988,
+    "wof:lastmodified":1694492814,
     "wof:name":"Kim Dong",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

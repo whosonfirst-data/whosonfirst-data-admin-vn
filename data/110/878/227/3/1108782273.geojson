@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006071,
-    "geom:area_square_m":73968590.071169,
+    "geom:area_square_m":73968694.61394,
     "geom:bbox":"105.769884,9.769014,105.868376,9.88567",
     "geom:latitude":9.831321,
     "geom:longitude":105.821467,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Ng\u00e3 B\u1ea3y District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":9.833292,
     "lbl:longitude":105.818144,
     "lbl:max_zoom":10.0,
@@ -70,6 +76,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":564,
+    "statoids:capital":"Phung Hiep",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.HU.PH",
+    "statoids:name":"Phung Hiep",
+    "statoids:population":263469,
+    "statoids:statoid":"VN.HU",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -77,11 +95,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"VN.HU.PH",
         "wd:id":"Q2226936"
     },
     "wof:country":"VN",
     "wof:created":1481741844,
-    "wof:geomhash":"85757aab5890081e119d8eda2809e272",
+    "wof:geomhash":"778d87ea0c1e5f6e2d1f37f16e12761f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,10 +110,12 @@
         }
     ],
     "wof:id":1108782273,
-    "wof:lastmodified":1690921522,
+    "wof:lastmodified":1694639688,
     "wof:name":"Nga Bay",
     "wof:parent_id":85680827,
     "wof:placetype":"county",
+    "wof:population":263469,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

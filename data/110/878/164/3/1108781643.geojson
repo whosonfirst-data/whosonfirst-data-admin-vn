@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028446,
-    "geom:area_square_m":339454479.541658,
+    "geom:area_square_m":339454223.528951,
     "geom:bbox":"108.573598,15.127891,108.915277,15.260453",
     "geom:latitude":15.19101,
     "geom:longitude":108.745431,
@@ -60,10 +60,12 @@
         85680767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QG.SN"
+    },
     "wof:country":"VN",
     "wof:created":1481741438,
-    "wof:geomhash":"a11e4db17c9cb57c71b275849a3362bd",
+    "wof:geomhash":"172c18957a1e29054962f6157a01bf30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781643,
-    "wof:lastmodified":1627523000,
+    "wof:lastmodified":1694492819,
     "wof:name":"Son Tinh",
     "wof:parent_id":85680767,
     "wof:placetype":"county",

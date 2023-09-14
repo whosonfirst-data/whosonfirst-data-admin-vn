@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027855,
-    "geom:area_square_m":339059886.80014,
+    "geom:area_square_m":339059464.359364,
     "geom:bbox":"105.33429,10.01355,105.582172,10.246097",
     "geom:latitude":10.129294,
     "geom:longitude":105.457229,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Co Do District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.120453,
     "lbl:longitude":105.455349,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Co Do"
+    ],
     "name:fra_x_preferred":[
         "C\u1ed5 \u0110\u00f4"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":410,
+    "statoids:capital":"Thanh An",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.CN.VT",
+    "statoids:name":"Vinh Thanh",
+    "statoids:population":155011,
+    "statoids:statoid":"VN.CN",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680799
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CN.VT"
+    },
     "wof:country":"VN",
     "wof:created":1481741839,
-    "wof:geomhash":"c08a0b3a45ecb7f0c33cee4a69ed542b",
+    "wof:geomhash":"b80c500af7a8e49e4f90e765f1b22223",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108782265,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694639797,
     "wof:name":"Co Do",
     "wof:parent_id":85680799,
     "wof:placetype":"county",
+    "wof:population":155011,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

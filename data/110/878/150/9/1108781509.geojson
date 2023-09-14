@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024901,
-    "geom:area_square_m":292090249.948315,
+    "geom:area_square_m":292090107.737684,
     "geom:bbox":"105.630314,18.339615,105.838715,18.556401",
     "geom:latitude":18.443502,
     "geom:longitude":105.737074,
@@ -60,10 +60,12 @@
         85680695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HT.CL"
+    },
     "wof:country":"VN",
     "wof:created":1481741355,
-    "wof:geomhash":"4eec4374dd08d58d8d67714bf516e0d4",
+    "wof:geomhash":"41f90fff950a909c8fa85249542bd8ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781509,
-    "wof:lastmodified":1627522977,
+    "wof:lastmodified":1694492810,
     "wof:name":"Can Loc",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

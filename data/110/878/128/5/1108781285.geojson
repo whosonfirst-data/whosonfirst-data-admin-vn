@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014907,
-    "geom:area_square_m":172431291.674027,
+    "geom:area_square_m":172431133.533186,
     "geom:bbox":"106.478694,20.627861,106.709587,20.809856",
     "geom:latitude":20.70118,
     "geom:longitude":106.587404,
@@ -60,10 +60,12 @@
         85680645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HP.TL"
+    },
     "wof:country":"VN",
     "wof:created":1481741208,
-    "wof:geomhash":"c5dbf4a4c649ebabac322ad02cca01cc",
+    "wof:geomhash":"b5d2312b2b1b981f398dd6cbdf32f805",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781285,
-    "wof:lastmodified":1627523005,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tien Lang",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

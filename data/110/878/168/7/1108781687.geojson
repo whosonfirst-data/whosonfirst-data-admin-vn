@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018388,
-    "geom:area_square_m":220773839.222114,
+    "geom:area_square_m":220773725.980758,
     "geom:bbox":"109.052344,13.740178,109.23542,13.936243",
     "geom:latitude":13.840034,
     "geom:longitude":109.155653,
@@ -60,10 +60,12 @@
         85680753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BD.TP"
+    },
     "wof:country":"VN",
     "wof:created":1481741464,
-    "wof:geomhash":"ec8b84cb8860624fda1586281acebb87",
+    "wof:geomhash":"071add63a8ff1c97344262dc1a005d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781687,
-    "wof:lastmodified":1627523007,
+    "wof:lastmodified":1694492823,
     "wof:name":"Tuy Phuoc",
     "wof:parent_id":85680753,
     "wof:placetype":"county",

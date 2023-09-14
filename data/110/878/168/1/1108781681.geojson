@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058623,
-    "geom:area_square_m":703182865.794947,
+    "geom:area_square_m":703182473.954291,
     "geom:bbox":"108.850114,13.882959,109.269527,14.226598",
     "geom:latitude":14.054655,
     "geom:longitude":109.082093,
@@ -60,10 +60,12 @@
         85680753
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BD.PC"
+    },
     "wof:country":"VN",
     "wof:created":1481741462,
-    "wof:geomhash":"f8b112d443f984c30926d119e0dcf162",
+    "wof:geomhash":"7e9567b04ae0485772232ee6c0adfdea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781681,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492818,
     "wof:name":"Phu Cat",
     "wof:parent_id":85680753,
     "wof:placetype":"county",

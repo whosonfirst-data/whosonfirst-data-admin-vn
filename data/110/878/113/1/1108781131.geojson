@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041785,
-    "geom:area_square_m":482189139.388855,
+    "geom:area_square_m":482189092.048409,
     "geom:bbox":"107.293777,20.714556,107.685471,21.274611",
     "geom:latitude":21.051946,
     "geom:longitude":107.482535,
@@ -60,10 +60,12 @@
         85680583
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QN.VD"
+    },
     "wof:country":"VN",
     "wof:created":1481741107,
-    "wof:geomhash":"38935a47f19c302d98465f7d3db7452e",
+    "wof:geomhash":"6cef237248777ee065e54ae6f87b9a8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781131,
-    "wof:lastmodified":1627523007,
+    "wof:lastmodified":1694492823,
     "wof:name":"Van Don",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

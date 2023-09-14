@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031856,
-    "geom:area_square_m":387345048.231427,
+    "geom:area_square_m":387345030.187303,
     "geom:bbox":"105.325463,10.337723,105.574135,10.576314",
     "geom:latitude":10.472683,
     "geom:longitude":105.458218,
@@ -60,10 +60,12 @@
         85680797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.AG.CM"
+    },
     "wof:country":"VN",
     "wof:created":1481741808,
-    "wof:geomhash":"727bcad006ed2c3e24ffb87e59b3d613",
+    "wof:geomhash":"52b66e1e7af8b4f2847385eabb46d759",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782215,
-    "wof:lastmodified":1627522979,
+    "wof:lastmodified":1694492811,
     "wof:name":"Cho Moi",
     "wof:parent_id":85680797,
     "wof:placetype":"county",

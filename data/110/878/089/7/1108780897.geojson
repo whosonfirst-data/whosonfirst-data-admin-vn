@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054003,
-    "geom:area_square_m":616042103.78665,
+    "geom:area_square_m":616042701.713466,
     "geom:bbox":"106.011125,22.510215,106.407423,22.856965",
     "geom:latitude":22.69755,
     "geom:longitude":106.194611,
@@ -60,10 +60,12 @@
         85680859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CB.HA"
+    },
     "wof:country":"VN",
     "wof:created":1481740954,
-    "wof:geomhash":"77f850cf3abf0782abb892060f3d1ed8",
+    "wof:geomhash":"8c78051b4d18dc79beb9ddb41f7df8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780897,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hoa An",
     "wof:parent_id":85680859,
     "wof:placetype":"county",

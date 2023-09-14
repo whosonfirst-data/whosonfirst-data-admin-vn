@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021205,
-    "geom:area_square_m":253333821.214978,
+    "geom:area_square_m":253333565.100679,
     "geom:bbox":"108.551262,14.843546,108.757918,15.066292",
     "geom:latitude":14.949519,
     "geom:longitude":108.660832,
@@ -60,10 +60,12 @@
         85680767
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.QG.ML"
+    },
     "wof:country":"VN",
     "wof:created":1481741444,
-    "wof:geomhash":"93ec805660627d04c4a90bd60bee2315",
+    "wof:geomhash":"6832fe5dc24e7de74f04d528f92439ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781653,
-    "wof:lastmodified":1627522991,
+    "wof:lastmodified":1694492815,
     "wof:name":"Minh Long",
     "wof:parent_id":85680767,
     "wof:placetype":"county",

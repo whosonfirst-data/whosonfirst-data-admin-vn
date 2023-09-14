@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013592,
-    "geom:area_square_m":157858317.142742,
+    "geom:area_square_m":157858105.250845,
     "geom:bbox":"106.019841,19.95875,106.15658,20.156714",
     "geom:latitude":20.067835,
     "geom:longitude":106.088674,
@@ -60,10 +60,12 @@
         85680667
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NB.KS"
+    },
     "wof:country":"VN",
     "wof:created":1481741267,
-    "wof:geomhash":"99bddc46e86c171d4e7493ad55e35ce1",
+    "wof:geomhash":"e65b0508febf13531fae998d16c5a704",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781383,
-    "wof:lastmodified":1627522988,
+    "wof:lastmodified":1694492814,
     "wof:name":"Kim Son",
     "wof:parent_id":85680667,
     "wof:placetype":"county",

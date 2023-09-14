@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050571,
-    "geom:area_square_m":612174197.472187,
+    "geom:area_square_m":612174168.986942,
     "geom:bbox":"108.391099,11.641964,108.699847,11.969245",
     "geom:latitude":11.768988,
     "geom:longitude":108.561394,
@@ -60,10 +60,12 @@
         85680723
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LD.DD"
+    },
     "wof:country":"VN",
     "wof:created":1481741603,
-    "wof:geomhash":"52c2bffd09042b746fbd67588e1ef4b1",
+    "wof:geomhash":"e35be621e464ecadb4814e919ff48ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781895,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492812,
     "wof:name":"Don Duong",
     "wof:parent_id":85680723,
     "wof:placetype":"county",

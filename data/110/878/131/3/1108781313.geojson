@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008869,
-    "geom:area_square_m":102583830.2796,
+    "geom:area_square_m":102583545.229653,
     "geom:bbox":"106.120441,20.638628,106.260266,20.785513",
     "geom:latitude":20.71287,
     "geom:longitude":106.188072,
@@ -60,10 +60,12 @@
         85680649
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HY.PC"
+    },
     "wof:country":"VN",
     "wof:created":1481741225,
-    "wof:geomhash":"812414594878453beab623eff06ac2b1",
+    "wof:geomhash":"f3bc075026ed28631653fe910ddb9972",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781313,
-    "wof:lastmodified":1627522996,
+    "wof:lastmodified":1694492817,
     "wof:name":"Phu Cu",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

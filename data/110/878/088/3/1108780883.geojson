@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040061,
-    "geom:area_square_m":456294538.505674,
+    "geom:area_square_m":456294221.783252,
     "geom:bbox":"105.957443,22.792354,106.264172,22.999113",
     "geom:latitude":22.907255,
     "geom:longitude":106.113049,
@@ -60,10 +60,12 @@
         85680859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CB.HQ"
+    },
     "wof:country":"VN",
     "wof:created":1481740946,
-    "wof:geomhash":"436fb2496170c6e10080d006752dedd5",
+    "wof:geomhash":"ed38f8d75f0a1c0b00a5179da07d93a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780883,
-    "wof:lastmodified":1627522985,
+    "wof:lastmodified":1694492813,
     "wof:name":"Ha Quang",
     "wof:parent_id":85680859,
     "wof:placetype":"county",

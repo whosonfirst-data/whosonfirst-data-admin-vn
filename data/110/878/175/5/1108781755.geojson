@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068354,
-    "geom:area_square_m":828687368.364187,
+    "geom:area_square_m":828687092.178244,
     "geom:bbox":"108.491723,11.12759,108.874918,11.557405",
     "geom:latitude":11.349417,
     "geom:longitude":108.670646,
@@ -60,10 +60,12 @@
         85680787
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BU.TP"
+    },
     "wof:country":"VN",
     "wof:created":1481741508,
-    "wof:geomhash":"f61ce6bb6868f94af050d2b0b00b169c",
+    "wof:geomhash":"0263276aa302e78cdde043a01b989cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781755,
-    "wof:lastmodified":1627523006,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tuy Phong",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

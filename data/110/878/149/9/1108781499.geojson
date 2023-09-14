@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094204,
-    "geom:area_square_m":1104802632.676336,
+    "geom:area_square_m":1104802320.914655,
     "geom:bbox":"105.103498,18.258245,105.553008,18.625426",
     "geom:latitude":18.477912,
     "geom:longitude":105.306976,
@@ -60,10 +60,12 @@
         85680695
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HT.HS"
+    },
     "wof:country":"VN",
     "wof:created":1481741349,
-    "wof:geomhash":"71dcd1419b6fff6b05b677ed768270d2",
+    "wof:geomhash":"d80a169b91cc47e20ff99b70bb9cb48d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781499,
-    "wof:lastmodified":1627522987,
+    "wof:lastmodified":1694492814,
     "wof:name":"Huong Son",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

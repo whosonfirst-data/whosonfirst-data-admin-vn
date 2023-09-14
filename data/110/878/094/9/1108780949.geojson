@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059636,
-    "geom:area_square_m":681926841.331908,
+    "geom:area_square_m":681926770.163684,
     "geom:bbox":"104.005703,22.198215,104.330014,22.556217",
     "geom:latitude":22.368977,
     "geom:longitude":104.13894,
@@ -60,10 +60,12 @@
         85680867
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.LO.BT"
+    },
     "wof:country":"VN",
     "wof:created":1481740987,
-    "wof:geomhash":"7a1dff60c1a8406d361bd374757b620d",
+    "wof:geomhash":"c7e3adda00215413ef3427174f96700f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780949,
-    "wof:lastmodified":1627522974,
+    "wof:lastmodified":1694492809,
     "wof:name":"Bao Thang",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

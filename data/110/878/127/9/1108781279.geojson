@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009613,
-    "geom:area_square_m":111059652.510902,
+    "geom:area_square_m":111059555.262318,
     "geom:bbox":"106.525445,20.817431,106.662623,20.953517",
     "geom:latitude":20.882902,
     "geom:longitude":106.591343,
@@ -60,10 +60,12 @@
         85680645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HP.AD"
+    },
     "wof:country":"VN",
     "wof:created":1481741199,
-    "wof:geomhash":"b32e211b4823768d86b1b9859ca31639",
+    "wof:geomhash":"1969a56549359e3f2a42a10663d72973",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781279,
-    "wof:lastmodified":1627522972,
+    "wof:lastmodified":1694492808,
     "wof:name":"An Duong",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

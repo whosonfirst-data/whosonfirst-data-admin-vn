@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055439,
-    "geom:area_square_m":658546815.715998,
+    "geom:area_square_m":658546705.756221,
     "geom:bbox":"107.509505,15.994753,107.870516,16.244179",
     "geom:latitude":16.122791,
     "geom:longitude":107.684532,
@@ -60,10 +60,12 @@
         85680775
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TT.ND"
+    },
     "wof:country":"VN",
     "wof:created":1481741396,
-    "wof:geomhash":"46ec7fd1e96dda4e9f182f0f74e2134d",
+    "wof:geomhash":"0e8219d91a2b34120adfb5b4df7789e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781575,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"Nam Dong",
     "wof:parent_id":85680775,
     "wof:placetype":"county",

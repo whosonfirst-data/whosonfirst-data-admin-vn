@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033066,
-    "geom:area_square_m":387036575.828707,
+    "geom:area_square_m":387036291.879937,
     "geom:bbox":"105.462764,18.692299,105.749328,18.904131",
     "geom:latitude":18.808745,
     "geom:longitude":105.607664,
@@ -60,10 +60,12 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NA.NL"
+    },
     "wof:country":"VN",
     "wof:created":1481741340,
-    "wof:geomhash":"3285613ee985c102152ff95d403b86b6",
+    "wof:geomhash":"dd8611fce53dadcb22eab3b12a837444",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781485,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"Nghi Loc",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

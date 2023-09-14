@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017521,
-    "geom:area_square_m":202360417.974419,
+    "geom:area_square_m":202360496.013962,
     "geom:bbox":"106.757919,20.805416,106.954613,21.037881",
     "geom:latitude":20.923885,
     "geom:longitude":106.843888,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Qu\u1ea3ng Y\u00ean Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "urban district"
+    ],
     "lbl:latitude":20.889488,
     "lbl:longitude":106.827551,
     "lbl:max_zoom":10.0,
@@ -54,6 +60,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":88,
+    "statoids:capital":"Hai Phong",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.HP.HA",
+    "statoids:name":"Hai An",
+    "statoids:population":74734,
+    "statoids:statoid":"VN.HP",
+    "statoids:timezone":"+7",
+    "statoids:type":"urban district",
     "wof:belongsto":[
         102191569,
         85632763,
@@ -61,11 +79,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"VN.HP.HA",
         "wd:id":"Q7268866"
     },
     "wof:country":"VN",
     "wof:created":1481741111,
-    "wof:geomhash":"255af7cc4c945d72a68c545791ab5748",
+    "wof:geomhash":"82b0780f221551719a7433056b834b53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,10 +94,12 @@
         }
     ],
     "wof:id":1108781137,
-    "wof:lastmodified":1690921566,
+    "wof:lastmodified":1694639797,
     "wof:name":"Quang Yen",
     "wof:parent_id":85680583,
     "wof:placetype":"county",
+    "wof:population":74734,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

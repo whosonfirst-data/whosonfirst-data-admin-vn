@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048091,
-    "geom:area_square_m":583316688.407281,
+    "geom:area_square_m":583316871.02563,
     "geom:bbox":"106.504467,11.037832,106.719688,11.390848",
     "geom:latitude":11.203351,
     "geom:longitude":106.60611,
@@ -60,10 +60,12 @@
         85680735
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.BI.BC"
+    },
     "wof:country":"VN",
     "wof:created":1481741641,
-    "wof:geomhash":"eae043dfb154ec3c8b0123a5e340ad01",
+    "wof:geomhash":"7f2bfed92859ce3af99791b24090109c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781957,
-    "wof:lastmodified":1627522975,
+    "wof:lastmodified":1694492809,
     "wof:name":"Ben Cat",
     "wof:parent_id":85680735,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0306,
-    "geom:area_square_m":372835792.306865,
+    "geom:area_square_m":372835682.480357,
     "geom:bbox":"104.920622,9.695191,105.149295,9.947889",
     "geom:latitude":9.820807,
     "geom:longitude":105.048402,
@@ -60,10 +60,12 @@
         85680815
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.KG.AB"
+    },
     "wof:country":"VN",
     "wof:created":1481741822,
-    "wof:geomhash":"38771bbe2dacbfc3ce15d2b21b3d4b54",
+    "wof:geomhash":"fb15778cc4f0cc866b5c78ede3c93098",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782237,
-    "wof:lastmodified":1627522972,
+    "wof:lastmodified":1694492808,
     "wof:name":"An Bien",
     "wof:parent_id":85680815,
     "wof:placetype":"county",

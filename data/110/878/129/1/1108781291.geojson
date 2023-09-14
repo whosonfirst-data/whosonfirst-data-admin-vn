@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016486,
-    "geom:area_square_m":190560247.435768,
+    "geom:area_square_m":190560675.89995,
     "geom:bbox":"106.847084,20.710417,107.114586,20.877083",
     "geom:latitude":20.800226,
     "geom:longitude":107.000558,
@@ -60,10 +60,12 @@
         85680645
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HP.CH"
+    },
     "wof:country":"VN",
     "wof:created":1481741211,
-    "wof:geomhash":"f6795057a07a82ce0d979c86369c4a8d",
+    "wof:geomhash":"475bd3aeee7f7bd03161f8ac24a60238",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781291,
-    "wof:lastmodified":1627522977,
+    "wof:lastmodified":1694492809,
     "wof:name":"Cat Hai",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

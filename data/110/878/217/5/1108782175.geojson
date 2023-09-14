@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024967,
-    "geom:area_square_m":303174918.830634,
+    "geom:area_square_m":303174808.276867,
     "geom:bbox":"105.368848,10.7808,105.610214,10.973351",
     "geom:latitude":10.874879,
     "geom:longitude":105.484016,
@@ -60,10 +60,12 @@
         85680807
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DT.TH"
+    },
     "wof:country":"VN",
     "wof:created":1481741781,
-    "wof:geomhash":"7cd84db8435a34f0d78bf76dcd0b2999",
+    "wof:geomhash":"db1e9ace571c69e839fe70b715e19be1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782175,
-    "wof:lastmodified":1627523001,
+    "wof:lastmodified":1694492820,
     "wof:name":"Tan Hong",
     "wof:parent_id":85680807,
     "wof:placetype":"county",

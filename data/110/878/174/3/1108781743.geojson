@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026549,
-    "geom:area_square_m":321402961.295843,
+    "geom:area_square_m":321403081.866148,
     "geom:bbox":"108.96175,11.63,109.201225,11.862979",
     "geom:latitude":11.747,
     "geom:longitude":109.066218,
     "iso:country":"VN",
+    "label:eng_x_preferred_longname":[
+        "Thuan Bac District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.751416,
     "lbl:longitude":109.054583,
     "lbl:max_zoom":10.0,
@@ -28,21 +34,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Thuan Bac"
+    ],
     "name:fra_x_preferred":[
         "Thu\u1eadn B\u1eafc"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2003-01-01",
+    "statoids:areakm":571,
+    "statoids:capital":"Khanh Hai",
+    "statoids:country":"VN",
+    "statoids:date":"2003-01-01",
+    "statoids:hasc":"VN.NT.NH",
+    "statoids:name":"Ninh Hai",
+    "statoids:population":123900,
+    "statoids:statoid":"VN.NT",
+    "statoids:timezone":"+7",
+    "statoids:type":"district",
     "wof:belongsto":[
         102191569,
         85632763,
         85680727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NT.NH"
+    },
     "wof:country":"VN",
     "wof:created":1481741500,
-    "wof:geomhash":"4b8e5cacffbf5939ee00fc3725e80c0a",
+    "wof:geomhash":"14ca1194f1e2c2c9918e5407139b6ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,10 +75,12 @@
         }
     ],
     "wof:id":1108781743,
-    "wof:lastmodified":1628266725,
+    "wof:lastmodified":1694639798,
     "wof:name":"Thuan Bac",
     "wof:parent_id":85680727,
     "wof:placetype":"county",
+    "wof:population":123900,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

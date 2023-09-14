@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030594,
-    "geom:area_square_m":348692615.878325,
+    "geom:area_square_m":348692448.27423,
     "geom:bbox":"105.845077,22.68328,106.056876,22.950367",
     "geom:latitude":22.817798,
     "geom:longitude":105.948591,
@@ -60,10 +60,12 @@
         85680859
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CB.TN"
+    },
     "wof:country":"VN",
     "wof:created":1481740944,
-    "wof:geomhash":"afb7cc12498742a28fe70ea7a3830b24",
+    "wof:geomhash":"e8bb3934033015f4560792c90e526714",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780881,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thong Nong",
     "wof:parent_id":85680859,
     "wof:placetype":"county",

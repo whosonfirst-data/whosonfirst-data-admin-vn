@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040659,
-    "geom:area_square_m":474102350.815505,
+    "geom:area_square_m":474102228.078106,
     "geom:bbox":"105.626835,19.292317,105.943726,19.612917",
     "geom:latitude":19.437923,
     "geom:longitude":105.738349,
@@ -60,10 +60,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.TG"
+    },
     "wof:country":"VN",
     "wof:created":1481741307,
-    "wof:geomhash":"b872683a4f059c7fec7688ebbc602f48",
+    "wof:geomhash":"994ecf5ccb48c7f95a773857c27fe467",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781445,
-    "wof:lastmodified":1627523005,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tinh Gia",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

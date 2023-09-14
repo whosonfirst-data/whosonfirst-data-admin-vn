@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076278,
-    "geom:area_square_m":912968729.416144,
+    "geom:area_square_m":912968209.772759,
     "geom:bbox":"108.059221,14.334113,108.384306,14.767479",
     "geom:latitude":14.544237,
     "geom:longitude":108.186565,
@@ -60,10 +60,12 @@
         85680757
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.KT.KR"
+    },
     "wof:country":"VN",
     "wof:created":1481741528,
-    "wof:geomhash":"c9ccb7f8a421dab2cfc18af8ec100edc",
+    "wof:geomhash":"1d2d40c53a3b9a12759dbd741363c503",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781785,
-    "wof:lastmodified":1627522988,
+    "wof:lastmodified":1694492814,
     "wof:name":"Kon Ray",
     "wof:parent_id":85680757,
     "wof:placetype":"county",

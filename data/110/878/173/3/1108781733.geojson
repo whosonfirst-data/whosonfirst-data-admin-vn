@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028147,
-    "geom:area_square_m":340403767.918371,
+    "geom:area_square_m":340403592.513356,
     "geom:bbox":"108.775728,11.915933,109.01,12.146129",
     "geom:latitude":12.028968,
     "geom:longitude":108.905387,
@@ -60,10 +60,12 @@
         85680719
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.KH.KS"
+    },
     "wof:country":"VN",
     "wof:created":1481741494,
-    "wof:geomhash":"c06c5d294abb523ad44efd5dd879698b",
+    "wof:geomhash":"1a7b883903dfd462c7e07b6d1b1f5e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781733,
-    "wof:lastmodified":1627522987,
+    "wof:lastmodified":1694492814,
     "wof:name":"Khanh Son",
     "wof:parent_id":85680719,
     "wof:placetype":"county",

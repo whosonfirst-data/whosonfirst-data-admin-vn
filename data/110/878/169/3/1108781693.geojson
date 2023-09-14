@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041801,
-    "geom:area_square_m":502536081.471697,
+    "geom:area_square_m":502535892.014686,
     "geom:bbox":"109.09508,13.361683,109.335388,13.69584",
     "geom:latitude":13.52566,
     "geom:longitude":109.19628,
@@ -60,10 +60,12 @@
         85680733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.PY.SC"
+    },
     "wof:country":"VN",
     "wof:created":1481741469,
-    "wof:geomhash":"b5929ed7596bdbc71e4d151bd0a8e5ab",
+    "wof:geomhash":"0ccedcb7d5b450ace08b80b11321a191",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781693,
-    "wof:lastmodified":1627523000,
+    "wof:lastmodified":1694492820,
     "wof:name":"Song Cau",
     "wof:parent_id":85680733,
     "wof:placetype":"county",

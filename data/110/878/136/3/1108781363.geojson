@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009867,
-    "geom:area_square_m":114423996.80209,
+    "geom:area_square_m":114423660.389497,
     "geom:bbox":"106.296769,20.23022,106.430001,20.377884",
     "geom:latitude":20.3061,
     "geom:longitude":106.354916,
@@ -60,10 +60,12 @@
         85680677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ND.XT"
+    },
     "wof:country":"VN",
     "wof:created":1481741254,
-    "wof:geomhash":"f35500fba1ff21dd11cdcfb393e758ef",
+    "wof:geomhash":"0025c99e1f3e79e2185133ec31484bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781363,
-    "wof:lastmodified":1627523009,
+    "wof:lastmodified":1694492824,
     "wof:name":"Xuan Truong",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

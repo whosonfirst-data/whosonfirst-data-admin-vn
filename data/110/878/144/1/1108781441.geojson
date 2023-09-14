@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009832,
-    "geom:area_square_m":114378865.222741,
+    "geom:area_square_m":114378956.093252,
     "geom:bbox":"105.63995,19.729272,105.76432,19.869582",
     "geom:latitude":19.803938,
     "geom:longitude":105.709921,
@@ -66,10 +66,12 @@
         85680619
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TH.DS"
+    },
     "wof:country":"VN",
     "wof:created":1481741304,
-    "wof:geomhash":"df6c00ad7e35eac99df6fddfa34dd4e8",
+    "wof:geomhash":"faa2f439deb3d98e94791323fbbbaa05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1108781441,
-    "wof:lastmodified":1627522982,
+    "wof:lastmodified":1694492812,
     "wof:name":"Dong Son",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

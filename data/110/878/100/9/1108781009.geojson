@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181126,
-    "geom:area_square_m":2093094955.864527,
+    "geom:area_square_m":2093094518.91789,
     "geom:bbox":"104.404875,20.573666,105.02173,21.069674",
     "geom:latitude":20.842272,
     "geom:longitude":104.71182,
@@ -60,10 +60,12 @@
         85680615
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.SL.MC"
+    },
     "wof:country":"VN",
     "wof:created":1481741029,
-    "wof:geomhash":"ddcdc315b479b1c6e3d2072ed128964d",
+    "wof:geomhash":"38645df2e85b386cbafebbfaa4324357",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781009,
-    "wof:lastmodified":1627522991,
+    "wof:lastmodified":1694492815,
     "wof:name":"Moc Chau",
     "wof:parent_id":85680615,
     "wof:placetype":"county",

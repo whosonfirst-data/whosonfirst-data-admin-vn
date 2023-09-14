@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015486,
-    "geom:area_square_m":179651621.071964,
+    "geom:area_square_m":179651451.456007,
     "geom:bbox":"106.348375,20.178694,106.562943,20.312889",
     "geom:latitude":20.252124,
     "geom:longitude":106.451027,
@@ -60,10 +60,12 @@
         85680677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ND.GT"
+    },
     "wof:country":"VN",
     "wof:created":1481741256,
-    "wof:geomhash":"164bd80b55e19bc5ec7e8234ed025a29",
+    "wof:geomhash":"3c4391d396c611e60451532a8dc9710b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781365,
-    "wof:lastmodified":1627522984,
+    "wof:lastmodified":1694492812,
     "wof:name":"Giao Thuy",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

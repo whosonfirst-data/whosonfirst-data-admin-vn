@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008712,
-    "geom:area_square_m":105781228.863856,
+    "geom:area_square_m":105781039.305592,
     "geom:bbox":"106.513611,10.826597,106.693292,10.927603",
     "geom:latitude":10.886592,
     "geom:longitude":106.592007,
@@ -60,10 +60,12 @@
         85680809
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HC.HM"
+    },
     "wof:country":"VN",
     "wof:created":1481741700,
-    "wof:geomhash":"1cbceda049b5634abdccde2e08e9a860",
+    "wof:geomhash":"38bff447a4ceb05dddabbf1b9b49c418",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782051,
-    "wof:lastmodified":1627522986,
+    "wof:lastmodified":1694492813,
     "wof:name":"Hoc Mon",
     "wof:parent_id":85680809,
     "wof:placetype":"county",

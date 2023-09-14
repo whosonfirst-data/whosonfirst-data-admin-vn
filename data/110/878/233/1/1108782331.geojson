@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055185,
-    "geom:area_square_m":673719404.961099,
+    "geom:area_square_m":673719126.01465,
     "geom:bbox":"104.807892,8.974556,105.115781,9.28311",
     "geom:latitude":9.131979,
     "geom:longitude":104.920934,
@@ -60,10 +60,12 @@
         85680839
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.CM.TV"
+    },
     "wof:country":"VN",
     "wof:created":1481741882,
-    "wof:geomhash":"0a9c7486cf6a9a6f307f89b85a789f44",
+    "wof:geomhash":"cf07fb2fe186ef8dad5ac6db202d8159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782331,
-    "wof:lastmodified":1627523005,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tran Van Thoi",
     "wof:parent_id":85680839,
     "wof:placetype":"county",

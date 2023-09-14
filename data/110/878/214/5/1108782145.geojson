@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029341,
-    "geom:area_square_m":357625747.364019,
+    "geom:area_square_m":357625526.751712,
     "geom:bbox":"106.142175,9.607687,106.409186,9.803711",
     "geom:latitude":9.698943,
     "geom:longitude":106.289574,
@@ -60,10 +60,12 @@
         85680849
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.TV.TU"
+    },
     "wof:country":"VN",
     "wof:created":1481741764,
-    "wof:geomhash":"1f23d9e6d3d423ead0f43f140c0b3296",
+    "wof:geomhash":"67f789980902580aa836741dd0a28041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782145,
-    "wof:lastmodified":1627523005,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tra Cu",
     "wof:parent_id":85680849,
     "wof:placetype":"county",

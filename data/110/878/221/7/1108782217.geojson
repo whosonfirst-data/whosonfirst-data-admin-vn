@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042255,
-    "geom:area_square_m":514073747.023189,
+    "geom:area_square_m":514073206.545101,
     "geom:bbox":"105.066006,10.186077,105.440688,10.385096",
     "geom:latitude":10.300156,
     "geom:longitude":105.236891,
@@ -60,10 +60,12 @@
         85680797
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.AG.TS"
+    },
     "wof:country":"VN",
     "wof:created":1481741809,
-    "wof:geomhash":"53f7885d97ef536454ff438f662f2078",
+    "wof:geomhash":"cb21c9ed53098ebfbed61fd4fe07cc21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108782217,
-    "wof:lastmodified":1627523004,
+    "wof:lastmodified":1694492821,
     "wof:name":"Thoai Son",
     "wof:parent_id":85680797,
     "wof:placetype":"county",

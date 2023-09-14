@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096466,
-    "geom:area_square_m":1108521087.68296,
+    "geom:area_square_m":1108520648.1809,
     "geom:bbox":"103.144702,21.425549,103.593974,21.856723",
     "geom:latitude":21.669065,
     "geom:longitude":103.395307,
@@ -60,10 +60,12 @@
         85680593
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.DB.TG"
+    },
     "wof:country":"VN",
     "wof:created":1481740999,
-    "wof:geomhash":"3e910adeb4ff812cc1c3eda40ba4dcc4",
+    "wof:geomhash":"4fd4f94ac15d9e13ab069523585efcd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780967,
-    "wof:lastmodified":1627523006,
+    "wof:lastmodified":1694492822,
     "wof:name":"Tuan Giao",
     "wof:parent_id":85680593,
     "wof:placetype":"county",

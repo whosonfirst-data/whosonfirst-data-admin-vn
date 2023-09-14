@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020701,
-    "geom:area_square_m":239460503.782341,
+    "geom:area_square_m":239460570.927012,
     "geom:bbox":"105.632952,20.564022,105.809571,20.831875",
     "geom:latitude":20.692304,
     "geom:longitude":105.714903,
@@ -60,10 +60,12 @@
         85680653
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.HI.MD"
+    },
     "wof:country":"VN",
     "wof:created":1481740923,
-    "wof:geomhash":"16186561fdd8d2b6cc7d43a8ec5949dc",
+    "wof:geomhash":"9571d282159154b71520abbb88a83385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108780847,
-    "wof:lastmodified":1627522992,
+    "wof:lastmodified":1694492816,
     "wof:name":"My Duc",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

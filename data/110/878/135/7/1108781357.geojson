@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0121,
-    "geom:area_square_m":140284510.284319,
+    "geom:area_square_m":140284512.96875,
     "geom:bbox":"106.149612,20.263114,106.284515,20.419064",
     "geom:latitude":20.349843,
     "geom:longitude":106.208396,
@@ -60,10 +60,12 @@
         85680677
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.ND.NT"
+    },
     "wof:country":"VN",
     "wof:created":1481741251,
-    "wof:geomhash":"bda7bc8844c6c52f1339050f8fd0848b",
+    "wof:geomhash":"44f744f16f388dbc8d3766ba6141c59c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781357,
-    "wof:lastmodified":1627522993,
+    "wof:lastmodified":1694492816,
     "wof:name":"Nam Truc",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

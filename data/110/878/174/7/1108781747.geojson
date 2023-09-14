@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064663,
-    "geom:area_square_m":782953562.169817,
+    "geom:area_square_m":782953394.579494,
     "geom:bbox":"108.548175,11.498691,108.940552,11.923547",
     "geom:latitude":11.702166,
     "geom:longitude":108.728468,
@@ -60,10 +60,12 @@
         85680727
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"VN.NT.NS"
+    },
     "wof:country":"VN",
     "wof:created":1481741503,
-    "wof:geomhash":"f382bd15837c4ce0efc1ab2013bfda43",
+    "wof:geomhash":"dc4a49753dcaa9dac9b5940786dd255d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1108781747,
-    "wof:lastmodified":1627522995,
+    "wof:lastmodified":1694492817,
     "wof:name":"Ninh Son",
     "wof:parent_id":85680727,
     "wof:placetype":"county",
