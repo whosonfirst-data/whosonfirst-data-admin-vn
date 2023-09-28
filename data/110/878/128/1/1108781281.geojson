@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.HP.AL"
+        "hasc:id":"VN.HP.AL",
+        "meso:local_id":"31313"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741200,
     "wof:geomhash":"0f919931bc4679e8f5fd53251059e990",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781281,
-    "wof:lastmodified":1694492808,
+    "wof:lastmodified":1695886183,
     "wof:name":"An Lao",
     "wof:parent_id":85680645,
     "wof:placetype":"county",

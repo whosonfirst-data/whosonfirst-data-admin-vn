@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.HT.TH"
+        "hasc:id":"VN.HT.TH",
+        "meso:local_id":"42445"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741357,
     "wof:geomhash":"3887fa9e976a0c2bdb1bd3c4bb515828",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781513,
-    "wof:lastmodified":1694492820,
+    "wof:lastmodified":1695886220,
     "wof:name":"Thach Ha",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

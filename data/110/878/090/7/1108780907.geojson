@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BK.BB"
+        "hasc:id":"VN.BK.BB",
+        "meso:local_id":"6061"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481740961,
     "wof:geomhash":"cce1c817e317c62a388a787b686bd72c",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780907,
-    "wof:lastmodified":1694492808,
+    "wof:lastmodified":1695886183,
     "wof:name":"Ba Be",
     "wof:parent_id":85680597,
     "wof:placetype":"county",

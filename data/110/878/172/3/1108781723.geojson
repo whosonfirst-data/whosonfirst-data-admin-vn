@@ -48,7 +48,10 @@
         85680719
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"56570"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741488,
     "wof:geomhash":"62f320c3b3d2b54aedfdb04d8b7a2aff",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108781723,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886273,
     "wof:name":"Cam Lam",
     "wof:parent_id":85680719,
     "wof:placetype":"county",

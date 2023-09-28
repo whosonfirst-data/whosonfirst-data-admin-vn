@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BK.PN"
+        "hasc:id":"VN.BK.PN",
+        "meso:local_id":"6060"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481740960,
     "wof:geomhash":"60cde4ee4d13cd0082d46118b04a6702",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780905,
-    "wof:lastmodified":1694492817,
+    "wof:lastmodified":1695886209,
     "wof:name":"Pac Nam",
     "wof:parent_id":85680597,
     "wof:placetype":"county",

@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.KH.VN"
+        "hasc:id":"VN.KH.VN",
+        "meso:local_id":"56571"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741489,
     "wof:geomhash":"762e3872a40894188ec53e4eb3ecb3ae",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781725,
-    "wof:lastmodified":1694492823,
+    "wof:lastmodified":1695886229,
     "wof:name":"Van Ninh",
     "wof:parent_id":85680719,
     "wof:placetype":"county",

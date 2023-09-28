@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.HY.PC"
+        "hasc:id":"VN.HY.PC",
+        "meso:local_id":"33333"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741225,
     "wof:geomhash":"f3bc075026ed28631653fe910ddb9972",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781313,
-    "wof:lastmodified":1694492817,
+    "wof:lastmodified":1695886211,
     "wof:name":"Phu Cu",
     "wof:parent_id":85680649,
     "wof:placetype":"county",

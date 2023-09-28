@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.HI.DD"
+        "hasc:id":"VN.HI.DD",
+        "meso:local_id":"1006"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481740890,
     "wof:geomhash":"7aea55bda9981778b05c95859ea1abda",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780795,
-    "wof:lastmodified":1694492811,
+    "wof:lastmodified":1695886193,
     "wof:name":"Dong Da",
     "wof:parent_id":85680653,
     "wof:placetype":"county",

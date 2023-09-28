@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LA.TH"
+        "hasc:id":"VN.LA.TH",
+        "meso:local_id":"80800"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741719,
     "wof:geomhash":"833f63c30df5d791318d4cfdb129afa6",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108782073,
-    "wof:lastmodified":1694492821,
+    "wof:lastmodified":1695886222,
     "wof:name":"Thanh Hoa",
     "wof:parent_id":85680817,
     "wof:placetype":"county",

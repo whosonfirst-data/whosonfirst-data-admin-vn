@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LA.DU"
+        "hasc:id":"VN.LA.DU",
+        "meso:local_id":"80801"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741721,
     "wof:geomhash":"3a314a9d8ee1f625d241120686460337",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108782075,
-    "wof:lastmodified":1694492812,
+    "wof:lastmodified":1695886195,
     "wof:name":"Duc Hue",
     "wof:parent_id":85680817,
     "wof:placetype":"county",

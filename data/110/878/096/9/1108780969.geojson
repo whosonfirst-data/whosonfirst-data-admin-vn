@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.DB.DB"
+        "hasc:id":"VN.DB.DB",
+        "meso:local_id":"11100"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741001,
     "wof:geomhash":"a0ff915dde905a93c5f192270861b919",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780969,
-    "wof:lastmodified":1694492811,
+    "wof:lastmodified":1695886192,
     "wof:name":"Dien Bien",
     "wof:parent_id":85680593,
     "wof:placetype":"county",

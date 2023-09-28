@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.AS"
+        "hasc:id":"VN.NA.AS",
+        "meso:local_id":"40424"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741326,
     "wof:geomhash":"d1815a5d4e9067fc74f16100231f8d9c",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781475,
-    "wof:lastmodified":1694492808,
+    "wof:lastmodified":1695886183,
     "wof:name":"Anh Son",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

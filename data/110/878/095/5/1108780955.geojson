@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LO.VB"
+        "hasc:id":"VN.LO.VB",
+        "meso:local_id":"10089"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481740992,
     "wof:geomhash":"ce61dca77cbc2c46920f738171d5f988",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780955,
-    "wof:lastmodified":1694492822,
+    "wof:lastmodified":1695886227,
     "wof:name":"Van Ban",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

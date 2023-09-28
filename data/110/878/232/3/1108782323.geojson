@@ -57,7 +57,10 @@
         85680833
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"95961"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741876,
     "wof:geomhash":"b737909f43cddc9cfc0a48f29986fb81",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108782323,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886160,
     "wof:name":"Hoa Binh",
     "wof:parent_id":85680833,
     "wof:placetype":"county",

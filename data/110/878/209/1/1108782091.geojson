@@ -79,8 +79,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LA.CT"
+        "hasc:id":"VN.LA.CT",
+        "meso:local_id":"80808"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741730,
     "wof:geomhash":"4112e2e4fb5eb75d081db28996708c63",
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":1108782091,
-    "wof:lastmodified":1694492810,
+    "wof:lastmodified":1695886188,
     "wof:name":"Chau Thanh",
     "wof:parent_id":85680817,
     "wof:placetype":"county",

@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BU.HT"
+        "hasc:id":"VN.BU.HT",
+        "meso:local_id":"60601"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741517,
     "wof:geomhash":"461a8b13dcf9c20c688de9d018802910",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781769,
-    "wof:lastmodified":1694492813,
+    "wof:lastmodified":1695886198,
     "wof:name":"Ham Tan",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

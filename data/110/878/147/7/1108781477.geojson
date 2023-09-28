@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.DC"
+        "hasc:id":"VN.NA.DC",
+        "meso:local_id":"40425"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741333,
     "wof:geomhash":"6f36a8e672f45eee35d5886219ac2e12",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781477,
-    "wof:lastmodified":1694492811,
+    "wof:lastmodified":1695886192,
     "wof:name":"Dien Chau",
     "wof:parent_id":85680699,
     "wof:placetype":"county",
