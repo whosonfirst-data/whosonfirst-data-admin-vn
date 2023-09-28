@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084484,
-    "geom:area_square_m":1003831679.039804,
+    "geom:area_square_m":1003831615.636266,
     "geom:bbox":"107.816416,15.914306,108.34375,16.224583",
     "geom:latitude":16.070999,
     "geom:longitude":108.062004,
@@ -510,16 +510,18 @@
         "gn:id":1905468,
         "gp:id":20070085,
         "hasc:id":"VN.DA",
+        "iso:code":"VN-DN",
         "iso:id":"VN-DN",
         "qs_pg:id":332093,
         "unlc:id":"VN-DN",
         "wd:id":"Q25282"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5b56dddd83bd269d0b0b248351427eb",
+    "wof:geomhash":"f9ddd00b87644f6c17ab46db44dbb24f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -534,7 +536,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921478,
+    "wof:lastmodified":1695884380,
     "wof:name":"\u0110\u00e0 N\u1eb5ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

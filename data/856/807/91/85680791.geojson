@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.487597,
-    "geom:area_square_m":5917255880.47344,
+    "geom:area_square_m":5917255652.779799,
     "geom:bbox":"106.74976,10.526316,107.575252,11.563264",
     "geom:latitude":11.057222,
     "geom:longitude":107.18192,
@@ -280,15 +280,17 @@
         "gn:id":1582720,
         "gp:id":2347721,
         "hasc:id":"VN.DN",
+        "iso:code":"VN-39",
         "iso:id":"VN-39",
         "qs_pg:id":1135474,
         "wd:id":"Q33271"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34bbb04c2f4eb2590ac701a263d175bd",
+    "wof:geomhash":"fa82ca9881534ef907486d7fdc64ed49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921475,
+    "wof:lastmodified":1695884379,
     "wof:name":"\u0110\u00f4ng Nam B\u1ed9",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

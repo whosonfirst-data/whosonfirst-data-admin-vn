@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119276,
-    "geom:area_square_m":1451948059.057816,
+    "geom:area_square_m":1451948127.36971,
     "geom:bbox":"105.222368,9.921545,105.840107,10.325055",
     "geom:latitude":10.1149,
     "geom:longitude":105.528826,
@@ -368,6 +368,7 @@
         "gn:id":1581188,
         "gp:id":2347732,
         "hasc:id":"VN.CN",
+        "iso:code":"VN-CT",
         "iso:id":"VN-CT",
         "loc:id":"no2005071620",
         "qs_pg:id":890116,
@@ -375,11 +376,12 @@
         "wd:id":"Q216075",
         "wk:page":"C\u1ea7n Th\u01a1"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c92c5d9810f5513f432ebf7c47ec750",
+    "wof:geomhash":"b7276bdb5db701efda4d172304a51f54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -394,7 +396,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921477,
+    "wof:lastmodified":1695884380,
     "wof:name":"Can Tho",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

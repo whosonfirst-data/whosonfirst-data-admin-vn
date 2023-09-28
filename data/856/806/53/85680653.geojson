@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290661,
-    "geom:area_square_m":3355375750.234295,
+    "geom:area_square_m":3355375408.575541,
     "geom:bbox":"105.284499,20.564022,106.01882,21.387792",
     "geom:latitude":20.998651,
     "geom:longitude":105.699248,
@@ -703,16 +703,18 @@
         "gn:id":1581129,
         "gp:id":2347727,
         "hasc:id":"VN.HI",
+        "iso:code":"VN-HN",
         "iso:id":"VN-HN",
         "qs_pg:id":235662,
         "unlc:id":"VN-HN",
         "wd:id":"Q1858"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eff777fd14677fb498afce5f6dc73f6f",
+    "wof:geomhash":"2b7a1003618c69dd9f979495c0edf422",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -727,7 +729,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921494,
+    "wof:lastmodified":1695884381,
     "wof:name":"Ha Tay",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
