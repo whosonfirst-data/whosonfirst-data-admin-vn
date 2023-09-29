@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BU.DL"
+        "hasc:id":"VN.BU.DL",
+        "meso:local_id":"60600"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741516,
     "wof:geomhash":"a1c3c442ec9657d0762b2c1e76e38553",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781767,
-    "wof:lastmodified":1694492812,
+    "wof:lastmodified":1695886195,
     "wof:name":"Duc Linh",
     "wof:parent_id":85680787,
     "wof:placetype":"county",

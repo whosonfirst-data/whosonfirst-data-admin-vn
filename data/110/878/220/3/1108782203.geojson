@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.AG.PT"
+        "hasc:id":"VN.AG.PT",
+        "meso:local_id":"89888"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741800,
     "wof:geomhash":"385774f7a9c1785cb05c107d11640f2e",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108782203,
-    "wof:lastmodified":1694492818,
+    "wof:lastmodified":1695886211,
     "wof:name":"Phu Tan",
     "wof:parent_id":85680797,
     "wof:placetype":"county",

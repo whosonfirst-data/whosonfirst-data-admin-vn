@@ -341,8 +341,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"VN.BR.BE",
+        "meso:local_id":"83829",
         "wd:id":"Q36635"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741744,
     "wof:geomhash":"e88044bd500bc7b038344bbe448a5935",
@@ -355,7 +357,7 @@
         }
     ],
     "wof:id":1108782113,
-    "wof:lastmodified":1694492407,
+    "wof:lastmodified":1695886429,
     "wof:name":"Ben Tre",
     "wof:parent_id":85680825,
     "wof:placetype":"county",

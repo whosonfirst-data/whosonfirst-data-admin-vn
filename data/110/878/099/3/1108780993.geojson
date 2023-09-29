@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LI.MT"
+        "hasc:id":"VN.LI.MT",
+        "meso:local_id":"12112"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741018,
     "wof:geomhash":"8ed9a032f2727be66ad31b53d5baf4be",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108780993,
-    "wof:lastmodified":1694639798,
+    "wof:lastmodified":1695886358,
     "wof:name":"Nam Nhun",
     "wof:parent_id":85680607,
     "wof:placetype":"county",

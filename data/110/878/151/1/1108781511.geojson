@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.HT.HK"
+        "hasc:id":"VN.HT.HK",
+        "meso:local_id":"42444"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741356,
     "wof:geomhash":"fa3d6471313337813e77589c718c9250",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781511,
-    "wof:lastmodified":1694492814,
+    "wof:lastmodified":1695886200,
     "wof:name":"Huong Khe",
     "wof:parent_id":85680695,
     "wof:placetype":"county",

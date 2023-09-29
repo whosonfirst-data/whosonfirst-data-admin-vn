@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.NL"
+        "hasc:id":"VN.NA.NL",
+        "meso:local_id":"40429"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741340,
     "wof:geomhash":"dd8611fce53dadcb22eab3b12a837444",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781485,
-    "wof:lastmodified":1694492816,
+    "wof:lastmodified":1695886207,
     "wof:name":"Nghi Loc",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

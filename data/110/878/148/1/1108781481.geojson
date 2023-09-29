@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.DL"
+        "hasc:id":"VN.NA.DL",
+        "meso:local_id":"40427"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741337,
     "wof:geomhash":"3f84f967e3a36380477dbaca27f8cc7b",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781481,
-    "wof:lastmodified":1694492812,
+    "wof:lastmodified":1695886194,
     "wof:name":"Do Luong",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

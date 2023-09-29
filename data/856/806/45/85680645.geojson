@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110645,
-    "geom:area_square_m":1278996139.273294,
+    "geom:area_square_m":1278996139.273453,
     "geom:bbox":"106.400001,20.598251,107.114586,21.026142",
     "geom:latitude":20.798238,
     "geom:longitude":106.67169,
@@ -403,17 +403,19 @@
         "gn:id":1581297,
         "gp:id":2347707,
         "hasc:id":"VN.HP",
+        "iso:code":"VN-HP",
         "iso:id":"VN-HP",
         "qs_pg:id":235656,
         "unlc:id":"VN-HP",
         "wd:id":"Q72818"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"f8f3031f83b6f26e4d21581a03296d49",
+    "wof:geomhash":"40f0f567126aaef065728051ad4713bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -428,7 +430,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921492,
+    "wof:lastmodified":1695884652,
     "wof:name":"H\u1ea3i Ph\u00f2ng",
     "wof:parent_id":85632763,
     "wof:placetype":"region",

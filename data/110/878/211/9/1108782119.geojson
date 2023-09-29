@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BR.MC"
+        "hasc:id":"VN.BR.MC",
+        "meso:local_id":"83833"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741747,
     "wof:geomhash":"b1b6ceb5ee04f2359663f4de58df1e6b",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108782119,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886352,
     "wof:name":"Mo Cay Nam",
     "wof:parent_id":85680825,
     "wof:placetype":"county",

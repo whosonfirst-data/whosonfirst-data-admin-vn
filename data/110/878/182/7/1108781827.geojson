@@ -48,7 +48,10 @@
         85680713
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"64638"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741554,
     "wof:geomhash":"ae2796b836abc85774c6d918dd18a37e",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108781827,
-    "wof:lastmodified":1694498075,
+    "wof:lastmodified":1695886376,
     "wof:name":"Phu Thien",
     "wof:parent_id":85680713,
     "wof:placetype":"county",

@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.DC.LA"
+        "hasc:id":"VN.DC.LA",
+        "meso:local_id":"66656"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741575,
     "wof:geomhash":"001c72ea018bad5b582c4857dfe202fc",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781861,
-    "wof:lastmodified":1694492815,
+    "wof:lastmodified":1695886203,
     "wof:name":"Lak",
     "wof:parent_id":85680707,
     "wof:placetype":"county",

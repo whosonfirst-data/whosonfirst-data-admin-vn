@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.ND.ML"
+        "hasc:id":"VN.ND.ML",
+        "meso:local_id":"36358"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741247,
     "wof:geomhash":"c388eb2a70678f033936e64e8a77b8f8",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781349,
-    "wof:lastmodified":1694492816,
+    "wof:lastmodified":1695886206,
     "wof:name":"My Loc",
     "wof:parent_id":85680677,
     "wof:placetype":"county",

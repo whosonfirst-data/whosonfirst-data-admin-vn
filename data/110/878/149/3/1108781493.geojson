@@ -64,8 +64,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.QL"
+        "hasc:id":"VN.NA.QL",
+        "meso:local_id":"40432"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741344,
     "wof:geomhash":"1da1d96d0f7e71d40837fb3f9ae95ec1",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1108781493,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886302,
     "wof:name":"Hoang Mai",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

@@ -48,7 +48,10 @@
         85680733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"54564"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741479,
     "wof:geomhash":"ce456179bc89e765d1e98b879f35f9af",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108781713,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886285,
     "wof:name":"Dong Hoa",
     "wof:parent_id":85680733,
     "wof:placetype":"county",

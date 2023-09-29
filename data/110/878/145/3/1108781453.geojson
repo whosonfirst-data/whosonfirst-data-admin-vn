@@ -48,7 +48,10 @@
         85680699
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"40414"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741311,
     "wof:geomhash":"0258bccb84ba53c5d6077816af43f1fb",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108781453,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886411,
     "wof:name":"Thai Hoa",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

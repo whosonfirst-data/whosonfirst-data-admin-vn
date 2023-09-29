@@ -48,7 +48,10 @@
         85680629
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"15141"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741048,
     "wof:geomhash":"66a9a617c4a7b16cb236095158f9a2bb",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108781039,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886430,
     "wof:name":"Yen Binh",
     "wof:parent_id":85680629,
     "wof:placetype":"county",

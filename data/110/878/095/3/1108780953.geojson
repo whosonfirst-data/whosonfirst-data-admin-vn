@@ -112,8 +112,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.LO.SP"
+        "hasc:id":"VN.LO.SP",
+        "meso:local_id":"10088"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481740991,
     "wof:geomhash":"aa3b24bd07ab5d754c4f81c15f7faf93",
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1108780953,
-    "wof:lastmodified":1694492408,
+    "wof:lastmodified":1695886433,
     "wof:name":"Sa Pa",
     "wof:parent_id":85680867,
     "wof:placetype":"county",

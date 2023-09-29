@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.TH.HL"
+        "hasc:id":"VN.TH.HL",
+        "meso:local_id":"38400"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741297,
     "wof:geomhash":"016396462258be03cbc7e9758108f1dd",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781429,
-    "wof:lastmodified":1694492813,
+    "wof:lastmodified":1695886198,
     "wof:name":"Hau Loc",
     "wof:parent_id":85680619,
     "wof:placetype":"county",

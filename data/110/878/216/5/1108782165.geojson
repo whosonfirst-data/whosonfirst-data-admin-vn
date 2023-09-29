@@ -48,7 +48,10 @@
         85680853
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"86863"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741776,
     "wof:geomhash":"04b8029bcc28350fede4eb00a65daff4",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108782165,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886267,
     "wof:name":"Binh Tan",
     "wof:parent_id":85680853,
     "wof:placetype":"county",

@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.BP.PL"
+        "hasc:id":"VN.BP.PL",
+        "meso:local_id":"70691"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741614,
     "wof:geomhash":"b70872932b51c48fa1c84173196542be",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781913,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886270,
     "wof:name":"Bu Gia Map",
     "wof:parent_id":85680749,
     "wof:placetype":"county",

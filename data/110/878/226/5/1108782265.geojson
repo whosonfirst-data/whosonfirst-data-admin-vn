@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.CN.VT"
+        "hasc:id":"VN.CN.VT",
+        "meso:local_id":"92925"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741839,
     "wof:geomhash":"b80c500af7a8e49e4f90e765f1b22223",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108782265,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886278,
     "wof:name":"Co Do",
     "wof:parent_id":85680799,
     "wof:placetype":"county",

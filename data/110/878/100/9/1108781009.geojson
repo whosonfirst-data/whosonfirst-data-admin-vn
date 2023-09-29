@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.SL.MC"
+        "hasc:id":"VN.SL.MC",
+        "meso:local_id":"14123"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741029,
     "wof:geomhash":"38645df2e85b386cbafebbfaa4324357",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781009,
-    "wof:lastmodified":1694492815,
+    "wof:lastmodified":1695886204,
     "wof:name":"Moc Chau",
     "wof:parent_id":85680615,
     "wof:placetype":"county",

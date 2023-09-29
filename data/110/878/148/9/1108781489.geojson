@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.NA.ND"
+        "hasc:id":"VN.NA.ND",
+        "meso:local_id":"40430"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741341,
     "wof:geomhash":"37b5c95aa6cf0e6d61fd4d86106ac96c",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781489,
-    "wof:lastmodified":1694492816,
+    "wof:lastmodified":1695886207,
     "wof:name":"Nam Dan",
     "wof:parent_id":85680699,
     "wof:placetype":"county",

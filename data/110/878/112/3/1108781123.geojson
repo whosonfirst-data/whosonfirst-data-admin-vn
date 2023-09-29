@@ -61,8 +61,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"VN.QN.DH"
+        "hasc:id":"VN.QN.DH",
+        "meso:local_id":"22200"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"VN",
     "wof:created":1481741102,
     "wof:geomhash":"56915d9fb47276524c3a4c96ad6f95ac",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108781123,
-    "wof:lastmodified":1694492811,
+    "wof:lastmodified":1695886192,
     "wof:name":"Dam Ha",
     "wof:parent_id":85680583,
     "wof:placetype":"county",

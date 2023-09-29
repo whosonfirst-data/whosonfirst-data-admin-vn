@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.082608,
-    "geom:area_square_m":13052509341.875687,
+    "geom:area_square_m":13052508866.614744,
     "geom:bbox":"107.484724,12.163827,108.993155,13.4154",
     "geom:latitude":12.82525,
     "geom:longitude":108.206158,
@@ -317,15 +317,17 @@
         "gn:id":1584169,
         "gp:id":2347720,
         "hasc:id":"VN.DC",
+        "iso:code":"VN-33",
         "iso:id":"VN-33",
         "qs_pg:id":1135473,
         "wd:id":"Q36690"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37afe7a701dbcba8dfe1b44f2d7a07dc",
+    "wof:geomhash":"c4e7046f54c75fa6e568a24e56090ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "vie"
     ],
-    "wof:lastmodified":1690921475,
+    "wof:lastmodified":1695884379,
     "wof:name":"Dak Lak",
     "wof:parent_id":85632763,
     "wof:placetype":"region",
