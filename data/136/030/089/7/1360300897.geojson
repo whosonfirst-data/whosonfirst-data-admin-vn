@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"105.5672,18.99759,105.5672,18.99759",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Nguy\u00ean Th\u01b0\u1ee3ng"
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":1360300897,
-    "wof:lastmodified":1566650833,
+    "wof:lastmodified":1706241113,
     "wof:name":"Nguyen Thuong",
     "wof:parent_id":1108781477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293498425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

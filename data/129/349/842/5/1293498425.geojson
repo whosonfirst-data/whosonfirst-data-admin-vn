@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":10178539
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10181929
+        ]
+    },
     "wof:country":"VN",
     "wof:geomhash":"7f68977eae3cb92c77e547e39ed6839f",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293498425,
-    "wof:lastmodified":1566648491,
+    "wof:lastmodified":1706241113,
     "wof:name":"Nguyen Thuong",
     "wof:parent_id":1108781477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360300897
+    ],
     "wof:tags":[]
 },
   "bbox": [

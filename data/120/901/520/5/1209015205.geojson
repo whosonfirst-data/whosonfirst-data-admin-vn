@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":1561894
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1561895
+        ]
+    },
     "wof:country":"VN",
     "wof:geomhash":"aa1d9df83c1edec58c3eb9807c681c8a",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209015205,
-    "wof:lastmodified":1566649441,
+    "wof:lastmodified":1706241113,
     "wof:name":"Xom Can",
     "wof:parent_id":85632763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343976551
+    ],
     "wof:tags":[]
 },
   "bbox": [

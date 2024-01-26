@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1566156
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1566157
+        ]
+    },
     "wof:country":"VN",
     "wof:geomhash":"853a4cc5497d15d2d8bbb709e0772285",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1210031805,
-    "wof:lastmodified":1566649901,
+    "wof:lastmodified":1706241113,
     "wof:name":"Thanh Hoi",
     "wof:parent_id":1108781701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293400695
+    ],
     "wof:tags":[]
 },
   "bbox": [
