@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1587035
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8260313
+        ]
+    },
     "wof:country":"VN",
     "wof:geomhash":"7bc7bfa15e0dc602e366d5fb84498dd0",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1259890683,
-    "wof:lastmodified":1566651963,
+    "wof:lastmodified":1706241113,
     "wof:name":"Ea Knop",
     "wof:parent_id":1108781851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293117509
+    ],
     "wof:tags":[]
 },
   "bbox": [

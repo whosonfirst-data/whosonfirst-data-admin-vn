@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":9868138
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9871507
+        ]
+    },
     "wof:country":"VN",
-    "wof:geomhash":"061cf2e4165ccb9a58999fb564511afa",
+    "wof:geomhash":"863852320ba10b1fc05b75f8d71036d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1310323921,
-    "wof:lastmodified":1566650658,
+    "wof:lastmodified":1706241113,
     "wof:name":"Van Son",
     "wof:parent_id":1108781141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327242259
+    ],
     "wof:tags":[]
 },
   "bbox": [
     106.22531,
-    21.25002000000001,
+    21.25002,
     106.22531,
-    21.25002000000001
+    21.25002
 ],
-  "geometry": {"coordinates":[106.22530999999999,21.25002000000001],"type":"Point"}
+  "geometry": {"coordinates":[106.22530999999999,21.25002],"type":"Point"}
 }
