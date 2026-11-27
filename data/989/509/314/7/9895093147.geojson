@@ -1,0 +1,75 @@
+{
+  "id": 9895093147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7404,21.0045,105.7404,21.0045",
+    "geom:latitude":21.0045,
+    "geom:longitude":105.7404,
+    "gn:population":50000,
+    "iso:country":"VN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494193: name \"Vinhomes Smart City\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494193"
+        },
+        {
+            "citation":"GeoNames populated place 13494193: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494193"
+        },
+        {
+            "citation":"GeoNames populated place 13494193: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494193"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108780811 (Tu Liem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763,
+        85680653,
+        102191569,
+        1108780811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494193
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"d6469af1b2c286b0091a9630c83fbe85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780811,
+            "locality_id":9895093147,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":9895093147,
+    "wof:lastmodified":1795747175,
+    "wof:name":"Vinhomes Smart City",
+    "wof:parent_id":1108780811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7404,
+    21.0045,
+    105.7404,
+    21.0045
+],
+  "geometry": {"coordinates":[105.7404,21.0045],"type":"Point"}
+}
