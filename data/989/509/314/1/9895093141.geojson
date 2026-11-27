@@ -1,0 +1,75 @@
+{
+  "id": 9895093141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.73855,10.30989,105.73855,10.30989",
+    "geom:latitude":10.30989,
+    "geom:longitude":105.73855,
+    "gn:population":132000,
+    "iso:country":"VN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12166273: name \"Qu\u1eadn \u0110\u1ee9c Th\u1ecbnh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12166273"
+        },
+        {
+            "citation":"GeoNames populated place 12166273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12166273"
+        },
+        {
+            "citation":"GeoNames populated place 12166273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12166273"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782169 (Sa Dec), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763,
+        85680807,
+        102191569,
+        1108782169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12166273
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f469c2aeed1c240d4e167f7df60ab449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782169,
+            "locality_id":9895093141,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":9895093141,
+    "wof:lastmodified":1795747175,
+    "wof:name":"Qu\u1eadn \u0110\u1ee9c Th\u1ecbnh",
+    "wof:parent_id":1108782169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.73855,
+    10.30989,
+    105.73855,
+    10.30989
+],
+  "geometry": {"coordinates":[105.73855,10.30989],"type":"Point"}
+}

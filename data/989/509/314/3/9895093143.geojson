@@ -1,0 +1,75 @@
+{
+  "id": 9895093143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.155,10.24212,105.155,10.24212",
+    "geom:latitude":10.24212,
+    "geom:longitude":105.155,
+    "gn:population":39481,
+    "iso:country":"VN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405688: name \"\u00d3c Eo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405688"
+        },
+        {
+            "citation":"GeoNames populated place 13405688: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405688"
+        },
+        {
+            "citation":"GeoNames populated place 13405688: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405688"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108782217 (Thoai Son), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763,
+        85680797,
+        102191569,
+        1108782217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405688
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"15e481d1ed2067c9756f97d4e83e2012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782217,
+            "locality_id":9895093143,
+            "region_id":85680797
+        }
+    ],
+    "wof:id":9895093143,
+    "wof:lastmodified":1795747175,
+    "wof:name":"\u00d3c Eo",
+    "wof:parent_id":1108782217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.155,
+    10.24212,
+    105.155,
+    10.24212
+],
+  "geometry": {"coordinates":[105.155,10.24212],"type":"Point"}
+}

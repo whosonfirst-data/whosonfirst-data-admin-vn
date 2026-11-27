@@ -1,0 +1,75 @@
+{
+  "id": 9895093146,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9318,20.9621,105.9318,20.9621",
+    "geom:latitude":20.9621,
+    "geom:longitude":105.9318,
+    "gn:population":25000,
+    "iso:country":"VN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494192: name \"Ecopark\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494192"
+        },
+        {
+            "citation":"GeoNames populated place 13494192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494192"
+        },
+        {
+            "citation":"GeoNames populated place 13494192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494192"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108781297 (Van Giang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763,
+        85680649,
+        102191569,
+        1108781297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494192
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"95db1291b08d26f495e803fdc51d28a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781297,
+            "locality_id":9895093146,
+            "region_id":85680649
+        }
+    ],
+    "wof:id":9895093146,
+    "wof:lastmodified":1795747175,
+    "wof:name":"Ecopark",
+    "wof:parent_id":1108781297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9318,
+    20.9621,
+    105.9318,
+    20.9621
+],
+  "geometry": {"coordinates":[105.9318,20.9621],"type":"Point"}
+}

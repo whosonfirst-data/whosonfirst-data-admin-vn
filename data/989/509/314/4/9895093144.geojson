@@ -1,0 +1,75 @@
+{
+  "id": 9895093144,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74661,21.06532,105.74661,21.06532",
+    "geom:latitude":21.06532,
+    "geom:longitude":105.74661,
+    "gn:population":340605,
+    "iso:country":"VN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405933: name \"B\u1eafc T\u1eeb Li\u00eam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405933"
+        },
+        {
+            "citation":"GeoNames populated place 13405933: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405933"
+        },
+        {
+            "citation":"GeoNames populated place 13405933: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405933"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108780811 (Tu Liem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632763,
+        85680653,
+        102191569,
+        1108780811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405933
+    },
+    "wof:country":"VN",
+    "wof:geomhash":"f59abf1bffdf0bb0696c34957305f600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108780811,
+            "locality_id":9895093144,
+            "region_id":85680653
+        }
+    ],
+    "wof:id":9895093144,
+    "wof:lastmodified":1795747175,
+    "wof:name":"B\u1eafc T\u1eeb Li\u00eam",
+    "wof:parent_id":1108780811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74661,
+    21.06532,
+    105.74661,
+    21.06532
+],
+  "geometry": {"coordinates":[105.74661,21.06532],"type":"Point"}
+}
